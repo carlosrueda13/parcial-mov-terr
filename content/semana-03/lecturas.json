@@ -1,0 +1,46 @@
+{
+  "semana": 3,
+  "tema": "Localización, costos de transporte y principios de la economía urbana",
+  "lecturas": [
+    {
+      "id": "polese-1998-cap2",
+      "autor": "Mario Polèse",
+      "titulo": "Economía urbana y regional, capítulo 2: Espacio geográfico y costos económicos",
+      "publicacion": "Polèse, 1998, pp. 59-82 de la edición en español (editorial no visible en el PDF)",
+      "alcance": "Capítulo 2 completo (pp. 59-82)",
+      "estado": {
+        "leida": "completa",
+        "nota": "Escaneo sin texto, leído con OCR. Está en el mismo PDF del cap. 1 (Cap1y2): la hoja N contiene las pp. 2N+26 y 2N+27, y el cap. 2 va de la hoja 16 derecha a la 28 izquierda. Se verificaron contra la imagen el título, los cuadros 2.1, 2.1a y 2.2, la Figura 2.5 y los números de la panadería. El texto tiene una inconsistencia aritmética (50 + 20 = 70 panes frente a los 'cinco clientes' que faltan)."
+      },
+      "ficha": "polese-1998-cap2/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-03-prompts.md"
+    },
+    {
+      "id": "polese-1998-cap9",
+      "autor": "Mario Polèse",
+      "titulo": "Economía urbana y regional, capítulo 9: Localización de las actividades económicas y teoría de los lugares centrales",
+      "publicacion": "Polèse, 1998, pp. 279-313 de la edición en español (editorial no visible en el PDF)",
+      "alcance": "Capítulo 9 hasta la p. 313 (inicio de oficinas y terciario superior)",
+      "estado": {
+        "leida": "completa",
+        "nota": "Escaneo sin texto, leído con OCR. En el PDF la hoja N izquierda es la p. 2N+276 y la derecha la p. 2N+277 (la hoja 1 derecha es la p. 279; la 18 derecha, la p. 313). Se verificaron contra la imagen las ecuaciones (1) a (12), las figuras 9.1 a 9.9 y los ejemplos numéricos. El libro tiene varias inconsistencias internas (rótulos de figuras, cinco millones frente a 1,5 millones en el ejemplo de la ópera, 1830 frente a 1831), listadas en la ficha."
+      },
+      "ficha": "polese-1998-cap9/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-03-prompts.md"
+    },
+    {
+      "id": "camagni-2005-intro-cap1",
+      "autor": "Roberto Camagni",
+      "titulo": "Economía urbana: Introducción (pp. 19-20) y capítulo 1, El principio de aglomeración (o de la sinergia) (pp. 31-44)",
+      "publicacion": "Camagni, 2005, edición en español (editorial no visible en las páginas leídas)",
+      "alcance": "Introducción pp. 19-20 y capítulo 1 pp. 31-44",
+      "estado": {
+        "leida": "completa",
+        "nota": "Dos PDF de Moodle (Intro y cap. 1), escaneos sin texto, leídos con OCR. En el PDF de la Introducción la página n es la p. n; en el del cap. 1 la hoja 7 izquierda es la p. 30 (solo contexto) y la 14 izquierda es la p. 44; la p. 45 (sección 1.5, dinámica) queda fuera del alcance. Se verificaron contra la imagen la Figura 2, las Figuras 1.5 y 1.6, la numeración de las categorías I a III y las cifras de las notas 15, 22, 23 y 25."
+      },
+      "ficha": "camagni-2005-intro-cap1/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-03-prompts.md"
+    }
+  ],
+  "complementarias_no_evaluadas": []
+}
