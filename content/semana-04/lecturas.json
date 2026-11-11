@@ -1,0 +1,33 @@
+{
+  "semana": 4,
+  "tema": "Localización de las actividades económicas en el espacio urbano y principio de accesibilidad",
+  "lecturas": [
+    {
+      "id": "polese-1998-cap10",
+      "autor": "Mario Polèse",
+      "titulo": "Economía urbana y regional, capítulo 10: La localización de las actividades económicas en el espacio urbano",
+      "publicacion": "Polèse, 1998, pp. 325-371 de la edición en español (editorial no visible en el PDF)",
+      "alcance": "Capítulo 10 completo (pp. 325-371)",
+      "estado": {
+        "leida": "completa",
+        "nota": "Escaneo sin texto, leído con OCR. En el PDF la hoja N izquierda es la p. 2N+322 y la derecha la p. 2N+323; la hoja 1 izquierda (p. 324) es el final del cap. 9 y no pertenece al alcance. Se verificaron contra la imagen los números del ejemplo de Von Thünen (incluido el 7,5 km de los guisantes), las Figuras 10.1 a 10.14, la ecuación (1), el Cuadro 10.1 y sus sumas, la nota 49 y las cifras de las pp. 346 y 366. En la Fig. 10.9 el pastel muestra seis porcentajes sin correspondencia legible con su categoría, en la Fig. 10.7 las barras se leyeron de forma aproximada y la Fig. 10.8 no tiene cifras. El libro imprime la fecha de Von Thünen como 1926."
+      },
+      "ficha": "polese-1998-cap10/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-04-prompts.md"
+    },
+    {
+      "id": "camagni-2005-cap2",
+      "autor": "Roberto Camagni",
+      "titulo": "Economía urbana, capítulo 2: El principio de accesibilidad (o de la competencia espacial)",
+      "publicacion": "Camagni, 2005, edición en español (editorial no visible en las páginas leídas)",
+      "alcance": "pp. 51-56 y pp. 64-70 del capítulo 2 (el capítulo ocupa las pp. 51-78)",
+      "estado": {
+        "leida": "completa",
+        "nota": "Escaneo sin texto, leído con OCR. En el PDF la hoja N izquierda es la p. 2N+46 y la derecha la p. 2N+47. Se leyó el capítulo completo (pp. 51-78); las pp. 57-63 y 71-78 son solo contexto. Se verificaron contra la imagen las hipótesis a) a g) y la ecuación [2.1], las ecuaciones [2.2] y [2.3], las Figuras 2.1, 2.4, 2.5, 2.6 y 2.7 y las notas 10 a 13. Errata en la p. 54: el texto imprime la pendiente como -δx, pero la ecuación [2.1] da -τx. Las ecuaciones [2.4] y [2.5] (pp. 61-63) no se verificaron línea por línea."
+      },
+      "ficha": "camagni-2005-cap2/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-04-prompts.md"
+    }
+  ],
+  "complementarias_no_evaluadas": []
+}
