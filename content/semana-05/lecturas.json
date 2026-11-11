@@ -1,0 +1,46 @@
+{
+  "semana": 5,
+  "tema": "De las regiones a la formación urbana y metropolitana",
+  "lecturas": [
+    {
+      "id": "cuervo-gonzalez-cap8",
+      "autor": "Luis Mauricio Cuervo y Josefina González",
+      "titulo": "Industria y ciudades en la era de la mundialización, capítulo 8: Desarrollo económico y primacía urbana en América Latina. Una visión histórico-comparativa",
+      "publicacion": "Cuervo y González, 1997, Bogotá: Tercer Mundo (nombres y editorial tomados de la bibliografía de León y Ruiz 2016; no figuran en el PDF del capítulo)",
+      "alcance": "Cap. 8, pp. 278-294 (el capítulo ocupa las pp. 253-294)",
+      "estado": {
+        "leida": "completa",
+        "nota": "Escaneo sin texto, leído con OCR. En el PDF la hoja N izquierda es la p. 2N+244 y la derecha la p. 2N+245; la hoja 25 derecha (p. 295) es la portada del cap. 9 y no es del alcance. Se leyó el capítulo completo (pp. 253-294); las pp. 253-277 son contexto. Se verificó contra la imagen la Tabla 8.2 completa (22 países, con IPT y CIC recalculados sin diferencias), las cifras de la p. 279 y las fórmulas de las pp. 292-294. La Tabla 8.1 (p. 262, contexto) no se pudo leer por OCR ilegible. Inconsistencias del original documentadas en la ficha: signo de q, coeficiente o cociente de intensidad cronológica, y listas de la p. 279 frente a la Tabla 8.2."
+      },
+      "ficha": "cuervo-gonzalez-cap8/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-05-prompts.md"
+    },
+    {
+      "id": "cuervo-gonzalez-cap9",
+      "autor": "Luis Mauricio Cuervo y Josefina González",
+      "titulo": "Industria y ciudades en la era de la mundialización, capítulo 9: Desarrollo económico, urbanización y primacía urbana en Colombia",
+      "publicacion": "Cuervo y González, 1997, Bogotá: Tercer Mundo (nombres y editorial tomados de la bibliografía de León y Ruiz 2016; no figuran en el PDF del capítulo)",
+      "alcance": "Cap. 9 completo (pp. 295-352)",
+      "estado": {
+        "leida": "completa",
+        "nota": "Escaneo sin texto, leído con OCR. El PDF tiene 30 hojas: la hoja N izquierda es la p. 2N+292 y la derecha la p. 2N+293; la hoja 1 izquierda (p. 294) es la cola del cap. 8 y la hoja 30 derecha (p. 353) abre el cap. 10; ninguna es del alcance. Se verificaron contra la imagen las Tablas 9.1 a 9.7 (varias en páginas apaisadas), los Gráficos 9.1 a 9.6, 9.9, 9.10 y 9.11, la leyenda de los Mapas 9.1 y 9.2 y las fechas de los ferrocarriles de la p. 309; de los Gráficos 9.7, 9.8, 9.12, 9.13 y 9.14 solo se leyeron títulos, ejes y leyendas. Los valores de gráficos leídos a ojo van marcados como aproximados. La ficha documenta 17 inconsistencias del original (por ejemplo: 1945-1974 frente a 1945-1968; la Tabla 9.7 impresa omite la fila Occidente andino de 1993; el texto y la Tabla 9.3 difieren sobre Antioquia; el texto y la Tabla 9.4 difieren en el perfil mínimo)."
+      },
+      "ficha": "cuervo-gonzalez-cap9/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-05-prompts.md"
+    },
+    {
+      "id": "leon-ruiz-2016",
+      "autor": "Nohra León y César A. Ruiz",
+      "titulo": "El sistema urbano en Colombia y la formación metropolitana: una aproximación desde la Nueva Geografía Económica",
+      "publicacion": "Cuadernos de Geografía: Revista Colombiana de Geografía 25 (2): 21-37, 2016. doi: dx.doi.org/10.15446/rcdg.v25n2.52850",
+      "alcance": "Artículo completo (pp. 21-37)",
+      "estado": {
+        "leida": "completa",
+        "nota": "PDF de 17 páginas con texto (la p. N del PDF es la p. N+20 impresa). Se leyeron todas las páginas y se verificaron contra la imagen la Tabla 1 (la capa de texto mezcla sus columnas), la Tabla 2, la Ecuación 1 y las Figuras 1, 2, 3, 5, 6 y 7; la Figura 4 se leyó por título, ejes y texto. Rarezas del original documentadas en la ficha: los cuatro períodos del IPT no coinciden con los tres del cap. 9 de Cuervo y González; 'casi cuarenta años (1973-2005)' son 32 años; Cartagena aparece en la jerarquía metropolitana pero no entre las siete zonas de la Tabla 1; en la primera fila de la Tabla 2 'más del doble' no concuerda con la Ecuación 1; la leyenda de la Figura 5 parece desordenada."
+      },
+      "ficha": "leon-ruiz-2016/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-05-prompts.md"
+    }
+  ],
+  "complementarias_no_evaluadas": []
+}

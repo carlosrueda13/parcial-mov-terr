@@ -22,7 +22,8 @@ Las lecturas (PDF) tampoco se versionan. Viven en la carpeta local del curso.
 - Semana 2: Montañez y Delgado, Santos cap. 2 y Polèse cap. 1 leídos completos, con ficha, lecturas.json y prompts.
 - Semana 3: Polèse cap. 2, Polèse cap. 9 (hasta p. 313) y Camagni (intro pp. 19-20 y cap. 1 pp. 31-44) leídos completos, con ficha, lecturas.json y prompts.
 - Semana 4: Polèse cap. 10 (completo) y Camagni cap. 2 (pp. 51-56 y 64-70; capítulo leído completo) leídos, con ficha, lecturas.json y prompts.
-- Semanas 5 a 8: sin iniciar. Contreras y Ruiz 2026 (sem. 6) y Fernández 2023 (sem. 8) ya están descargados; faltan los PDF de Viana Cerqueira et al. (sem. 8), SDP 2014 y Transport Access Manual (sem. 6 y 7), que deben aportarse.
+- Semana 5: Cuervo y González cap. 8 (pp. 278-294; capítulo leído completo), cap. 9 (completo, pp. 295-352) y León y Ruiz 2016 (completo) leídos, con ficha, lecturas.json y prompts (el cap. 9 en dos audios).
+- Semanas 6 a 8: sin iniciar. Contreras y Ruiz 2026 (sem. 6) y Fernández 2023 (sem. 8) ya están descargados; faltan los PDF de Viana Cerqueira et al. (sem. 8), SDP 2014 y Transport Access Manual (sem. 6 y 7), que deben aportarse.
 - Plataforma (backend y frontend): diseño aprobado, código sin iniciar. Decisiones: VM en OCI, frontend en Cloudflare Pages, videos con Remotion.
 
 ## Método de contenido
