@@ -1,0 +1,46 @@
+{
+  "semana": 2,
+  "tema": "Espacio, territorio y región; economía urbana y desarrollo",
+  "lecturas": [
+    {
+      "id": "montanez-delgado-1998",
+      "autor": "Gustavo Montañez Gómez y Ovidio Delgado Mahecha",
+      "titulo": "Espacio, territorio y región: conceptos básicos para un proyecto nacional",
+      "publicacion": "Cuadernos de Geografía, Vol. VII, No. 1-2, 1998, pp. 120-133 (Departamento de Geografía, Universidad Nacional de Colombia)",
+      "alcance": "Artículo completo",
+      "estado": {
+        "leida": "completa",
+        "nota": "Las 16 páginas del PDF, incluida la bibliografía y los créditos. Página impresa = página del PDF + 119. La capa de texto tiene errores de OCR (por ejemplo, siglos en la periodización de Rodríguez Mariño); se verificaron visualmente las fechas, la cita de territorialidad y el nombre Lyshon."
+      },
+      "ficha": "montanez-delgado-1998/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-02-prompts.md"
+    },
+    {
+      "id": "santos-2000",
+      "autor": "Milton Santos",
+      "titulo": "La naturaleza del espacio, capítulo 2: El espacio: sistemas de objetos, sistemas de acción",
+      "publicacion": "Santos, 2000, pp. 53-74 de la edición en español (editorial no visible en el PDF)",
+      "alcance": "Capítulo 2 (pp. 53-74)",
+      "estado": {
+        "leida": "completa",
+        "nota": "Escaneo sin texto, leído con OCR y verificado visualmente en la definición central (p. 54). La hoja N del PDF contiene las pp. 2N+12 y 2N+13; el capítulo 2 va de la hoja 20 (derecha) a la 31 (izquierda). El escaneo tiene subrayados a mano que no son parte del texto."
+      },
+      "ficha": "santos-2000/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-02-prompts.md"
+    },
+    {
+      "id": "polese-1998-cap1",
+      "autor": "Mario Polèse",
+      "titulo": "Economía urbana y regional, capítulo 1: Desarrollo económico y urbanización",
+      "publicacion": "Polèse, 1998, pp. 29-58 de la edición en español (editorial no visible en el PDF)",
+      "alcance": "Capítulo 1 (pp. 29-58)",
+      "estado": {
+        "leida": "completa",
+        "nota": "Escaneo sin texto, leído con OCR; los cuadros 1.1 a 1.10 y las figuras 1.1 a 1.4 se verificaron contra la imagen. La hoja N del PDF contiene las pp. 2N+26 y 2N+27; el cap. 2 (lectura de la semana 3) empieza en la p. 59. El libro tiene inconsistencias internas entre el texto y el Cuadro 1.8 (listadas en la trampa 22 de la ficha)."
+      },
+      "ficha": "polese-1998-cap1/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-02-prompts.md"
+    }
+  ],
+  "complementarias_no_evaluadas": []
+}
