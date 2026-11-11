@@ -1,0 +1,9 @@
+# Lecturas originales y medios pesados: no van al repositorio
+*.pdf
+*.docx
+media/
+node_modules/
+.env
+.env.*
+*.sqlite
+*.db

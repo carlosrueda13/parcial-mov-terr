@@ -1,0 +1,35 @@
+{
+  "semana": 1,
+  "tema": "La relación entre movilidad y territorio",
+  "lecturas": [
+    {
+      "id": "gutierrez-2013",
+      "autor": "Andrea Gutiérrez",
+      "titulo": "¿Qué es la movilidad? Elementos para (re)construir las definiciones básicas del campo del transporte",
+      "publicacion": "Revista Bitácora 21, Universidad Nacional de Colombia, pp. 61-74",
+      "alcance": "Artículo completo",
+      "estado": {
+        "leida": "casi completa",
+        "nota": "Se leyeron las pp. 61-72 y el inicio de las conclusiones. Falta confirmar el cierre (pp. 72-74) con el PDF completo."
+      },
+      "ficha": "gutierrez-2013/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-01-gutierrez.md"
+    },
+    {
+      "id": "cepal-2024",
+      "autor": "CEPAL (coordinadores: Diego Aulestia y Bruno Lana)",
+      "titulo": "Informe urbano de América Latina y el Caribe 2024",
+      "alcance": "pp. 54-73 del programa. Corresponde al capítulo II 'Tema central: movilidad urbana sostenible' (A. desigualdades de la movilidad urbana, B. impactos de la pandemia, C. potencial ambiental y económico de la movilidad sostenible), las conclusiones y el inicio de la bibliografía.",
+      "estado": {
+        "leida": "no",
+        "nota": "Pendiente. La descarga por Moodle solo entrega los primeros 60.000 caracteres (26 páginas del PDF) y el capítulo II está más adelante. Se necesita el PDF completo."
+      },
+      "ficha": null,
+      "prompt_notebooklm": null
+    }
+  ],
+  "complementarias_no_evaluadas": [
+    "Libro Blanco MUSAL (Cumbre Ciudades AL, 2014)",
+    "Global Mobility Report (Sustainable Mobility for All, 2017): obligatorio solo en la semana 12"
+  ]
+}
