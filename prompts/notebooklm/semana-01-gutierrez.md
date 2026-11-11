@@ -38,5 +38,6 @@ FORMA. Ritmo pausado, claro, sin chistes largos ni relleno, sin saltarse bloques
 
 ## Pendientes de esta lectura
 
-- Confirmar con el PDF completo el cierre del artículo (pp. 72-74) y completar la ficha.
 - Probar el prompt y ajustar según el resultado. La primera versión no está probada.
+- El artículo se leyó completo (texto en pp. 61-72; pp. 73-74 son bibliografía) y la ficha ya refleja el texto completo.
+- Citación: el programa dice 2013, el archivo de Moodle dice 2017 y la revista es de julio-diciembre de 2012. Si el profesor pide citarla, usar el año que él indique.
