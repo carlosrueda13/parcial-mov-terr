@@ -1,0 +1,33 @@
+{
+  "semana": 6,
+  "tema": "Dinámica urbano-metropolitana multiescalar",
+  "lecturas": [
+    {
+      "id": "contreras-ruiz-2026",
+      "autor": "Yency Contreras-Ortiz y César Augusto Ruiz-Rojas",
+      "titulo": "Dinámica y valor inmobiliario en la Región Metropolitana Bogotá-Cundinamarca 2000-2022",
+      "publicacion": "Ciudad y Territorio Estudios Territoriales (CyTET) 58 (227), primavera 2026, pp. 262-281. DOI 10.37230/CyTET.2026.227.13",
+      "alcance": "Artículo completo (pp. 262-281)",
+      "estado": {
+        "leida": "completa",
+        "nota": "PDF con texto, 20 páginas (la p. N del PDF es la p. N + 261 impresa). Se leyeron todas, incluida la bibliografía. Se verificaron contra la imagen la Fig. 1 (anillos y municipios), la Fig. 2, las Ecuaciones 1 y 2 y las Figs. 3 a 10. Los valores leídos a ojo de las figuras sin cifras impresas van marcados como aproximados. Inconsistencias del original anotadas en la ficha: numeración de figuras corrida desde la Fig. 7, recaudo 2000-2020 en el texto frente a 2012-2020 en las figuras, valor catastral frente a puntaje catastral, subíndices de la Ecuación 1, tratamiento del DiDi y leyenda de P valor de la Fig. 10."
+      },
+      "ficha": "contreras-ruiz-2026/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-06-prompts.md"
+    },
+    {
+      "id": "sdp-2014-region-metropolitana",
+      "autor": "Secretaría Distrital de Planeación (SDP)",
+      "titulo": "Región Metropolitana de Bogotá: una visión de la ocupación del suelo",
+      "publicacion": "SDP, Bogotá (el programa del curso lo fecha en 2014; los autores de Contreras y Ruiz 2026 citan una edición de 2015)",
+      "alcance": "Primera parte, en especial pp. 73-115 (según el programa)",
+      "estado": {
+        "leida": "pendiente",
+        "nota": "El PDF no está disponible; debe aportarlo el estudiante. No se hace ficha sin leer el documento completo en las páginas pedidas."
+      },
+      "ficha": null,
+      "prompt_notebooklm": null
+    }
+  ],
+  "complementarias_no_evaluadas": []
+}
