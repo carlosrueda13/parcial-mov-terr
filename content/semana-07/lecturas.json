@@ -1,0 +1,46 @@
+{
+  "semana": 7,
+  "tema": "Movilidad y accesibilidad urbana: múltiples dimensiones",
+  "lecturas": [
+    {
+      "id": "avellaneda-dextre-2014-cap1",
+      "autor": "Pau Avellaneda y Juan Carlos Dextre (en la portada del libro figuran en el orden Dextre, Avellaneda)",
+      "titulo": "Movilidad en zonas urbanas, capítulo 1: De la circulación a la movilidad urbana sostenible",
+      "publicacion": "Fondo Editorial de la Pontificia Universidad Católica del Perú, con Fundación Transitemos. El año 2014 sale del programa del curso: el escaneo no incluye la página de derechos",
+      "alcance": "Capítulo 1 (pp. 13-31). El capítulo 2 (desde la p. 33) viene en el mismo PDF pero no es lectura obligatoria",
+      "estado": {
+        "leida": "completa",
+        "nota": "PDF escaneado sin capa de texto, 34 hojas (la hoja N trae las páginas impresas 2N+8 y 2N+9). Se leyeron con OCR las hojas del capítulo 1 completas, comparadas con la imagen. Se verificaron contra la imagen las Tablas 1 y 2 y las Figs. 1, 9 y 10; las Figs. 2 a 8 son fotografías y se describen sin inventar contenido. El capítulo no trae bibliografía en este PDF. Inconsistencias del original anotadas en la ficha: Fig. 1 citada para el círculo vicioso de Buchanan pero es un modelo de Herce, definición de accesibilidad sostenible distinta en la introducción y en Sanz, nombre de la etapa 4, Tabla 2 frente a 'entre 5 y 10 veces', título de la Fig. 2, fechas de Seúl, estudio del TTI citado de segunda mano, umbrales de demanda sin asignar entre 11 500 y 20 000 y entre 30 000 y 40 000, y alcance del resumen ejecutivo."
+      },
+      "ficha": "avellaneda-dextre-2014-cap1/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-07-prompts.md"
+    },
+    {
+      "id": "herce-2009-cap1-2",
+      "autor": "Manuel Herce",
+      "titulo": "Sobre la movilidad en la ciudad: propuestas para recuperar un derecho ciudadano, capítulos I (El derecho a la movilidad: requerimientos de la sociedad actual) y II (El estudio de la demanda: necesidades por grupos de población)",
+      "publicacion": "Editorial Reverté, Barcelona, colección Estudios Universitarios de Arquitectura n.º 18. El año 2009 sale del programa y del nombre del archivo: el escaneo no incluye la página de derechos",
+      "alcance": "Capítulos I y II (pp. 15-49); la p. 14 es el final del prefacio y no es parte del alcance",
+      "estado": {
+        "leida": "completa",
+        "nota": "PDF escaneado sin capa de texto, 19 hojas (pp. 14-49; para k de 2 a 19 la hoja k trae las páginas 2k+10 y 2k+11). Se leyeron con OCR todas las hojas, incluida la última página, comparadas con la imagen. Todas las cifras de tablas y figuras se leyeron de la imagen. Se verificaron las Figs. 1.1, 1.2, 1.3, 1.7, 1.9, 1.10, 2.1, 2.4 y las once tablas; la Fig. 2.3 y la franja inferior de la Fig. 2.11 son lecturas aproximadas y de la Fig. 2.7 no se transcriben cifras. Inconsistencias del original anotadas en la ficha: total y subtotales de la tabla de la p. 35, 3,44 frente a 3,40 viajes por persona y día, tres cifras de viajes a pie para la región de Barcelona, filas de la tabla de la p. 46 que no suman 100, 63,8 más 46,2 en la p. 47, y el desglose de la Fig. 1.3, entre otras."
+      },
+      "ficha": "herce-2009-cap1-2/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-07-prompts.md"
+    },
+    {
+      "id": "transport-access-manual-2020",
+      "autor": "Por confirmar con el PDF",
+      "titulo": "Transport Access Manual",
+      "publicacion": "2020 (según el programa del curso)",
+      "alcance": "pp. 16-21 y 45-57 (según el programa)",
+      "estado": {
+        "leida": "pendiente",
+        "nota": "El PDF no está disponible; debe aportarlo el estudiante. No se hace ficha sin leer el documento completo en las páginas pedidas."
+      },
+      "ficha": null,
+      "prompt_notebooklm": null
+    }
+  ],
+  "complementarias_no_evaluadas": []
+}
