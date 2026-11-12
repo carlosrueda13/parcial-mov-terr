@@ -1,0 +1,33 @@
+{
+  "semana": 8,
+  "tema": "Movilidad y accesibilidad: visión socioespacial",
+  "lecturas": [
+    {
+      "id": "fernandez-2023-cap1-2",
+      "autor": "Leidy Carolina Fernández Peña (director: César Augusto Ruiz)",
+      "titulo": "Metodología de evaluación multidimensional de la accesibilidad a través del transporte público como expresión de la vulnerabilidad social en Bogotá, capítulos 1 (Accesibilidad a las funciones básicas de la ciudad a través del transporte público como expresión de la vulnerabilidad social) y 2 (Variables multidimensionales asociadas a la accesibilidad a las funciones básicas de la ciudad a través del transporte público revisadas en las UTAM de Bogotá)",
+      "publicacion": "Tesis de Magister en Ingeniería - Transporte, Universidad Nacional de Colombia, Facultad de Ingeniería, Departamento de Ingeniería Civil y Agrícola, Bogotá, 2023. Grupo de investigación: Programa de Investigación en Movilidad y Territorio (PIT)",
+      "alcance": "Capítulo 1 (pp. 5-27) y capítulo 2 (pp. 28-50); página impresa = página del PDF menos 20. La introducción (pp. 1-4) y los capítulos 3 en adelante (desde la p. 51) están en el mismo PDF pero no son lectura obligatoria",
+      "estado": {
+        "leida": "completa",
+        "nota": "PDF de 133 páginas con capa de texto; se leyeron completas las pp. 5-50 (PDF 25-70) y las ecuaciones, la Tabla 1-1 y todas las leyendas de las Figs. 1-1 a 2-13 se verificaron contra la imagen. Los mapas se leen por su leyenda y por lo que el texto afirma; no se transcribe el valor de cada UTAM. Las leyendas de la Fig. 2-10 (educación básica y universitaria) están cortadas en el original: los dígitos finales son aproximados. Inconsistencias y rarezas del original anotadas en la ficha: escala de experiencia de viaje descrita de 1 a 5 y con 6 como el más alto; última línea del modelo log-log que no sigue de la anterior; explicación de los coeficientes positivos frente a la Tabla 1-1 (38 UTAM con más de 90 minutos: 13 positivas, 22 negativas, 3 en cero); escalas de destinos de la Fig. 2-1; tiempo de acceso menor a 10 minutos frente a los mapas; etapas definidas como transferencias; dos UTAM de Soacha con 'hasta tres etapas' frente a la clase 'más de 3'; leyenda de ingresos sin la clase 8; nivel técnico 'casi la mitad' de los otros dos; numeración 1.1.1.1 y 1.1.1.2 en el capítulo 2."
+      },
+      "ficha": "fernandez-2023-cap1-2/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-08-prompts.md"
+    },
+    {
+      "id": "viana-cerqueira-2026",
+      "autor": "Viana Cerqueira et al. (según el programa del curso)",
+      "titulo": "Mobility practices and the social construction of urban centralities in Belo Horizonte and Bogotá",
+      "publicacion": "2026 (según el programa del curso)",
+      "alcance": "Completo (según el programa)",
+      "estado": {
+        "leida": "pendiente",
+        "nota": "El PDF no está disponible; debe aportarlo el estudiante. No se hace ficha sin leer el documento completo."
+      },
+      "ficha": null,
+      "prompt_notebooklm": null
+    }
+  ],
+  "complementarias_no_evaluadas": []
+}
