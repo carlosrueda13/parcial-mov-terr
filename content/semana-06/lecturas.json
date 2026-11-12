@@ -17,16 +17,16 @@
     },
     {
       "id": "sdp-2014-region-metropolitana",
-      "autor": "Secretaría Distrital de Planeación (SDP)",
+      "autor": "Secretaría Distrital de Planeación (SDP), Bogotá D.C.",
       "titulo": "Región Metropolitana de Bogotá: una visión de la ocupación del suelo",
-      "publicacion": "SDP, Bogotá (el programa del curso lo fecha en 2014; los autores de Contreras y Ruiz 2026 citan una edición de 2015)",
-      "alcance": "Primera parte, en especial pp. 73-115 (según el programa)",
+      "publicacion": "SDP, Bogotá. El programa del curso lo fecha en 2014 y los metadatos del PDF indican junio de 2014; los autores de Contreras y Ruiz 2026 citan una edición de 2015. El PDF tiene 440 páginas.",
+      "alcance": "Primera parte, cap. III, apartado 1 'Dinámicas de la población' (pp. 73-115, según el programa); la p. 115 incluye además las primeras líneas del apartado 2.",
       "estado": {
-        "leida": "pendiente",
-        "nota": "El PDF no está disponible; debe aportarlo el estudiante. No se hace ficha sin leer el documento completo en las páginas pedidas."
+        "leida": "completa",
+        "nota": "PDF con texto, 440 páginas (la página impresa coincide con la del PDF). Se leyeron completas las pp. 73-115 y, como contexto, la portada, los créditos y la Presentación (pp. 1-9). Se verificaron contra la imagen las 12 gráficas y las Tablas 1, 5, 6, 7, 8, 10 y 12; las demás tablas se validaron recalculando las tasas y las sumas. Los valores leídos a ojo de las gráficas van marcados como aproximados. Inconsistencias del original anotadas en la ficha (23): definición del IPT, promedios anuales de la Tabla 5, porcentajes de la p. 92, 1.951.416 frente a 1.998.108, resto de municipios de la p. 102, desconcentración de la p. 109, 33, 29 y 30 municipios, Cundinamarca en las Gráficas 11 y 12 frente a la Tabla 10 y suma de los grupos 3, 5 y 7."
       },
-      "ficha": null,
-      "prompt_notebooklm": null
+      "ficha": "sdp-2014-region-metropolitana/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-06-prompts.md"
     }
   ],
   "complementarias_no_evaluadas": []
