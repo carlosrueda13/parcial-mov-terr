@@ -24,7 +24,7 @@ Las lecturas (PDF) tampoco se versionan. Viven en la carpeta local del curso.
 - Semana 4: Polèse cap. 10 (completo) y Camagni cap. 2 (pp. 51-56 y 64-70; capítulo leído completo) leídos, con ficha, lecturas.json y prompts.
 - Semana 5: Cuervo y González cap. 8 (pp. 278-294; capítulo leído completo), cap. 9 (completo, pp. 295-352) y León y Ruiz 2016 (completo) leídos, con ficha, lecturas.json y prompts (el cap. 9 en dos audios).
 - Semana 6: Contreras y Ruiz 2026 (completo) leído, con ficha, lecturas.json y prompts (dos audios). Falta SDP 2014 (primera parte, esp. pp. 73-115): el PDF debe aportarse.
-- Semana 7: Avellaneda y Dextre cap. 1 y Herce caps. I y II (ambos completos) leídos, con ficha, lecturas.json y prompts (Herce en tres audios). Falta Transport Access Manual (pp. 16-21 y 45-57): el PDF debe aportarse.
+- Semana 7: Avellaneda y Dextre cap. 1, Herce caps. I y II y Transport Access Manual (pp. 16-21 y 45-57) leídos completos, con ficha, lecturas.json y prompts (Herce en tres audios; el Manual en dos).
 - Semana 8: Fernández 2023, caps. 1 y 2 (pp. 5-50), leído completo, con ficha, lecturas.json y prompts (tres audios). Falta Viana Cerqueira et al. (2026): el PDF debe aportarse.
 - Plataforma (backend y frontend): diseño aprobado, código sin iniciar. Decisiones: VM en OCI, frontend en Cloudflare Pages, videos con Remotion.
 

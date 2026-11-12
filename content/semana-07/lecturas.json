@@ -30,16 +30,16 @@
     },
     {
       "id": "transport-access-manual-2020",
-      "autor": "Por confirmar con el PDF",
-      "titulo": "Transport Access Manual",
-      "publicacion": "2020 (según el programa del curso)",
-      "alcance": "pp. 16-21 y 45-57 (según el programa)",
+      "autor": "Committee of the Transport Access Manual (CoTAM)",
+      "titulo": "Transport Access Manual: A Guide for Measuring Connection between People and Places, capítulo 1 (Concepts) y capítulo 3 (Measures)",
+      "publicacion": "Committee of the Transport Access Manual, primera impresión, noviembre de 2020; licencia Apache 2.0; 229 páginas, en inglés",
+      "alcance": "pp. 16-21 (final de la introducción del cap. 1 y secciones 1.1 a 1.3) y pp. 45-57 (cap. 3 completo hasta la Fig. 3.3); la p. 15 y la p. 44 se leyeron solo como contexto",
       "estado": {
-        "leida": "pendiente",
-        "nota": "El PDF no está disponible; debe aportarlo el estudiante. No se hace ficha sin leer el documento completo en las páginas pedidas."
+        "leida": "completa",
+        "nota": "PDF de 229 páginas con capa de texto; la página impresa coincide con la página del PDF. Se leyeron completas las pp. 16-21 y 45-57 (la p. 58 está en blanco) y, como contexto, las pp. 15 y 44. Se verificaron contra la imagen las Figs. 1.1, 1.2, 3.1, 3.2 y 3.3, la Tabla 3.1 y las ecuaciones 3.1 a 3.11. Inconsistencias del original anotadas en la ficha: el parque a 20 minutos en bicicleta del texto frente a los 10 mins de la Fig. 1.2; la columna \"At Cij = 0\" de la Tabla 3.1; leyenda de la Fig. 3.1 distinta de las filas de la tabla; impedancia decreciente frente a no creciente; criterio de parada de la dual (Ec. 3.10 frente al diagrama de la Fig. 3.2) y salida suma o máximo; promedio competitivo de 1,0 (ponderado por la demanda); gravity con dos sentidos; referencias a secciones fuera del rango."
       },
-      "ficha": null,
-      "prompt_notebooklm": null
+      "ficha": "transport-access-manual-2020/ficha.md",
+      "prompt_notebooklm": "../../prompts/notebooklm/semana-07-prompts.md"
     }
   ],
   "complementarias_no_evaluadas": []
