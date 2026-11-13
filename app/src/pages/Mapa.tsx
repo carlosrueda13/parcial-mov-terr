@@ -34,10 +34,12 @@ const estadoDe = (z: Zona) => (z.intentos === 0 && z.dom === 0 ? 'sin' : z.pct >
 const textoEstado = (z: Zona) =>
   estadoDe(z) === 'sin' ? 'sin empezar' : `dominio ${z.pct} por ciento`;
 
-function Defs({ zonas }: { zonas: Zona[] }) {
+// Cada mapa lleva su propio prefijo de ids: los dos SVG están en el documento y el que está oculto
+// (display:none) no puede aportar patrones ni degradados al otro.
+function Defs({ zonas, p }: { zonas: Zona[]; p: string }) {
   return (
     <defs>
-      <pattern id="fog" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <pattern id={`${p}fog`} width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
         <rect width="12" height="12" fill="#E4EBED" />
         <line x1="0" y1="0" x2="0" y2="12" stroke="#AFC1C9" strokeWidth="3" />
       </pattern>
@@ -46,7 +48,7 @@ function Defs({ zonas }: { zonas: Zona[] }) {
         const verde = estadoDe(z) === 'dominada';
         const c = verde ? '#00704A' : '#0B5CAD';
         return (
-          <linearGradient key={z.semana} id={`g${z.semana}`} x1="0" y1="1" x2="0" y2="0">
+          <linearGradient key={z.semana} id={`${p}g${z.semana}`} x1="0" y1="1" x2="0" y2="0">
             <stop offset="0" stopColor={c} />
             <stop offset={o} stopColor={c} />
             <stop offset={o} stopColor="#F8FAFA" />
@@ -58,25 +60,25 @@ function Defs({ zonas }: { zonas: Zona[] }) {
   );
 }
 
-function relleno(z: Zona) {
-  return estadoDe(z) === 'sin' ? 'url(#fog)' : `url(#g${z.semana})`;
+function relleno(z: Zona, p: string) {
+  return estadoDe(z) === 'sin' ? `url(#${p}fog)` : `url(#${p}g${z.semana})`;
 }
 
 function MapaEscritorio({ zonas, objetivo }: { zonas: Zona[]; objetivo: number }) {
   return (
     <svg viewBox="0 0 900 560" role="group" aria-label="Mapa con las 8 semanas del parcial">
-      <Defs zonas={zonas} />
+      <Defs zonas={zonas} p="e-" />
       <path d="M0 292 C120 262 220 318 340 290 S560 262 680 292 S820 306 900 280" fill="none" stroke="#A8C7D1" strokeWidth="18" strokeLinecap="round" />
       {zonas.map((z) => {
         const g = POLI_ESC[z.semana];
         const sin = estadoDe(z) === 'sin';
         return (
           <Link key={z.semana} to={`/semana/${z.semana}`} aria-label={`Semana ${z.semana}, ${z.nombre}, ${textoEstado(z)}${z.fallas ? ', con preguntas falladas por repasar' : ''}`}>
-            <polygon points={g.p} fill={relleno(z)} stroke="#0E2230" strokeOpacity={sin ? 0.55 : 1} strokeWidth="3" strokeDasharray={sin ? '9 7' : undefined} strokeLinejoin="round" />
+            <polygon points={g.p} fill={relleno(z, 'e-')} stroke="#0E2230" strokeOpacity={sin ? 0.55 : 1} strokeWidth="3" strokeDasharray={sin ? '9 7' : undefined} strokeLinejoin="round" />
           </Link>
         );
       })}
-      <polyline points="120,150 340,145 555,145 765,145 765,420 550,420 335,415 120,415" fill="none" stroke="#0E2230" strokeWidth="6" strokeLinecap="round" strokeDasharray="1 12" />
+      <polyline points="120,150 340,145 555,145 765,145 765,420 550,420 335,415 120,415" fill="none" stroke="#0E2230" strokeWidth="6" strokeLinecap="round" strokeDasharray="1 12" pointerEvents="none" />
       <g fontFamily="Overpass, sans-serif" aria-hidden="true" pointerEvents="none">
         {zonas.map((z) => {
           const g = POLI_ESC[z.semana];
@@ -93,13 +95,13 @@ function MapaEscritorio({ zonas, objetivo }: { zonas: Zona[]; objetivo: number }
       {zonas.filter((z) => z.fallas > 0).map((z) => {
         const g = POLI_ESC[z.semana];
         return (
-          <g key={`a${z.semana}`} aria-hidden="true" transform={`translate(${g.x + 150},${g.y - 67})`}>
+          <g key={`a${z.semana}`} aria-hidden="true" pointerEvents="none" transform={`translate(${g.x + 150},${g.y - 67})`}>
             <rect x="-15" y="-15" width="30" height="30" transform="rotate(45)" fill="#FFC629" stroke="#0E2230" strokeWidth="3" />
             <text x="0" y="6" textAnchor="middle" fontFamily="Overpass, sans-serif" fontSize="18" fontWeight="900" fill="#0E2230">!</text>
           </g>
         );
       })}
-      <g aria-hidden="true" transform={`translate(${POLI_ESC[objetivo].x + 66 - 340},${POLI_ESC[objetivo].y - 23 - 100})`}>
+      <g aria-hidden="true" pointerEvents="none" transform={`translate(${POLI_ESC[objetivo].x + 66 - 340},${POLI_ESC[objetivo].y - 23 - 100})`}>
         <g className="bob">
           <circle cx="340" cy="100" r="12" fill="#FFC629" stroke="#0E2230" strokeWidth="3.5" />
           <path d="M333 109 L340 121 L347 109 Z" fill="#FFC629" stroke="#0E2230" strokeWidth="3" strokeLinejoin="round" />
@@ -112,31 +114,40 @@ function MapaEscritorio({ zonas, objetivo }: { zonas: Zona[]; objetivo: number }
 function MapaMovil({ zonas, objetivo }: { zonas: Zona[]; objetivo: number }) {
   return (
     <svg viewBox="0 0 360 422" role="group" aria-label="Mapa con las 8 semanas del parcial">
-      <Defs zonas={zonas} />
-      <path d="M90 55 H270 V159 H90 V263 H270 V367 H90" fill="none" stroke="#0E2230" strokeWidth="5" strokeLinecap="round" strokeDasharray="1 10" />
+      <Defs zonas={zonas} p="m-" />
       {zonas.map((z) => {
         const g = POLI_MOV[z.semana];
         const sin = estadoDe(z) === 'sin';
         return (
           <Link key={z.semana} to={`/semana/${z.semana}`} aria-label={`Semana ${z.semana}, ${z.nombre}, ${textoEstado(z)}`}>
-            <polygon points={g.p} fill={relleno(z)} stroke="#0E2230" strokeOpacity={sin ? 0.6 : 1} strokeWidth="3" strokeLinejoin="round" />
-            <rect x={g.x} y={g.y} width="144" height="34" rx="9" fill="#F8FAFA" stroke="#0E2230" strokeWidth="2.5" />
-            <text x={g.x + 9} y={g.y + 24} fontFamily="Overpass, sans-serif" fontSize="20" fontWeight="900" fill="#0E2230">S{z.semana}</text>
-            <text x={g.x + 42} y={g.y + 22} fontFamily="Atkinson Hyperlegible, sans-serif" fontSize="14" fontWeight="700" fill="#0E2230">{g.corto}</text>
-            <text x={g.x + 137} y={g.y + 23} textAnchor="end" fontFamily="Overpass, sans-serif" fontSize="16" fontWeight="900" fill="#0E2230">{z.pct}%</text>
+            <polygon points={g.p} fill={relleno(z, 'm-')} stroke="#0E2230" strokeOpacity={sin ? 0.6 : 1} strokeWidth="3" strokeLinejoin="round" />
           </Link>
         );
       })}
+      <path d="M90 55 H270 V159 H90 V263 H270 V367 H90" fill="none" stroke="#0E2230" strokeWidth="5" strokeLinecap="round" strokeDasharray="1 10" pointerEvents="none" />
+      <g aria-hidden="true" pointerEvents="none">
+        {zonas.map((z) => {
+          const g = POLI_MOV[z.semana];
+          return (
+            <g key={z.semana}>
+              <rect x={g.x} y={g.y} width="144" height="34" rx="9" fill="#F8FAFA" stroke="#0E2230" strokeWidth="2.5" />
+              <text x={g.x + 9} y={g.y + 24} fontFamily="Overpass, sans-serif" fontSize="20" fontWeight="900" fill="#0E2230">S{z.semana}</text>
+              <text x={g.x + 42} y={g.y + 22} fontFamily="Atkinson Hyperlegible, sans-serif" fontSize="14" fontWeight="700" fill="#0E2230">{g.corto}</text>
+              <text x={g.x + 137} y={g.y + 23} textAnchor="end" fontFamily="Overpass, sans-serif" fontSize="16" fontWeight="900" fill="#0E2230">{z.pct}%</text>
+            </g>
+          );
+        })}
+      </g>
       {zonas.filter((z) => z.fallas > 0).map((z) => {
         const g = POLI_MOV[z.semana];
         return (
-          <g key={`a${z.semana}`} aria-hidden="true" transform={`translate(${g.x + 130},${g.y + 63})`}>
+          <g key={`a${z.semana}`} aria-hidden="true" pointerEvents="none" transform={`translate(${g.x + 130},${g.y + 63})`}>
             <rect x="-14" y="-14" width="28" height="28" transform="rotate(45)" fill="#FFC629" stroke="#0E2230" strokeWidth="3" />
             <text x="0" y="7" textAnchor="middle" fontFamily="Overpass, sans-serif" fontSize="20" fontWeight="900" fill="#0E2230">!</text>
           </g>
         );
       })}
-      <g aria-hidden="true" transform={`translate(${POLI_MOV[objetivo].x + 40 - 236},${POLI_MOV[objetivo].y + 61 - 76})`}>
+      <g aria-hidden="true" pointerEvents="none" transform={`translate(${POLI_MOV[objetivo].x + 40 - 236},${POLI_MOV[objetivo].y + 61 - 76})`}>
         <g className="bob">
           <circle cx="236" cy="76" r="11" fill="#FFC629" stroke="#0E2230" strokeWidth="3.5" />
           <path d="M229 84 L236 96 L243 84 Z" fill="#FFC629" stroke="#0E2230" strokeWidth="3" strokeLinejoin="round" />

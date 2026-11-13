@@ -215,7 +215,9 @@ def main():
                     "archivo": f"semana-{semana:02d}/{lectura}.json",
                     "preguntas": len(preguntas), "trampas": len(trampas), "pares": len(pares),
                     "respondibles": sum(p["estado"] == "completa" for p in preguntas),
-                    "vf": sum(p["tipo"] == "vf" for p in preguntas)}
+                    "vf": sum(p["tipo"] == "vf" for p in preguntas),
+                    "vf_directas": sum(p["tipo"] == "vf" and isinstance(p.get("verdadera"), bool)
+                                       for p in preguntas)}
             indice.append(fila)
             for k in total:
                 total[k] += fila[k]

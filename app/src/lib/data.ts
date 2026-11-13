@@ -37,6 +37,7 @@ export type FilaIndice = {
   pares: number;
   respondibles: number;
   vf: number;
+  vf_directas: number;
 };
 export type LecturaMeta = {
   id: string;

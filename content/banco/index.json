@@ -15,7 +15,8 @@
    "trampas": 17,
    "pares": 0,
    "respondibles": 7,
-   "vf": 0
+   "vf": 0,
+   "vf_directas": 0
   },
   {
    "semana": 1,
@@ -27,7 +28,8 @@
    "trampas": 20,
    "pares": 0,
    "respondibles": 8,
-   "vf": 0
+   "vf": 0,
+   "vf_directas": 0
   },
   {
    "semana": 2,
@@ -39,7 +41,8 @@
    "trampas": 12,
    "pares": 7,
    "respondibles": 8,
-   "vf": 0
+   "vf": 0,
+   "vf_directas": 0
   },
   {
    "semana": 2,
@@ -51,7 +54,8 @@
    "trampas": 22,
    "pares": 11,
    "respondibles": 12,
-   "vf": 0
+   "vf": 0,
+   "vf_directas": 0
   },
   {
    "semana": 2,
@@ -63,7 +67,8 @@
    "trampas": 21,
    "pares": 13,
    "respondibles": 9,
-   "vf": 0
+   "vf": 0,
+   "vf_directas": 0
   },
   {
    "semana": 3,
@@ -75,7 +80,8 @@
    "trampas": 37,
    "pares": 12,
    "respondibles": 25,
-   "vf": 0
+   "vf": 0,
+   "vf_directas": 0
   },
   {
    "semana": 3,
@@ -87,7 +93,8 @@
    "trampas": 19,
    "pares": 13,
    "respondibles": 13,
-   "vf": 0
+   "vf": 0,
+   "vf_directas": 0
   },
   {
    "semana": 3,
@@ -99,7 +106,8 @@
    "trampas": 30,
    "pares": 18,
    "respondibles": 22,
-   "vf": 0
+   "vf": 0,
+   "vf_directas": 0
   },
   {
    "semana": 4,
@@ -111,7 +119,8 @@
    "trampas": 50,
    "pares": 14,
    "respondibles": 40,
-   "vf": 0
+   "vf": 0,
+   "vf_directas": 0
   },
   {
    "semana": 4,
@@ -123,7 +132,8 @@
    "trampas": 53,
    "pares": 31,
    "respondibles": 46,
-   "vf": 0
+   "vf": 0,
+   "vf_directas": 0
   },
   {
    "semana": 5,
@@ -135,7 +145,8 @@
    "trampas": 55,
    "pares": 21,
    "respondibles": 48,
-   "vf": 0
+   "vf": 0,
+   "vf_directas": 0
   },
   {
    "semana": 5,
@@ -147,7 +158,8 @@
    "trampas": 80,
    "pares": 25,
    "respondibles": 72,
-   "vf": 13
+   "vf": 13,
+   "vf_directas": 13
   },
   {
    "semana": 5,
@@ -159,7 +171,8 @@
    "trampas": 50,
    "pares": 20,
    "respondibles": 48,
-   "vf": 5
+   "vf": 5,
+   "vf_directas": 5
   },
   {
    "semana": 6,
@@ -171,7 +184,8 @@
    "trampas": 70,
    "pares": 24,
    "respondibles": 80,
-   "vf": 6
+   "vf": 6,
+   "vf_directas": 6
   },
   {
    "semana": 6,
@@ -183,7 +197,8 @@
    "trampas": 42,
    "pares": 24,
    "respondibles": 110,
-   "vf": 12
+   "vf": 12,
+   "vf_directas": 9
   },
   {
    "semana": 7,
@@ -195,7 +210,8 @@
    "trampas": 37,
    "pares": 14,
    "respondibles": 54,
-   "vf": 5
+   "vf": 5,
+   "vf_directas": 5
   },
   {
    "semana": 7,
@@ -207,7 +223,8 @@
    "trampas": 53,
    "pares": 22,
    "respondibles": 82,
-   "vf": 4
+   "vf": 4,
+   "vf_directas": 4
   },
   {
    "semana": 7,
@@ -219,7 +236,8 @@
    "trampas": 40,
    "pares": 23,
    "respondibles": 114,
-   "vf": 8
+   "vf": 8,
+   "vf_directas": 8
   },
   {
    "semana": 8,
@@ -231,7 +249,8 @@
    "trampas": 37,
    "pares": 27,
    "respondibles": 80,
-   "vf": 4
+   "vf": 4,
+   "vf_directas": 4
   }
  ]
 }

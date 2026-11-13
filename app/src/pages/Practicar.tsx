@@ -70,14 +70,18 @@ export default function Practicar() {
 
   // Inicio automático desde enlaces de otras pantallas.
   useEffect(() => {
-    if (!contenido || !sp.get('ir') || guardia.current) return;
+    if (!sp.get('ir')) {
+      guardia.current = false;
+      return;
+    }
+    if (!contenido || guardia.current) return;
     guardia.current = true;
     const nuevo = new URLSearchParams(sp);
     nuevo.delete('ir');
     setSp(nuevo, { replace: true });
     const base = barajar(armar(contenido.items, prog.q, modo, tipo));
     empezar(n === 'todas' ? base : base.slice(0, Number(n)));
-  }, [contenido]);
+  }, [contenido, sp]);
 
   const lecturasDeSemana = INDICE.lecturas.filter((f) => !semana || f.semana === semana);
   const semanas = Array.from(new Set(INDICE.lecturas.map((f) => f.semana)));

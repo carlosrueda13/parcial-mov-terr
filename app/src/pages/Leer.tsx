@@ -7,8 +7,23 @@ import { marcarLeida, usarProg } from '../lib/store';
 
 type Seccion = { id: string; titulo: string; html: string };
 
+// En Markdown una lista numerada que no empieza en 1 no interrumpe un párrafo: si la ficha pone
+// un subtítulo en línea simple y debajo "9. ...", las líneas se funden en un solo párrafo.
+// Se separa con una línea en blanco solo al renderizar; el archivo de la ficha no se toca.
+function separarListas(lineas: string[]): string[] {
+  const salida: string[] = [];
+  let enCodigo = false;
+  lineas.forEach((l, i) => {
+    if (/^```/.test(l)) enCodigo = !enCodigo;
+    const previa = i > 0 ? lineas[i - 1] : '';
+    if (!enCodigo && /^\d+[.)]\s/.test(l) && previa.trim() !== '' && !/^(\d+[.)]\s|[-*+]\s|\s|>|\||#)/.test(previa)) salida.push('');
+    salida.push(l);
+  });
+  return salida;
+}
+
 function partir(md: string): { cabecera: string; secciones: Seccion[] } {
-  const lineas = md.replace(/\r\n/g, '\n').split('\n');
+  const lineas = separarListas(md.replace(/\r\n/g, '\n').split('\n'));
   const trozos: { titulo: string; lineas: string[] }[] = [];
   let cab: string[] = [];
   let actual: { titulo: string; lineas: string[] } | null = null;

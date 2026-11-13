@@ -87,7 +87,7 @@ export default function Zona() {
             <Tile to={fila.respondibles ? `/practica?${q}&ir=1` : undefined} color="var(--greenSoft)" icono={<IcPracticar />} titulo="Practicar" detalle={fila.respondibles ? `${plural(fila.respondibles, 'pregunta', 'preguntas')} con respuesta${est && est.fallas ? `, ${est.fallas} falladas` : ''}` : 'Las preguntas de esta lectura aún no tienen respuesta'} />
             <Tile to={`/boletos?${q}`} color="var(--blueSoft)" icono={<IcBoleto />} titulo="Boletos" detalle="Repaso espaciado de esta lectura" />
             <Tile to={`/trampas?lectura=${fila.lectura}`} color="var(--yellow)" icono={<Rombo size={44} />} titulo="Trampas y pares" detalle={`${plural(fila.trampas, 'trampa', 'trampas')}, ${plural(fila.pares, 'par', 'pares')}`} />
-            <Tile to={fila.vf ? `/practica?${q}&tipo=vf&ir=1` : undefined} color="var(--redSoft)" icono={<IcPracticar />} titulo="Verdadero o falso" detalle={fila.vf ? `${plural(fila.vf, 'afirmación', 'afirmaciones')} del banco` : 'Esta lectura no tiene afirmaciones'} />
+            <Tile to={fila.vf_directas ? `/practica?${q}&tipo=vf&n=todas&ir=1` : undefined} color="var(--redSoft)" icono={<IcPracticar />} titulo="Verdadero o falso" detalle={fila.vf_directas ? `${plural(fila.vf_directas, 'afirmación', 'afirmaciones')} del banco` : 'Esta lectura no tiene afirmaciones'} />
             <Tile color="var(--line)" icono={<IcAudio />} titulo="Escuchar" detalle="Audio pendiente" />
           </div>
         ) : (
@@ -99,7 +99,7 @@ export default function Zona() {
       </section>
 
       <div className="row g16">
-        <Link className="press btn yellow" to={`/practica?semana=${semana}&ir=1`}>Practicar toda la semana {semana}</Link>
+        <Link className="press btn yellow" to={`/practica?semana=${semana}&n=todas&ir=1`}>Practicar toda la semana {semana}</Link>
         <Link className="press btn paper" to={`/trampas?semana=${semana}`}>Ver las trampas de la semana</Link>
       </div>
     </div>
