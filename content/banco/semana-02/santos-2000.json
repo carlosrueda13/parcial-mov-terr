@@ -11,81 +11,81 @@
    "n_ficha": 1,
    "tipo": "abierta",
    "enunciado": "¿Cuál es la definición de espacio que propone Santos y cuáles son sus tres adjetivos?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "El espacio está formado por un conjunto indisoluble, solidario y también contradictorio, de sistemas de objetos y sistemas de acciones, no considerados aisladamente sino como el contexto único en el que se realiza la historia. Los tres adjetivos son indisoluble, solidario y contradictorio; p. 54.",
+   "referencia": "p. 54",
+   "estado": "completa"
   },
   {
    "id": "s02-santos-2000-q002",
    "n_ficha": 2,
    "tipo": "abierta",
    "enunciado": "¿Por qué no es lo mismo configuración territorial que espacio?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Porque la configuración territorial es el conjunto de los sistemas naturales de un área más los agregados que los hombres sobrepusieron, y su realidad viene de la materialidad, mientras que el espacio reúne la materialidad y la vida que la anima; su existencia social solo la dan las relaciones sociales. Para Santos la configuración espacial es un dato técnico y el espacio geográfico es un dato social; pp. 53-54 y 64.",
+   "referencia": "pp. 53-54 y 64",
+   "estado": "completa"
   },
   {
    "id": "s02-santos-2000-q003",
    "n_ficha": 3,
    "tipo": "abierta",
    "enunciado": "¿Qué diferencia hay entre cosas y objetos y qué pasa hoy con ellas?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Cosas son producto de una elaboración natural, un don de la naturaleza; objetos son producto de una elaboración social, resultado del trabajo (Focillon: las cosas son obras de Dios, los objetos obras de los hombres). Hoy y cada vez más los objetos han tomado el lugar de las cosas: al principio todo eran cosas, hoy todo tiende a ser objeto, porque las cosas, cuando los hombres las usan con intenciones sociales, pasan a ser objetos, y la naturaleza se vuelve sistema de objetos; pp. 55-56.",
+   "referencia": "pp. 55-56",
+   "estado": "completa"
   },
   {
    "id": "s02-santos-2000-q004",
    "n_ficha": 4,
    "tipo": "abierta",
    "enunciado": "¿Qué distingue la complejidad funcional de la estructural según Moles?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "La complejidad funcional es el repertorio de funciones combinables en el uso de un objeto (la dimensión estadística de los usos); la complejidad estructural es el conjunto de piezas elementales que lo componen y equivale a la información. Cuanto más estructuralmente complejo es un objeto, más eficaz y rápidamente da una respuesta adecuada, y Moles dice que en el medio geográfico es así también; p. 59.",
+   "referencia": "p. 59",
+   "estado": "completa"
   },
   {
    "id": "s02-santos-2000-q005",
    "n_ficha": 5,
    "tipo": "abierta",
    "enunciado": "¿Qué diferencia el objeto del arqueólogo del objeto del geógrafo?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Para el arqueólogo el objeto es el único vestigio de la acción; para el geógrafo es un testimonio actual de la acción, y se trabaja también con objetos del presente. El objeto del arqueólogo (Buchsenschutz) es todo elemento sólido que el hombre usó para abrigarse, trabajar o transportar; el objeto geográfico es todo eso y más, pues agrega la utilización actual; p. 63.",
+   "referencia": "p. 63",
+   "estado": "completa"
   },
   {
    "id": "s02-santos-2000-q006",
    "n_ficha": 6,
    "tipo": "abierta",
    "enunciado": "¿Cuáles son los cuatro rasgos de un acto?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Según Rogers (a partir de Parsons y Shils), un acto: (1) está formado por un comportamiento orientado; (2) se da en determinadas situaciones; (3) está normativamente regulado; (4) implica un esfuerzo o una motivación. No es un comportamiento cualquiera sino uno orientado a fines u objetivos; p. 67.",
+   "referencia": "p. 67",
+   "estado": "completa"
   },
   {
    "id": "s02-santos-2000-q007",
    "n_ficha": 7,
    "tipo": "abierta",
    "enunciado": "¿Qué significa distinguir escala de realización y escala de mando?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Que hay que separar la escala de realización de las acciones, que es donde se ejecutan, de la escala de su mando, que es donde se deciden. Muchas acciones en un lugar responden a necesidades ajenas, a funciones generadas lejos, y solo la respuesta está localizada; eso es lo que Santos llama alienación regional o local, término que prefiere al lugar fantasmagórico de Giddens; p. 68.",
+   "referencia": "p. 68",
+   "estado": "completa"
   },
   {
    "id": "s02-santos-2000-q008",
    "n_ficha": 8,
    "tipo": "abierta",
    "enunciado": "¿Qué tres tesis de Werlen resume Santos y cuál es su objeción?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Tres tesis: (1) la geografía no debe considerarse una ciencia del espacio sino de la acción; (2) debe destacarse la acción subjetiva; (3) la dimensión espacial se considera, pero no es causa de los acontecimientos ni de la acción. Objeción de Santos: Werlen afirma la preeminencia de la acción pero también alude al papel activo del espacio, parece decidir entre uno y otro (herencia del dualismo) y vacila ante el paso definitivo; además no da el peso necesario a los medios de acción de Durkheim. Santos sostiene que los objetos no actúan, pero valorizan de manera diferente las acciones, y que objetos y acciones deben tratarse de forma unitaria; pp. 71-74.",
+   "referencia": "pp. 71-74",
+   "estado": "completa"
   },
   {
    "id": "s02-santos-2000-q009",
    "n_ficha": 9,
    "tipo": "abierta",
    "enunciado": "¿Por qué admitir que el espacio es un factor no equivale a ser geodeterminista?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Porque hay diferencia entre decir que el espacio no es una causa y negar que sea un factor, un dato: admitir su existencia no es ser geodeterminista. Las acciones no se geografizan indiferentemente, pues hay relación entre el valor de la acción y el valor del lugar donde se realiza (si no, todos los lugares tendrían el mismo valor de uso y de cambio), y el valor del espacio no es independiente de las acciones que puede acoger; p. 74.",
+   "referencia": "p. 74",
+   "estado": "completa"
   }
  ],
  "trampas": [

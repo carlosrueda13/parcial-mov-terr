@@ -11,72 +11,72 @@
    "n_ficha": 1,
    "tipo": "abierta",
    "enunciado": "¿Qué diferencia el territorio del \"marco espacial del dominio soberano de un Estado\"?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "El territorio no es solo el marco espacial que delimita el dominio soberano de un Estado: es el escenario donde ocurre toda relación social, que se expresa como territorialidad, y un espacio de poder, gestión y dominio del Estado, individuos, grupos, organizaciones y empresas locales, nacionales y multinacionales; pp. 122-123.",
+   "referencia": "pp. 122-123",
+   "estado": "completa"
   },
   {
    "id": "s02-montanez-delgado-1998-q002",
    "n_ficha": 2,
    "tipo": "abierta",
    "enunciado": "¿Qué es territorialidad según el texto y a quién se atribuye cada definición?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Es el grado de control de una determinada porción de espacio geográfico por una persona, grupo social, grupo étnico, compañía multinacional, Estado o bloque de estados; es también el conjunto de prácticas, con expresiones materiales y simbólicas, capaces de garantizar la apropiación y permanencia de un territorio por un agente social. La definición se cita a Montañez (1997) y a Lobato Correa (1996); la de territorio, a Geiger (1996) y a Correia de Andrade (1996); pp. 123-124.",
+   "referencia": "pp. 123-124",
+   "estado": "completa"
   },
   {
    "id": "s02-montanez-delgado-1998-q003",
    "n_ficha": 3,
    "tipo": "abierta",
    "enunciado": "¿Cómo define el texto la desterritorialización y qué ejemplo da?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Son procesos de pérdida del territorio derivados de la dinámica territorial y de los conflictos de poder entre agentes; ejemplo del texto: una empresa puede expandir su territorio a costa de la desterritorialización total o parcial de otra; p. 125.",
+   "referencia": "p. 125",
+   "estado": "completa"
   },
   {
    "id": "s02-montanez-delgado-1998-q004",
    "n_ficha": 4,
    "tipo": "abierta",
    "enunciado": "¿Cuáles son los tres conceptos de convergencia, distanciamiento y compresión y cuál se explica por el capitalismo global?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Convergencia espacio-tiempo: la tecnología del transporte y de la información mueve lugares y gente unos respecto a otros y relativiza la distancia; distanciamiento tiempo-espacio: las interacciones pueden ser locales (cara a cara) o remotas, entre ausentes; compresión tiempo-espacio: combina las dos anteriores y atribuye la convergencia y divergencia de los lugares a los imperativos del capitalismo como sistema global, así que es la que se explica por el capitalismo. Los tres conceptos se atribuyen a Lyshon (1995); pp. 126-127.",
+   "referencia": "pp. 126-127",
+   "estado": "completa"
   },
   {
    "id": "s02-montanez-delgado-1998-q005",
    "n_ficha": 5,
    "tipo": "abierta",
    "enunciado": "¿Qué son horizontalidades y verticalidades?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Horizontalidades: dominios de continuidad de lugares vecinos reunidos por una continuidad territorial; verticalidades: relaciones entre lugares distantes ligados por formas y procesos sociales a través de redes. El territorio hoy puede formarse de lugares contiguos y de lugares en red (Santos, 1996); p. 128.",
+   "referencia": "p. 128",
+   "estado": "completa"
   },
   {
    "id": "s02-montanez-delgado-1998-q006",
    "n_ficha": 6,
    "tipo": "abierta",
    "enunciado": "¿Qué papel tiene el subsistema de regulación respecto de los transportes y las comunicaciones?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Según Santos (1997), la circulación ya no se define por los transportes y las comunicaciones: un nuevo subsistema, el de regulación, gana un papel rector; p. 131.",
+   "referencia": "p. 131",
+   "estado": "completa"
   },
   {
    "id": "s02-montanez-delgado-1998-q007",
    "n_ficha": 7,
    "tipo": "abierta",
    "enunciado": "¿Qué entienden los autores por equidad territorial y articulación regional?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Equidad territorial es el acercamiento a una igualdad de oportunidades de desarrollo regional; la articulación regional es el otro objetivo que el Estado debe promover, porque las regiones no ocurren por fuera del proyecto nacional sino que son expresión de la nación y posibilidades para su desarrollo. La ficha no recoge una definición más precisa de articulación regional; p. 132.",
+   "referencia": "p. 132",
+   "estado": "completa"
   },
   {
    "id": "s02-montanez-delgado-1998-q008",
    "n_ficha": 8,
    "tipo": "abierta",
    "enunciado": "¿Cuáles son los cinco elementos para construir el proyecto nacional desde lo territorial?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Conocimiento por los nacionales de su territorio y de sus vínculos históricos con el mundo, que conduce a su apropiación en dimensión científica, práctica y afectiva; ponderado gradualismo, con estrategias preventivas y evaluación a priori de los efectos territoriales de los proyectos; reconocer a las regiones como patrimonio nacional por su contenido cultural e histórico específico; lo público territorial al servicio de la ciudadanía, lo que implica construir territorialidades democráticas; lo privado territorial como contribución al proyecto nacional, sin ser obstáculo para la más amplia democracia nacional; pp. 132-133.",
+   "referencia": "pp. 132-133",
+   "estado": "completa"
   }
  ],
  "trampas": [

@@ -209,10 +209,10 @@ Lista alfabética de las fuentes del informe completo. Las más ligadas a movili
 
 ## Preguntas modelo para el banco
 
-1. ¿Qué papel asigna el informe a la movilidad urbana en la inclusión social?
-2. ¿Qué factor explica, según el texto, la prevalencia de modos sostenibles en las ciudades de ALC?
-3. ¿Qué proporción del tiempo de viaje y en qué ciudades es el doble en transporte público?
-4. ¿Qué dice el informe sobre las mujeres y los viajes de cuidado?
-5. ¿Qué cifra de caída de demanda colectiva dejó 2020 y qué ocurrió con el metro en 2023?
-6. ¿Cuáles son los cinco caminos alternativos que plantea el informe para financiar la movilidad sostenible?
-7. ¿Qué mide la estimación de 1.100 millones de dólares y qué no incluye?
+1. ¿Qué papel asigna el informe a la movilidad urbana en la inclusión social? (Es clave para la inclusión social y para un acceso más equitativo a servicios y oportunidades de trabajo; la configura como "una verdadera política social", primordial para la calidad de vida y el goce del derecho a la ciudad; p. 55.)
+2. ¿Qué factor explica, según el texto, la prevalencia de modos sostenibles en las ciudades de ALC? (Las limitaciones de ingreso de las familias, no una conciencia ambiental: los modos activos y el transporte público suman el 68% de los viajes y la prevalencia de modos sostenibles está "más bien influenciada" por el ingreso; pp. 55-56.)
+3. ¿Qué proporción del tiempo de viaje y en qué ciudades es el doble en transporte público? (En São Paulo, Buenos Aires y Montevideo el viaje residencia-trabajo en transporte público llega a tomar el doble de tiempo que en modos privados; en cinco de las seis ciudades dura en promedio más de una hora (Montevideo, con 56 minutos, es la excepción); pp. 57-59.)
+4. ¿Qué dice el informe sobre las mujeres y los viajes de cuidado? (Responden por alrededor de dos tercios de los viajes en días hábiles por compras, trámites, asuntos personales y de dejar, recoger o acompañar a alguien (77% en Ciudad de México; 56% en Montevideo y São Paulo); en Ciudad de México viajan 37 minutos frente a 49 de los hombres, por viajes más cortos y más numerosos; p. 59.)
+5. ¿Qué cifra de caída de demanda colectiva dejó 2020 y qué ocurrió con el metro en 2023? (Una caída de entre 40% y 80% de la demanda de movilidad urbana colectiva; en 2023 los sistemas masivos como el metro cerraron todavía entre 15% y 30% por debajo del volumen prepandemia, y la desaceleración de 2023 indica cambios estructurales; pp. 61-62.)
+6. ¿Cuáles son los cinco caminos alternativos que plantea el informe para financiar la movilidad sostenible? (Retrofit o conversión de las flotas actuales a menor costo; nuevos modelos de negocio; planificación urbana y del uso del suelo que reduzca las necesidades de viaje; fortalecimiento de la movilidad activa y sus infraestructuras; recuperación de la valorización generada por las inversiones públicas en movilidad; p. 65.)
+7. ¿Qué mide la estimación de 1.100 millones de dólares y qué no incluye? (Lo que costaría sustituir por completo los buses diésel en una ciudad con una flota como la de Quito (3.400 buses), a 327.000 dólares por vehículo con la flota actual constante; no incluye infraestructura de carga ni otras inversiones, ni la vida útil de los vehículos nuevos ni su reemplazo antes de 2050; pp. 64-65.)
