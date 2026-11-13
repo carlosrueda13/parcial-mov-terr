@@ -213,7 +213,9 @@ def main():
             fila = {"semana": semana, "lectura": lectura, "autor": meta.get("autor"),
                     "titulo": meta.get("titulo"),
                     "archivo": f"semana-{semana:02d}/{lectura}.json",
-                    "preguntas": len(preguntas), "trampas": len(trampas), "pares": len(pares)}
+                    "preguntas": len(preguntas), "trampas": len(trampas), "pares": len(pares),
+                    "respondibles": sum(p["estado"] == "completa" for p in preguntas),
+                    "vf": sum(p["tipo"] == "vf" for p in preguntas)}
             indice.append(fila)
             for k in total:
                 total[k] += fila[k]

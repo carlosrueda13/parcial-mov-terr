@@ -13,7 +13,9 @@
    "archivo": "semana-01/cepal-2024.json",
    "preguntas": 7,
    "trampas": 17,
-   "pares": 0
+   "pares": 0,
+   "respondibles": 0,
+   "vf": 0
   },
   {
    "semana": 1,
@@ -23,7 +25,9 @@
    "archivo": "semana-01/gutierrez-2013.json",
    "preguntas": 8,
    "trampas": 20,
-   "pares": 0
+   "pares": 0,
+   "respondibles": 0,
+   "vf": 0
   },
   {
    "semana": 2,
@@ -33,7 +37,9 @@
    "archivo": "semana-02/montanez-delgado-1998.json",
    "preguntas": 8,
    "trampas": 12,
-   "pares": 7
+   "pares": 7,
+   "respondibles": 0,
+   "vf": 0
   },
   {
    "semana": 2,
@@ -43,7 +49,9 @@
    "archivo": "semana-02/polese-1998-cap1.json",
    "preguntas": 12,
    "trampas": 22,
-   "pares": 11
+   "pares": 11,
+   "respondibles": 0,
+   "vf": 0
   },
   {
    "semana": 2,
@@ -53,7 +61,9 @@
    "archivo": "semana-02/santos-2000.json",
    "preguntas": 9,
    "trampas": 21,
-   "pares": 13
+   "pares": 13,
+   "respondibles": 0,
+   "vf": 0
   },
   {
    "semana": 3,
@@ -63,7 +73,9 @@
    "archivo": "semana-03/camagni-2005-intro-cap1.json",
    "preguntas": 25,
    "trampas": 37,
-   "pares": 12
+   "pares": 12,
+   "respondibles": 0,
+   "vf": 0
   },
   {
    "semana": 3,
@@ -73,7 +85,9 @@
    "archivo": "semana-03/polese-1998-cap2.json",
    "preguntas": 13,
    "trampas": 19,
-   "pares": 13
+   "pares": 13,
+   "respondibles": 0,
+   "vf": 0
   },
   {
    "semana": 3,
@@ -83,7 +97,9 @@
    "archivo": "semana-03/polese-1998-cap9.json",
    "preguntas": 22,
    "trampas": 30,
-   "pares": 18
+   "pares": 18,
+   "respondibles": 0,
+   "vf": 0
   },
   {
    "semana": 4,
@@ -93,7 +109,9 @@
    "archivo": "semana-04/camagni-2005-cap2.json",
    "preguntas": 40,
    "trampas": 50,
-   "pares": 14
+   "pares": 14,
+   "respondibles": 39,
+   "vf": 0
   },
   {
    "semana": 4,
@@ -103,7 +121,9 @@
    "archivo": "semana-04/polese-1998-cap10.json",
    "preguntas": 46,
    "trampas": 53,
-   "pares": 31
+   "pares": 31,
+   "respondibles": 0,
+   "vf": 0
   },
   {
    "semana": 5,
@@ -113,7 +133,9 @@
    "archivo": "semana-05/cuervo-gonzalez-cap8.json",
    "preguntas": 48,
    "trampas": 55,
-   "pares": 21
+   "pares": 21,
+   "respondibles": 48,
+   "vf": 0
   },
   {
    "semana": 5,
@@ -123,7 +145,9 @@
    "archivo": "semana-05/cuervo-gonzalez-cap9.json",
    "preguntas": 72,
    "trampas": 80,
-   "pares": 25
+   "pares": 25,
+   "respondibles": 72,
+   "vf": 13
   },
   {
    "semana": 5,
@@ -133,7 +157,9 @@
    "archivo": "semana-05/leon-ruiz-2016.json",
    "preguntas": 48,
    "trampas": 50,
-   "pares": 20
+   "pares": 20,
+   "respondibles": 48,
+   "vf": 5
   },
   {
    "semana": 6,
@@ -143,7 +169,9 @@
    "archivo": "semana-06/contreras-ruiz-2026.json",
    "preguntas": 80,
    "trampas": 70,
-   "pares": 24
+   "pares": 24,
+   "respondibles": 80,
+   "vf": 6
   },
   {
    "semana": 6,
@@ -153,7 +181,9 @@
    "archivo": "semana-06/sdp-2014-region-metropolitana.json",
    "preguntas": 110,
    "trampas": 42,
-   "pares": 24
+   "pares": 24,
+   "respondibles": 110,
+   "vf": 12
   },
   {
    "semana": 7,
@@ -163,7 +193,9 @@
    "archivo": "semana-07/avellaneda-dextre-2014-cap1.json",
    "preguntas": 54,
    "trampas": 37,
-   "pares": 14
+   "pares": 14,
+   "respondibles": 54,
+   "vf": 5
   },
   {
    "semana": 7,
@@ -173,7 +205,9 @@
    "archivo": "semana-07/herce-2009-cap1-2.json",
    "preguntas": 82,
    "trampas": 53,
-   "pares": 22
+   "pares": 22,
+   "respondibles": 82,
+   "vf": 4
   },
   {
    "semana": 7,
@@ -183,7 +217,9 @@
    "archivo": "semana-07/transport-access-manual-2020.json",
    "preguntas": 114,
    "trampas": 40,
-   "pares": 23
+   "pares": 23,
+   "respondibles": 114,
+   "vf": 8
   },
   {
    "semana": 8,
@@ -193,7 +229,9 @@
    "archivo": "semana-08/fernandez-2023-cap1-2.json",
    "preguntas": 80,
    "trampas": 37,
-   "pares": 27
+   "pares": 27,
+   "respondibles": 80,
+   "vf": 4
   }
  ]
 }
