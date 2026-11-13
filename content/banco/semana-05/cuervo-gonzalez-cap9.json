@@ -1,0 +1,1373 @@
+{
+ "semana": 5,
+ "lectura": "cuervo-gonzalez-cap9",
+ "autor": "Luis Mauricio Cuervo y Josefina González",
+ "titulo": "Industria y ciudades en la era de la mundialización, capítulo 9: Desarrollo económico, urbanización y primacía urbana en Colombia",
+ "alcance": "Cap. 9 completo (pp. 295-352)",
+ "fuente": "content/semana-05/cuervo-gonzalez-cap9/ficha.md",
+ "preguntas": [
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos períodos históricos distingue el capítulo y cuántos períodos tiene el IPT?",
+   "respuesta": "Ocho períodos históricos, de la Colonia a la crisis y reconversión desde 1974; tres períodos del IPT: 1820-1870, 1870-1920 y 1920-1973; pp. 295, 327.",
+   "referencia": "pp. 295, 327",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "Colombia es el único país suramericano con (a) tres cordilleras, (b) costas en los dos océanos, (c) selva amazónica y llanos, (d) ríos navegables hacia el Pacífico.",
+   "respuesta": "b; p. 295.",
+   "referencia": "p. 295",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q003",
+   "n_ficha": 3,
+   "tipo": "vf",
+   "enunciado": "El río Magdalena corre entre las cordilleras Central y Occidental.",
+   "respuesta": "Falso: entre la Oriental y la Central; p. 296.",
+   "referencia": "p. 296",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "entre la Oriental y la Central; p. 296."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿Qué diferencia hay entre Conquista y Colonia en el capítulo?",
+   "respuesta": "Conquista: régimen militar de explotación violenta; Colonia: organización estable con reproducción propia y articulación al imperio; pp. 299-300.",
+   "referencia": "pp. 299-300",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "Al final del siglo XVII la Región Andina concentraba aproximadamente (a) 60%, (b) 80%, (c) 75%, (d) 95% de la población.",
+   "respuesta": "b; Cundinamarca y Boyacá, 60% de la población neogranadina, son un subconjunto: no se suman; p. 300.",
+   "referencia": "p. 300",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q006",
+   "n_ficha": 6,
+   "tipo": "vf",
+   "enunciado": "Cartagena, el puerto principal, superó los 25 mil habitantes durante la Colonia.",
+   "respuesta": "Falso: nunca pasó de 25 mil; y Santa Fe de Bogotá tuvo un tope de 20 mil; pp. 300-301.",
+   "referencia": "pp. 300-301",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "nunca pasó de 25 mil; y Santa Fe de Bogotá tuvo un tope de 20 mil; pp. 300-301."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "Entre 1778 y 1851 la participación de la Región Atlántica en la población nacional pasó de (a) 13% a 22%, (b) 22% a 13%, (c) 8,5% a 10,8%, (d) 8% a 9,3%.",
+   "respuesta": "b; las dos últimas son Antioquia y Tolima; p. 302.",
+   "referencia": "p. 302",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "¿Qué producto de exportación tuvo progreso estable en el siglo XIX y cuáles fueron sus acompañantes inestables?",
+   "respuesta": "El oro; quina y tabaco; p. 303.",
+   "referencia": "p. 303",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q009",
+   "n_ficha": 9,
+   "tipo": "vf",
+   "enunciado": "Según la Tabla 9.1, el oro mantuvo su participación en el valor de las exportaciones.",
+   "respuesta": "Falso: pasó de 74% (1834/39) a 14,1% (1905); \"estable\" se refiere al progreso, no a la participación; p. 303.",
+   "referencia": "p. 303",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "pasó de 74% (1834/39) a 14,1% (1905); \"estable\" se refiere al progreso, no a la participación; p. 303."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q010",
+   "n_ficha": 10,
+   "tipo": "abierta",
+   "enunciado": "Orden de los centros del tabaco en el siglo XIX:",
+   "respuesta": "Ambalema (Tolima, 1855), Carmen de Bolívar (Región Atlántica), Palmira (Valle); p. 303.",
+   "referencia": "p. 303",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la raíz de la flexibilidad como \"característica estructural\" del sistema espacial?",
+   "respuesta": "La inestabilidad del comercio exterior; p. 303.",
+   "referencia": "p. 303",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "En 1843 (a) Barranquilla doblaba a Cartagena, (b) Cartagena doblaba a Barranquilla, (c) las dos tenían igual población, (d) Barranquilla ya era la tercera ciudad.",
+   "respuesta": "b; en 1843 10.145 frente a 5.651 y cuarenta años después la relación estaba invertida; p. 303.",
+   "referencia": "p. 303",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q013",
+   "n_ficha": 13,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué Colombia no tuvo un relevo costa-cordillera como Argentina o Perú?",
+   "respuesta": "Conjunción de factores: ríos navegables insuficientes, densidad andina insuficiente, distinta solución a la escasez de mano de obra, y el dilema entre retener trabajadores en la hacienda o integrar colonos de la frontera agrícola; pp. 306-307.",
+   "referencia": "pp. 306-307",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q014",
+   "n_ficha": 14,
+   "tipo": "vf",
+   "enunciado": "La Costa Atlántica flexibilizó la hacienda como el interior andino.",
+   "respuesta": "Falso: conservó la hacienda colonial con sus rigideces; p. 307.",
+   "referencia": "p. 307",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "conservó la hacienda colonial con sus rigideces; p. 307."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q015",
+   "n_ficha": 15,
+   "tipo": "abierta",
+   "enunciado": "Secuencia de la frontera agrícola con formas libres de producción:",
+   "respuesta": "Santander en el siglo XVIII, Antioquia en el XIX, Gran Caldas a finales del XIX; p. 307.",
+   "referencia": "p. 307",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "El café pasó, como participación de los ingresos comerciales externos, de (a) 8,1% a 34,3%, (b) 34,3% a 8,1%, (c) 8,1% a 82%, (d) 5% a 34,3%.",
+   "respuesta": "a; el 82% es la concentración en Cundinamarca, Tolima y Santander del volumen exportado, multiplicado por cinco en 1874-1894; p. 308.",
+   "referencia": "p. 308",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q017",
+   "n_ficha": 17,
+   "tipo": "vf",
+   "enunciado": "Hacia 1870 había unos 320 mil artesanos, el 23% de la población activa, sobre todo en Antioquia.",
+   "respuesta": "Falso: se concentraban en Santander, Boyacá y Cundinamarca; pp. 309-310.",
+   "referencia": "pp. 309-310",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "se concentraban en Santander, Boyacá y Cundinamarca; pp. 309-310."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q018",
+   "n_ficha": 18,
+   "tipo": "abierta",
+   "enunciado": "Relacione cada ferrocarril con su fecha: Barranquilla-Sabanilla, Medellín-Puerto Berrío, Bogotá-Girardot, Cartagena-Calamar.",
+   "respuesta": "1878 (terminada), 1874, 1885, 1891; p. 309.",
+   "referencia": "p. 309",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "¿Qué marcó la Constitución de 1886 y qué clausuró el equilibrio regional inestable?",
+   "respuesta": "La Constitución de 1886, centralista y presidencialista, vigente hasta 1991, fue el comienzo del fin; la guerra de los Mil Días (1897-1900) lo clausuró; p. 310.",
+   "referencia": "p. 310",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "La secesión de Panamá fue, en el texto, (a) el origen de la Constitución de 1886, (b) el golpe de gracia al equilibrio regional que reavivó el nacionalismo, (c) el inicio del ferrocarril de Cartagena, (d) la causa de la guerra de los Mil Días.",
+   "respuesta": "b; pp. 310-311.",
+   "referencia": "pp. 310-311",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q021",
+   "n_ficha": 21,
+   "tipo": "vf",
+   "enunciado": "En 1915, según Bejarano, los textileros eran el 16% de los establecimientos manufactureros y cerca del 25% del capital invertido.",
+   "respuesta": "Verdadero: de 1.121 establecimientos con capital de 12,8 millones; p. 312.",
+   "referencia": "p. 312",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "de 1.121 establecimientos con capital de 12,8 millones; p. 312."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "Balance de 1890-1930:",
+   "respuesta": "Se prolongó la dualidad interior-litoral, se consolidó el corredor occidental andino y la integración física pasó a una orientación principalmente introvertida; p. 313.",
+   "referencia": "p. 313",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q023",
+   "n_ficha": 23,
+   "tipo": "abierta",
+   "enunciado": "Entre 1925-29 y 1935-39 el café exportado subió 62% en volumen y el oro 158%; ¿qué compensó la caída de precios?",
+   "respuesta": "La cantidad exportada; p. 314.",
+   "referencia": "p. 314",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q024",
+   "n_ficha": 24,
+   "tipo": "abierta",
+   "enunciado": "La participación de la industria en el PIB pasó entre 1925 y 1945 de (a) 9% a 16,5%, (b) 16,5% a 9%, (c) 45% a 20%, (d) 62% a 158%.",
+   "respuesta": "a; c es la participación de las aduanas en los ingresos tributarios: de 45% a menos de 20%; pp. 314-316.",
+   "referencia": "pp. 314-316",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q025",
+   "n_ficha": 25,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es el Fondo Nacional del Café y qué función tiene en el equilibrio regional?",
+   "respuesta": "Institución paraestatal: dineros públicos con gerencia privada; financió carreteras, escuelas, nutrición y salud en zonas cafeteras, y neutraliza las tendencias centralistas del Estado; pp. 316-317.",
+   "referencia": "pp. 316-317",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q026",
+   "n_ficha": 26,
+   "tipo": "vf",
+   "enunciado": "El Estado de los años treinta fue un Estado benefactor con subsidios al desempleo.",
+   "respuesta": "Falso: la política anticíclica fue mantener los ingresos cafeteros; pp. 316-317.",
+   "referencia": "pp. 316-317",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "la política anticíclica fue mantener los ingresos cafeteros; pp. 316-317."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q027",
+   "n_ficha": 27,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la secuencia de prioridades del gasto en infraestructura?",
+   "respuesta": "Ferrocarriles a principios del siglo XX, carreteras entre 1930 y 1960, electricidad después de 1960; p. 317.",
+   "referencia": "p. 317",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q028",
+   "n_ficha": 28,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ciudades forman la cabeza urbana \"cuadricefálica\"?",
+   "respuesta": "Bogotá, Medellín, Cali y Barranquilla; pp. 318-319.",
+   "referencia": "pp. 318-319",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q029",
+   "n_ficha": 29,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué se dice que la Región Atlántica fue \"la excepción que confirma la regla\"?",
+   "respuesta": "Fue la excepción a una integración física no centrada en un solo nodo; p. 319.",
+   "referencia": "p. 319",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q030",
+   "n_ficha": 30,
+   "tipo": "vf",
+   "enunciado": "En Colombia, como en Brasil, una ciudad (Medellín) desplazó a la primada.",
+   "respuesta": "Falso: en Brasil São Paulo desplazó a Río; en Colombia Medellín no desplazó a Bogotá; pp. 319-320.",
+   "referencia": "pp. 319-320",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "en Brasil São Paulo desplazó a Río; en Colombia Medellín no desplazó a Bogotá; pp. 319-320."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q031",
+   "n_ficha": 31,
+   "tipo": "abierta",
+   "enunciado": "Según el texto, entre 1938 y 1951 los departamentos del occidente (Antioquia, Caldas, Valle) aumentan su participación; según la Tabla 9.3, ¿cuál de los tres no lo hace?",
+   "respuesta": "Antioquia: 13,6 a 13,5; Caldas 8,84 a 9,24; Valle 7,04 a 9,58; p. 320.",
+   "referencia": "p. 320",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q032",
+   "n_ficha": 32,
+   "tipo": "abierta",
+   "enunciado": "Para 1945-1974 (Ocampo), la producción industrial se multiplicó por 7,7; ¿a qué tasa anual crecieron la producción, el empleo y la productividad?",
+   "respuesta": "7,3%, 4,2% y 3%; p. 322.",
+   "referencia": "p. 322",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q033",
+   "n_ficha": 33,
+   "tipo": "abierta",
+   "enunciado": "Sustitución tardía y temprana en el valor agregado industrial:",
+   "respuesta": "Tardía de 10,3% a 42,2%; temprana de 62,4% a 35,9%; p. 322.",
+   "referencia": "p. 322",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q034",
+   "n_ficha": 34,
+   "tipo": "abierta",
+   "enunciado": "En el perfil mínimo, ¿qué significa un valor más alto?",
+   "respuesta": "Menor integración de la red urbana; la Tabla 9.4 da 75,65 (1938), 78,9 (1951) y 75,17 (1973); el texto cita 75,7 y 78,8, y concluye de todos modos que la industria contribuyó a una red más integrada; p. 323.",
+   "referencia": "p. 323",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q035",
+   "n_ficha": 35,
+   "tipo": "abierta",
+   "enunciado": "Las cuatro mayores ciudades concentran del valor agregado industrial (a) 75-80% entre 1966 y 1974 (p. 323), (b) 70-80% del empleo y valor agregado manufacturero (p. 345). ¿Cuál es la fuente de la diferencia?",
+   "respuesta": "Son dos pasajes con distinta variable y período; no es un error de transcripción.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q036",
+   "n_ficha": 36,
+   "tipo": "abierta",
+   "enunciado": "Especialización: ¿qué produce preferentemente cada ciudad?",
+   "respuesta": "Bogotá, bienes de consumo durable y de capital; Medellín (textiles) y Cali (químicos), bienes intermedios; p. 323.",
+   "referencia": "p. 323",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q037",
+   "n_ficha": 37,
+   "tipo": "vf",
+   "enunciado": "La agroindustria hizo que la superficie sembrada pasara de 1,9 a 2,9 millones de hectáreas, y que la producción comercial pasara de 19% a 41% de la superficie cultivada.",
+   "respuesta": "Verdadero; la producción no cafetera creció 150%; pp. 324-325.",
+   "referencia": "pp. 324-325",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "la producción no cafetera creció 150%; pp. 324-325."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q038",
+   "n_ficha": 38,
+   "tipo": "abierta",
+   "enunciado": "Cultivos y regiones: banano, tabaco, algodón, azúcar y flores.",
+   "respuesta": "Banano en Urabá y Magdalena; tabaco en Costa Atlántica y Santander; algodón en Costa Atlántica; azúcar en el Valle del Cauca; flores en la sabana de Bogotá; p. 325.",
+   "referencia": "p. 325",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q039",
+   "n_ficha": 39,
+   "tipo": "abierta",
+   "enunciado": "¿Qué factores explican la decadencia del occidente andino?",
+   "respuesta": "Retroceso del café por la violencia política de los cincuenta concentrada en la zona, obsolescencia tecnológica y envejecimiento de las plantas; p. 325.",
+   "referencia": "p. 325",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q040",
+   "n_ficha": 40,
+   "tipo": "abierta",
+   "enunciado": "El IFI contribuyó a crear (a) Ecopetrol, Sofasa y Paz del Río, (b) el Banco de la República, (c) la Federación de Cafeteros, (d) el Ferrocarril del Pacífico.",
+   "respuesta": "a; p. 326.",
+   "referencia": "p. 326",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q041",
+   "n_ficha": 41,
+   "tipo": "abierta",
+   "enunciado": "Reveiz (1981): ¿qué proporción de los miembros de comisiones y juntas de los entes rectores era del sector privado y cuánta de trabajadores, campesinos y consumidores?",
+   "respuesta": "30% y 4%; p. 326.",
+   "referencia": "p. 326",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q042",
+   "n_ficha": 42,
+   "tipo": "abierta",
+   "enunciado": "Etapas del CIC (Tabla 9.5):",
+   "respuesta": "Lento 1918-1938, creciente 1938-1973 y decreciente 1973-1993; pp. 327-328.",
+   "referencia": "pp. 327-328",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q043",
+   "n_ficha": 43,
+   "tipo": "vf",
+   "enunciado": "Entre 1918 y 1993 Bogotá \"multiplicó por seis\" su participación, de 2,5% a 15%.",
+   "respuesta": "Verdadero; 0,0246 y 0,1494 en la Tabla 9.5 (6,07 veces); p. 328.",
+   "referencia": "p. 328",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "0,0246 y 0,1494 en la Tabla 9.5 (6,07 veces); p. 328."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q044",
+   "n_ficha": 44,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se define el ICC?",
+   "respuesta": "La primacía de la primera ciudad sobre la suma de las tres siguientes; el IPT mide la primera sobre la población total; p. 330.",
+   "referencia": "p. 330",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q045",
+   "n_ficha": 45,
+   "tipo": "abierta",
+   "enunciado": "Fases del ICC:",
+   "respuesta": "Creciente de 1840/1843 a 1883, decreciente de 1883 a 1928, creciente de 1928 a 1993; el texto fija el máximo en 1880 y el gráfico en 1883; p. 330.",
+   "referencia": "p. 330",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q046",
+   "n_ficha": 46,
+   "tipo": "abierta",
+   "enunciado": "¿Qué cuatro factores neutralizaron la concentración?",
+   "respuesta": "Sistema urbano multipolar heredado de polos regionales inestables; industrialización, desarrollo agrícola y características del Estado (corporatismo, respuesta a la violencia); geografía y mercados regionales protegidos; sistema urbano en expansión con nuevos ejes; pp. 329-330.",
+   "referencia": "pp. 329-330",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q047",
+   "n_ficha": 47,
+   "tipo": "abierta",
+   "enunciado": "¿Qué relación observa el texto entre IPT e ICC?",
+   "respuesta": "Cuando el ICC bajaba (1883-1928) el IPT crecía moderadamente; cuando el ICC subió (desde 1928) el IPT se aceleró: las ciudades secundarias, sobre todo Medellín, cumplían un papel equilibrador; como Tokio-Osaka; p. 331.",
+   "referencia": "p. 331",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q048",
+   "n_ficha": 48,
+   "tipo": "abierta",
+   "enunciado": "Entre 1843 y 1883, ¿qué ciudades suben y cuáles caen en la cabeza urbana?",
+   "respuesta": "Suben Medellín (del quinto al segundo) y Barranquilla (del décimo al tercero); caen Pasto y Cartagena (de segundo y cuarto a octavo y noveno); pp. 330-331.",
+   "referencia": "pp. 330-331",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q049",
+   "n_ficha": 49,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ciudad sobrepasó a Barranquilla como tercera?",
+   "respuesta": "Cali; p. 331.",
+   "referencia": "p. 331",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q050",
+   "n_ficha": 50,
+   "tipo": "abierta",
+   "enunciado": "Rango-tamaño: ¿cuántas cabeceras forman el 70% de la población urbana en 1951 y en 1993?",
+   "respuesta": "75 y 42; en 1951 escalones de 4, 9, 9 y 7; en 1993 el primer escalón baja a tres ciudades y siguen 23 con continuidad; p. 332.",
+   "referencia": "p. 332",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q051",
+   "n_ficha": 51,
+   "tipo": "abierta",
+   "enunciado": "¿Qué indica la desaparición de escalones intermedios?",
+   "respuesta": "Síntoma de integración socioespacial; pp. 335-337.",
+   "referencia": "pp. 335-337",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q052",
+   "n_ficha": 52,
+   "tipo": "vf",
+   "enunciado": "Después de 1973 la cabeza urbana oscila entre mono y tricefalia porque crecen Bogotá y Cali y menguan Medellín y Barranquilla.",
+   "respuesta": "Verdadero; pp. 335-336.",
+   "referencia": "pp. 335-336",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "pp. 335-336."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q053",
+   "n_ficha": 53,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la \"desconcentración concentrada\"?",
+   "respuesta": "La metropolización: con municipios hay desconcentración después de 1973; con áreas metropolitanas q crece hasta 1985 y solo después se debilita; Tabla 9.6 y Gráfico 9.11; p. 339.",
+   "referencia": "p. 339",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q054",
+   "n_ficha": 54,
+   "tipo": "abierta",
+   "enunciado": "En la Tabla 9.7, entre 1951 y 1993 la Región Andina pasó de (a) 74,5% a 82%, (b) 82% a 74,5%, (c) 16,25% a 20,75%, (d) 1,8% a 4,6%.",
+   "respuesta": "b; c es la Costa Atlántica y d el piedemonte llanero, Orinoquia y Amazonia; pp. 339-344.",
+   "referencia": "pp. 339-344",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q055",
+   "n_ficha": 55,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué creció la Costa Atlántica y por qué el oriente andino?",
+   "respuesta": "Costa Atlántica por la población rural (13,2% a 21,6%; la urbana se mantiene cerca del 21%); oriente andino por la urbanización acelerada; en población urbana nacional el occidente tenía 41% y el oriente 37% en 1951, y en 1993 el oriente 39,7% y el occidente 36,5%; p. 344.",
+   "referencia": "p. 344",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q056",
+   "n_ficha": 56,
+   "tipo": "abierta",
+   "enunciado": "¿Qué anomalía tiene la Tabla 9.7 impresa?",
+   "respuesta": "Omite la fila Occidente andino de 1993; los totales llegan a 63,52%, 60,40% y 62,63% y se derivan 36,48%, 39,60% y 37,37%; p. 344.",
+   "referencia": "p. 344",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q057",
+   "n_ficha": 57,
+   "tipo": "abierta",
+   "enunciado": "En el IPT, ¿la primacía industrial está por encima o por debajo de la urbana? ¿Y en el ICC?",
+   "respuesta": "En el IPT la industrial por encima; en el ICC la urbana por encima; Gráficos 9.5 y 9.6; p. 345.",
+   "referencia": "p. 345",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q058",
+   "n_ficha": 58,
+   "tipo": "abierta",
+   "enunciado": "Fases de la primacía industrial en el IPT:",
+   "respuesta": "1945-1958 acelerada; 1958-1980 lenta; 1980-1991 nueva aceleración; p. 345.",
+   "referencia": "p. 345",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q059",
+   "n_ficha": 59,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la hipótesis central de la sección sobre el fin de la cuadricefalia?",
+   "respuesta": "La ruptura del equilibrio entre las cuatro mayores sería en parte resultado del quiebre del balance en la repartición de la manufactura entre ellas; p. 346.",
+   "referencia": "p. 346",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q060",
+   "n_ficha": 60,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los tres rasgos estructurales de los 170 años de vida independiente?",
+   "respuesta": "Flexibilidad, multipolaridad y dualidad; pp. 347-348.",
+   "referencia": "pp. 347-348",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q061",
+   "n_ficha": 61,
+   "tipo": "abierta",
+   "enunciado": "Diferencie dualidad menor y mayor.",
+   "respuesta": "Menor: costa norte frente al interior, con la Costa Atlántica generalmente excluida; mayor: zonas pobladas frente a despobladas; p. 348.",
+   "referencia": "p. 348",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q062",
+   "n_ficha": 62,
+   "tipo": "abierta",
+   "enunciado": "¿En qué consiste la falacia de la microeconomía espacial?",
+   "respuesta": "Confundir expresiones del cambio con sus razones; hay que superar el economicismo y estudiar los procesos en un nivel macroespacial y con tres dimensiones: económica, política y social; p. 348.",
+   "referencia": "p. 348",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q063",
+   "n_ficha": 63,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el papel de la colonización según el capítulo?",
+   "respuesta": "Factor casi permanente de expansión del sistema urbano; abrigo de colonos pobres que huían de la hacienda en el XVII, campesinos libres cafeteros desde finales del XVIII y XIX, y víctimas de la violencia en el XX; pp. 349-350.",
+   "referencia": "pp. 349-350",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q064",
+   "n_ficha": 64,
+   "tipo": "abierta",
+   "enunciado": "¿Qué papel cumple la violencia como factor \"regulador\"?",
+   "respuesta": "Las guerras civiles del siglo XIX sellaron la crisis del oriente andino y dieron paso a Medellín; la violencia de los cincuenta expresó la crisis de la zona cafetera y comenzó el fin del dominio del occidente; p. 350.",
+   "referencia": "p. 350",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q065",
+   "n_ficha": 65,
+   "tipo": "abierta",
+   "enunciado": "Tres momentos de mutación en los últimos 120 años:",
+   "respuesta": "Fines del siglo XIX, 1930-1945 y los últimos 25 años; p. 351.",
+   "referencia": "p. 351",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q066",
+   "n_ficha": 66,
+   "tipo": "abierta",
+   "enunciado": "¿Qué relación contradictoria deja la etapa reciente?",
+   "respuesta": "Papel cada vez más débil de la concentración espacial de la industria en el equilibrio entre Bogotá y la malla urbana (IPT) y papel creciente de la primacía industrial en la preponderancia de Bogotá dentro de la cabeza de cuatro (ICC); pp. 351-352.",
+   "referencia": "pp. 351-352",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q067",
+   "n_ficha": 67,
+   "tipo": "abierta",
+   "enunciado": "¿Qué factor excluye el capítulo y por qué?",
+   "respuesta": "El narcotráfico y su impacto regional, por falta de tiempo; nota 1, p. 295.",
+   "referencia": "p. 295",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q068",
+   "n_ficha": 68,
+   "tipo": "vf",
+   "enunciado": "Los Gráficos 9.2 y 9.3 miden lo mismo.",
+   "respuesta": "Falso: el 9.2 es el IPT (primera ciudad sobre población total) y el 9.3 el ICC; pp. 327, 330.",
+   "referencia": "pp. 327, 330",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "el 9.2 es el IPT (primera ciudad sobre población total) y el 9.3 el ICC; pp. 327, 330."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q069",
+   "n_ficha": 69,
+   "tipo": "vf",
+   "enunciado": "El CIC máximo (0,0030) se da en 1973 y desde entonces el crecimiento primacial es decreciente.",
+   "respuesta": "Verdadero; pp. 327-328.",
+   "referencia": "pp. 327-328",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "pp. 327-328."
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q070",
+   "n_ficha": 70,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál de estas afirmaciones sobre las 22 ciudades es correcta? (a) La pendiente rango-tamaño sube hasta 1973 y baja después; (b) baja hasta 1973 y sube después; (c) es constante; (d) solo aplica a las cuatro mayores.",
+   "respuesta": "a; q de 0,8714 a 1,0382 y 0,9742 en la Tabla 9.5; p. 331.",
+   "referencia": "p. 331",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q071",
+   "n_ficha": 71,
+   "tipo": "abierta",
+   "enunciado": "La primacía urbana y la industrial, ¿están sincronizadas en el IPT después de 1973?",
+   "respuesta": "No: la industrial se aceleró después de 1980 y la urbana se desacelera después de 1973; con el ICC la sincronización y la intensidad se fortalecen; pp. 346-347.",
+   "referencia": "pp. 346-347",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-q072",
+   "n_ficha": 72,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice el texto sobre el papel de la industrialización antes de 1920 y después?",
+   "respuesta": "Antes es difícil mostrarla como determinante de la urbanización; después de esa década su papel es estratégico; es un factor central pero uno entre varios; p. 350.",
+   "referencia": "p. 350",
+   "estado": "completa"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t001",
+   "n_ficha": 1,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Los ocho períodos son: Colonia (siglos XVI a XVIII); 1820-1850; 1850-1870; 1870-1890; 1890-1930; 1930-1945; 1945-1974 (la p. 295; el título del apartado, p. 320, dice 1945-1968); crisis y reconversión desde 1974. No confundir con los tres períodos del IPT (1820-1870, 1870-1920, 1920-1973) (pp. 295, 327).",
+   "referencia": "p. 295; p. 320; pp. 295, 327"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t002",
+   "n_ficha": 2,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Colombia es el único país suramericano con costas en los dos océanos (p. 295). No es \"el único con tres cordilleras\" ni \"el único andino\".",
+   "referencia": "p. 295"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t003",
+   "n_ficha": 3,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Las cuatro regiones naturales son Andina, Atlántica, Pacífica y Oriental (esta, con las subregiones Orinoquia y Amazonia). Los corredores urbanos de la regionalización adoptada son otra cosa: andino-oriental, andino-occidental, atlántico y el piedemonte llanero en formación (p. 296).",
+   "referencia": "p. 296"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t004",
+   "n_ficha": 4,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Las tres ciudades más grandes que cita la p. 296 (Bogotá, Medellín y Cali) están en la Región Andina; Barranquilla no. Tres cuartas partes de la población están en los departamentos de las cadenas andinas.",
+   "referencia": "p. 296"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t005",
+   "n_ficha": 5,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "El río Magdalena nace en el Macizo Colombiano y corre entre las cordilleras Oriental y Central (no entre la Central y la Occidental) (p. 296).",
+   "referencia": "p. 296"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t006",
+   "n_ficha": 6,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Conquista: régimen militar de explotación violenta; Colonia: organización estable con reproducción y articulación al imperio. El despoblamiento de la Costa Atlántica fue casi completo; la población andina disminuyó sensiblemente sin desaparecer (pp. 299-300).",
+   "referencia": "pp. 299-300"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t007",
+   "n_ficha": 7,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Los metales preciosos permitían el transporte desde el interior al litoral por su alta relación valor-peso; el cuello de botella era la mano de obra, no el transporte (p. 300).",
+   "referencia": "p. 300"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t008",
+   "n_ficha": 8,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "A finales del siglo XVII: 80% de la población en la Región Andina; Cundinamarca y Boyacá, 60% de la población neogranadina; Cauca y Antioquia, 15% y 6%; la Región Atlántica, el resto (20%). Cartagena nunca pasó de 25 mil habitantes y Santa Fe de Bogotá tuvo un tope de 20 mil (pp. 300-301). Cartagena era el centro de almacenamiento del oro de toda América del Sur.",
+   "referencia": "pp. 300-301"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t009",
+   "n_ficha": 9,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La Región Atlántica pasó del 22% de la población (1778) al 13% (1851); Antioquia del 8,5% al 10,8% y Tolima del 8% al 9,3% (p. 302). Esa ruptura \"se prolongaría hasta hoy\" como rasgo constante.",
+   "referencia": "p. 302"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t010",
+   "n_ficha": 10,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Entre 1820 y 1850 Europa vivió una recesión que no estimuló la demanda de bienes agrícolas y pecuarios latinoamericanos (Kalmanovitz; el texto da 1985 y la nota 3 da 1986) (p. 302).",
+   "referencia": "p. 302"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t011",
+   "n_ficha": 11,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "El oro era el único producto de exportación con progreso estable; quina y tabaco fueron los acompañantes inestables (p. 303). Pero en la Tabla 9.1 su participación en el valor baja de 74% (1834/1839) a 14,1% (1905): \"estable\" no significa \"el de mayor participación\".",
+   "referencia": "p. 303"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t012",
+   "n_ficha": 12,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Tabaco: Ambalema (Tolima, 1855), diez años después Carmen de Bolívar (Región Atlántica), diez años después Palmira (Valle). El oro: el Cauca lo concentraba a finales del siglo XVIII; Antioquia tomó el primer lugar en el siglo XIX (p. 303). La quina: valles del Cauca, Fusagasugá y Alto Magdalena; luego Tolima (Ambalema) y Santander (Bucaramanga).",
+   "referencia": "p. 303"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t013",
+   "n_ficha": 13,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La inestabilidad del comercio exterior es la raíz de la flexibilidad, \"una característica estructural\" del sistema espacial (p. 303).",
+   "referencia": "p. 303"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t014",
+   "n_ficha": 14,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "En 1843 Cartagena doblaba a Barranquilla; cuarenta años después la relación estaba invertida (Tabla 9.2: 10.145 frente a 5.651, es decir 1,80 veces, aunque el texto dice \"doblaba\"; en 1883, 9.681 frente a 16.982) (p. 303).",
+   "referencia": "p. 303"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t015",
+   "n_ficha": 15,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Argentina y Perú tuvieron relevo costa-cordillera; Colombia no. La respuesta del texto es una conjunción de factores, no uno solo: los ríos navegables no bastan (Argentina con el Río de la Plata); la densidad andina no basta (Argentina y Perú con condiciones semejantes tuvieron procesos distintos); la escasez de mano de obra se resolvió distinto en cada país (inmigración libre europea hacia Argentina y Brasil; china hacia Perú; en Colombia nunca hubo inmigración masiva); el dilema entre retener trabajadores en las haciendas o integrar a los colonos de la frontera agrícola (pp. 306-307).",
+   "referencia": "pp. 306-307"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t016",
+   "n_ficha": 16,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Frontera agrícola con formas libres de producción: primero Santander (siglo XVIII), luego Antioquia (siglo XIX), a finales del XIX el Gran Caldas (p. 307). La hacienda se flexibilizó en el interior (Cundinamarca, Santander, Tolima, Cauca y algunas zonas de Antioquia); la Costa Atlántica conservó la hacienda colonial con sus rigideces (p. 307).",
+   "referencia": "p. 307; p. 307"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t017",
+   "n_ficha": 17,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La p. 308 lista cinco centros urbano-regionales consolidados por la multipolaridad (Bogotá, Medellín, Barranquilla, Cali y Manizales); la cabeza urbana \"cuadricefálica\" son cuatro (Bogotá, Medellín, Cali, Barranquilla).",
+   "referencia": "p. 308"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t018",
+   "n_ficha": 18,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La participación de Antioquia en la población nacional pasó del 10% al 12,4% entre 1843 y 1870; Medellín pasó del quinto al segundo lugar (p. 308).",
+   "referencia": "p. 308"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t019",
+   "n_ficha": 19,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Café: de 8,1% (texto 1865-70; tabla 1864/1870) a 34,3% (1888-91) de los ingresos comerciales externos; en 1874-1894 el volumen se multiplicó por cinco, con 82% concentrado en Cundinamarca, Tolima y Santander; en 1922, cerca de mil kilos por hectárea frente a 730 de media nacional (p. 308).",
+   "referencia": "p. 308"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t020",
+   "n_ficha": 20,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Hacia 1870 había unos 320 mil artesanos, el 23% de la población activa, concentrados en Santander, Boyacá y Cundinamarca (regiones de hacienda exportadora); la expansión de importaciones fue su quiebra económica. El nuevo artesanado (fundición, máquinas para minería, beneficio del café) surgió en otras regiones, favoreciendo a Antioquia y Caldas (pp. 309-310).",
+   "referencia": "pp. 309-310"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t021",
+   "n_ficha": 21,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Ferrocarriles (p. 309): Barranquilla-Sabanilla, terminada en 1878; Cúcuta-Zulia, 1878; Cali-Buenaventura, 1878; Medellín-Puerto Berrío, 1874; Bogotá-Girardot, 1885; Cartagena-Calamar, 1891; Dorada-Honda, 1882. Eran proyectos de Cali, Bogotá, Medellín y Barranquilla; la competencia portuaria fue Barranquilla-Cartagena en el Atlántico y Cali hacia el Pacífico.",
+   "referencia": "p. 309"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t022",
+   "n_ficha": 22,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La Constitución de 1886 (centralista y presidencialista, vigente hasta 1991) marcó el comienzo del fin del equilibrio regional inestable; solo la guerra de los Mil Días (1897-1900), ganada por los conservadores y librada sobre todo en el oriente andino, lo clausuró. Centralistas son conservadores y federalistas son liberales (p. 310).",
+   "referencia": "p. 310"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t023",
+   "n_ficha": 23,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La secesión de Panamá fue \"el golpe de gracia\" (p. 310-311): reavivó el nacionalismo, hubo un solo ejército bajo el gobierno nacional, surgieron el papel moneda y la banca central (Banco de la República). La deuda externa alcanzó su tope en los años veinte.",
+   "referencia": "p. 310-311"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t024",
+   "n_ficha": 24,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "El cambio de orientación del transporte (p. 311): se invirtió sobre todo en el oriente andino, en el área de influencia de Bogotá, con sentido de integración y no de articulación a la economía mundial. La p. 311 ubica la recuperación del liderazgo de Bogotá \"después de 1940\"; la p. 317 la ubica \"después de los años veinte\".",
+   "referencia": "p. 311; p. 311; p. 317"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t025",
+   "n_ficha": 25,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Medellín en 1915 (Bejarano): 1.121 establecimientos manufactureros con capital de 12,8 millones, \"70% localizado en Medellín\" (la frase no dice con precisión si el 70% se refiere a establecimientos o a capital); los textileros eran el 16% de los establecimientos y cerca del 25% del capital (p. 312).",
+   "referencia": "p. 312"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t026",
+   "n_ficha": 26,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "En la transición del capitalismo comercial al industrial compitieron Medellín y Bogotá; hubo apogeo de Medellín y, a la vez, un profundo remezón del oriente andino que sentaría las bases de la consolidación de Bogotá (ambivalencia territorial) (pp. 312-313).",
+   "referencia": "pp. 312-313"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t027",
+   "n_ficha": 27,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Balance 1890-1930: se prolongó la dualidad interior-litoral; se consolidó el corredor occidental andino; la integración física pasó a una orientación principalmente introvertida (p. 313).",
+   "referencia": "p. 313"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t028",
+   "n_ficha": 28,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "1930-1945: la industrialización deja de ser derivada de la expansión del comercio exterior; la rama textil fue la preponderante y se concentró en Medellín (p. 314).",
+   "referencia": "p. 314"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t029",
+   "n_ficha": 29,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Exportaciones entre 1925-29 y 1935-39: el café en volumen subió 62% y el oro exportado 158%; los precios cayeron con fuerza pero la cantidad lo compensó (p. 314). La participación de la industria en el PIB pasó del 9% al 16,5% entre 1925 y 1945 (Ocampo).",
+   "referencia": "p. 314"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t030",
+   "n_ficha": 30,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "El eje urbano industrial del occidente andino: Medellín, Manizales, Pereira, Armenia, Tuluá, Buga, Palmira y Cali, a lo largo de la cordillera Central; la producción cafetera creció de manera extensiva, no por mayor productividad (pp. 314-315).",
+   "referencia": "pp. 314-315"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t031",
+   "n_ficha": 31,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Las aduanas pasaron del 45% de los ingresos tributarios (1925-29) a menos del 20% durante los años de la guerra. La devaluación dejó de ser el mecanismo privilegiado y se aplicó control directo de importaciones (p. 316).",
+   "referencia": "p. 316"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t032",
+   "n_ficha": 32,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "El Estado apoyó la industria sin ser Estado benefactor: la política anticíclica fue mantener los ingresos cafeteros, no gasto en salud, seguridad social o subsidios al desempleo (p. 316).",
+   "referencia": "p. 316"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t033",
+   "n_ficha": 33,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "FNC: negociación Estado-capitalistas del café; el Fondo Nacional del Café financió carreteras, escuelas, nutrición infantil y salud: institución paraestatal (dineros públicos, gerencia privada). Neutraliza las tendencias centralistas del Estado porque orienta inversión a zonas cafeteras (pp. 316-317).",
+   "referencia": "pp. 316-317"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t034",
+   "n_ficha": 34,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Prioridades del gasto estatal: ferrocarriles (a principios del siglo XX), carreteras (entre 1930 y 1960) y electricidad (después de 1960) (p. 317). Política heterodoxa en lo comercial, muy ortodoxa en lo monetario y fiscal.",
+   "referencia": "p. 317"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t035",
+   "n_ficha": 35,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Las luchas agrarias dominaron el escenario político en los treinta; las haciendas de Cundinamarca y Tolima fueron el centro; contribuyeron a la disolución de la hacienda y a hacer más apta la zona oriental andina (p. 317).",
+   "referencia": "p. 317"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t036",
+   "n_ficha": 36,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La cabeza urbana de cuatro ciudades: Bogotá (oriente andino), Medellín y Cali (occidente andino) y Barranquilla (Costa Atlántica); entre 1938 y 1951 se consolidó la preponderancia económica de las cuatro mayores (pp. 318-319).",
+   "referencia": "pp. 318-319"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t037",
+   "n_ficha": 37,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La Región Atlántica fue \"la excepción que confirma la regla\" de la integración física no centrada en un solo nodo (p. 319). Los excedentes cafeteros financiaron las inversiones del occidente andino; la deuda externa y los ingresos estatales, las del oriente.",
+   "referencia": "p. 319"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t038",
+   "n_ficha": 38,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Colombia no tuvo relevo en la ciudad primada: en Brasil, São Paulo desplazó a Río de Janeiro; en Colombia Medellín no desplazó a Bogotá (pp. 319-320). El occidente desarrolló una red urbana extensa y poco polarizada; el oriente permitió un crecimiento polarizado por Bogotá.",
+   "referencia": "pp. 319-320"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t039",
+   "n_ficha": 39,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Texto frente a Tabla 9.3 (1938-1951): el texto dice que los tres departamentos del occidente (Antioquia, Caldas y Valle) aumentan su participación; la tabla da Antioquia 13,6 a 13,5 (baja de 0,1), Caldas 8,84 a 9,24 y Valle 7,04 a 9,58 (p. 320).",
+   "referencia": "p. 320"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t040",
+   "n_ficha": 40,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Cundinamarca superó la tendencia al debilitamiento demográfico relativo que traía desde comienzos del siglo XX (15,2% en 1905; 13,4% en 1938; 14% en 1951); Boyacá, Santander y Norte de Santander siguieron retrocediendo (p. 320).",
+   "referencia": "p. 320"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t041",
+   "n_ficha": 41,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Industria 1945-1974 (Ocampo): producción x 7,7; 7,3% anual; empleo fabril 4,2% anual; productividad 3% anual. Sustitución tardía de 10,3% a 42,2% del valor agregado industrial; temprana de 62,4% a 35,9% (p. 322).",
+   "referencia": "p. 322"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t042",
+   "n_ficha": 42,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Perfil mínimo (p. 323): mayor valor = menor integración. El texto dice que sube de 75,7% a 78,8% entre 1938 y 1973 (lo que sugiere cierta desintegración), pero concluye que la industria contribuyó a una red urbana más integrada. La Tabla 9.4 da 75,65 (1938), 78,9 (1951) y 75,17 (1973). Por ramas: terciarias de 43% a 54%; secundarias de 29% a 17%.",
+   "referencia": "p. 323"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t043",
+   "n_ficha": 43,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Las cuatro mayores ciudades concentran entre el 75 y el 80% del valor agregado industrial entre 1966 y 1974 (p. 323); en la p. 345 el rango es entre el 70 y el 80% del empleo y del valor agregado manufacturero nacional. Bogotá y Medellín cerca del 25% cada una; Cali y Barranquilla cerca del 10% cada una.",
+   "referencia": "p. 323; p. 345"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t044",
+   "n_ficha": 44,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Especialización: Bogotá, bienes de consumo durable y de capital; Medellín y Cali, bienes intermedios (textiles en Medellín y productos químicos en Cali). Los bienes de consumo intermedio y ligero son más dispersos por los costos de transporte y la cercanía a materias primas (\"26 y 33,5%, respectivamente, en 1974\": frase ambigua) (p. 323).",
+   "referencia": "p. 323"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t045",
+   "n_ficha": 45,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Agroindustria: área sembrada de 1,9 a 2,9 millones de hectáreas (de comienzos de los cincuenta a mediados de los setenta); la producción no cafetera creció 150%; la producción comercial pasó de 19% a 41% de la superficie cultivada. La agricultura comercial se concentró en zonas planas y empujó al campesino a la frontera (pp. 324-325).",
+   "referencia": "pp. 324-325"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t046",
+   "n_ficha": 46,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Cultivos: banano en Urabá y Magdalena; tabaco en la Costa Atlántica y Santander; algodón en la Costa Atlántica; azúcar en el Valle del Cauca; flores en la sabana de Bogotá. Ciudades estimuladas: Ibagué, Neiva, Montería, Sincelejo y ciudades del Valle del Cauca (p. 325).",
+   "referencia": "p. 325"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t047",
+   "n_ficha": 47,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La decadencia del occidente andino: el café retrocedió por la violencia política de los años cincuenta (concentrada en esa zona), la obsolescencia de la tecnología y el envejecimiento de las plantas; la colonización hacia piedemonte llanero, Amazonia, valle medio del Magdalena, Costa Pacífica y Catatumbo explica a Villavicencio y Florencia (p. 325).",
+   "referencia": "p. 325"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t048",
+   "n_ficha": 48,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "El Estado: el IFI contribuyó a crear Ecopetrol, Sofasa y Paz del Río; las industrias de base se ubican cerca de sus materias primas y por eso dispersan la industria (p. 326). Reveiz (1981): el 30% de los miembros de comisiones y juntas de los entes rectores de la política económica eran representantes del sector privado y los trabajadores, campesinos y consumidores solo el 4%.",
+   "referencia": "p. 326"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t049",
+   "n_ficha": 49,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Tres períodos del IPT: consolidación republicana 1820-1870 (3% a 1,5%), expansión comercial 1870-1920 (1,5% en 1870 a 2,5% en 1905; estancado entre 1905 y 1920), industrialización de 1920 a 1973 (p. 327). La p. 327 pone el punto de partida de la industrialización en \"1920\" y la etapa de crecimiento incesante \"posteriormente a 1918\".",
+   "referencia": "p. 327; p. 327"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t050",
+   "n_ficha": 50,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Tres etapas del CIC (Tabla 9.5): lento crecimiento 1918-1938; crecimiento creciente 1938-1973; crecimiento decreciente 1973-1993 (pp. 327-328). Cerca de 55 años de crecimiento primacial creciente (1918-1973), y después de 1973 el CIC es cada vez más bajo.",
+   "referencia": "pp. 327-328"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t051",
+   "n_ficha": 51,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Entre 1918 y 1993 Bogotá \"multiplicó por seis\" su participación en la población nacional, del 2,5% al 15% (p. 328; 0,0246 y 0,1494 en la Tabla 9.5). Causas: consolidación del Estado nacional, integración territorial del espacio económico, urbanización creciente e industrialización.",
+   "referencia": "p. 328"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t052",
+   "n_ficha": 52,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Dos peculiaridades frente a América Latina: nivel de primacía en el arranque (1920) bajo, apenas la mitad del argentino en 1870 y ligeramente inferior al brasileño de 1920 y 1940; y CIC inferior al de otros países y muy próximo al de Brasil, el más bajo de los estudiados (pp. 327-329).",
+   "referencia": "pp. 327-329"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t053",
+   "n_ficha": 53,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Cuatro factores de neutralización de la concentración: sistema urbano multipolar heredado de la inestabilidad de los polos regionales; industrialización, desarrollo agrícola y peculiaridades del Estado (corporatismo y respuesta a la violencia regional); la geografía (mercados regionales protegidos, especialización y competencia por funciones estratégicas como las portuarias); un sistema urbano en expansión que genera nuevos ejes (pp. 329-330).",
+   "referencia": "pp. 329-330"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t054",
+   "n_ficha": 54,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "ICC (Gráfico 9.3): creció de 1840 (la Tabla 9.5 abre en 1843) a 1883; decreció de 1883 a 1928; creció de 1928 a 1993. El máximo (1,3922) nunca se volvió a alcanzar; el texto lo ubica en 1880 y el gráfico lo marca en 1883 (p. 330).",
+   "referencia": "p. 330"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t055",
+   "n_ficha": 55,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Cabeza urbana 1843-1883: Pasto y Cartagena (segundo y cuarto lugar en 1843) caen a octavo y noveno; Medellín (del quinto al segundo) y Barranquilla (del décimo al tercero) suben (pp. 330-331).",
+   "referencia": "pp. 330-331"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t056",
+   "n_ficha": 56,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "ICC de 0,70 (1928) a 1,18 (1993); Bogotá era 1,96 veces Medellín en 1938 y 2,2 veces en 1985. Cali sobrepasó a Barranquilla y ocupó el tercer lugar (agroindustria, Buenaventura, eje occidental) (p. 331).",
+   "referencia": "p. 331"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t057",
+   "n_ficha": 57,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Asociación IPT-ICC: mientras el ICC se reducía (1883-1928) el IPT crecía muy moderadamente; cuando el ICC aumentó (después de 1928) el IPT se aceleró; el texto la llama \"relación inversa\" y la lee como papel equilibrador de las ciudades secundarias, en especial Medellín. Es el mismo fenómeno que en Japón (Tokio-Osaka; Cuervo, 1996) (p. 331).",
+   "referencia": "p. 331"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t058",
+   "n_ficha": 58,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La concentración de las 22 mayores ciudades (pendiente rango-tamaño, Gráfico 9.4) creció hasta 1973 y luego descendió (p. 331; q de 0,8714 a 1,0382 y 0,9742 en la Tabla 9.5).",
+   "referencia": "p. 331"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t059",
+   "n_ficha": 59,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Rango-tamaño: se toma el conjunto de ciudades que agrupa el 70% de la población urbana; de 75 a 42 cabeceras entre 1951 y 1993. 1951: escalones de 4, 9, 9, 7 ciudades y el resto; 1993: el primer escalón baja de cuatro a tres ciudades, continuidad en las 23 siguientes y 3 o 4 escalones de cuatro ciudades en la cola (p. 332).",
+   "referencia": "p. 332"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t060",
+   "n_ficha": 60,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Después de 1973 la cabeza urbana oscila entre mono y tricefálica por el crecimiento de Bogotá y Cali y la mengua de Medellín y Barranquilla; Barranquilla parece haber abandonado la cabeza (pp. 335-336). La desaparición de escalones intermedios es síntoma de integración socioespacial (infraestructura, integración del mercado).",
+   "referencia": "pp. 335-336"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t061",
+   "n_ficha": 61,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Finales del siglo XX: Bogotá, Medellín y Cali como cabeza indiscutible, seguidas por 22 ciudades que son la columna vertebral del sistema; resultado de mayor desequilibrio en la cabeza y mayor integración entre las ciudades medias (p. 337).",
+   "referencia": "p. 337"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t062",
+   "n_ficha": 62,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Tabla 9.6 y Gráfico 9.11: con municipios hay desconcentración después de 1973; con áreas metropolitanas q crece hasta 1985 y solo después da signos de debilitamiento. Es \"desconcentración concentrada\" (metropolización) (p. 339).",
+   "referencia": "p. 339"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t063",
+   "n_ficha": 63,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Distribución regional (Tabla 9.7): Región Andina de 82% (1951) a 74,5% (1993); Costa Atlántica de 16,25% a 20,75%; piedemonte llanero, Orinoquia y Amazonia de 1,8% a 4,6%; occidente y oriente andino: 41% frente a 37% en 1951 (cifras urbanas) y cercanos al 37% cada uno en 1993 (pp. 339-344).",
+   "referencia": "pp. 339-344"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t064",
+   "n_ficha": 64,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Costa Atlántica: su aumento se debe a la población rural (13,2% a 21,6%); la urbana se mantiene cerca del 21%. Oriente andino: su aumento se explica por la urbanización acelerada: en población urbana nacional el occidente tenía 41% frente a 37% del oriente en 1951 y en 1993 el oriente tenía 39,7% frente a 36,5% del occidente; el occidente siguió primero en población rural (p. 344).",
+   "referencia": "p. 344"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t065",
+   "n_ficha": 65,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La Tabla 9.7 impresa omite la fila Occidente andino de 1993 y sus totales no llegan a 100% (63,52%, 60,40% y 62,63%).",
+   "referencia": null
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t066",
+   "n_ficha": 66,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Primacía industrial frente a urbana (Gráficos 9.5 y 9.6): en el IPT la industrial está siempre por encima de la urbana; en el ICC la urbana está por encima. Industrial: 1945-1958 acelerada; 1958-1980 lenta; 1980-1991 nueva aceleración. Urbana: 1945-1974 acelerada; 1974-1991 más lenta. En el ICC la industrial tiene tres fases: 1945-1958; 1958-1966 leve retroceso; 1966-1991 aceleración en dos tiempos (moderada hasta 1980 y muy superior después) (p. 345).",
+   "referencia": "p. 345"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t067",
+   "n_ficha": 67,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Las fechas de observación de población y empleo no coinciden: se toman las del empleo y se estiman los valores de población según tendencias (nota 10, p. 345).",
+   "referencia": "p. 345"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t068",
+   "n_ficha": 68,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Hipótesis central (p. 346): la ruptura del equilibrio entre las cuatro mayores (fin de la cuadricefalia) sería, en parte, resultado del quiebre del balance en la repartición de la actividad manufacturera entre esas cuatro ciudades. La recuperación del crecimiento de la primacía industrial dentro de las cuatro ciudades (1966-1980) antecede a la nacional (1980-1991).",
+   "referencia": "p. 346"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t069",
+   "n_ficha": 69,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Conclusiones de sección (pp. 346-347): después de 1973 el CIC es más bajo; Medellín y Cali se nivelan y Barranquilla se aleja y aparece como la mayor de las intermedias; la modalidad predominante de desconcentración es la metropolización; con el IPT las primacías urbana e industrial pierden la sincronía (la industrial se aceleró después de 1980 y la urbana se desacelera después de 1973), con el ICC la sincronización y la intensidad se fortalecen.",
+   "referencia": "pp. 346-347"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t070",
+   "n_ficha": 70,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Rasgos estructurales de 170 años de vida independiente: flexibilidad, multipolaridad y dualidad (pp. 347-348). La dualidad menor (costa norte frente a interior, con la Costa Atlántica generalmente excluida) se superpone a la mayor (zonas pobladas frente a despobladas).",
+   "referencia": "pp. 347-348"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t071",
+   "n_ficha": 71,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La falacia de la microeconomía espacial (capítulo 1): confundir expresiones del cambio con sus razones; hay que estudiar la industrialización y la urbanización en un nivel macroespacial, superando el economicismo (p. 348). Hay por lo menos tres dimensiones: económica, política y social.",
+   "referencia": "p. 348"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t072",
+   "n_ficha": 72,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Político: la Constitución de 1886 como base de la unificación del territorio, consolidada especialmente después de los años veinte; tras la consolidación republicana la infraestructura de transporte se construyó por iniciativa regional con sentido de extraversión; solo desde los años veinte el Estado central tuvo papel preponderante (p. 349).",
+   "referencia": "p. 349"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t073",
+   "n_ficha": 73,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Social: la colonización es un factor casi permanente de expansión del sistema urbano; en el siglo XVII dio abrigo a colonos blancos y mestizos pobres que huían de la hacienda; a finales del XVIII y en el XIX se formó una \"segunda generación\" de campesinos libres con espíritu empresarial, cafeteros; en el siglo XX acoge a quienes escapan de la violencia o no logran abrirse paso en las grandes ciudades (pp. 349-350).",
+   "referencia": "pp. 349-350"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t074",
+   "n_ficha": 74,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Violencia como factor \"regulador\": las guerras civiles del siglo XIX sellaron la crisis del oriente andino y dieron paso al occidente con Medellín; la violencia de los años cincuenta expresó la crisis de la zona cafetera y marcó el comienzo del fin del dominio del occidente (p. 350).",
+   "referencia": "p. 350"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t075",
+   "n_ficha": 75,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Acumulación: en la segunda mitad del siglo XIX la apertura y el éxito exportador del occidente sellaron la decadencia del altiplano cundiboyacense y los Santanderes; la industrialización incipiente consolidó el occidente; con la maduración del modelo sustitutivo Bogotá reaparece como centro dominante (p. 350).",
+   "referencia": "p. 350"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t076",
+   "n_ficha": 76,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "La industrialización es un factor central pero uno entre varios; antes de 1920 es difícil mostrarla como determinante de la urbanización; después de esa década su papel es estratégico (p. 350).",
+   "referencia": "p. 350"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t077",
+   "n_ficha": 77,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Tres momentos de mutación en los últimos 120 años (p. 351): fines del siglo XIX (modelo hacia afuera; importaciones casi liquidan la artesanía del altiplano cundiboyacense y Santanderes; nuevo artesanado cafetero; Medellín y el eje cafetero); 1930-1945 (industria de motor del mercado interno; sustitución como intencionalidad explícita; paso de cuatro centros en equilibrio relativo a un sistema liderado por Bogotá; liderazgo del occidente al oriente y de Medellín hacia Cali); los últimos 25 años (agotamiento del modelo sustitutivo a fines de los sesenta; crisis industrial 1974-1982).",
+   "referencia": "p. 351"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t078",
+   "n_ficha": 78,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Relación contradictoria reciente (pp. 351-352): un papel cada vez más débil de la concentración espacial de la industria en el equilibrio entre Bogotá y la malla urbana en su conjunto (IPT) y, en sentido opuesto, un papel creciente de la primacía industrial en la preponderancia de Bogotá dentro de la cabeza de cuatro ciudades (ICC).",
+   "referencia": "pp. 351-352"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t079",
+   "n_ficha": 79,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "El capítulo no considera el narcotráfico ni su impacto regional \"por falta de tiempo\" (nota 1, p. 295).",
+   "referencia": "p. 295"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-t080",
+   "n_ficha": 80,
+   "grupo": "Cada línea indica la formulación correcta y la confusión posible, con la página.",
+   "texto": "Rótulos impresos: el eje vertical del Gráfico 9.5 dice \"Población Total\" y el título \"IPT urbano e industrial\"; el Gráfico 9.2 se titula \"Índice de población total\" (es el IPT).",
+   "referencia": null
+  }
+ ],
+ "pares": [
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p001",
+   "par": "IPT frente a ICC",
+   "diferencia": "IPT: población de Bogotá / población nacional (Gráfico 9.2; 0,0246 en 1918 y 0,1494 en 1993). ICC: Bogotá / suma de las tres ciudades siguientes (Gráfico 9.3; 0,7380 en 1918 y 1,1822 en 1993). El IPT mide a Bogotá frente al país; el ICC mide la estructura de la cabeza urbana"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p002",
+   "par": "Función diacrónica frente a sincrónica (aplicadas a Colombia)",
+   "diferencia": "Diacrónica: trayectoria en el tiempo (tres períodos del IPT; tres etapas del CIC; \"55 años de crecimiento primacial creciente\"). Sincrónica: nivel y estructura en un momento (nivel bajo; cuadricefalia; rango-tamaño; corredores urbanos)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p003",
+   "par": "Nivel de primacía frente a intensidad cronológica (CIC)",
+   "diferencia": "Nivel: el IPT en el arranque (el de 1920 es apenas la mitad del argentino de 1870). Intensidad: velocidad de crecimiento del IPT (CIC, inferior a la de otros países y muy próxima a la de Brasil, la más baja). Son las dos peculiaridades que debe explicar cualquier interpretación del caso colombiano"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p004",
+   "par": "Cuadricefalia frente a monocefalia y tricefalia",
+   "diferencia": "Cuadricefalia: cabeza de cuatro ciudades (Bogotá, Medellín, Cali, Barranquilla), cada una centro de una región. Después de 1973 la cabeza oscila entre mono y tricefálica (Bogotá, Medellín y Cali como cabeza; Barranquilla como la mayor de las intermedias)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p005",
+   "par": "Primacía urbana frente a primacía industrial",
+   "diferencia": "Urbana: IPT o ICC con población. Industrial: IPT o ICC con empleo manufacturero. En el IPT (Gráfico 9.5) la industrial está siempre por encima; en el ICC (Gráfico 9.6) la urbana está por encima de la industrial"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p006",
+   "par": "Municipios frente a áreas metropolitanas (Tabla 9.6, Gráfico 9.11)",
+   "diferencia": "Con municipios por separado, q sube hasta 1973 y baja después (desconcentración); con áreas metropolitanas, q sube hasta 1985 y baja apenas en 1993. Conclusión: desconcentración focalizada en municipios cercanos a las grandes ciudades"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p007",
+   "par": "Desconcentración frente a metropolización",
+   "diferencia": "La desconcentración posterior a 1973 es metropolización, \"desconcentración concentrada\": difusión del crecimiento de los centros mayores a las poblaciones circundantes"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p008",
+   "par": "Flexibilidad, multipolaridad y dualidad",
+   "diferencia": "Flexibilidad: capacidad de adaptación (violencia, migraciones, movilidad de los frentes de acumulación). Multipolaridad: equilibrio relativo entre polos y áreas. Dualidad: costa norte frente a interior (dualismo menor), superpuesta a zonas pobladas frente a despobladas (dualismo mayor y más estable)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p009",
+   "par": "Dualismo menor frente a dualismo mayor",
+   "diferencia": "Menor: Costa Atlántica excluida del dinamismo, con corredores oriental y occidental andinos disputándose la preponderancia. Mayor: zonas pobladas y despobladas (gran parte de la Costa Pacífica y las llanuras y selvas de Orinoquia y Amazonia)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p010",
+   "par": "Conquista frente a Colonia",
+   "diferencia": "Conquista: régimen militar de explotación violenta, rendimientos muy altos en lapsos cortos, devastación demográfica. Colonia: organización estable articulada al imperio, con metales preciosos, esclavismo y hacienda"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p011",
+   "par": "Hacienda frente a café campesino",
+   "diferencia": "La hacienda concentraba producción y comercialización del café. El campesino solo produce; el beneficio, el comercio y el transporte pasan a otros agentes en el medio urbano, lo que estimula las ciudades. Antioquia (café campesino) toma el liderazgo cuando el oriente andino pierde la hacienda"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p012",
+   "par": "Oriente andino frente a occidente andino",
+   "diferencia": "Oriente: Bogotá, Cundinamarca, Boyacá, Santander y Norte de Santander; meseta con gran población; crecimiento urbano polarizado por Bogotá. Occidente: Antioquia, Caldas, Valle; café campesino; red urbana extensa y poco polarizada; eje urbano a lo largo de la cordillera Central"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p013",
+   "par": "Crisis del oriente andino frente a crisis de la zona cafetera",
+   "diferencia": "Oriente: guerras civiles de fines del siglo XIX (en especial la guerra de los Mil Días); abren paso al occidente con Medellín. Zona cafetera: violencia de los años cincuenta; comienzo del fin del dominio del occidente y reaparición del oriente"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p014",
+   "par": "Relevo costa-cordillera frente a Colombia",
+   "diferencia": "En Argentina y Perú la costa asumió el liderazgo de la cordillera. En Colombia no hubo relevo: conjunción de factores (ríos Magdalena y Cauca, densidad andina, escasez de mano de obra resuelta sin inmigración masiva, frontera agrícola, haciendas flexibilizadas, Costa Atlántica con hacienda rígida)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p015",
+   "par": "Industria inducida por el café frente a motor del mercado interno",
+   "diferencia": "1890-1930: la industrialización es un resultado derivado de la expansión exportadora. 1930-1945: el crecimiento del mercado interno explica su evolución; la sustitución de importaciones pasa de \"obligada\" a intencionalidad explícita"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p016",
+   "par": "Sustitución temprana frente a tardía",
+   "diferencia": "Temprana: alimentos, bebidas, tabaco, vestuario y calzado, madera y muebles, imprentas y artículos de cuero (62,4% a 35,9% del valor agregado industrial, 1945-1974). Tardía: papel, productos químicos, derivados del petróleo, metálicos básicos y metalmecánica (10,3% a 42,2%)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p017",
+   "par": "Perfil mínimo alto frente a bajo",
+   "diferencia": "Cuanto mayor es el perfil mínimo, menor es el grado de integración interurbana de las actividades económicas"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p018",
+   "par": "Corporatismo frente a movimientos sociales",
+   "diferencia": "Corporatismo (modelo de la FNC): el capital privado interviene en la gestión de fondos públicos. Movimientos sociales: \"la otra cara de la moneda\": las capas excluidas presionan mediante protesta social y violencia política"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p019",
+   "par": "Intervención estatal sin Estado benefactor",
+   "diferencia": "El Estado interviene activamente en el sector externo y el crédito, con conservatismo monetario y fiscal; la política anticíclica descansa en sostener los ingresos cafeteros, no en gasto social o subsidios al desempleo"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p020",
+   "par": "Heterodoxia frente a ortodoxia (Estado)",
+   "diferencia": "Comercial: heterodoxa (estimuló la industrialización). Monetaria y fiscal: muy ortodoxa (evitó la hiperinflación)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p021",
+   "par": "Cartagena-Barranquilla frente a Pasto-Medellín",
+   "diferencia": "Dos relevos de 1843-1883: Barranquilla reemplaza a Cartagena por la desaparición de las funciones metropolitanas de esta y el ascenso de las comerciales de aquella; Medellín reemplaza a Pasto por el naciente eje urbano occidental andino"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p022",
+   "par": "Tres períodos del IPT frente a ocho períodos históricos",
+   "diferencia": "IPT: consolidación republicana 1820-1870, expansión comercial 1870-1920, industrialización 1920-1973. Historia económica: ocho períodos, de la Colonia a la crisis y reconversión desde 1974"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p023",
+   "par": "q de 14 ciudades frente a q de 22 ciudades",
+   "diferencia": "14 ciudades: máximo en 1985 (1,1310). 22 ciudades: máximo en 1973 (1,0382), y es la serie que comenta el texto (Gráfico 9.4)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p024",
+   "par": "Tres corredores urbanos frente a cuatro",
+   "diferencia": "Tres consolidados: andino-oriental, andino-occidental y atlántico. Un cuarto, el piedemonte llanero, en formación y aún dependiente del oriental andino"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-p025",
+   "par": "Expresión frente a razón del cambio (falacia de la microeconomía espacial)",
+   "diferencia": "La falacia: confundir las expresiones de los cambios (nuevos factores de localización industrial, fenómeno microespacial) con sus razones (fenómenos socioespaciales como las formas de urbanización y de concentración urbana)"
+  }
+ ]
+}

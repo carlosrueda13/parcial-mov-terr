@@ -22,6 +22,8 @@ Archivo: `content/semana-NN/<lectura>/ficha.md`. Contiene:
 
 ## 3. Paquete de contenido
 
+`python3 scripts/build_banco.py` extrae de cada ficha las secciones "Preguntas modelo", "Trampas probables" y "Pares que se confunden" a `content/banco/<semana>/<lectura>.json` (esquema en `content/schema/banco.schema.json`). La ficha sigue siendo la fuente: se corrige la ficha y se regenera.
+
 A partir de la ficha se produce, con esquema validado:
 
 | Pieza | Descripción |

@@ -1,0 +1,195 @@
+{
+ "semana": 1,
+ "lectura": "cepal-2024",
+ "autor": "CEPAL (coordinadores: Diego Aulestia y Bruno Lana)",
+ "titulo": "Informe urbano de América Latina y el Caribe 2024",
+ "alcance": "pp. 54-73 del programa. Cap. II 'Tema central: movilidad urbana sostenible' (pp. 55-65: introducción; A. desigualdades; B. pandemia; C. potencial ambiental y económico), cap. III conclusiones (pp. 67-68) y bibliografía (pp. 69-73). La p. 54 es solo el Gráfico 28 del capítulo anterior y la p. 66 está en blanco.",
+ "fuente": "content/semana-01/cepal-2024/ficha.md",
+ "preguntas": [
+  {
+   "id": "s01-cepal-2024-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Qué papel asigna el informe a la movilidad urbana en la inclusión social?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-cepal-2024-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Qué factor explica, según el texto, la prevalencia de modos sostenibles en las ciudades de ALC?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-cepal-2024-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "¿Qué proporción del tiempo de viaje y en qué ciudades es el doble en transporte público?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-cepal-2024-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice el informe sobre las mujeres y los viajes de cuidado?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-cepal-2024-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Qué cifra de caída de demanda colectiva dejó 2020 y qué ocurrió con el metro en 2023?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-cepal-2024-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los cinco caminos alternativos que plantea el informe para financiar la movilidad sostenible?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-cepal-2024-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Qué mide la estimación de 1.100 millones de dólares y qué no incluye?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s01-cepal-2024-t001",
+   "n_ficha": 1,
+   "grupo": null,
+   "texto": "Cifras que se pueden permutar: 68% (modos activos y transporte público, CAF, 29 ciudades); 124 a 196 vehículos por mil habitantes, +58% (2005-2015); 31% de las emisiones regionales frente a África 23% y Asia 12%.",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t002",
+   "n_ficha": 2,
+   "grupo": null,
+   "texto": "\"Siempre varios minutos más largos\" (transporte público frente a privado), \"el doble\" solo en algunas ciudades (São Paulo, Buenos Aires, Montevideo) y \"más de una hora\" en cinco de las seis (no en Montevideo).",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t003",
+   "n_ficha": 3,
+   "grupo": null,
+   "texto": "Car use por estrato: 5% frente a 76% (Santiago), 12% frente a 70% (Montevideo), 7% frente a 56% (São Paulo), 8% frente a 54% (Ciudad de México). Buenos Aires es el patrón más equitativo.",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t004",
+   "n_ficha": 4,
+   "grupo": null,
+   "texto": "Mujeres: alrededor de dos tercios de los viajes de cuidado; 77% en Ciudad de México; 56% en Montevideo y São Paulo; 37 frente a 49 minutos (mujeres menor tiempo, viajes más cortos y más numerosos); de 3 a 5 veces más hombres en la madrugada, en algunas ciudades.",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t005",
+   "n_ficha": 5,
+   "grupo": null,
+   "texto": "Gasto en transporte: cuatro primeros quintiles destinan en promedio 4,7% a transporte público; solo el último quintil gasta más en transporte privado; cercano a 5%, el más alto entre regiones en desarrollo.",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t006",
+   "n_ficha": 6,
+   "grupo": null,
+   "texto": "Ciudad de 15 minutos: el 39% de Montevideo es el doble del 20% de Bogotá y Ciudad de México.",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t007",
+   "n_ficha": 7,
+   "grupo": null,
+   "texto": "Pandemia: caída de 40% a 80% en 2020; metros todavía entre 15% y 30% por debajo en 2023; la desaceleración de 2023 indica cambios estructurales.",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t008",
+   "n_ficha": 8,
+   "grupo": null,
+   "texto": "Flota de buses y microbuses: cerca de 4% anual en dos décadas (hasta 6% anual tendencial hasta 2030).",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t009",
+   "n_ficha": 9,
+   "grupo": null,
+   "texto": "Electromovilidad: de ninguna unidad a más de tres mil en seis años (batería); Santiago concentra la mitad de la flota a batería; Santiago más Bogotá superan 80% de la flota regional; 403 kilotoneladas de CO2 evitadas en 2023 (estimación).",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t010",
+   "n_ficha": 10,
+   "grupo": null,
+   "texto": "Metas: Bogotá habla de buses BRT eléctricos (50% en 2030, 100% en 2050); Quito, 52% en 2030 y 100% desde 2040; Lima, 35% en 2030 y 90% en 2050.",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t011",
+   "n_ficha": 11,
+   "grupo": null,
+   "texto": "Inversión: más de 1.100 millones para una flota de 3.400 buses; cerca de 5 mil millones para 15 mil; a 327.000 dólares por vehículo; sin infraestructura de carga.",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t012",
+   "n_ficha": 12,
+   "grupo": null,
+   "texto": "\"Hasta 2030, la mitad de la transición en 6 años\".",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t013",
+   "n_ficha": 13,
+   "grupo": null,
+   "texto": "Las cinco medidas alternativas de financiación y planificación (retrofit, nuevos modelos de negocio, planificación del uso del suelo, movilidad activa, recuperación de la valorización). No son \"solo\" electrificación.",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t014",
+   "n_ficha": 14,
+   "grupo": null,
+   "texto": "Orden de causas: la prevalencia de modos sostenibles está influenciada por limitaciones de ingreso, no por conciencia ambiental.",
+   "referencia": null
+  },
+  {
+   "id": "s01-cepal-2024-t015",
+   "n_ficha": 15,
+   "grupo": null,
+   "texto": "Financiación no tarifaria por captura de valor del suelo (conclusiones, p. 68).",
+   "referencia": "p. 68"
+  },
+  {
+   "id": "s01-cepal-2024-t016",
+   "n_ficha": 16,
+   "grupo": null,
+   "texto": "Término del informe: \"una verdadera política social\" y \"derecho a la ciudad\" (p. 55).",
+   "referencia": "p. 55"
+  },
+  {
+   "id": "s01-cepal-2024-t017",
+   "n_ficha": 17,
+   "grupo": null,
+   "texto": "Cuidado con atribuir a CEPAL lo que cita de otros: Estupiñan (CAF), SLoCaT, Rivas et al. (BID), Biderman, Samaniego, E-Bus Radar.",
+   "referencia": null
+  }
+ ],
+ "pares": []
+}

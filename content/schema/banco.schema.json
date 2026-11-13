@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Banco de una lectura",
+  "description": "Generado por scripts/build_banco.py a partir de ficha.md. No se edita a mano.",
+  "type": "object",
+  "required": ["semana", "lectura", "fuente", "preguntas", "trampas", "pares"],
+  "properties": {
+    "semana": {"type": "integer", "minimum": 1, "maximum": 8},
+    "lectura": {"type": "string"},
+    "autor": {"type": ["string", "null"]},
+    "titulo": {"type": ["string", "null"]},
+    "alcance": {"type": ["string", "null"]},
+    "fuente": {"type": "string"},
+    "preguntas": {"type": "array", "items": {"$ref": "#/$defs/pregunta"}},
+    "trampas": {"type": "array", "items": {"$ref": "#/$defs/trampa"}},
+    "pares": {"type": "array", "items": {"$ref": "#/$defs/par"}}
+  },
+  "$defs": {
+    "pregunta": {
+      "type": "object",
+      "required": ["id", "n_ficha", "tipo", "enunciado", "respuesta", "referencia", "estado"],
+      "properties": {
+        "id": {"type": "string"},
+        "n_ficha": {"type": "integer"},
+        "tipo": {"enum": ["vf", "abierta"]},
+        "enunciado": {"type": "string", "minLength": 1},
+        "respuesta": {"type": ["string", "null"]},
+        "referencia": {"type": ["string", "null"], "description": "Páginas citadas en la respuesta, tal como aparecen en la ficha."},
+        "estado": {"enum": ["completa", "sin_respuesta"]},
+        "verdadera": {"type": ["boolean", "null"], "description": "Solo en tipo vf. null cuando la respuesta matiza en lugar de decir Verdadero o Falso."},
+        "explicacion": {"type": "string"}
+      },
+      "allOf": [
+        {"if": {"properties": {"estado": {"const": "completa"}}}, "then": {"properties": {"respuesta": {"type": "string", "minLength": 1}}}},
+        {"if": {"properties": {"tipo": {"const": "vf"}}}, "then": {"required": ["verdadera", "explicacion"]}}
+      ]
+    },
+    "trampa": {
+      "type": "object",
+      "required": ["id", "n_ficha", "grupo", "texto", "referencia"],
+      "properties": {
+        "id": {"type": "string"},
+        "n_ficha": {"type": "integer"},
+        "grupo": {"type": ["string", "null"]},
+        "texto": {"type": "string", "minLength": 1},
+        "referencia": {"type": ["string", "null"]}
+      }
+    },
+    "par": {
+      "type": "object",
+      "required": ["id", "par", "diferencia"],
+      "properties": {
+        "id": {"type": "string"},
+        "par": {"type": "string", "minLength": 1},
+        "diferencia": {"type": "string", "minLength": 1}
+      }
+    }
+  }
+}

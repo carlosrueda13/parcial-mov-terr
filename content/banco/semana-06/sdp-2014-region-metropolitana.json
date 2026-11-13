@@ -1,0 +1,1442 @@
+{
+ "semana": 6,
+ "lectura": "sdp-2014-region-metropolitana",
+ "autor": "Secretaría Distrital de Planeación (SDP), Bogotá D.C.",
+ "titulo": "Región Metropolitana de Bogotá: una visión de la ocupación del suelo",
+ "alcance": "Primera parte, cap. III, apartado 1 'Dinámicas de la población' (pp. 73-115, según el programa); la p. 115 incluye además las primeras líneas del apartado 2.",
+ "fuente": "content/semana-06/sdp-2014-region-metropolitana/ficha.md",
+ "preguntas": [
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántas partes tiene el capítulo III y cuáles son?",
+   "respuesta": "Tres: Dinámicas de la población, Estructura económica de la Región Metropolitana y Aspectos generales del mercado inmobiliario; p. 73.",
+   "referencia": "p. 73",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Qué propósito tiene la primera parte?",
+   "respuesta": "Describir y analizar las dinámicas y tendencias poblacionales de Bogotá y los municipios del ámbito metropolitano como marco general de ocupación del territorio; pp. 73-74.",
+   "referencia": "pp. 73-74",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "¿Qué apuesta regional de Bogotá respaldan las tendencias de población?",
+   "respuesta": "La Red de Ciudades; pp. 73-74.",
+   "referencia": "pp. 73-74",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los dos ejercicios del análisis?",
+   "respuesta": "Estimaciones 1985-2005 y proyecciones 2005-2020 del DANE; ejercicio propio de la Subsecretaría de Planeación Territorial de la SDP; p. 74.",
+   "referencia": "p. 74",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Qué factores incluye el ejercicio de la SDP?",
+   "respuesta": "Técnicas estadísticas de predicción y cálculo demográfico y factores urbanísticos, como las dinámicas inmobiliarias y de movilidad; p. 74.",
+   "referencia": "p. 74",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿Para qué se hace el ejercicio de la SDP?",
+   "respuesta": "Para contrastar los resultados del DANE y complementarlos con los análisis de la realidad territorial; p. 74.",
+   "referencia": "p. 74",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos niveles de análisis define la Tabla 1?",
+   "respuesta": "Cuatro: regional, subregional, borde urbano y de relaciones metropolitanas, y borde rural; p. 75.",
+   "referencia": "p. 75",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ciudades forman la escala regional?",
+   "respuesta": "Bogotá, Tunja, Villavicencio e Ibagué; p. 75.",
+   "referencia": "p. 75",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos municipios tiene la escala subregional?",
+   "respuesta": "Los 116 de Cundinamarca y Bogotá; p. 75.",
+   "referencia": "p. 75",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q010",
+   "n_ficha": 10,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos municipios tiene el borde urbano?",
+   "respuesta": "20, todos de Cundinamarca; p. 75.",
+   "referencia": "p. 75",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos tiene el borde rural y de qué departamentos?",
+   "respuesta": "13: 9 de Cundinamarca, 3 del Meta y 1 del Huila; p. 75.",
+   "referencia": "p. 75",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "¿Qué norma sustenta la categorización de la Tabla 1?",
+   "respuesta": "El artículo 543 del Decreto 364 de 2013; p. 75.",
+   "referencia": "p. 75",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q013",
+   "n_ficha": 13,
+   "tipo": "vf",
+   "enunciado": "En las tablas, la escala subregional incluye la población de Bogotá.",
+   "respuesta": "Falso: Cundinamarca 2.280.158 en 2005 sin Bogotá; Tabla 3, p. 84.",
+   "referencia": "p. 84",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "Cundinamarca 2.280.158 en 2005 sin Bogotá; Tabla 3, p. 84."
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q014",
+   "n_ficha": 14,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ciudad regional tiene la mayor población y la menor tasa de crecimiento?",
+   "respuesta": "Ibagué; p. 76.",
+   "referencia": "p. 76",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q015",
+   "n_ficha": 15,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ciudad supera en promedio el 2% y tiende a alcanzar el nivel de Ibagué?",
+   "respuesta": "Villavicencio; p. 76.",
+   "referencia": "p. 76",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "¿Desde qué año desciende la tasa de Tunja y cuánta población proyecta para 2020?",
+   "respuesta": "Desde 1999; 206.827; p. 76.",
+   "referencia": "p. 76",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q017",
+   "n_ficha": 17,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánto suma la escala regional sin Bogotá en 2020 y qué proporción de Bogotá es?",
+   "respuesta": "Más de un millón (1.325.157); 16%; pp. 76 y 78.",
+   "referencia": "pp. 76 y 78",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q018",
+   "n_ficha": 18,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el orden de dinamismo de las tres ciudades regionales?",
+   "respuesta": "Villavicencio, Tunja e Ibagué; p. 77.",
+   "referencia": "p. 77",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se compara la tasa regional con la de Bogotá y la del país?",
+   "respuesta": "Es mayor que ambas; p. 77.",
+   "referencia": "p. 77",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "¿Qué eje de la Gráfica 1 usa Bogotá?",
+   "respuesta": "El derecho, porque su escala es mucho mayor; p. 76.",
+   "referencia": "p. 76",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q021",
+   "n_ficha": 21,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo define la p. 79 el IPT?",
+   "respuesta": "Como la proporción de la población de cada municipio de la escala regional respecto a la suma de esa población regional en un período; p. 79. En la práctica se calcula contra el país.",
+   "referencia": "p. 79",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "¿Para qué se emplea el IPT?",
+   "respuesta": "Para medir la intensidad de la concentración de la población de un municipio; p. 79.",
+   "referencia": "p. 79",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q023",
+   "n_ficha": 23,
+   "tipo": "abierta",
+   "enunciado": "¿Desde qué año tienden a decrecer las tasas de variación del IPT y hasta cuándo?",
+   "respuesta": "Desde 1998 hasta 2008, con la misma tendencia proyectada a 2020; p. 79.",
+   "referencia": "p. 79",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q024",
+   "n_ficha": 24,
+   "tipo": "abierta",
+   "enunciado": "¿Qué concluye la síntesis de la p. 80?",
+   "respuesta": "No se prevé un cambio en la tendencia concentrativa de las ciudades respecto al país; las tasas del IPT bajan a cerca del 1% anual y en Ibagué incluso a valores negativos.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q025",
+   "n_ficha": 25,
+   "tipo": "vf",
+   "enunciado": "Las ciudades regionales pierden importancia relativa respecto al país.",
+   "respuesta": "Falso: la aumentan, pero cada año en menores niveles; p. 80.",
+   "referencia": "p. 80",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "la aumentan, pero cada año en menores niveles; p. 80."
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q026",
+   "n_ficha": 26,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tasa tiene Bogotá en la columna 2020 de la Tabla 2 y qué tasa el país?",
+   "respuesta": "1,24% y 1,10%; p. 78.",
+   "referencia": "p. 78",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q027",
+   "n_ficha": 27,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos habitantes proyecta la Tabla 2 para Villavicencio e Ibagué en 2020?",
+   "respuesta": "538.523 y 579.807; p. 78.",
+   "referencia": "p. 78",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q028",
+   "n_ficha": 28,
+   "tipo": "abierta",
+   "enunciado": "¿Con quién relaciona el texto la accesibilidad de Villavicencio?",
+   "respuesta": "Con Bogotá: dada la accesibilidad entre Bogotá y la capital del Meta el Distrito debe prestar atención a esa dinámica; p. 76.",
+   "referencia": "p. 76",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q029",
+   "n_ficha": 29,
+   "tipo": "abierta",
+   "enunciado": "¿Qué nivel y qué fracción del Distrito proyecta el texto para la población subregional al final del período?",
+   "respuesta": "Cerca de 3.000.000, cerca de 37% (la Tabla 3 da 34,4%); p. 81.",
+   "referencia": "p. 81",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q030",
+   "n_ficha": 30,
+   "tipo": "abierta",
+   "enunciado": "¿A qué valor tienden a converger las tasas de la escala subregional?",
+   "respuesta": "A menos de 1,5% en el horizonte; p. 82.",
+   "referencia": "p. 82",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q031",
+   "n_ficha": 31,
+   "tipo": "abierta",
+   "enunciado": "¿Qué porcentaje de la población nacional representarían Bogotá y Cundinamarca y qué parte es de Bogotá?",
+   "respuesta": "22,13%; el Distrito 74%; p. 82.",
+   "referencia": "p. 82",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q032",
+   "n_ficha": 32,
+   "tipo": "abierta",
+   "enunciado": "¿Qué censos sustentan el análisis subregional?",
+   "respuesta": "Los del DANE de 1993 y 2005; p. 80.",
+   "referencia": "p. 80",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q033",
+   "n_ficha": 33,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice la Tabla 3 sobre la tasa subregional y los patrones concentrativos?",
+   "respuesta": "La subregional crece más que Bogotá y que el país, pero los niveles difieren en magnitud y se alejan: no cambian los patrones concentrativos; p. 84.",
+   "referencia": "p. 84",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q034",
+   "n_ficha": 34,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánta población tiene Cundinamarca en 2005 y 2020?",
+   "respuesta": "2.280.158 y 2.887.005; p. 84.",
+   "referencia": "p. 84",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q035",
+   "n_ficha": 35,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tipos de relaciones tiene Bogotá con su entorno inmediato?",
+   "respuesta": "Funcionales, económicas, de usos del suelo, movilidad y ambientales; p. 85.",
+   "referencia": "p. 85",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q036",
+   "n_ficha": 36,
+   "tipo": "abierta",
+   "enunciado": "¿Qué configuración espacial produce la presión sobre los municipios colindantes?",
+   "respuesta": "Una estructura urbana policéntrica en la perspectiva de la red de ciudades; p. 85.",
+   "referencia": "p. 85",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q037",
+   "n_ficha": 37,
+   "tipo": "abierta",
+   "enunciado": "¿Qué relaciones tienen los municipios del borde rural?",
+   "respuesta": "Agropecuarias y de soporte ambiental; p. 86.",
+   "referencia": "p. 86",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q038",
+   "n_ficha": 38,
+   "tipo": "abierta",
+   "enunciado": "¿Quién es la fuente de la nota 7?",
+   "respuesta": "Alfonso (2010), sobre la profundización de las relaciones de metropolización de Bogotá con la Sabana; p. 85.",
+   "referencia": "p. 85",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q039",
+   "n_ficha": 39,
+   "tipo": "abierta",
+   "enunciado": "¿Qué proporción de la población del borde es borde urbano?",
+   "respuesta": "Cerca del 92%; p. 88.",
+   "referencia": "p. 88",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q040",
+   "n_ficha": 40,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ocurre con las tasas del borde rural?",
+   "respuesta": "Inferiores al 1%, dejaron de ser negativas desde 2003; la población no superaría los 150.000 en 2020; p. 88.",
+   "referencia": "p. 88",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q041",
+   "n_ficha": 41,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos habitantes tendrían Bogotá y el borde urbano juntos en 2020?",
+   "respuesta": "9.978.316; p. 88.",
+   "referencia": "p. 88",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q042",
+   "n_ficha": 42,
+   "tipo": "vf",
+   "enunciado": "Según el texto, en ambos bordes el incremento anual es cada vez menor pero mayor que el de la capital.",
+   "respuesta": "El texto lo dice, pero la Tabla 4 no lo respalda para el borde rural; p. 88.",
+   "referencia": "p. 88",
+   "estado": "completa",
+   "verdadera": null,
+   "explicacion": "El texto lo dice, pero la Tabla 4 no lo respalda para el borde rural; p. 88."
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q043",
+   "n_ficha": 43,
+   "tipo": "abierta",
+   "enunciado": "¿Qué población y tasa tiene el borde urbano en 1995 y en 2020?",
+   "respuesta": "810.759 con 4,38%; 1.597.515 con 2,01%; p. 90.",
+   "referencia": "p. 90",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q044",
+   "n_ficha": 44,
+   "tipo": "abierta",
+   "enunciado": "¿Y el borde rural en 2000 y 2020?",
+   "respuesta": "114.023 con −0,76%; 126.273 con 0,67%; p. 90.",
+   "referencia": "p. 90",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q045",
+   "n_ficha": 45,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice el texto sobre el nivel del borde al final del período?",
+   "respuesta": "Alcanza aproximadamente el millón y medio, crece más que Bogotá y el país y no cambia los patrones concentrativos; p. 90.",
+   "referencia": "p. 90",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q046",
+   "n_ficha": 46,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánto crece la población del país de 1993 a 2005 y de 2005 a 2020?",
+   "respuesta": "18,45% y 18,71%; p. 91.",
+   "referencia": "p. 91",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q047",
+   "n_ficha": 47,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánto crecería Bogotá de 2005 a 2020?",
+   "respuesta": "22,5%, de 6.840.116 a 8.380.801; p. 91.",
+   "referencia": "p. 91",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q048",
+   "n_ficha": 48,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánto crecería la escala de borde en total?",
+   "respuesta": "36,1%, de 1.266.365 a 1.723.788; p. 91.",
+   "referencia": "p. 91",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q049",
+   "n_ficha": 49,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la población de Bogotá más el borde en 2005 y 2020?",
+   "respuesta": "8.106.481 y 10.104.589, con 1.998.108 nuevos habitantes; p. 91.",
+   "referencia": "p. 91",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q050",
+   "n_ficha": 50,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la nueva población 2005-2020 de Bogotá, de la escala subregional y de la de borde?",
+   "respuesta": "1.540.685; 606.847; 457.423; Tabla 5, pp. 92-93.",
+   "referencia": "pp. 92-93",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q051",
+   "n_ficha": 51,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos nuevos habitantes por cada 100 corresponden a Bogotá y a los municipios de borde?",
+   "respuesta": "77 y 23; p. 93.",
+   "referencia": "p. 93",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q052",
+   "n_ficha": 52,
+   "tipo": "abierta",
+   "enunciado": "¿Qué proporción de la nueva población de Cundinamarca va al borde y cuántas veces mayor es la de Bogotá?",
+   "respuesta": "75% y tres veces mayor; p. 93.",
+   "referencia": "p. 93",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q053",
+   "n_ficha": 53,
+   "tipo": "abierta",
+   "enunciado": "¿Qué considera poco probable el texto en las pp. 93-94?",
+   "respuesta": "Que la nueva población de Bogotá cambie su patrón de distribución espacial y ocupe los municipios del borde urbano.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q054",
+   "n_ficha": 54,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la tasa de Cundinamarca sin el borde urbano en 2005-2020?",
+   "respuesta": "Estable cerca de 0,89%; p. 95.",
+   "referencia": "p. 95",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q055",
+   "n_ficha": 55,
+   "tipo": "vf",
+   "enunciado": "Las tasas de los municipios del ámbito son mayores que las del resto de Cundinamarca, Bogotá y el país.",
+   "respuesta": "Verdadero; p. 95.",
+   "referencia": "p. 95",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "p. 95."
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q056",
+   "n_ficha": 56,
+   "tipo": "abierta",
+   "enunciado": "Nombre las cuatro conclusiones de la p. 95.",
+   "respuesta": "Población creciente con el borde rural rezagado; el borde urbano crece más que Bogotá por la actividad económica y la expansión metropolitana; el gran período de crecimiento ya pasó; el efecto concentrador de Bogotá sigue siendo mucho mayor; p. 95.",
+   "referencia": "p. 95",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q057",
+   "n_ficha": 57,
+   "tipo": "abierta",
+   "enunciado": "¿A qué eje corresponde el país en la Gráfica 7?",
+   "respuesta": "Al derecho; nota 8, p. 95.",
+   "referencia": "p. 95",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q058",
+   "n_ficha": 58,
+   "tipo": "abierta",
+   "enunciado": "¿Qué escalas muestran la menor desaceleración del crecimiento?",
+   "respuesta": "La subregional y la de borde; p. 97.",
+   "referencia": "p. 97",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q059",
+   "n_ficha": 59,
+   "tipo": "abierta",
+   "enunciado": "¿Qué referencia toma el IPT en la nota 9?",
+   "respuesta": "El país para Bogotá y Cundinamarca; Bogotá más la escala de borde para el borde; p. 97.",
+   "referencia": "p. 97",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q060",
+   "n_ficha": 60,
+   "tipo": "abierta",
+   "enunciado": "¿Qué factor explica la mayor importancia relativa de Bogotá frente a Cundinamarca?",
+   "respuesta": "Su primacía urbana; p. 97.",
+   "referencia": "p. 97",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q061",
+   "n_ficha": 61,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se comporta la participación de Cundinamarca en la población del país 1985-2020?",
+   "respuesta": "Relativamente estable; p. 97.",
+   "referencia": "p. 97",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q062",
+   "n_ficha": 62,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se mueve la concentración de Bogotá frente al país y frente a los municipios del borde urbano?",
+   "respuesta": "Aumenta frente al país y se desconcentra frente a algunos municipios del borde; p. 97.",
+   "referencia": "p. 97",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q063",
+   "n_ficha": 63,
+   "tipo": "abierta",
+   "enunciado": "¿Qué valores da el texto para la variación del IPT promedio 2005-2020?",
+   "respuesta": "0,22% y 0,44% para la escala subregional y Bogotá, y 0,94% para el borde; p. 99.",
+   "referencia": "p. 99",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q064",
+   "n_ficha": 64,
+   "tipo": "abierta",
+   "enunciado": "¿Qué indica a la vez la variación del IPT de Bogotá y de la escala subregional?",
+   "respuesta": "Ganancia de concentración frente al país y disminución frente a la escala de borde; p. 99.",
+   "referencia": "p. 99",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q065",
+   "n_ficha": 65,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos grupos define la Tabla 7 y cuáles?",
+   "respuesta": "Ocho: Occidente, Noroccidente, Norte, Nororiente, Nororiente Cerros, Oriente, Suroriente Llanos y Suroccidente borde Tolima; p. 100.",
+   "referencia": "p. 100",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q066",
+   "n_ficha": 66,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios forman el grupo Norte?",
+   "respuesta": "Chía, Cajicá y Zipaquirá; p. 100.",
+   "referencia": "p. 100",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q067",
+   "n_ficha": 67,
+   "tipo": "abierta",
+   "enunciado": "¿Qué participación del borde tienen el occidente, el norte, el noroccidente y el nororiente?",
+   "respuesta": "60%, 20%, 7% y 5%; p. 102.",
+   "referencia": "p. 102",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q068",
+   "n_ficha": 68,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos nuevos habitantes por cada 100 corresponden a Soacha, Chía y Zipaquirá?",
+   "respuesta": "8, 2 y 1,5; p. 102.",
+   "referencia": "p. 102",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q069",
+   "n_ficha": 69,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos nuevos habitantes proyecta la Tabla 8 para Soacha y qué porcentaje es?",
+   "respuesta": "165.550; 8,29%; p. 103.",
+   "referencia": "p. 103",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q070",
+   "n_ficha": 70,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios pierden población en 2005-2020 según la Tabla 8?",
+   "respuesta": "Choachí (−749), Ubaque (−1.075) y Cabrera (−296); pp. 103-104.",
+   "referencia": "pp. 103-104",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q071",
+   "n_ficha": 71,
+   "tipo": "abierta",
+   "enunciado": "¿Qué proporción de la nueva población corresponde a Bogotá, al borde urbano y al borde rural?",
+   "respuesta": "77,11%, 22,26% y 0,63%; p. 104.",
+   "referencia": "p. 104",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q072",
+   "n_ficha": 72,
+   "tipo": "abierta",
+   "enunciado": "¿Qué grupo tiene la mayor tasa en 2011-2015 y en 2016-2020?",
+   "respuesta": "Nororiente: 2,57% y 2,43%; luego Occidente: 2,22% y 2,03%; Bogotá 1,36% y 1,24%; p. 104.",
+   "referencia": "p. 104",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q073",
+   "n_ficha": 73,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánta población tiene el Occidente en 2005 y 2020?",
+   "respuesta": "742.093 y 1.033.465; p. 105.",
+   "referencia": "p. 105",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q074",
+   "n_ficha": 74,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánta población tiene el Norte en 2020 y qué tasa?",
+   "respuesta": "337.049; 1,96%; p. 105.",
+   "referencia": "p. 105",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q075",
+   "n_ficha": 75,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tasa tiene el Suroriente Llanos en 1995?",
+   "respuesta": "10,22%; p. 106.",
+   "referencia": "p. 106",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q076",
+   "n_ficha": 76,
+   "tipo": "abierta",
+   "enunciado": "¿Qué grupos sobresalen en concentración según el IPT?",
+   "respuesta": "Occidente y Norte; p. 107.",
+   "referencia": "p. 107",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q077",
+   "n_ficha": 77,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo describe el texto el crecimiento de la importancia de Bogotá frente al borde urbano?",
+   "respuesta": "Como desacelerado, mientras gana importancia frente al país; p. 107.",
+   "referencia": "p. 107",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q078",
+   "n_ficha": 78,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dos dinámicas proyecta el texto para Bogotá en la p. 109?",
+   "respuesta": "Desconcentración y expansión; se expande en el borde urbano y se desconcentra; p. 109.",
+   "referencia": "p. 109",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q079",
+   "n_ficha": 79,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el horizonte del modelo SDP y cuántos municipios usa?",
+   "respuesta": "2005-2030; Bogotá y 29 municipios, sin los del borde rural del Meta y Huila; p. 109.",
+   "referencia": "p. 109",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q080",
+   "n_ficha": 80,
+   "tipo": "abierta",
+   "enunciado": "¿Qué escenario busca establecer el modelo?",
+   "respuesta": "El más probable o referencial, que puede ser tendencial o no; p. 109.",
+   "referencia": "p. 109",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q081",
+   "n_ficha": 81,
+   "tipo": "abierta",
+   "enunciado": "¿Qué factores condicionan el modelo?",
+   "respuesta": "Disponibilidad de suelo para desarrollos urbanos y movilidad como uno de los principales factores de la migración poblacional regional; p. 109.",
+   "referencia": "p. 109",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q082",
+   "n_ficha": 82,
+   "tipo": "abierta",
+   "enunciado": "¿Qué anuncia el texto que seguirá a las proyecciones?",
+   "respuesta": "Los requerimientos de suelo y vivienda y el tiempo en que se agota o no la oferta de suelo residencial; p. 110.",
+   "referencia": "p. 110",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q083",
+   "n_ficha": 83,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánta población se estima para el Distrito y su ámbito en 2013 y en 2030?",
+   "respuesta": "9.000.000 y cerca de 11.500.000 (Tabla 10: 8.990.368 y 11.364.417); p. 111.",
+   "referencia": "p. 111",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q084",
+   "n_ficha": 84,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos nuevos habitantes proyecta la Tabla 10 para la región en 2005-2030 y con qué se compara?",
+   "respuesta": "3.295.657, cercano a la población actual del Área Metropolitana del Valle de Aburrá; p. 111.",
+   "referencia": "p. 111",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q085",
+   "n_ficha": 85,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánto crece Bogotá y cuánto el ámbito en 2005-2030?",
+   "respuesta": "2.213.710 y 1.081.947; Tabla 10, p. 111.",
+   "referencia": "p. 111",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q086",
+   "n_ficha": 86,
+   "tipo": "abierta",
+   "enunciado": "¿Qué porcentaje de la población de la región estaría en Bogotá en 2030?",
+   "respuesta": "80%; pp. 111-112.",
+   "referencia": "pp. 111-112",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q087",
+   "n_ficha": 87,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánta población tiene Bogotá en 2005 y 2030 en la Tabla 10?",
+   "respuesta": "6.840.120 y 9.053.830; p. 111.",
+   "referencia": "p. 111",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q088",
+   "n_ficha": 88,
+   "tipo": "abierta",
+   "enunciado": "¿Qué característica comparten las proyecciones del modelo?",
+   "respuesta": "La pérdida de concentración de la población en Bogotá y el aumento relativo en los municipios de la región; p. 112.",
+   "referencia": "p. 112",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q089",
+   "n_ficha": 89,
+   "tipo": "abierta",
+   "enunciado": "¿Qué participaciones da la Tabla 11?",
+   "respuesta": "Bogotá 0,85; 0,84; 0,82; 0,80 y ámbito 0,15; 0,16; 0,18; 0,20 en 2005, 2013, 2020 y 2030; p. 112.",
+   "referencia": "p. 112",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q090",
+   "n_ficha": 90,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos municipios mantienen relaciones urbanas con el Distrito según la p. 112?",
+   "respuesta": "20; p. 112.",
+   "referencia": "p. 112",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q091",
+   "n_ficha": 91,
+   "tipo": "abierta",
+   "enunciado": "¿Qué atributos vinculan el borde rural con Bogotá?",
+   "respuesta": "Ambiental, de ruralidad, hídrico, alimentario y de abastecimiento; p. 113.",
+   "referencia": "p. 113",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q092",
+   "n_ficha": 92,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se titula la Tabla 12 y cuántos grupos tiene?",
+   "respuesta": "Agrupación según la propuesta de zonificación desde la movilidad y relaciones funcionales; 10 grupos; p. 113.",
+   "referencia": "p. 113",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q093",
+   "n_ficha": 93,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios forman el grupo 5, el 6 y el 7 de la Tabla 12?",
+   "respuesta": "5: Cota, Facatativá, Funza, Madrid y Mosquera; 6: Bojacá y Zipacón; 7: Sibaté y Soacha; p. 113.",
+   "referencia": "p. 113",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q094",
+   "n_ficha": 94,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los grupos urbanos y los rurales de la nota 10?",
+   "respuesta": "Urbanos del 1 al 7; rurales del 8 al 10; p. 113.",
+   "referencia": "p. 113",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q095",
+   "n_ficha": 95,
+   "tipo": "abierta",
+   "enunciado": "¿Qué criterio de ordenamiento tiene la zonificación?",
+   "respuesta": "El texto aclara que no obedece a algún criterio a priori y particular; p. 113.",
+   "referencia": "p. 113",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q096",
+   "n_ficha": 96,
+   "tipo": "abierta",
+   "enunciado": "¿Qué grupos sobresalen en la p. 114 y por qué?",
+   "respuesta": "Los 3, 5 y 7, por tener las mayores tasas de crecimiento y una cantidad importante de población proyectada; p. 114.",
+   "referencia": "p. 114",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q097",
+   "n_ficha": 97,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos habitantes suman los grupos 3, 5 y 7 en 2030 según el texto y con qué se comparan?",
+   "respuesta": "Cerca de 1.500.000; con las áreas metropolitanas de Bucaramanga y Cúcuta (podría superarlas) y Barranquilla (podría acercarse); p. 114.",
+   "referencia": "p. 114",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q098",
+   "n_ficha": 98,
+   "tipo": "abierta",
+   "enunciado": "¿Qué muestran los ejes de la Gráfica 12?",
+   "respuesta": "Izquierdo: población de los grupos 1 a 7; derecho: Bogotá, Cundinamarca y ámbito metropolitano; p. 114.",
+   "referencia": "p. 114",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q099",
+   "n_ficha": 99,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice la p. 115 de los grupos 8 a 10?",
+   "respuesta": "Parecen conservar un crecimiento estable y no se observan tendencias que modifiquen su relación rural con Bogotá; p. 115.",
+   "referencia": "p. 115",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q100",
+   "n_ficha": 100,
+   "tipo": "abierta",
+   "enunciado": "¿Qué razones da la p. 115 para la concentración espacial de la actividad económica?",
+   "respuesta": "Cercanía a grandes mercados de bienes, servicios y factores, ganancias en costos de transporte y rentas del suelo por (re)localización, ventajas de información y un mercado de trabajo especializado; p. 115.",
+   "referencia": "p. 115",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q101",
+   "n_ficha": 101,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dos análisis complementarios anuncia el apartado 2?",
+   "respuesta": "Las tendencias económicas municipales generales y la estructura económica espacial de la región; p. 115.",
+   "referencia": "p. 115",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q102",
+   "n_ficha": 102,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se comparan los niveles de desempeño en los indicadores de concentración económica?",
+   "respuesta": "Cada municipio frente al ámbito en su conjunto: a mayor diferencia, mayor nivel de concentración; p. 115.",
+   "referencia": "p. 115",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q103",
+   "n_ficha": 103,
+   "tipo": "vf",
+   "enunciado": "La Tabla 5 contiene las tasas quinquenales de crecimiento 1995-2020.",
+   "respuesta": "Falso: contiene población 2005 y 2020, nueva población y promedio anual; pp. 92-93.",
+   "referencia": "pp. 92-93",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "contiene población 2005 y 2020, nueva población y promedio anual; pp. 92-93."
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q104",
+   "n_ficha": 104,
+   "tipo": "vf",
+   "enunciado": "En 2005-2020 todos los municipios del borde ganan población.",
+   "respuesta": "Falso: Choachí, Ubaque y Cabrera pierden; Tabla 8.",
+   "referencia": null,
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "Choachí, Ubaque y Cabrera pierden; Tabla 8."
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q105",
+   "n_ficha": 105,
+   "tipo": "vf",
+   "enunciado": "Sobre el IPT, el texto dice que en 2005-2020 Bogotá se desconcentra respecto al país.",
+   "respuesta": "La p. 109 lo dice; contradice las pp. 97, 99 y 107, donde Bogotá gana concentración frente al país.",
+   "referencia": "p. 109; pp. 97, 99 y 107",
+   "estado": "completa",
+   "verdadera": null,
+   "explicacion": "La p. 109 lo dice; contradice las pp. 97, 99 y 107, donde Bogotá gana concentración frente al país."
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q106",
+   "n_ficha": 106,
+   "tipo": "vf",
+   "enunciado": "La proyección de la SDP llega hasta 2020 como la del DANE.",
+   "respuesta": "Falso: llega hasta 2030; p. 109.",
+   "referencia": "p. 109",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "llega hasta 2030; p. 109."
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q107",
+   "n_ficha": 107,
+   "tipo": "vf",
+   "enunciado": "Los grupos 8 a 10 de la Tabla 12 son los de relaciones rurales con Bogotá.",
+   "respuesta": "Verdadero; nota 10, p. 113.",
+   "referencia": "p. 113",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "nota 10, p. 113."
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q108",
+   "n_ficha": 108,
+   "tipo": "vf",
+   "enunciado": "El grupo 4 de la Tabla 12 incluye a Cota.",
+   "respuesta": "Falso: Tenjo, El Rosal, Subachoque y Tabio; Cota está en el grupo 5; p. 113.",
+   "referencia": "p. 113",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "Tenjo, El Rosal, Subachoque y Tabio; Cota está en el grupo 5; p. 113."
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q109",
+   "n_ficha": 109,
+   "tipo": "vf",
+   "enunciado": "Según el texto de la p. 102, ningún municipio fuera de Soacha, Chía y Zipaquirá llega a 1 nuevo habitante por cada 100.",
+   "respuesta": "El texto lo dice, pero la Tabla 8 muestra que Facatativá, Mosquera, Madrid y Funza lo superan.",
+   "referencia": null,
+   "estado": "completa",
+   "verdadera": null,
+   "explicacion": "El texto lo dice, pero la Tabla 8 muestra que Facatativá, Mosquera, Madrid y Funza lo superan."
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-q110",
+   "n_ficha": 110,
+   "tipo": "vf",
+   "enunciado": "En 2030 Bogotá tendría 80% de la población de Bogotá más el ámbito (Tabla 11).",
+   "respuesta": "Verdadero: 0,80; con las cifras exactas de la Tabla 10, 79,7%; p. 112.",
+   "referencia": "p. 112",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "0,80; con las cifras exactas de la Tabla 10, 79,7%; p. 112."
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t001",
+   "n_ficha": 1,
+   "grupo": "Fuentes, escalas y municipios",
+   "texto": "DANE o SDP: las Tablas 2 a 9 y las Gráficas 1 a 10 son proyecciones DANE 1985-2020; la Tabla 10 y las Gráficas 11 y 12 son el modelo propio de la SDP 2005-2030. Bogotá en 2020: 8.380.801 (DANE) y 8.169.610 (SDP).",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t002",
+   "n_ficha": 2,
+   "grupo": "Fuentes, escalas y municipios",
+   "texto": "\"Escala subregional\" son los 116 municipios de Cundinamarca más Bogotá en la definición (Tabla 1), pero las cifras de las tablas son las del departamento sin Bogotá (2.280.158 en 2005); Bogotá va en otra fila.",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t003",
+   "n_ficha": 3,
+   "grupo": "Fuentes, escalas y municipios",
+   "texto": "Borde urbano: 20 municipios en la Tabla 1; la p. 85 nombra 18 (faltan Zipacón y El Rosal). Borde rural: 13 municipios en 3 departamentos (9 de Cundinamarca, 3 del Meta, 1 del Huila), no 9.",
+   "referencia": "p. 85"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t004",
+   "n_ficha": 4,
+   "grupo": "Fuentes, escalas y municipios",
+   "texto": "33, 29 o 30 municipios: 33 en la Tabla 1 y la Tabla 8 (20 + 13); 29 en el modelo 2005-2030 (20 urbanos + 9 rurales de Cundinamarca, sin Meta ni Huila); \"30\" aparece una vez en la p. 112.",
+   "referencia": "p. 112"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t005",
+   "n_ficha": 5,
+   "grupo": "Fuentes, escalas y municipios",
+   "texto": "Tabla 7 (ocho grupos, 33 municipios) frente a Tabla 12 (diez grupos, 29 municipios). La Tabla 12 parte el Occidente en los grupos 5, 6 y 7, mueve a Cota al grupo 5 y deja el grupo 4 con Tenjo, El Rosal, Subachoque y Tabio. Norte, Nororiente y La Calera coinciden con los grupos 3, 2 y 1.",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t006",
+   "n_ficha": 6,
+   "grupo": "Fuentes, escalas y municipios",
+   "texto": "Colombia es del Huila, aunque el grupo se llama Suroccidente \"borde Tolima\" (y la Tabla 7 lo llama solo \"Suroccidente Tolima\").",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t007",
+   "n_ficha": 7,
+   "grupo": "Fuentes, escalas y municipios",
+   "texto": "La Tabla 5 se titula \"1995-2020\" y el texto dice que trae tasas quinquenales; solo trae niveles 2005 y 2020, nueva población y promedio anual.",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t008",
+   "n_ficha": 8,
+   "grupo": "IPT y concentración",
+   "texto": "La base del IPT cambia: la definición de la p. 79 es la suma regional; en la práctica es el país (Bogotá, Cundinamarca, ciudades regionales) o Bogotá más borde (el borde), según la nota 9 de la p. 97.",
+   "referencia": "p. 79; p. 97"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t009",
+   "n_ficha": 9,
+   "grupo": "IPT y concentración",
+   "texto": "Concentración depende de frente a qué: Bogotá gana concentración frente al país (IPT levemente creciente) y la pierde frente a los municipios del borde urbano. La p. 112 habla de \"pérdida de concentración\" de Bogotá porque su participación en Bogotá + ámbito baja de 85% a 80%.",
+   "referencia": "p. 112"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t010",
+   "n_ficha": 10,
+   "grupo": "IPT y concentración",
+   "texto": "p. 109: el texto dice que Bogotá se desconcentra \"en el ámbito nacional\" por las variaciones positivas del IPT; en el resto del capítulo un IPT que sube significa más concentración frente al país. Si la pregunta cita la p. 109, la respuesta del texto es desconcentración y expansión; si pregunta qué indica un IPT creciente, es ganancia de concentración.",
+   "referencia": "p. 109; p. 109"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t011",
+   "n_ficha": 11,
+   "grupo": "IPT y concentración",
+   "texto": "Variaciones del IPT promedio 2005-2020: 0,22%, 0,44% y 0,94% en el texto de la p. 99, en el orden subregional, Bogotá y luego el borde; con las tablas sale Bogotá 0,21% y Cundinamarca 0,43%.",
+   "referencia": "p. 99"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t012",
+   "n_ficha": 12,
+   "grupo": "IPT y concentración",
+   "texto": "Las ciudades regionales aumentan su importancia relativa frente al país, \"pero cada año en menores niveles\" (p. 80): el IPT sube y su tasa de variación baja. Ibagué llega a tasas negativas del IPT.",
+   "referencia": "p. 80"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t013",
+   "n_ficha": 13,
+   "grupo": "IPT y concentración",
+   "texto": "En la p. 79 el IPT de Bogotá tiene el \"segundo menor\" ritmo \"después de Tunja\"; en la Gráfica 2 el menor es Ibagué (lectura del gráfico).",
+   "referencia": "p. 79"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t014",
+   "n_ficha": 14,
+   "grupo": "IPT y concentración",
+   "texto": "Los porcentajes 60/20/7/5 de la p. 102 son la participación de cada grupo en la población del borde (2020), no en la nueva población. En la nueva población (Tabla 8), el Occidente aporta 63,7% del borde y Soacha sola 36,2%.",
+   "referencia": "p. 102"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t015",
+   "n_ficha": 15,
+   "grupo": "Tasas y niveles",
+   "texto": "Todas las tasas proyectadas decrecen entre 2005 y 2020 pero siguen siendo positivas (salvo el borde rural, negativo en 1996-2005, y los grupos Oriente y Suroccidente en columnas tempranas). La frase \"tasa creciente cada vez menor\" (p. 95) quiere decir decreciente.",
+   "referencia": "p. 95"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t016",
+   "n_ficha": 16,
+   "grupo": "Tasas y niveles",
+   "texto": "La tasa de cada columna es del quinquenio que termina en ese año: 2,57% del nororiente es 2011-2015 y 2,43% es 2016-2020 (p. 104).",
+   "referencia": "p. 104"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t017",
+   "n_ficha": 17,
+   "grupo": "Tasas y niveles",
+   "texto": "La subregional crece más rápido que Bogotá pero Bogotá tiene el mayor nivel y la mayor nueva población: 77 de cada 100 nuevos habitantes. La brecha de niveles crece aunque la tasa de Bogotá sea menor (pp. 84 y 90).",
+   "referencia": "pp. 84 y 90"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t018",
+   "n_ficha": 18,
+   "grupo": "Tasas y niveles",
+   "texto": "En 2020 la tasa más alta entre los grupos es la del nororiente (2,43%), luego Occidente (2,03%), Norte (1,96%) y Noroccidente (1,85%); en 1995 la más alta es la del Suroriente Llanos (10,22%), un valor atípico de un grupo pequeño. Occidente en 1995: 4,98%.",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t019",
+   "n_ficha": 19,
+   "grupo": "Tasas y niveles",
+   "texto": "p. 88: el texto dice que en ambos bordes la población crece a niveles anuales cada vez menores pero mayores a los de la capital. Falso para el borde rural (0,26% a 0,67% frente a 2,87% a 1,24%). El borde rural tiene tasas menores de 1%, fue negativo en el quinquenio hasta 2000 (−0,76%) y hasta 2005 (−0,07%) y deja de serlo desde 2003 según el texto (la Tabla 4 solo muestra promedios quinquenales).",
+   "referencia": "p. 88"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t020",
+   "n_ficha": 20,
+   "grupo": "Tasas y niveles",
+   "texto": "Villavicencio supera 2% en promedio y \"tiende\" a alcanzar el nivel de Ibagué; en 2020 sigue por debajo (538.523 frente a 579.807).",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t021",
+   "n_ficha": 21,
+   "grupo": "Tasas y niveles",
+   "texto": "Tunja: el descenso de la tasa empieza en 1999 (p. 76), después de un aumento notorio; la Tabla 2 muestra el máximo de 3,33% en la columna 2000.",
+   "referencia": "p. 76"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t022",
+   "n_ficha": 22,
+   "grupo": "Tasas y niveles",
+   "texto": "El borde alcanzará cerca de un millón y medio (p. 90): esa cifra se parece al borde urbano (1.597.515); el borde completo es 1.723.788.",
+   "referencia": "p. 90"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t023",
+   "n_ficha": 23,
+   "grupo": "Cifras y porcentajes",
+   "texto": "Cuidado con los porcentajes de la p. 92: Bogotá 22,5% (el 22% del paréntesis no es el del país), país 18,71%, Cundinamarca 26,6% (el texto dice 25,5%), borde 36,1% (el texto dice 33,6% en la p. 92 y 36,1% en la p. 91).",
+   "referencia": "p. 92; p. 92 y 36,1; p. 91"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t024",
+   "n_ficha": 24,
+   "grupo": "Cifras y porcentajes",
+   "texto": "22,13% es Bogotá + Cundinamarca sobre el país en 2020, y Bogotá es 74% de eso. No es el IPT de Bogotá (16,5%).",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t025",
+   "n_ficha": 25,
+   "grupo": "Cifras y porcentajes",
+   "texto": "75%: el borde corresponde a 75% de la nueva población de Cundinamarca (457.423 / 606.847); \"tres veces\" es la relación de la nueva población de Bogotá con la del borde.",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t026",
+   "n_ficha": 26,
+   "grupo": "Cifras y porcentajes",
+   "texto": "1.998.108 es la nueva población de Bogotá + borde; la p. 102 dice 1.951.416; la p. 93 llama \"de borde\" a 1.998.108.",
+   "referencia": "p. 102; p. 93"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t027",
+   "n_ficha": 27,
+   "grupo": "Cifras y porcentajes",
+   "texto": "Soacha 8, Chía 2, Zipaquirá 1,5 (por cada 100): Facatativá (1,84), Mosquera (1,51), Madrid (1,13) y Funza (1,05) también pasan de 1, contra lo que dice el texto.",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t028",
+   "n_ficha": 28,
+   "grupo": "Cifras y porcentajes",
+   "texto": "Choachí, Ubaque y Cabrera pierden población en 2005-2020; Chipaque queda en 6.",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t029",
+   "n_ficha": 29,
+   "grupo": "Cifras y porcentajes",
+   "texto": "Tabla 5, promedios anuales impresos: regional \"3517\" y subregional 19.509 no salen de dividir entre 15.",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t030",
+   "n_ficha": 30,
+   "grupo": "Modelo 2005-2030",
+   "texto": "El modelo usa 29 municipios y deja fuera los del borde rural del Meta y Huila; su horizonte (2005-2030) es mayor que el del DANE (hasta 2020).",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t031",
+   "n_ficha": 31,
+   "grupo": "Modelo 2005-2030",
+   "texto": "Objetivo del modelo: el \"escenario más probable o referencial, el cual puede ser tendencial o no\"; los factores citados son la disponibilidad de suelo urbanizable y la movilidad (como factor de la migración regional).",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t032",
+   "n_ficha": 32,
+   "grupo": "Modelo 2005-2030",
+   "texto": "Orden de los resultados anunciados: modelo, proyecciones de ocupación, requerimientos de suelo y vivienda, y tiempo en que se agota la oferta de suelo residencial. En pp. 109-115 solo se llega a las proyecciones de población.",
+   "referencia": "pp. 109-115"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t033",
+   "n_ficha": 33,
+   "grupo": "Modelo 2005-2030",
+   "texto": "Región 2030: texto 11.500.000 y, más abajo, 11.300.000; Tabla 10: 11.364.417; 2013: 9.000.000 (8.990.368). Nuevos habitantes 2005-2030: 3.295.657, cercano a la población actual del Área Metropolitana del Valle de Aburrá.",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t034",
+   "n_ficha": 34,
+   "grupo": "Modelo 2005-2030",
+   "texto": "Bogotá crece \"poco más de 2.000.000\" (2.213.710) y el ámbito \"cerca de 1.200.000\" (1.081.947 en la tabla). 80% en Bogotá en 2030 (0,80 de la Tabla 11).",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t035",
+   "n_ficha": 35,
+   "grupo": "Modelo 2005-2030",
+   "texto": "Tabla 11: 85/15 en 2005, 84/16 en 2013, 82/18 en 2020 y 80/20 en 2030. El texto dice que el ámbito gana cerca de 3 de cada 100 habitantes cada 10 años (con la tabla son cerca de 2).",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t036",
+   "n_ficha": 36,
+   "grupo": "Modelo 2005-2030",
+   "texto": "Los grupos 3, 5 y 7 son 10 municipios (Cajicá, Chía, Zipaquirá, Cota, Facatativá, Funza, Madrid, Mosquera, Soacha, Sibaté); el texto da 1.500.000 en 2030 y los compara con las áreas metropolitanas de Bucaramanga y Cúcuta (podría superarlas) y Barranquilla (podría acercarse). El grupo 6 (Bojacá, Zipacón) no está entre los destacados.",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t037",
+   "n_ficha": 37,
+   "grupo": "Modelo 2005-2030",
+   "texto": "Gráfica 12: eje izquierdo para los grupos 1 a 7 y eje derecho para Bogotá, Cundinamarca y ámbito; los grupos 8 a 10 no se grafican y se describen en la p. 115 como de crecimiento estable.",
+   "referencia": "p. 115"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t038",
+   "n_ficha": 38,
+   "grupo": "Modelo 2005-2030",
+   "texto": "Gráfica 11: Cundinamarca llega a cerca de 4,0 millones en 2030 y la Tabla 10 dice 3.572.469.",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t039",
+   "n_ficha": 39,
+   "grupo": "Gráficas",
+   "texto": "Gráfica 9: la línea del Occidente parece alcanzar a Bogotá cerca de 2020 solo porque cada serie usa un eje distinto (1.033.465 frente a 8.380.801).",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t040",
+   "n_ficha": 40,
+   "grupo": "Gráficas",
+   "texto": "Gráfica 8: el título habla de tasas y solo hay barras; las capas están sobrepuestas y no son partes disjuntas. Gráfica 10: solo apila los grupos del borde, con base Bogotá + borde.",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t041",
+   "n_ficha": 41,
+   "grupo": "Gráficas",
+   "texto": "Ejes derechos: Bogotá en las Gráficas 1, 3, 5, 9 y 12; el país en la Gráfica 7 (nota 8).",
+   "referencia": null
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-t042",
+   "n_ficha": 42,
+   "grupo": "Apartado 2 (p. 115)",
+   "texto": "La p. 115 explica la concentración espacial de la población y la actividad económica por ventajas de cercanía a grandes mercados, ganancias en costos de transporte y rentas del suelo por (re)localización, ventajas de información y un mercado de trabajo especializado; el indicador compara el desempeño de cada municipio con el del ámbito (a mayor diferencia, mayor concentración). Los dos análisis anunciados son las tendencias económicas municipales y la estructura económica espacial.",
+   "referencia": "p. 115"
+  }
+ ],
+ "pares": [
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p001",
+   "par": "Estimaciones y proyecciones DANE y modelo SDP",
+   "diferencia": "DANE: 1985-2005 estimado y 2005-2020 proyectado (Tablas 2 a 9). SDP: ejercicio propio 2005-2030 con técnicas estadísticas y factores urbanísticos (Tablas 10 y 11, Gráficas 11 y 12). Los números de Bogotá en 2020 difieren: 8.380.801 y 8.169.610"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p002",
+   "par": "Escala regional, subregional, de borde urbano y de borde rural",
+   "diferencia": "Regional: Bogotá, Tunja, Ibagué, Villavicencio. Subregional: los 116 municipios de Cundinamarca (cifras del departamento sin Bogotá). Borde urbano y de relaciones metropolitanas: 20 municipios de Cundinamarca. Borde rural: 13 (9 de Cundinamarca, 3 del Meta, 1 del Huila)"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p003",
+   "par": "Borde urbano y borde rural",
+   "diferencia": "Urbano: relaciones funcionales por dinámicas urbanas (92% de la población del borde). Rural: relaciones agropecuarias y de soporte ambiental (alrededor de 126.000 habitantes en 2020; tasas menores de 1%)"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p004",
+   "par": "IPT frente al total regional, al país y a Bogotá más borde",
+   "diferencia": "Definido en la p. 79 contra la suma regional; usado contra el país para Bogotá, Cundinamarca y las ciudades regionales; contra Bogotá más borde para el borde (nota 9)"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p005",
+   "par": "Gráfica 6 y Gráfica 10",
+   "diferencia": "Gráfica 6: IPT de Bogotá y los bordes sobre el país (total cercano a 0,20 en 2020). Gráfica 10: IPT de los grupos del borde sobre Bogotá más borde (total cercano a 0,17)"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p006",
+   "par": "Concentración frente al país y concentración frente al borde",
+   "diferencia": "Bogotá gana concentración frente al país (IPT sube levemente) y la pierde frente a los municipios del borde urbano (que crecen más rápido)"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p007",
+   "par": "Desconcentración y expansión (p. 109)",
+   "diferencia": "Expansión: Bogotá se extiende al borde urbano. Desconcentración: Bogotá pierde participación frente al borde (el texto la escribe como \"en el ámbito nacional\")"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p008",
+   "par": "Nivel y tasa de crecimiento",
+   "diferencia": "Nivel: habitantes. Tasa: crecimiento anual promedio del quinquenio. Bogotá tiene la menor tasa y la mayor nueva población (77 de cada 100 nuevos habitantes)"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p009",
+   "par": "Tasa quinquenal y variación del IPT",
+   "diferencia": "Tasa quinquenal: crecimiento anual compuesto de la población. Variación del IPT: cambio de la participación; positiva pero mucho menor que la tasa de población (Bogotá 0,21% frente a 1,2% a 1,6%)"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p010",
+   "par": "Crecimiento acumulado y promedio anual",
+   "diferencia": "Acumulado 2005-2020: Bogotá 22,5%, país 18,7%, Cundinamarca 26,6%, borde 36,1%. Promedio anual de nueva población: división entre 15 de la nueva población"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p011",
+   "par": "Nueva población 2005-2020 y población total",
+   "diferencia": "Nueva población: 1.998.108 para Bogotá + borde; población total 2020: 10.104.589"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p012",
+   "par": "Bogotá + borde urbano y Bogotá + escala de borde",
+   "diferencia": "9.978.316 (borde urbano solamente) y 10.104.589 (urbano y rural), ambos en 2020"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p013",
+   "par": "\"Región Metropolitana de Bogotá\" de la Tabla 5 y \"ámbito metropolitano\" de la Tabla 10",
+   "diferencia": "Tabla 5: Bogotá + escala de borde (33 municipios), 8.106.481 en 2005. Tabla 10: ámbito de 29 municipios (sin Meta ni Huila), 1.228.640 en 2005, con Bogotá 8.068.760"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p014",
+   "par": "29, 30 y 33 municipios",
+   "diferencia": "33: borde urbano 20 + rural 13 (Tabla 1, Tabla 8). 29: modelo 2005-2030 (20 urbanos + 9 rurales de Cundinamarca). 30: cifra suelta de la p. 112"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p015",
+   "par": "Tabla 7 (ocho grupos) y Tabla 12 (diez grupos)",
+   "diferencia": "Tabla 7: grupos por relaciones funcionales y socioeconómicas, 33 municipios. Tabla 12: zonificación desde la movilidad y relaciones funcionales, 29 municipios; grupos 1 a 7 urbanos y 8 a 10 rurales"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p016",
+   "par": "Occidente (Tabla 7) y grupos 5, 6 y 7 (Tabla 12)",
+   "diferencia": "Occidente: Mosquera, Funza, Madrid, Facatativá, Zipacón, Bojacá, Sibaté, Soacha. En la Tabla 12 se parte en grupo 5 (Cota, Facatativá, Funza, Madrid, Mosquera), grupo 6 (Bojacá, Zipacón) y grupo 7 (Sibaté, Soacha); Cota pasa del Noroccidente al grupo 5"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p017",
+   "par": "Norte, Nororiente y La Calera (Tabla 7) y grupos 3, 2 y 1 (Tabla 12)",
+   "diferencia": "Coinciden en sus municipios: Norte = grupo 3 (Cajicá, Chía, Zipaquirá); Nororiente = grupo 2 (Gachancipá, Sopó, Tocancipá); Nororiente Cerros = grupo 1 (La Calera)"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p018",
+   "par": "Grupo 4 de la Tabla 12",
+   "diferencia": "Tenjo, El Rosal, Subachoque y Tabio (Cota queda fuera, en el grupo 5)"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p019",
+   "par": "Gráfica 11 y Gráfica 12",
+   "diferencia": "Gráfica 11: tres series en un eje (Bogotá, Cundinamarca, ámbito). Gráfica 12: grupos 1 a 7 en el eje izquierdo y Bogotá, Cundinamarca y ámbito en el derecho; no muestra los grupos 8 a 10"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p020",
+   "par": "Gráficas 9 y 10 y Tabla 12",
+   "diferencia": "Las Gráficas 9 y 10 usan los ocho grupos de la Tabla 7; la Gráfica 12 usa los diez de la Tabla 12 (solo grafica los grupos 1 a 7)"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p021",
+   "par": "Escenario \"referencial\" y \"tendencial\" (p. 109)",
+   "diferencia": "El modelo SDP busca el escenario más probable o referencial, que puede ser tendencial o no"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p022",
+   "par": "Pérdida de concentración de Bogotá (p. 112) y ganancia frente al país (p. 107)",
+   "diferencia": "p. 112: la participación de Bogotá en Bogotá + ámbito baja de 85% a 80%. p. 107: el IPT de Bogotá frente al país sube levemente"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p023",
+   "par": "Borde rural: grupos Oriente y Suroccidente borde Tolima",
+   "diferencia": "Oriente (Choachí, Ubaque, Chipaque, Une, Gutiérrez): tasa cercana a 0,15%; Suroccidente borde Tolima: tasa negativa hasta 2005 y 0,51% en 2020; Suroriente Llanos (Meta): 1,57% en 2020"
+  },
+  {
+   "id": "s06-sdp-2014-region-metropolitana-p024",
+   "par": "Cundinamarca sin borde urbano y escala subregional",
+   "diferencia": "Subregional: 2.887.005 en 2020 (tasa 1,50%). Sin borde urbano: 1.289.490 (tasa 0,89%)"
+  }
+ ]
+}

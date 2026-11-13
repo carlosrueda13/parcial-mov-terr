@@ -1,0 +1,839 @@
+{
+ "semana": 7,
+ "lectura": "avellaneda-dextre-2014-cap1",
+ "autor": "Pau Avellaneda y Juan Carlos Dextre (en la portada del libro figuran en el orden Dextre, Avellaneda)",
+ "titulo": "Movilidad en zonas urbanas, capítulo 1: De la circulación a la movilidad urbana sostenible",
+ "alcance": "Capítulo 1 (pp. 13-31). El capítulo 2 (desde la p. 33) viene en el mismo PDF pero no es lectura obligatoria",
+ "fuente": "content/semana-07/avellaneda-dextre-2014-cap1/ficha.md",
+ "preguntas": [
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las cuatro etapas de la Tabla 1, en orden?",
+   "respuesta": "Tráfico, transporte público, movilidad, movilidad + sostenibilidad; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Qué estrategia asigna la Tabla 1 a la etapa 4?",
+   "respuesta": "Accesibilidad sostenible; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "¿Qué estrategia asigna la Tabla 1 a la etapa 2?",
+   "respuesta": "Prioridad al transporte público; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q004",
+   "n_ficha": 4,
+   "tipo": "vf",
+   "enunciado": "Según el capítulo, las políticas viales para el auto alivian la congestión en el largo plazo.",
+   "respuesta": "Falso: solo la alivian en el corto plazo; en el mediano y largo plazo la congestión se complica; p. 15.",
+   "referencia": "p. 15",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "solo la alivian en el corto plazo; en el mediano y largo plazo la congestión se complica; p. 15."
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Qué mostró el estudio del Texas Transportation Institute y con qué cifras?",
+   "respuesta": "En 68 áreas urbanas de EE. UU., 1982 a 1999, la población creció 11% y los kilómetros de vías 15%, pero las horas de congestión crecieron 50% y el tiempo de viaje 7%; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿Qué frase de Peñalosa recoge el texto?",
+   "respuesta": "Combatir la congestión aumentando la infraestructura para los autos es como querer apagar un incendio echando gasolina; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Qué plantea Buchanan en \"Traffic in towns\" (1964)?",
+   "respuesta": "Que más infraestructura viaria genera más demanda y realimenta el proceso, un círculo vicioso; la organización urbana debe garantizar condiciones favorables para el desarrollo de la vida y del trabajo; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "En la Fig. 1, ¿a qué caja vuelve la flecha discontinua que sale de \"Mayor dependencia del automóvil\"?",
+   "respuesta": "A \"Mayor extensión / Redes de infraestructuras\"; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "En la Fig. 1, ¿cuáles son las dos consecuencias finales de la mayor dependencia del automóvil?",
+   "respuesta": "Mayor consumo energético e incremento de la exclusión social; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q010",
+   "n_ficha": 10,
+   "tipo": "vf",
+   "enunciado": "En Barcelona, Londres y Copenhague abundan los puentes peatonales en las zonas urbanas.",
+   "respuesta": "Falso: según el texto no existen puentes peatonales en esas zonas; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "según el texto no existen puentes peatonales en esas zonas; p. 18."
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Qué compara la Tabla 2 y quién es su fuente?",
+   "respuesta": "Muertes peatonales por 100 000 habitantes en ciudades con y sin puentes peatonales; King 2006, con el valor de Lima estimado por Dextre; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántas veces mayor es la mortalidad peatonal donde hay puentes, según el texto?",
+   "respuesta": "Entre 5 y 10 veces; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q013",
+   "n_ficha": 13,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ciudades de la Tabla 2 figuran con puentes \"Sí\"?",
+   "respuesta": "México City, 15,4, y Capetown, 19,4; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q014",
+   "n_ficha": 14,
+   "tipo": "vf",
+   "enunciado": "Según la Tabla 2, Londres tiene puentes peatonales y la mortalidad más baja.",
+   "respuesta": "Falso: Londres tiene 1,9 y \"No\" puentes; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "Londres tiene 1,9 y \"No\" puentes; p. 18."
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q015",
+   "n_ficha": 15,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es el efecto barrera y quién lo sufre?",
+   "respuesta": "La segregación del territorio por vías segregadas o intercambios viales; lo sufren quienes viven, trabajan o estudian en la zona, aunque el proyecto se justifique por el beneficio de quienes pasan; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dos efectos del efecto barrera por segregación menciona el texto?",
+   "respuesta": "Hace más difícil la circulación peatonal, en especial de las personas con discapacidad, y restringe la autonomía de los niños; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q017",
+   "n_ficha": 17,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ilustra el testimonio de la señora Quetita?",
+   "respuesta": "El efecto barrera por inseguridad vial al cruzar, en especial para las personas de la tercera edad; estudio etnográfico en la carretera central de Lima, por Santa Anita; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q018",
+   "n_ficha": 18,
+   "tipo": "abierta",
+   "enunciado": "¿Qué objetivo se desprende de la definición de ingeniería de tránsito de Radelat?",
+   "respuesta": "Maximizar flujos como unidades; con autos, más vehículos por hora y por carril, aumentando carriles y construyendo pasos a desnivel o intercambios viales; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ocurrió con el río Cheonggyecheon en Seúl según el texto?",
+   "respuesta": "Tuvo una autopista encima desde los años setenta; Lee Myung-bak prometió en su campaña de 2001 demolerla y recuperar el río, y lo cumplió; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la \"traffic evaporation\"?",
+   "respuesta": "Que al disminuir la infraestructura vial desaparecen los coches; Seúl es uno de los pocos ejemplos; European Commission 2004; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q021",
+   "n_ficha": 21,
+   "tipo": "abierta",
+   "enunciado": "¿Qué analogía usa el texto para los pasos a desnivel?",
+   "respuesta": "El bypass de la arteria coronaria de un paciente: sin cambiar la dieta ni hacer ejercicio, necesitará otro bypass; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es el \"colesterol urbano\" de Lerner y cuál es la solución?",
+   "respuesta": "La acumulación en venas y arterias del uso excesivo del automóvil; usar menos el coche cuando haya buena alternativa de transporte público en los itinerarios habituales; p. 21.",
+   "referencia": "p. 21",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q023",
+   "n_ficha": 23,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tres manifestaciones de eficiencia atribuye el texto al transporte colectivo?",
+   "respuesta": "Mayor aprovechamiento del espacio público, menor contaminación por pasajero-kilómetro y menor índice de accidentes; p. 22.",
+   "referencia": "p. 22",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q024",
+   "n_ficha": 24,
+   "tipo": "abierta",
+   "enunciado": "¿Qué compara la Fig. 4?",
+   "respuesta": "La eficiencia en el uso del espacio del transporte público frente al auto particular; el texto lo explica con 80 personas en 80 vehículos frente a un bus con 80 pasajeros; p. 22.",
+   "referencia": "p. 22",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q025",
+   "n_ficha": 25,
+   "tipo": "abierta",
+   "enunciado": "¿Qué modo corresponde a una demanda de 20 000 a 30 000 pasajeros/hora/sentido?",
+   "respuesta": "Buses de alta capacidad con carriles exclusivos; Hidalgo 2005; p. 22.",
+   "referencia": "p. 22",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q026",
+   "n_ficha": 26,
+   "tipo": "abierta",
+   "enunciado": "¿Para qué demanda es buena opción el trolebús de Quito y cuál es el límite que se da para el tranvía?",
+   "respuesta": "9 000 pasajeros/hora/sentido; el tranvía, por debajo de 11 500; p. 22.",
+   "referencia": "p. 22",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q027",
+   "n_ficha": 27,
+   "tipo": "abierta",
+   "enunciado": "¿Desde qué demanda se necesita un metro?",
+   "respuesta": "Mayores de 40 000 pasajeros/hora/sentido; pp. 22 y 24.",
+   "referencia": "pp. 22 y 24",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q028",
+   "n_ficha": 28,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué el transporte público masivo es \"fundamental pero no suficiente\"?",
+   "respuesta": "Porque las personas viajarían menos tiempo pero las mismas distancias, o mayores si la mejora del tiempo permite una oferta inmobiliaria más lejos; hace falta que los viajes sean más cortos, lo que depende del diseño urbano y el ordenamiento del territorio; p. 23.",
+   "referencia": "p. 23",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q029",
+   "n_ficha": 29,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ejemplo da el texto del BRT como modo técnicamente eficiente pero inconveniente?",
+   "respuesta": "Es el más eficiente para 25 000 pasajeros/hora/sentido pero no sirve a quien quiere viajar con maletas; p. 24.",
+   "referencia": "p. 24",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q030",
+   "n_ficha": 30,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ejemplo da del metro y qué solución propone?",
+   "respuesta": "Un metro con paraderos cada 700 m, eficiente para 40 000 pasajeros/hora/sentido, inaccesible para una persona de 85 o 90 años con movilidad reducida; le serviría un bus que pase cerca de su casa; p. 25.",
+   "referencia": "p. 25",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q031",
+   "n_ficha": 31,
+   "tipo": "abierta",
+   "enunciado": "¿Qué relación debe haber entre los modos según el texto?",
+   "respuesta": "Complementariedad, no competencia: transporte multimodal; Fig. 6, Barcelona; p. 25.",
+   "referencia": "p. 25",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q032",
+   "n_ficha": 32,
+   "tipo": "abierta",
+   "enunciado": "¿Qué propone Tonucci?",
+   "respuesta": "Cambiar el sistema de referencia, antes un adulto, hombre y trabajador, y diseñar la ciudad para los niños; los proyectos de camino escolar devuelven la autonomía para ir solos al colegio; p. 25.",
+   "referencia": "p. 25",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q033",
+   "n_ficha": 33,
+   "tipo": "abierta",
+   "enunciado": "¿Qué proponen Tyler y Dextre?",
+   "respuesta": "Diseñar la ciudad considerando a la persona con discapacidad; si ese colectivo se mueve de manera autónoma y segura, cualquier otro ciudadano también; p. 26.",
+   "referencia": "p. 26",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q034",
+   "n_ficha": 34,
+   "tipo": "vf",
+   "enunciado": "El diseño universal de un cruce consiste en construir rampas de 90 cm.",
+   "respuesta": "Falso: significa dejar de lado la rampa de 90 cm y hacer accesible todo el ancho del crucero peatonal; p. 26.",
+   "referencia": "p. 26",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "significa dejar de lado la rampa de 90 cm y hacer accesible todo el ancho del crucero peatonal; p. 26."
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q035",
+   "n_ficha": 35,
+   "tipo": "abierta",
+   "enunciado": "¿Qué observación hace el texto sobre género?",
+   "respuesta": "Las mujeres tienen un patrón de movilidad distinto al de los hombres, lo que obliga a reconceptualizar el diseño vial y el sistema de transporte; p. 26.",
+   "referencia": "p. 26",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q036",
+   "n_ficha": 36,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo define Sanz (1997) la movilidad sostenible?",
+   "respuesta": "Si el objetivo es facilitar el movimiento de personas y mercancías, la sostenibilidad se procura promoviendo los medios de transporte que faciliten los desplazamientos con menor impacto ambiental y social; p. 27.",
+   "referencia": "p. 27",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q037",
+   "n_ficha": 37,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo define Sanz (1997) la accesibilidad sostenible?",
+   "respuesta": "Facilitar el acceso a bienes, servicios y contactos sin depender, en lo posible, del transporte motorizado y aprovechando la capacidad autónoma de trasladarse andando o en bicicleta; p. 27.",
+   "referencia": "p. 27",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q038",
+   "n_ficha": 38,
+   "tipo": "abierta",
+   "enunciado": "¿Qué implica la movilidad sostenible para el transporte público y las densidades?",
+   "respuesta": "Dar prioridad al transporte público de pasajeros; con distancias elevadas pero densidades importantes, la demanda para un transporte masivo estaría garantizada; p. 27.",
+   "referencia": "p. 27",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q039",
+   "n_ficha": 39,
+   "tipo": "abierta",
+   "enunciado": "¿Con qué se relaciona directamente la accesibilidad sostenible?",
+   "respuesta": "Con el diseño urbano compacto, diverso y autosuficiente, la compacidad; p. 27.",
+   "referencia": "p. 27",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q040",
+   "n_ficha": 40,
+   "tipo": "vf",
+   "enunciado": "La movilidad sostenible y la accesibilidad sostenible son excluyentes.",
+   "respuesta": "Falso: son complementarias; p. 27.",
+   "referencia": "p. 27",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "son complementarias; p. 27."
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q041",
+   "n_ficha": 41,
+   "tipo": "abierta",
+   "enunciado": "¿Qué escala corresponde a cada concepto?",
+   "respuesta": "Accesibilidad sostenible en los barrios, con desplazamientos cortos a pie o en bicicleta; movilidad sostenible entre barrios, con transporte público masivo; pp. 27-28, Fig. 9.",
+   "referencia": "pp. 27-28",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q042",
+   "n_ficha": 42,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo responde el texto a \"¿por qué obligar a las personas a hacer sus actividades cerca de su barrio?\"",
+   "respuesta": "Una ciudad compacta no obliga a quedarse en el barrio, sino a no tener que viajar grandes distancias para educación, salud, trámites o diversión; quien salga debe usar modos sostenibles; p. 28.",
+   "referencia": "p. 28",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q043",
+   "n_ficha": 43,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo hacer más compacta una ciudad grande y expandida?",
+   "respuesta": "Promoviendo una ciudad policéntrica, con 4 o 5 centros con servicios fundamentales y de muy buena calidad en cada subcentro; p. 28.",
+   "referencia": "p. 28",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q044",
+   "n_ficha": 44,
+   "tipo": "abierta",
+   "enunciado": "¿Qué propone el texto para los colegios secundarios?",
+   "respuesta": "Colegios de muy buena calidad en los conos norte, sur y este; buenos profesores con pago adicional; que de noche funcionen como academias de preparación universitaria; p. 29.",
+   "referencia": "p. 29",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q045",
+   "n_ficha": 45,
+   "tipo": "abierta",
+   "enunciado": "¿Qué propone para la salud?",
+   "respuesta": "Los mejores hospitales y médicos en los conos norte, sur y este, con postas descentralizadas para casos rutinarios o de baja complejidad; p. 29.",
+   "referencia": "p. 29",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q046",
+   "n_ficha": 46,
+   "tipo": "abierta",
+   "enunciado": "¿Qué son las calles de uso diverso y qué ejemplos da?",
+   "respuesta": "Calles principales con muchas actividades que crean dinámica social intensa durante todo el día; Stroget en Copenhague y la calle XV de Noviembre en Curitiba; p. 29.",
+   "referencia": "p. 29",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q047",
+   "n_ficha": 47,
+   "tipo": "abierta",
+   "enunciado": "¿Qué efecto extraordinario tienen esas calles?",
+   "respuesta": "Diversidad social: se encuentran habitantes de todos los estratos, además de visitantes o turistas; p. 29.",
+   "referencia": "p. 29",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q048",
+   "n_ficha": 48,
+   "tipo": "abierta",
+   "enunciado": "¿Qué componentes tiene la Fig. 10?",
+   "respuesta": "Movilidad y transporte, con peatón, ciclista, transporte público, transporte de carga y automóvil; y uso del suelo, con ciudad policéntrica, compacidad y diversidad; p. 30.",
+   "referencia": "p. 30",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q049",
+   "n_ficha": 49,
+   "tipo": "abierta",
+   "enunciado": "¿Qué términos destaca el texto para el lado del uso del suelo?",
+   "respuesta": "\"Ciudad policéntrica\", \"ciudad compacta\" y \"ciudad diversa\"; p. 29.",
+   "referencia": "p. 29",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q050",
+   "n_ficha": 50,
+   "tipo": "abierta",
+   "enunciado": "Según el resumen ejecutivo, ¿qué problemas creó la priorización de la circulación en muchas ciudades, la mayor parte peruanas?",
+   "respuesta": "Dificultades de desplazamiento de los peatones, falta de espacios seguros para las bicicletas, segregación territorial y efecto barrera; p. 31.",
+   "referencia": "p. 31",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q051",
+   "n_ficha": 51,
+   "tipo": "abierta",
+   "enunciado": "Opción múltiple: ¿cuál es la estrategia de la etapa de movilidad según la Tabla 1? a) Capacidad vial; b) Movilidad de todos los usuarios; c) Accesibilidad sostenible; d) Prioridad al transporte público.",
+   "respuesta": "b; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q052",
+   "n_ficha": 52,
+   "tipo": "abierta",
+   "enunciado": "Opción múltiple: \"sin depender, en la medida de lo posible, del transporte motorizado\" es parte de la definición de a) movilidad sostenible; b) accesibilidad sostenible; c) movilidad; d) diseño en función del transporte público.",
+   "respuesta": "b; p. 27.",
+   "referencia": "p. 27",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q053",
+   "n_ficha": 53,
+   "tipo": "abierta",
+   "enunciado": "Opción múltiple: según el texto, un tranvía es una alternativa para demandas a) de 20 000 a 30 000; b) mayores de 40 000; c) por debajo de 11 500; d) de 9 000 exactamente.",
+   "respuesta": "c; p. 22.",
+   "referencia": "p. 22",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-q054",
+   "n_ficha": 54,
+   "tipo": "abierta",
+   "enunciado": "Opción múltiple: la Fig. 9 representa a) la dispersión no sostenible; b) la accesibilidad sostenible en los barrios y la movilidad sostenible entre barrios; c) el vínculo entre movilidad y uso del suelo; d) los usuarios con distintas necesidades.",
+   "respuesta": "b; p. 28.",
+   "referencia": "p. 28",
+   "estado": "completa"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t001",
+   "n_ficha": 1,
+   "grupo": "Etapas y términos",
+   "texto": "Son cuatro etapas: tráfico, transporte público, movilidad y movilidad sostenible (p. 16). Las estrategias de la Tabla 1 van en ese orden: capacidad vial, prioridad al transporte público, movilidad de todos los usuarios y accesibilidad sostenible. Error típico: poner \"movilidad sostenible\" como estrategia de la etapa 4 (es el nombre de la etapa; la estrategia es la accesibilidad sostenible) o \"capacidad vial\" en la etapa 2.",
+   "referencia": "p. 16"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t002",
+   "n_ficha": 2,
+   "grupo": "Etapas y términos",
+   "texto": "La etapa 3, movilidad, prioriza el desplazamiento de las personas, en especial las más vulnerables, y reconoce necesidades por género, edad, grupo social y condición física y psíquica (p. 15). La promoción del transporte público es la etapa 2.",
+   "referencia": "p. 15"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t003",
+   "n_ficha": 3,
+   "grupo": "Etapas y términos",
+   "texto": "La sostenibilidad aparece en la última etapa y relaciona los desplazamientos con sus consecuencias ambientales; en ella se da importancia al tema territorial (pp. 15 y 27).",
+   "referencia": "pp. 15 y 27"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t004",
+   "n_ficha": 4,
+   "grupo": "Etapas y términos",
+   "texto": "La introducción define accesibilidad sostenible sin viajar grandes distancias y \"sin utilizar vehículos motorizados\"; Sanz la define \"sin depender, en la medida de lo posible, del transporte motorizado\". Si una opción dice \"sin ningún vehículo motorizado\" como definición de Sanz, está mal.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t005",
+   "n_ficha": 5,
+   "grupo": "Circulación y evidencia",
+   "texto": "Estudio del TTI: 68 áreas urbanas de EE. UU., 1982 a 1999; población +11%, kilómetros de vías +15%, horas de congestión +50%, tiempo de viaje +7%. Trampas: intercambiar el 50% y el 7%, cambiar 68 o los años, o decir que la población creció más que las vías.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t006",
+   "n_ficha": 6,
+   "grupo": "Circulación y evidencia",
+   "texto": "El estudio se cita como del 2001 pero a través de Jara (2003). Peñalosa es exalcalde de Bogotá (incendio echando gasolina); Lerner es exalcalde de Curitiba (colesterol urbano).",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t007",
+   "n_ficha": 7,
+   "grupo": "Circulación y evidencia",
+   "texto": "Buchanan, 1964, \"Traffic in towns\": más infraestructura viaria genera más demanda y realimenta el proceso (círculo vicioso). Su tesis: el tráfico debe estar al servicio de la ciudad y no la ciudad al servicio del tráfico.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t008",
+   "n_ficha": 8,
+   "grupo": "Circulación y evidencia",
+   "texto": "Fig. 1: la flecha discontinua va de \"Mayor dependencia del automóvil\" a \"Mayor extensión / Redes de infraestructuras\". Las consecuencias finales de la dependencia son mayor consumo energético e incremento de la exclusión social. Menor densidad y desplazamientos más largos alimentan la dependencia. Es de Herce (2009), no de Buchanan.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t009",
+   "n_ficha": 9,
+   "grupo": "Circulación y evidencia",
+   "texto": "Barcelona, Londres y Copenhague: sin puentes peatonales en zonas urbanas (nota 6, Dextre 2008a). Lima: se construyen \"aparentemente, para dar seguridad\". La conclusión del texto es que, si el objetivo es proteger, \"en la práctica ocurre todo lo contrario\".",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t010",
+   "n_ficha": 10,
+   "grupo": "Circulación y evidencia",
+   "texto": "Tabla 2: Londres 1,9 y New York City 2,2 sin puentes; México City 15,4 y Capetown 19,4 con puentes; Bogotá 5,7 y Lima 8,8 \"Algunos\". El valor de Lima es una estimación de Dextre; la fuente de la tabla es King (2006). El texto dice entre 5 y 10 veces.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t011",
+   "n_ficha": 11,
+   "grupo": "Circulación y evidencia",
+   "texto": "Efecto barrera: segregación del territorio por vías segregadas o intercambios viales. El proyecto se justifica por el beneficio de quienes pasan (velocidad), pero afecta a quienes viven, trabajan o estudian en la zona. Efectos: dificulta la circulación peatonal (especialmente de personas con discapacidad) y restringe la autonomía de los niños.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t012",
+   "n_ficha": 12,
+   "grupo": "Circulación y evidencia",
+   "texto": "El efecto barrera también viene de la inseguridad vial al cruzar; afecta sobre todo a las personas de la tercera edad. El caso es la señora Quetita, 78 años, en un estudio etnográfico de Lima (carretera central, por Santa Anita; Dextre 2012b). Error: ubicarlo en otra ciudad o con otra edad.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t013",
+   "n_ficha": 13,
+   "grupo": "Circulación y evidencia",
+   "texto": "Ingeniería de tránsito según Radelat (2003): movimiento seguro y eficiente de peatones y vehículos como unidades de tránsito, sin interesar lo que llevan ni por qué circulan (salvo que sus cargas afecten la seguridad). De ahí que el objetivo sea maximizar flujos: vehículos por hora y por carril, con más carriles y pasos a desnivel o intercambios.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t014",
+   "n_ficha": 14,
+   "grupo": "Circulación y evidencia",
+   "texto": "Seúl: años setenta se construyó una autopista sobre el río Cheonggyecheon como símbolo de progreso; en 2000 era la zona más congestionada y ruidosa; la campaña de 2001 de Lee Myung-bak prometió demolerla y recuperar el río, y cumplió. Es \"uno de los pocos ejemplos\" de \"traffic evaporation\" (European Commission 2004): al disminuir la infraestructura vial desaparecen los coches.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t015",
+   "n_ficha": 15,
+   "grupo": "Circulación y evidencia",
+   "texto": "La analogía del bypass: el médico exige cambiar la dieta y hacer ejercicio (atacar el origen); la ciudad construye un paso a desnivel sin cambiar las condiciones y necesitará otro. La solución de Lerner no es prohibir el coche sino usarlo menos y evitarlo cuando haya una buena alternativa de transporte público en los itinerarios habituales (\"buen colesterol\").",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t016",
+   "n_ficha": 16,
+   "grupo": "Transporte público",
+   "texto": "La eficiencia del transporte colectivo se manifiesta en tres cosas: mayor aprovechamiento del espacio público, menor contaminación por pasajero-kilómetro y menor índice de accidentes. El foco pasa de vehículos por hora a personas que pueden desplazarse.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t017",
+   "n_ficha": 17,
+   "grupo": "Transporte público",
+   "texto": "Umbrales: trolebús de Quito 9 000; tranvía menos de 11 500; buses de alta capacidad con carriles exclusivos 20 000 a 30 000 (Hidalgo 2005); metro más de 40 000, todo en pasajeros/hora/sentido. Error: cambiar un modo por otro o ubicar el BRT en 40 000.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t018",
+   "n_ficha": 18,
+   "grupo": "Transporte público",
+   "texto": "El transporte público masivo es \"fundamental\" pero \"no suficiente\": mejorar el tiempo de viaje no acorta las distancias y puede permitir una oferta inmobiliaria más lejos del centro; hay que lograr viajes más cortos (diseño urbano y ordenamiento del territorio).",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t019",
+   "n_ficha": 19,
+   "grupo": "Movilidad",
+   "texto": "Ejemplo del BRT: el mejor modo para 25 000 pasajeros/hora/sentido, pero inconveniente para quien viaja con maletas. Ejemplo del metro: paraderos cada 700 m, 40 000 pasajeros/hora/sentido, inaccesible para una persona de 85 o 90 años; le serviría un bus que pase cerca de su casa. No confundir las cifras: BRT 25 000; metro 40 000; 700 m; 85 o 90 años.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t020",
+   "n_ficha": 20,
+   "grupo": "Movilidad",
+   "texto": "Por encima de 40 000 pasajeros/hora/sentido \"la única alternativa\" es el metro (p. 24).",
+   "referencia": "p. 24"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t021",
+   "n_ficha": 21,
+   "grupo": "Movilidad",
+   "texto": "El enfoque de movilidad se nutre de varias disciplinas (urbanismo, geografía, sociología, psicología, filosofía) y contrasta con los estudios convencionales de tráfico, de corte técnico y a cargo de ingenieros civiles, de transporte o de tránsito. La autonomía es lo más importante para niños y personas con discapacidad visual, auditiva, motora o cognitiva.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t022",
+   "n_ficha": 22,
+   "grupo": "Movilidad",
+   "texto": "Lo que es bueno para un tipo de usuario podría no serlo para otro (p. 24). Multimodalidad: los modos se complementan, no compiten.",
+   "referencia": "p. 24"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t023",
+   "n_ficha": 23,
+   "grupo": "Movilidad",
+   "texto": "Tonucci: el ciudadano medio de antes era adulto, hombre y trabajador; propone diseñar para los niños; el \"camino escolar\" busca devolver la autonomía para ir solos al colegio. Fig. 7: Barcelona (foto de P. Avellaneda).",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t024",
+   "n_ficha": 24,
+   "grupo": "Movilidad",
+   "texto": "Tyler y Dextre: diseñar considerando a la persona con discapacidad. La rampa suele tener 90 cm de ancho; el diseño universal deja de lado esa rampa y hace accesible todo el ancho del crucero peatonal. No es \"rampas más anchas\": es todo el ancho del crucero.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t025",
+   "n_ficha": 25,
+   "grupo": "Movilidad",
+   "texto": "Género: las mujeres tienen un patrón de movilidad distinto; hay que reconceptualizar el diseño vial y el sistema de transporte (Sanz 2008; Cebollada 2003, 2007).",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t026",
+   "n_ficha": 26,
+   "grupo": "Movilidad sostenible",
+   "texto": "Movilidad sostenible y accesibilidad sostenible no son sinónimos: son conceptos diferentes que implican decisiones políticas diferentes, pero son complementarios, no excluyentes.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t027",
+   "n_ficha": 27,
+   "grupo": "Movilidad sostenible",
+   "texto": "Movilidad sostenible (Sanz 1997): promover los medios de transporte que faciliten los desplazamientos con menor impacto ambiental y social; implica dar prioridad al transporte público de pasajeros. Con distancias de viaje elevadas pero densidades urbanas importantes, la demanda estaría garantizada.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t028",
+   "n_ficha": 28,
+   "grupo": "Movilidad sostenible",
+   "texto": "Accesibilidad sostenible (Sanz 1997): acceso a bienes, servicios y contactos sin depender, en lo posible, del transporte motorizado, aprovechando la capacidad de andar o ir en bicicleta; se relaciona con el diseño compacto, diverso y autosuficiente (compacidad; Oliva 2005).",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t029",
+   "n_ficha": 29,
+   "grupo": "Movilidad sostenible",
+   "texto": "Reparto de escalas: accesibilidad sostenible en los barrios (desplazamientos cortos a pie y en bicicleta) y movilidad sostenible entre barrios (transporte público masivo). No invertirlos.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t030",
+   "n_ficha": 30,
+   "grupo": "Movilidad sostenible",
+   "texto": "Primera interrogante: compacidad no significa obligar a las personas a quedarse en el barrio; significa no obligarlas a viajar grandes distancias para educación, salud, trámites o diversión; los ciudadanos son libres de salir, usando modos sostenibles.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t031",
+   "n_ficha": 31,
+   "grupo": "Movilidad sostenible",
+   "texto": "Segunda interrogante: la ciudad grande y expandida se vuelve más compacta promoviendo una ciudad policéntrica de 4 o 5 centros con servicios fundamentales; la potencia del policentrismo exige servicios de muy buena calidad en cada subcentro (no basta con tener varios centros).",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t032",
+   "n_ficha": 32,
+   "grupo": "Movilidad sostenible",
+   "texto": "Colegios y hospitales de calidad en los conos norte, sur y este; docentes con pago adicional; colegios que de noche funcionan como academias de preparación universitaria; postas descentralizadas para casos rutinarios o de baja complejidad. Cada alumno o paciente que no llega al centro es un viaje menos para el centro.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t033",
+   "n_ficha": 33,
+   "grupo": "Movilidad sostenible",
+   "texto": "Calles principales de uso diverso: Stroget (Copenhague) y calle XV de Noviembre (Curitiba); efecto: diversidad social (todos los estratos, visitantes y turistas).",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t034",
+   "n_ficha": 34,
+   "grupo": "Movilidad sostenible",
+   "texto": "Fig. 10: movilidad y transporte (peatón, ciclista, transporte público, transporte de carga, automóvil) más uso del suelo (ciudad policéntrica, compacidad, diversidad). La planificación de la movilidad debe estar intrínsecamente relacionada con la urbanística porque tienen una fuerte relación de dependencia entre sí.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t035",
+   "n_ficha": 35,
+   "grupo": "Movilidad sostenible",
+   "texto": "En el resumen del capítulo, en las ciudades peruanas \"la mayor parte\" priorizó el diseño en función de la circulación o el tráfico; los problemas creados: dificultad de los peatones, falta de espacios seguros para bicicletas, segregación territorial y efecto barrera.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t036",
+   "n_ficha": 36,
+   "grupo": "Cifras y nombres para memorizar",
+   "texto": "11%, 15%, 50%, 7%; 68 áreas; 1982-1999; 1964; 5 a 10 veces; 80 personas y 80 pasajeros; 9 000; 11 500; 20 000 a 30 000; 40 000; 25 000; 700 m; 85 o 90 años; 90 cm; 78 años; 4 o 5 centros; años setenta, año 2000, 2001.",
+   "referencia": null
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-t037",
+   "n_ficha": 37,
+   "grupo": "Cifras y nombres para memorizar",
+   "texto": "Fuentes de las fotos: Fig. 2 y 3, Preservation Institute; Fig. 4, CPF; Figs. 5, 6, 8, Dextre; Fig. 7, P. Avellaneda; Fig. 1, Herce 2009; Fig. 9, Dextre 2007; Fig. 10, Dextre 2009 y 2012a; Tabla 1, Dextre; Tabla 2, King 2006.",
+   "referencia": null
+  }
+ ],
+ "pares": [
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p001",
+   "par": "Movilidad sostenible y accesibilidad sostenible",
+   "diferencia": "Sanz (1997): la movilidad sostenible parte de facilitar el movimiento de personas y mercancías y busca sostenibilidad promoviendo medios de transporte de menor impacto ambiental y social (prioridad al transporte público); la accesibilidad sostenible parte de facilitar el acceso a bienes, servicios y contactos sin depender, en lo posible, del transporte motorizado y aprovechando la capacidad de andar o ir en bicicleta (diseño compacto)"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p002",
+   "par": "Accesibilidad sostenible en los barrios y movilidad sostenible entre barrios",
+   "diferencia": "La primera son desplazamientos cortos a pie o en bicicleta dentro del barrio (compacidad); la segunda son los viajes fuera de la zona de residencia con transporte público masivo"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p003",
+   "par": "Etapa 3 (movilidad) y etapa 4 (movilidad sostenible)",
+   "diferencia": "La 3 se ocupa de las necesidades de todos los usuarios (autonomía, género, edad, discapacidad); la 4 añade las consecuencias ambientales y el factor territorial (uso del suelo)"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p004",
+   "par": "Etapa 2 y etapa 3",
+   "diferencia": "La 2 mide la eficiencia en personas por hora (modos masivos); la 3 muestra con ejemplos (maletas, persona de 85 a 90 años) que un modo eficiente puede resultar inconveniente o inaccesible para ciertos usuarios"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p005",
+   "par": "Tráfico (etapa 1) y circulación",
+   "diferencia": "Se usan como equivalentes en el capítulo; el énfasis es la capacidad vial y los vehículos por hora y por carril"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p006",
+   "par": "Compacidad, policentrismo y diversidad",
+   "diferencia": "Compacidad: servicios cerca para viajes cortos; policentrismo: 4 o 5 centros con servicios de calidad en una ciudad grande; diversidad: calles con usos y actividades variados que dan diversidad social. Son los tres términos de la columna derecha de la Fig. 10"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p007",
+   "par": "Efecto barrera por segregación y por inseguridad vial",
+   "diferencia": "El primero lo causan vías segregadas e intercambios que dividen el territorio; el segundo, el riesgo al cruzar la calle (personas mayores)"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p008",
+   "par": "Diseño para silla de ruedas y diseño universal o inclusivo",
+   "diferencia": "Pensar solo en la silla lleva a la rampa de 90 cm; el diseño universal hace accesible todo el ancho del crucero peatonal para cualquier usuario"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p009",
+   "par": "Tonucci y Tyler/Dextre",
+   "diferencia": "Tonucci propone el niño como nuevo sistema de referencia; Tyler y Dextre, la persona con discapacidad. Ambos argumentan que lo que sirve al más vulnerable sirve a todos"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p010",
+   "par": "Multimodalidad y competencia entre modos",
+   "diferencia": "Los modos deben percibirse como complementarios (Fig. 6), no como competidores"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p011",
+   "par": "Modos por demanda",
+   "diferencia": "Trolebús 9 000; tranvía menos de 11 500; BRT 20 000 a 30 000; metro más de 40 000 (pasajeros/hora/sentido)"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p012",
+   "par": "Buchanan, Peñalosa, Lerner, Radelat, King, European Commission",
+   "diferencia": "Buchanan: círculo vicioso (más vías, más demanda); Peñalosa: incendio con gasolina; Lerner: colesterol urbano; Radelat: definición de ingeniería de tránsito; King: muertes con y sin puentes; European Commission: \"traffic evaporation\""
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p013",
+   "par": "Fig. 1 y Fig. 9",
+   "diferencia": "La 1 es el modelo de dispersión no sostenible (Herce); la 9 muestra la accesibilidad en los barrios y la movilidad entre barrios (Dextre 2007)"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-p014",
+   "par": "Fig. 2 y Fig. 3",
+   "diferencia": "La 2 es la ciudad al servicio del tráfico (autopista); la 3, la ciudad al servicio de la gente (río recuperado). Ambas del Preservation Institute"
+  }
+ ]
+}

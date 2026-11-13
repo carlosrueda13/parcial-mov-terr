@@ -1,0 +1,954 @@
+{
+ "semana": 4,
+ "lectura": "polese-1998-cap10",
+ "autor": "Mario Polèse",
+ "titulo": "Economía urbana y regional, capítulo 10: La localización de las actividades económicas en el espacio urbano",
+ "alcance": "Capítulo 10 completo (pp. 325-371)",
+ "fuente": "content/semana-04/polese-1998-cap10/ficha.md",
+ "preguntas": [
+  {
+   "id": "s04-polese-1998-cap10-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué los modelos económicos del espacio urbano nacen de la teoría de la renta de las producciones agrícolas?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los cuatro postulados del modelo de Von Thünen?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "En el ejemplo del trigo, ¿cuál es la renta en el mercado y a qué distancia llega a cero? ¿Y en el de los guisantes?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿A qué distancia se cruzan las curvas de trigo y guisantes y qué renta ofrece cada uno allí?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué los guisantes ocupan el centro y el pastoreo el borde, si cada uno tiene un costo de producción distinto?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "Si el precio del trigo sube a $120, ¿cuánto ofrece en el centro y qué ocurre con las zonas?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué se llama \"renta\" al ingreso adicional y quién la cobra?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "¿Qué significa que la demanda de suelo es una demanda derivada?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué la renta del suelo proviene de la oferta inelástica y qué quiere decir que renta y localización son \"las dos caras de la misma realidad\"?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q010",
+   "n_ficha": 10,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la diferencia del papel del valor del suelo en las decisiones intraurbanas y en las interurbanas?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "En R = E(p − a) − Efk, ¿qué representan E, p, a, f y k, y qué determina la pendiente y el orden de ocupación?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué E y f son \"la clave del modelo\"?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q013",
+   "n_ficha": 13,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es el costo de interacción espacial y por qué un comerciante y un fabricante de radios eligen distinto?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q014",
+   "n_ficha": 14,
+   "tipo": "abierta",
+   "enunciado": "¿Qué orden de usos del suelo muestra la Fig. 10.5 y qué dice el texto de la p. 334 sobre la vivienda?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q015",
+   "n_ficha": 15,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se explican los subcentros comerciales con la teoría de lugares centrales y qué representan los rangos B y C en la Fig. 10.6?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué un comercio paga más en un punto de mayor afluencia y cómo se aplica a los ambulantes?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q017",
+   "n_ficha": 17,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las tres razones por las que la industria no busca el centro?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q018",
+   "n_ficha": 18,
+   "tipo": "abierta",
+   "enunciado": "¿Qué cambió con el camión en la localización industrial y qué industrias aún pagan el centro?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "¿Qué muestra la Fig. 10.7 sobre el consumo de espacio por empleado y qué dice sobre E(p − a)?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "¿Qué patrón muestran los servicios al consumidor y la industria en la Fig. 10.8 y qué indica el anillo intermedio?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q021",
+   "n_ficha": 21,
+   "tipo": "abierta",
+   "enunciado": "Según el Cuadro 10.1, ¿qué categorías tienen el cociente de localización más alto y por qué el empleo manufacturero del centro sobrestima el industrial?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "¿Qué equivalencia plantea el texto entre funciones centrales y comunes y actividades básicas y no básicas?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q023",
+   "n_ficha": 23,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué los rascacielos hacen subir E y por qué los edificios de oficinas son una demanda derivada?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q024",
+   "n_ficha": 24,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los tres grupos de actividades de oficina de la Fig. 10.9 y qué son las transacciones intra-empresa?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q025",
+   "n_ficha": 25,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué la información compleja, privada y sensible empuja a las oficinas al centro y por qué las instituciones financieras definen su corazón?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q026",
+   "n_ficha": 26,
+   "tipo": "abierta",
+   "enunciado": "¿Qué comparan las Figs. 10.10 y 10.11 y qué conclusión sacan sobre París y Montréal?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q027",
+   "n_ficha": 27,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué la expansión de oficinas en la periferia puede ser expresión de la fuerza del centro?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q028",
+   "n_ficha": 28,
+   "tipo": "abierta",
+   "enunciado": "¿Qué insumos (I y L) minimiza el centro y qué relación hay entre economías de aglomeración y valor del suelo?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q029",
+   "n_ficha": 29,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es el desplazamiento del centro y qué diferencia hay con el modelo polinuclear?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q030",
+   "n_ficha": 30,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los cinco factores que afectan la centralidad del centro?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q031",
+   "n_ficha": 31,
+   "tipo": "abierta",
+   "enunciado": "¿Qué efecto tiene una restricción de densidad sobre el precio del suelo si la demanda es inelástica y si es elástica?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q032",
+   "n_ficha": 32,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué el zonaje puede beneficiar a los propietarios y por qué se compara con barreras a la entrada?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q033",
+   "n_ficha": 33,
+   "tipo": "abierta",
+   "enunciado": "¿Quiénes son los \"padres\" de la teoría de localización residencial y quiénes la formalizaron en términos económicos?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q034",
+   "n_ficha": 34,
+   "tipo": "abierta",
+   "enunciado": "¿Qué papel tiene el Estado en el mercado de vivienda latinoamericano y cuáles son las cinco condiciones de un mercado eficaz?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q035",
+   "n_ficha": 35,
+   "tipo": "abierta",
+   "enunciado": "¿Qué representan los puntos A y B de la Fig. 10.12?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q036",
+   "n_ficha": 36,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los seis factores de sensibilidad al costo de los desplazamientos diarios?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q037",
+   "n_ficha": 37,
+   "tipo": "abierta",
+   "enunciado": "¿Qué variables condicionan la demanda de espacio residencial y cuál es la variable discriminante?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q038",
+   "n_ficha": 38,
+   "tipo": "abierta",
+   "enunciado": "En la Fig. 10.13, ¿por qué las familias pequeñas ocupan el centro y las grandes la periferia y qué marca el punto D2?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q039",
+   "n_ficha": 39,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo cambia la distribución residencial con la densidad (Fig. 10.14) y qué significan las zonas A, B y C?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q040",
+   "n_ficha": 40,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo explica el modelo que familias de alto estatus formen una \"punta de pastel\" y por qué algunas familias pobres viven cerca del centro?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q041",
+   "n_ficha": 41,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la circularidad acumulada en la calidad de los stocks de vivienda?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q042",
+   "n_ficha": 42,
+   "tipo": "abierta",
+   "enunciado": "¿Qué diferencia hay entre segregación por exclusión y por elección voluntaria y cómo se calcula la prima de la discriminación?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q043",
+   "n_ficha": 43,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué la expansión física de la ciudad es una consecuencia del enriquecimiento colectivo y qué podría contenerla?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q044",
+   "n_ficha": 44,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las tres intenciones del control del suelo urbano y qué problemas tiene cada una?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q045",
+   "n_ficha": 45,
+   "tipo": "abierta",
+   "enunciado": "¿Qué obstáculos enfrenta la planificación urbana y por qué importa la densidad para los costos de infraestructura?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-q046",
+   "n_ficha": 46,
+   "tipo": "abierta",
+   "enunciado": "¿Qué factores, según la conclusión, modifican las rentas de localización y a qué proceso conducen?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s04-polese-1998-cap10-t001",
+   "n_ficha": 1,
+   "grupo": null,
+   "texto": "Von Thünen: obra Der Isolierte Staat in Beziehung zur Nationalökonomie und Landwirtschaft, impresa \"1926\" en el libro (la fecha histórica de la obra, dato externo al texto, es 1826); Dunn (1954) la retomó y reformuló. Si la pregunta es de lectura, la respuesta es la del libro.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t002",
+   "n_ficha": 2,
+   "grupo": null,
+   "texto": "Los postulados de Von Thünen son cuatro: plano homogéneo, fertilidad igual, mercado en el centro, costos de transporte lineales.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t003",
+   "n_ficha": 3,
+   "grupo": null,
+   "texto": "Cifras del ejemplo: trigo $100, $50, $5 por km, renta cero a 10 km; guisantes $150, $75, $10 por km, renta cero a 7,5 km; cruce a 5 km con $25 para ambos. No confundir 7 con 7,5.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t004",
+   "n_ficha": 4,
+   "grupo": null,
+   "texto": "A más de 5 km gana el trigo; a menos de 5 km, los guisantes; el pastoreo, el más lejano. Con trigo a $120 la oferta en el centro es $70.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t005",
+   "n_ficha": 5,
+   "grupo": null,
+   "texto": "La renta se llama así porque no se debe a mayor esfuerzo del productor sino al terreno; \"renta\" y \"ganancia adicional\" son sinónimos en la nota de la Fig. 10.1.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t006",
+   "n_ficha": 6,
+   "grupo": null,
+   "texto": "Los compradores pagan el precio completo; los propietarios cobran la renta.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t007",
+   "n_ficha": 7,
+   "grupo": null,
+   "texto": "El suelo tiene demanda derivada; su valor proviene de ser insumo intermediario de bienes finales.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t008",
+   "n_ficha": 8,
+   "grupo": null,
+   "texto": "La renta proviene de que la oferta es inelástica (cada terreno es una localización única); renta y localización son \"las dos caras de la misma realidad\".",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t009",
+   "n_ficha": 9,
+   "grupo": null,
+   "texto": "Fig. 10.4 es una simulación con datos hipotéticos: Ciudad de México = 100; México > Guadalajara > Puebla; en Norteamérica Nueva York > Toronto > Montréal.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t010",
+   "n_ficha": 10,
+   "grupo": null,
+   "texto": "Intraurbano: el precio del terreno influye; interurbano: no era variable en los modelos del cap. 9. El impacto de los valores del suelo es mayor cuanto más limitadas las dimensiones del espacio.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t011",
+   "n_ficha": 11,
+   "grupo": null,
+   "texto": "Ecuación (1): R = E(p − a) − Efk; definir cada símbolo; E(p − a) es el máximo; Ef la pendiente; ordena Ef: el de mayor Ef al centro, el de menor Ef (curva más plana) al final. E y f son \"la clave del modelo\".",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t012",
+   "n_ficha": 12,
+   "grupo": null,
+   "texto": "El texto afirma que en competencia perfecta p = a (el costo incluye la ganancia normal) y que entonces la renta máxima en el centro depende de E; los ejemplos numéricos muestran un margen E(p − a) positivo. Citar como el libro lo dice.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t013",
+   "n_ficha": 13,
+   "grupo": null,
+   "texto": "E depende sobre todo de la intensidad con que se trabaja el suelo (tecnología): oficina (pocos m²) > fábrica de automóviles > rancho (varios km²). Orden en un centro: oficinas, fábricas, explotaciones agrícolas y ganaderas.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t014",
+   "n_ficha": 14,
+   "grupo": null,
+   "texto": "f en el espacio urbano es costo de interacción espacial: comunicaciones interpersonales, desplazamientos diarios, costos de transacción y costo de oportunidad del tiempo. Comerciante con clientes cotidianos (a más de 1 km pierde clientes) frente al fabricante de radios (una o dos visitas al mes al banco).",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t015",
+   "n_ficha": 15,
+   "grupo": null,
+   "texto": "Fig. 10.5: cinco curvas (oficinas y comercios, manufacturas ligeras, habitación, manufacturas pesadas, agricultura); el texto de la p. 334 no menciona la vivienda ni las manufacturas pesadas. \"Ninguna ciudad corresponde exactamente a este modelo.\"",
+   "referencia": "p. 334"
+  },
+  {
+   "id": "s04-polese-1998-cap10-t016",
+   "n_ficha": 16,
+   "grupo": null,
+   "texto": "Comercios y servicios personales siguen la teoría de lugares centrales; el centro es el equivalente del lugar central de rango A (Fig. 9.8); los subcentros regionales (B) son menos numerosos que los de barrio (C) y más distantes entre sí; cada subcentro es una punta local en la curva de renta (Fig. 10.6).",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t017",
+   "n_ficha": 17,
+   "grupo": null,
+   "texto": "Plazas comerciales grandes: suburbios, a distancias más o menos importantes; plazas de barrio: distancias intermedias; la ubicación sigue la demanda (población y poder de compra). Los comercios con mayor valor de ventas por m² representan los valores máximos de E.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t018",
+   "n_ficha": 18,
+   "grupo": null,
+   "texto": "Un comercio paga alquileres según su afluencia (clientes por hora); una calle aislada no sostiene precios altos; algunos metros pueden hacer toda la diferencia.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t019",
+   "n_ficha": 19,
+   "grupo": null,
+   "texto": "Ambulantes: buscan lugares centrales; la \"renta\" informal o \"negra\" se paga por vías paralelas a protectores políticos o sindicatos; \"cada sitio tiene su precio\".",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t020",
+   "n_ficha": 20,
+   "grupo": null,
+   "texto": "La industria evita el centro por tres razones: usa mucho espacio (incluidos almacenamiento, estacionamiento y camiones); es sensible a las vías de transporte de mercancías (la congestión la repele); necesita menos el centro (exporta fuera de la región y su demanda es intermedia). Las dos primeras valen para almacenamiento y distribución.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t021",
+   "n_ficha": 21,
+   "grupo": null,
+   "texto": "El camión (costos fijos poco elevados) dio movilidad a la industria; antes se ubicaba en accesos de vías navegables y ferrocarriles (zonas industriales \"centrales\" a lo largo de rieles o cerca del puerto). En el centro solo quedan manufacturas de uso intensivo del espacio o con altos costos de interacción: talleres de moda y casas editoriales de periódicos y revistas.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t022",
+   "n_ficha": 22,
+   "grupo": null,
+   "texto": "Fig. 10.7: Puebla, m² por empleado, Periferia 2 = 100, la muestra incluye mayoristas; el consumo de espacio aumenta con la distancia al centro.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t023",
+   "n_ficha": 23,
+   "grupo": null,
+   "texto": "Fig. 10.8: Ciudad de México, 1985; anillos de 4, 11, 12 y 9 municipios; consumidor: bipolar; industria: anillos alejados con peso en el intermedio, de modo que la expulsión del empleo industrial no ha concluido. Los cocientes de localización se explican en el cap. 5.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t024",
+   "n_ficha": 24,
+   "grupo": null,
+   "texto": "CBD, centro de negocios y centro son sinónimos. La prestación de servicios es la principal base económica de los centros.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t025",
+   "n_ficha": 25,
+   "grupo": null,
+   "texto": "Cuadro 10.1: Montréal, década 1980-1989; manufactura 8,2% (empleo estricto de fábrica, quizás 5%); servicios a las empresas 44,9% con cociente 1,96; financieras 17,4% con 2,25; administraciones públicas 10,3% con 1,58; comercio de detalle 8,7% con 0,46; hoteles, bares y restaurantes 8,4% con 1,44. En centros latinoamericanos la manufactura probablemente 10% a 20%.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t026",
+   "n_ficha": 26,
+   "grupo": null,
+   "texto": "Texto: solo la administración pública, la hotelería y los restaurantes tienen, aparte de los servicios a las empresas, cocientes \"sensiblemente superiores a 1,0\". Las funciones centrales, privadas o públicas, son la mayoría de los empleos del centro.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t027",
+   "n_ficha": 27,
+   "grupo": null,
+   "texto": "Funciones centrales y comunes equivalen a actividades básicas y no básicas; la presencia de comercio común en el centro depende de las funciones centrales.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t028",
+   "n_ficha": 28,
+   "grupo": null,
+   "texto": "Rascacielos: innovación tecnológica que sube el valor posible de E; los edificios de oficinas son demanda derivada; el precio elevado del centro incita a construir hacia arriba.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t029",
+   "n_ficha": 29,
+   "grupo": null,
+   "texto": "La demanda de oficinas depende del precio de los servicios superiores (p − a) y de los costos de interacción (f).",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t030",
+   "n_ficha": 30,
+   "grupo": null,
+   "texto": "Los tres grandes grupos de oficina (Fig. 10.9): sedes y oficinas de administración de manufactura y de comunicaciones, transportes y energía; servicios financieros (con aseguradoras e inmobiliarias); servicios a las empresas (asesoría, contadores, abogados, arquitectos). Sin la administración pública son casi todo el empleo de oficina de los centros modernos. Sede = transacciones intra-empresa.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t031",
+   "n_ficha": 31,
+   "grupo": null,
+   "texto": "El costo de comunicar información depende de la frecuencia de contactos directos; mayor importancia cuanto más compleja, privada y sensible la información; las instituciones financieras definen el corazón del barrio de negocios (precio por m² más alto).",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t032",
+   "n_ficha": 32,
+   "grupo": null,
+   "texto": "Figs. 10.10 y 10.11: centro = 100 (terreno, en el texto); precios bajan más rápido en París (funciones más centrales); entre 50% y 100% más por m² de oficina en el centro; muy sensibles dentro del centro; no leer cifras de las figuras tridimensionales más allá de lo que dice el texto.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t033",
+   "n_ficha": 33,
+   "grupo": null,
+   "texto": "Los precios altos del centro expulsan a las funciones menos centrales y acentúan la especialización; los subcentros de oficinas y la expansión de complejos en la periferia expresan la fuerza del centro. Gad (1985, Toronto): suburbanización de oficinas junto con más especialización y alza relativa del precio en el centro. Cap. 11, Cuadro 11.1.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t034",
+   "n_ficha": 34,
+   "grupo": null,
+   "texto": "El centro minimiza el costo de I (información) y de L (mano de obra calificada, por desplazamientos diarios, no migración); las economías de aglomeración se capitalizan en el valor del suelo y lo limitan; cuanto mayor la ciudad y la región, mayores los valores del centro (México frente a Guadalajara o Monterrey).",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t035",
+   "n_ficha": 35,
+   "grupo": null,
+   "texto": "Desplazamiento del centro: Ciudad de México, Quito y San Salvador; polinuclear: Reforma, Polanco, Coyoacán, Perisur; polos siguen un eje suroeste; \"núcleo central extendido\".",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t036",
+   "n_ficha": 36,
+   "grupo": null,
+   "texto": "Cinco factores que afectan la centralidad: trazado de vías (metro de Montréal, década de 1960, al norte del Viejo Montréal); protección del patrimonio; dispersión residencial (con subvención del automóvil y autopistas); criminalidad y violencia; división administrativa sin perecuación fiscal (Nueva York con carga fiscal mayor que sus vecinas).",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t037",
+   "n_ficha": 37,
+   "grupo": null,
+   "texto": "Zonaje y densidad: limitar densidades reduce la oferta de superficie de piso, no la de suelo; el resultado depende de la elasticidad-precio. Inelástica: efecto neto nulo sobre el precio del suelo; precios de oficina suben; más especialización. Elástica (centro débil): incremento, caída de la demanda y vuelta del precio al nivel inicial o menos; pierden municipio y promotores. París restringe torres en el centro; Montréal no.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t038",
+   "n_ficha": 38,
+   "grupo": null,
+   "texto": "El zonaje crea escasez artificial y renta para los propietarios ya instalados (como barreras de entrada o aranceles); por eso los promotores no se oponen necesariamente; no funciona con poca demanda inicial. Justificación principal: evitar externalidades negativas.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t039",
+   "n_ficha": 39,
+   "grupo": null,
+   "texto": "Park y Burgess (Escuela de Chicago, ecología urbana); Wingo (1980) y Alonso (1964) formalizaron económicamente. En América Latina predominan sociólogos y arquitectos en el estudio de la vivienda, con ausencia casi total de análisis económicos.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t040",
+   "n_ficha": 40,
+   "grupo": null,
+   "texto": "Los barrios informales expresan un Estado que funciona mal; sin Estado de derecho no hay mercado de vivienda (\"fútbol sin reglas y sin árbitro\"); Asia del Este (Taiwán, Tailandia, Malasia) muestra que el mercado responde si el Estado cumple; cinco condiciones del mercado eficaz (mercado libre, régimen de derecho, transporte para familias pobres, servicios públicos, mercado hipotecario).",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t041",
+   "n_ficha": 41,
+   "grupo": null,
+   "texto": "Fig. 10.12: curva de indiferencia; A = media unidad por persona y 10 minutos al día, ida y vuelta; B = dos unidades y una hora al día; el eje vertical está orientado hacia abajo.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t042",
+   "n_ficha": 42,
+   "grupo": null,
+   "texto": "Seis factores de sensibilidad al desplazamiento: costo de oportunidad del tiempo; transporte frente al ingreso; número de personas que se desplazan; peso de otros desplazamientos; costo subjetivo; edad. Hay efectos de ingreso en dos factores distintos (el rico \"cuenta\" su tiempo; el rico es menos sensible al costo del transporte).",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t043",
+   "n_ficha": 43,
+   "grupo": null,
+   "texto": "Tamaño de la familia e ingreso son las dos variables de la demanda de espacio residencial; la presencia o ausencia de hijos es la variable discriminante.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t044",
+   "n_ficha": 44,
+   "grupo": null,
+   "texto": "Fig. 10.13: ejes en costo mensual (desplazamientos y alquiler por m²), rectas de sustitución constante, líneas continuas = mayor gasto global; R (pequeña, empinada) paga más hasta D2; M (grande, plana) más allá; bandas concéntricas: pequeñas al centro, grandes a la periferia; las curvas son comparables a las de la Fig. 10.3.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t045",
+   "n_ficha": 45,
+   "grupo": null,
+   "texto": "Ciudades chinas a principios de 1990: mercado de vivienda rígido, bicicleta o a pie, densidades diez veces o más en el centro; el modelo occidental de suburbanización no se dio igual.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t046",
+   "n_ficha": 46,
+   "grupo": null,
+   "texto": "Densidad residencial: la construcción vertical sube el precio relativo del suelo del centro y empuja los usos extensivos a la periferia (expulsión-sucesión). Fig. 10.14: C alta densidad en el centro, B intermedias, A grandes afueras. No confundir con A, B, C de la Fig. 10.6.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t047",
+   "n_ficha": 47,
+   "grupo": null,
+   "texto": "Estatus social: las curvas de R' y M' están por debajo de R y M; la \"punta de pastel\" de alto estatus parte del centro hacia la periferia; en la Ciudad de México va de Polanco al suroeste; los barrios ricos están en las mejores condiciones geográficas y rara vez cerca de industria pesada.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t048",
+   "n_ficha": 48,
+   "grupo": null,
+   "texto": "Los pobres cerca del centro: R' ofrece más por m² que M hasta D1; tres razones (transporte, empleo, servicios públicos) y hacinamiento de dos o tres personas por pieza; las poblaciones pobres pueden producir \"rendimientos\" elevados en el centro.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t049",
+   "n_ficha": 49,
+   "grupo": null,
+   "texto": "Circularidad acumulada: estatus alto, más inversión en calidad; estatus bajo, menos inversión; decadencia social de barrios; externalidades de vecindad.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t050",
+   "n_ficha": 50,
+   "grupo": null,
+   "texto": "Segregación étnica: exclusión (barrios negros en EE.UU., antes de 1960; indígenas no hispanizados en Bolivia, Guatemala, Perú) y elección voluntaria (barrios chinos o italianos); ambas crean renta de localización adicional (prima). Discriminación: prima en calidad menor por el mismo precio; el sobreprecio de exclusión lo pagan sobre todo los inquilinos.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t051",
+   "n_ficha": 51,
+   "grupo": null,
+   "texto": "Expansión física: ingreso sube; superficie de piso por persona 2 a 3 veces mayor en países ricos; la ciudad se duplica o triplica; las curvas son más altas y más planas; \"consecuencia inevitable del enriquecimiento colectivo\"; para contenerla, subir el precio relativo del suelo o el costo del transporte urbano.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t052",
+   "n_ficha": 52,
+   "grupo": null,
+   "texto": "Tres intenciones del control del suelo; el zonaje es el instrumento principal para reducir externalidades; puede usarse para excluir poblaciones; el control genera una renta adicional negociable. Maximizar la renta solo funciona con renta de monopolio (centralidad indiscutible) y control de todo el espacio urbanizable; limitar bruscamente la oferta puede producir mercados \"negros\" (asentamientos informales). Minimizar el costo de infraestructuras: densidad mínima para el metro; Europa mejor que Norteamérica; seis obstáculos.",
+   "referencia": null
+  },
+  {
+   "id": "s04-polese-1998-cap10-t053",
+   "n_ficha": 53,
+   "grupo": null,
+   "texto": "Conclusión: oferta fija, rentas de localización; densidad (intensidad de uso) y sensibilidad a los costos de transporte fijan la demanda; las rentas son sensibles a intervenciones políticas, cambios tecnológicos y desarrollo económico; expulsión-sucesión; el tema del último capítulo.",
+   "referencia": null
+  }
+ ],
+ "pares": [
+  {
+   "id": "s04-polese-1998-cap10-p001",
+   "par": "Renta y ganancia normal",
+   "diferencia": "La ganancia normal está dentro del costo de producción ($50 del trigo incluye la remuneración normal); la renta o \"ganancia adicional\" es lo que sobra y se debe solo al terreno"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p002",
+   "par": "Precio ofrecido y quien cobra",
+   "diferencia": "Los utilizadores pagan el precio completo de la curva; los propietarios cobran la renta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p003",
+   "par": "Trigo y guisantes",
+   "diferencia": "Guisantes: renta mayor en el mercado ($75 contra $50) y curva más empinada ($10 contra $5 por km), por eso ocupan el centro; trigo: curva más plana, ocupa más lejos; el pastoreo, más plano aún, el más lejano"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p004",
+   "par": "E(p − a) y Ef",
+   "diferencia": "E(p − a) es la renta máxima (en el centro, el valor en el eje vertical); Ef es la pendiente de la curva"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p005",
+   "par": "E y f",
+   "diferencia": "E: rendimiento por hectárea (intensidad de uso); f: costo unitario de transporte o de interacción espacial por km"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p006",
+   "par": "Demanda derivada y demanda final",
+   "diferencia": "El suelo tiene demanda derivada, como insumo intermediario; no tiene demanda final por sí mismo"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p007",
+   "par": "Localización intraurbana e interurbana",
+   "diferencia": "Intraurbana: el precio relativo del terreno influye en la decisión; interurbana (cap. 9): el precio del terreno no era variable"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p008",
+   "par": "Oferta de suelo y oferta de superficie de piso",
+   "diferencia": "El zonaje de densidad limita la superficie de piso (y sube su precio), no la oferta de suelo"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p009",
+   "par": "Demanda inelástica y elástica de espacios centrales",
+   "diferencia": "Inelástica (centro fuerte, Londres \"City\"): efecto neto sobre el precio del suelo nulo, más especialización y expulsión de otros usos; elástica (centro débil): precios vuelven al nivel inicial o por debajo, pierden municipio y promotores"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p010",
+   "par": "Centro fuerte y centro débil",
+   "diferencia": "Fuerte: óptimo para cualquier oficina de vocación central; débil: en competencia con otros puntos"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p011",
+   "par": "Marginalización, desplazamiento del centro y modelo polinuclear",
+   "diferencia": "Desplazamiento: un centro moderno reemplaza al histórico (Ciudad de México, Quito, San Salvador); polinuclear: varios distritos de negocios (Reforma, Polanco, Coyoacán, Perisur)"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p012",
+   "par": "Descentralización por precios altos y debilitamiento del centro",
+   "diferencia": "Los complejos de oficinas en la periferia suelen expresar la fuerza del centro, que se volvió demasiado caro"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p013",
+   "par": "Funciones centrales y funciones comunes",
+   "diferencia": "Equivalen, mutatis mutandis, a actividades básicas y no básicas; las centrales atraen tráfico a las calles del centro"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p014",
+   "par": "Servicios a las empresas, servicios al consumidor e industria (Fig. 10.8)",
+   "diferencia": "Empresas: concentrados en el centro; consumidor (comercios): patrón bipolar; industria: anillos alejados, con peso en el intermedio"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p015",
+   "par": "Servicios a los particulares y servicios a las empresas (Cuadro 10.1)",
+   "diferencia": "Particulares: cociente 0,73, el comercio de detalle 0,46; empresas: cociente 1,96"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p016",
+   "par": "Manufactura 8,2% y empleo industrial estricto",
+   "diferencia": "8,2% incluye oficinas de sociedades industriales; el empleo industrial propiamente dicho es quizás 5%"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p017",
+   "par": "Sedes y oficinas de servicios a las empresas",
+   "diferencia": "Las sedes prestan servicios a otros establecimientos de la misma empresa (transacciones intra-empresa)"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p018",
+   "par": "Insumo I e insumo L en el centro",
+   "diferencia": "I: información, costo mínimo en el centro; L: mano de obra calificada, mínimo costo de acceso por desplazamientos diarios domicilio-trabajo, no por migración"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p019",
+   "par": "Fig. 10.6: A, B, C",
+   "diferencia": "A: oficinas, sedes, bancos y comercios especializados; B: subcentro regional; C: centro comercial de barrio"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p020",
+   "par": "Fig. 10.14: A, B, C",
+   "diferencia": "A: grandes afueras, casas unifamiliares; B: zonas intermedias (hileras, departamentos); C: muy alta densidad en el centro"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p021",
+   "par": "Fig. 10.12 y Fig. 10.13",
+   "diferencia": "10.12: curva de indiferencia de una familia entre tamaño de la vivienda y tiempo de desplazamiento; 10.13: rectas de gasto global constante, comparables a curvas de renta"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p022",
+   "par": "Puntos A y B (Fig. 10.12)",
+   "diferencia": "A: media unidad por persona, 10 minutos al día; B: dos unidades, una hora al día"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p023",
+   "par": "D1 y D2 (Fig. 10.13)",
+   "diferencia": "D2: cruce de R y M (mismo gasto global); D1: hasta donde R' (pobre, pequeña) ofrece más que M"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p024",
+   "par": "R, M, R', M'",
+   "diferencia": "R: familia pequeña sin niños (empinada); M: familia grande con niños (plana); R' y M': las mismas con menos recursos (curvas siempre por debajo)"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p025",
+   "par": "Línea continua y punteada (Fig. 10.13)",
+   "diferencia": "Continua: mayor gasto global; punteada: menor"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p026",
+   "par": "Costo de oportunidad del tiempo y costo del transporte respecto al ingreso",
+   "diferencia": "Dos factores de sensibilidad a la distancia que el texto enumera por separado; el primero habla de quien \"cuenta\" su tiempo y el segundo del transporte frente al ingreso"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p027",
+   "par": "Exclusión y elección voluntaria",
+   "diferencia": "Exclusión: barrios negros (EE.UU., antes de 1960), indígenas no hispanizados en barrios periféricos (Bolivia, Guatemala, Perú); elección: barrios chinos o italianos"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p028",
+   "par": "Prima por elección y prima por discriminación",
+   "diferencia": "Elección: precio adicional que se acepta pagar por vivir con los suyos; discriminación: vivienda de menor calidad por el mismo precio, o sobreprecio por salir del barrio reservado"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p029",
+   "par": "Suburbanización y urban sprawl",
+   "diferencia": "Mismo fenómeno de expansión física; \"mancha urbana\" tiene connotación negativa (expansión \"desordenada\")"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p030",
+   "par": "Tres intenciones del control del suelo",
+   "diferencia": "Reducir externalidades negativas; maximizar la renta de localización; minimizar el costo de infraestructuras colectivas"
+  },
+  {
+   "id": "s04-polese-1998-cap10-p031",
+   "par": "CBD, centro de negocios y centro",
+   "diferencia": "Sinónimos en el texto"
+  }
+ ]
+}

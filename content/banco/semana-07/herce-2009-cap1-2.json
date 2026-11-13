@@ -1,0 +1,1241 @@
+{
+ "semana": 7,
+ "lectura": "herce-2009-cap1-2",
+ "autor": "Manuel Herce",
+ "titulo": "Sobre la movilidad en la ciudad: propuestas para recuperar un derecho ciudadano, capítulos I (El derecho a la movilidad: requerimientos de la sociedad actual) y II (El estudio de la demanda: necesidades por grupos de población)",
+ "alcance": "Capítulos I y II (pp. 15-49); la p. 14 es el final del prefacio y no es parte del alcance",
+ "fuente": "content/semana-07/herce-2009-cap1-2/ficha.md",
+ "preguntas": [
+  {
+   "id": "s07-herce-2009-cap1-2-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué, según Herce, \"movilidad\" ha ido desplazando a \"transporte\"?",
+   "respuesta": "No por motivos coyunturales sino porque son conceptos de diferente alcance; p. 15.",
+   "referencia": "p. 15",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Qué sintetiza la reflexión de Peter Hall?",
+   "respuesta": "Con la electrónica y la telemática se rompen los vínculos de proximidad y los sustituyen vínculos de conexión a muy diferentes niveles; p. 15.",
+   "referencia": "p. 15",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "¿Qué han sustituido las redes de infraestructuras como invariante de la organización espacial?",
+   "respuesta": "Los sistemas de asentamientos urbanos; p. 15.",
+   "referencia": "p. 15",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué criterios fue sustituido el determinismo de los factores de localización?",
+   "respuesta": "Oportunidad, oferta de externalidades, competencia entre espacios, especialización territorial y mutación constante de usos; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los cuatro esquemas de la Fig. 1.1?",
+   "respuesta": "Sistema tradicional de ciudades; extensión lineal, ciudad jardín; ciudad del movimiento moderno, comunicación y segregación; ciudad región sobre redes territoriales; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la situación paradójica que describe Herce?",
+   "respuesta": "Las infraestructuras son cada vez más el soporte fijo de la economía regional, pero cambian como discriminador de los servicios, y ampliarlas sin discriminar genera más dispersión y una movilidad insostenible; pp. 16-17.",
+   "referencia": "pp. 16-17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "En la Fig. 1.2, ¿cuáles son las dos consecuencias finales de la mayor dependencia del automóvil?",
+   "respuesta": "Mayor consumo energético e incremento de la exclusión social; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "En la Fig. 1.2, ¿a qué caja vuelve la flecha discontinua?",
+   "respuesta": "A \"Mayor extensión de redes de infraestructuras\"; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo califica Herce el discurso de producir nuevas infraestructuras en lugar de gestionar mejor las existentes?",
+   "respuesta": "Claramente falaz; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q010",
+   "n_ficha": 10,
+   "tipo": "abierta",
+   "enunciado": "¿Quién paga más por los servicios en el modelo de expansión, según el texto?",
+   "respuesta": "Los ciudadanos de las periferias, por servicios gratuitos o más baratos en los centros; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Qué alternativa propone Herce?",
+   "respuesta": "Concentración urbana y densidad de ocupación del suelo; pp. 17-18.",
+   "referencia": "pp. 17-18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "¿Qué discursos enmascaran esa alternativa?",
+   "respuesta": "Reequilibrio territorial, ciudad-región y ruralización de parte del hábitat urbano; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q013",
+   "n_ficha": 13,
+   "tipo": "abierta",
+   "enunciado": "¿Qué diferencia hay entre las visiones de infraestructuras de los niveles central y local?",
+   "respuesta": "La central o autonómica, producción y modernización de infraestructuras; la local, movilidad cotidiana y otro tipo de infraestructuras, con menos recursos; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q014",
+   "n_ficha": 14,
+   "tipo": "vf",
+   "enunciado": "La Administración central ha colaborado sobre todo suministrando recursos para los planes de movilidad urbana.",
+   "respuesta": "Falso: a menudo formulando reglamentos y guías de contenido; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "a menudo formulando reglamentos y guías de contenido; p. 18."
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q015",
+   "n_ficha": 15,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice Veltz, citado por Herce, de las velocidades?",
+   "respuesta": "A los imperativos de la velocidad se suman los de la sincronización; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice Secchi del espacio de la movilidad?",
+   "respuesta": "Ha abandonado la continuidad; son layers distintos y parcialmente separados, con infraestructuras de movimiento veloz entre centros e infraestructuras de percolación; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q017",
+   "n_ficha": 17,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la \"obligación de equidad democrática\" a que se refiere Herce?",
+   "respuesta": "Que la multiplicación de viajes, reflejo de la realización de oportunidades de conexión, sea posible para todos; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q018",
+   "n_ficha": 18,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los dos argumentos contra la división entre movilidad obligada y no obligada?",
+   "respuesta": "Primero, está en crisis por el cambio de organización social y desatiende otros motivos; segundo, la demanda ya no se expresa en dos puntas muy marcadas; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "Fig. 1.3, ¿qué porcentajes tienen la movilidad obligada, la no obligada y la vuelta a casa?",
+   "respuesta": "28,0 %, 24,3 % y 47,7 %; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "Fig. 1.3, ¿cómo se reparte la movilidad obligada y la no obligada?",
+   "respuesta": "Obligada: trabajo 65,1 %, estudios 34,9 %; no obligada: compras 24,3 %, visitas 23,5 %, diversión 21,1 %, otros 30,8 %; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q021",
+   "n_ficha": 21,
+   "tipo": "abierta",
+   "enunciado": "¿Qué muestran los cuadros de Constant y de Sanejouand?",
+   "respuesta": "Constant, Nueva Babilonia, 1969: territorio de redes que niegan la existencia a lo que no está sobre sus ejes; Sanejouand, 1972: espacio permeado por un sistema capilar que baja hasta caminos y senderos; pp. 20-21.",
+   "referencia": "pp. 20-21",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "¿Qué demostró Monzón con datos de Madrid?",
+   "respuesta": "Hay más desplazamientos diarios entre quienes viven en el centro, con más oferta y servicios accesibles a pie, que en la periferia, aunque allí haya más población en edad de estudiar y activa; p. 22.",
+   "referencia": "p. 22",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q023",
+   "n_ficha": 23,
+   "tipo": "abierta",
+   "enunciado": "¿Qué plantea Soria y Puig sobre el peatón y la energía?",
+   "respuesta": "Las personas pueden transportarse a sí mismas y el transporte debería ocuparse de los viajes a pie; la disponibilidad de energía determina qué es mueble o inmueble; p. 22.",
+   "referencia": "p. 22",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q024",
+   "n_ficha": 24,
+   "tipo": "abierta",
+   "enunciado": "¿Qué proporciona la accesibilidad, según Soria y Puig?",
+   "respuesta": "El conjunto de vías y estaciones; se aumenta con nuevas vías y también con nuevas estaciones; p. 22.",
+   "referencia": "p. 22",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q025",
+   "n_ficha": 25,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué es difícil que cristalicen grandes grupos económicos en torno al transporte autónomo?",
+   "respuesta": "Porque no consume otra energía que los alimentos ni requiere infraestructuras ni vehículos costosos; p. 22.",
+   "referencia": "p. 22",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q026",
+   "n_ficha": 26,
+   "tipo": "abierta",
+   "enunciado": "¿Qué implica el ejercicio del derecho a la conexión?",
+   "respuesta": "Atender todas las formas de desplazamiento, cuidar preferentemente las que consumen menos energía y crean menos dependencia, y atender el tipo de infraestructuras y la gestión del espacio público; p. 23.",
+   "referencia": "p. 23",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q027",
+   "n_ficha": 27,
+   "tipo": "abierta",
+   "enunciado": "Fig. 1.7, ¿qué sector tiene el mayor consumo energético en España en 2005?",
+   "respuesta": "Transporte, 39,4 %; luego industria 30,9 %, residencial 15,0 %, servicios 8,5 % y agricultura 6,2 %; p. 24.",
+   "referencia": "p. 24",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q028",
+   "n_ficha": 28,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las tres acepciones de sostenibilidad y su acento?",
+   "respuesta": "Energética: menor consumo de energía; medioambiental: reducción de emisiones; social: equidad en el acceso a la movilidad; p. 24.",
+   "referencia": "p. 24",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q029",
+   "n_ficha": 29,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el orden jerárquico de atención que propone Herce?",
+   "respuesta": "Justicia social, lo energético y luego el impacto ambiental; p. 24.",
+   "referencia": "p. 24",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q030",
+   "n_ficha": 30,
+   "tipo": "abierta",
+   "enunciado": "¿Qué absurdo puede producir ignorar la diferencia entre las sostenibilidades?",
+   "respuesta": "Encarecer el uso de modos o infraestructuras y expulsar a muchos usuarios del sistema, o gravar con el principio \"quien contamine pague\" modos poco contaminantes pero insostenibles en energía, o dar privilegios a quien paga la contaminación; p. 24.",
+   "referencia": "p. 24",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q031",
+   "n_ficha": 31,
+   "tipo": "abierta",
+   "enunciado": "¿Qué evolución de la solidaridad describe Ascher?",
+   "respuesta": "De la solidaridad mecánica del mundo rural y la orgánica de la ciudad industrial a la comunicativa; el desafío es convertirla en reflexiva; p. 24.",
+   "referencia": "p. 24",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q032",
+   "n_ficha": 32,
+   "tipo": "abierta",
+   "enunciado": "Enumere los riesgos de exclusión social que menciona Herce.",
+   "respuesta": "Sin vehículo motorizado propio; el espacio ocupado por vehículos impide ir a pie o en bicicleta; no poder usar el vehículo o no ser adecuado al motivo y duración; pérdida de tiempo en intercambios de un colectivo ineficaz; p. 25.",
+   "referencia": "p. 25",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q033",
+   "n_ficha": 33,
+   "tipo": "abierta",
+   "enunciado": "¿Qué espiral describe Dupuy?",
+   "respuesta": "La relación motorización, incremento del espacio viario, lleva a una espiral de dependencia del coche con costos energéticos y sociales y pérdida de autonomía; p. 25.",
+   "referencia": "p. 25",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q034",
+   "n_ficha": 34,
+   "tipo": "abierta",
+   "enunciado": "¿Qué muestra la Fig. 1.10?",
+   "respuesta": "Más accesibilidad para los motorizados implica menos accesibilidad para los no motorizados, a medida que aumenta la automovilización; p. 26.",
+   "referencia": "p. 26",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q035",
+   "n_ficha": 35,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué los desplazamientos a pie son la mayor parte de los de la ciudad?",
+   "respuesta": "Si a los viajes solo a pie se suman los que son parte de otros desplazamientos; todas las transferencias entre modos se hacen a pie; p. 26.",
+   "referencia": "p. 26",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q036",
+   "n_ficha": 36,
+   "tipo": "abierta",
+   "enunciado": "Enumere las cinco alteraciones del modelo social de movilidad.",
+   "respuesta": "Trabajo autónomo y diversificación de lugares de trabajo; equilibrio en la distribución horaria; puntas de vehículo privado en fines de semana; encarecimiento de los viajes en vehículo privado; mayor conciencia del costo energético y ambiental; p. 27.",
+   "referencia": "p. 27",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q037",
+   "n_ficha": 37,
+   "tipo": "abierta",
+   "enunciado": "¿Qué crítica hace Herce a los planes \"en cascada\"?",
+   "respuesta": "Cuando se llega a los problemas urbanos concretos ya está desfasado el marco general que los antecedía; p. 27.",
+   "referencia": "p. 27",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q038",
+   "n_ficha": 38,
+   "tipo": "abierta",
+   "enunciado": "Enumere las insuficiencias del modelo tradicional de gestión de la movilidad.",
+   "respuesta": "Planes respuesta a una demanda sobre la que no se actúa; atención prioritaria al coche; aparato analítico desfasado; creciente gestión por los productores de infraestructuras; p. 28.",
+   "referencia": "p. 28",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q039",
+   "n_ficha": 39,
+   "tipo": "abierta",
+   "enunciado": "¿Qué políticas propone frente al riesgo de exclusión social?",
+   "respuesta": "Atención a todas las formas y motivos de desplazamiento; analizar la conectividad generada por las infraestructuras; atención a flexibilidad y costo de acceso; concertación social de inversiones y gestión; p. 28.",
+   "referencia": "p. 28",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q040",
+   "n_ficha": 40,
+   "tipo": "abierta",
+   "enunciado": "¿Qué políticas propone por sostenibilidad medioambiental y eficacia económica?",
+   "respuesta": "Prioridad a sistemas de menor consumo de energía; acento en intermodalidad y espacios de intercambio; creciente importancia de la regulación de la distribución urbana de mercancías; p. 28.",
+   "referencia": "p. 28",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q041",
+   "n_ficha": 41,
+   "tipo": "abierta",
+   "enunciado": "¿Entre qué valores se mueve el número de viajes por persona y día en ciudades occidentales?",
+   "respuesta": "Entre 3 y 3,5; p. 29.",
+   "referencia": "p. 29",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q042",
+   "n_ficha": 42,
+   "tipo": "abierta",
+   "enunciado": "¿Qué valores da Movilia por tamaño de municipio?",
+   "respuesta": "2,8 en menos de 10.000; 2,9 entre 10.000 y 50.000; 3 entre 50.000 y 500.000; 2,8 en más de 500.000; p. 29.",
+   "referencia": "p. 29",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q043",
+   "n_ficha": 43,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué los promedios de distintas ciudades son tan variados?",
+   "respuesta": "Poca atención a la movilidad no obligada, encuestas por intercepción de rutas, y poca fiabilidad de los datos de viajes a pie; pp. 29-30.",
+   "referencia": "pp. 29-30",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q044",
+   "n_ficha": 44,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo cambiaron los viajes por persona y día en la RMB con la nueva metodología?",
+   "respuesta": "De 1,88 y 0,83 en 2001 a 3,44 y 2,39 en laborables y festivos; los viajes a pie pasaron de 33,8 % a 45,9 %; p. 30.",
+   "referencia": "p. 30",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q045",
+   "n_ficha": 45,
+   "tipo": "abierta",
+   "enunciado": "Fig. 2.1, ¿cómo se reparte la movilidad de la RMB (2006)?",
+   "respuesta": "A pie 38,2 %; transporte privado 36,5 %; transporte público 25,4 %; p. 30.",
+   "referencia": "p. 30",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q046",
+   "n_ficha": 46,
+   "tipo": "vf",
+   "enunciado": "Según los observatorios citados, el viaje a pie es en España cerca de la mitad de la movilidad en grandes ciudades.",
+   "respuesta": "Falso: aproximadamente 1/3; el texto muestra que cuando se mide bien es mayor; p. 31.",
+   "referencia": "p. 31",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "aproximadamente 1/3; el texto muestra que cuando se mide bien es mayor; p. 31."
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q047",
+   "n_ficha": 47,
+   "tipo": "abierta",
+   "enunciado": "¿Qué viajes a pie por persona y día da Movilia según el tamaño del municipio?",
+   "respuesta": "1,04 en menos de 50.000; 0,94 entre 50.000 y 500.000; 1,05 en mayores; p. 31.",
+   "referencia": "p. 31",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q048",
+   "n_ficha": 48,
+   "tipo": "abierta",
+   "enunciado": "¿Qué viajes por persona y día laborable tiene Barcelona en la tabla de la p. 31?",
+   "respuesta": "3,46: 1,74 a pie y 1,72 motorizados; p. 31.",
+   "referencia": "p. 31",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q049",
+   "n_ficha": 49,
+   "tipo": "abierta",
+   "enunciado": "¿Qué crítica se hace a la clasificación en movilidad obligada y no obligada?",
+   "respuesta": "Implicaba discriminar a la población, porque considerar obligado un tipo de viajes llevaba a prestar menos atención al resto; muchos viajes recurrentes quedaban escondidos en \"otros motivos\"; p. 32.",
+   "referencia": "p. 32",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q050",
+   "n_ficha": 50,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ocurre con las puntas de demanda a lo largo del día según la Fig. 2.3?",
+   "respuesta": "Dejan de ser tan marcadas, se igualan en 13-14 horas y dejan de responder a uno o dos motivos; p. 33.",
+   "referencia": "p. 33",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q051",
+   "n_ficha": 51,
+   "tipo": "abierta",
+   "enunciado": "¿Qué punta es de las más importantes en las carreteras según la Fig. 2.4?",
+   "respuesta": "La de los viernes por la tarde: trabajo amortiguado más centros comerciales más inicio del fin de semana; p. 34.",
+   "referencia": "p. 34",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q052",
+   "n_ficha": 52,
+   "tipo": "vf",
+   "enunciado": "En áreas con transporte colectivo eficaz al trabajo, el automóvil por ocio en fin de semana puede superar al automóvil por trabajo en laborables.",
+   "respuesta": "Verdadero; p. 35.",
+   "referencia": "p. 35",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "p. 35."
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q053",
+   "n_ficha": 53,
+   "tipo": "abierta",
+   "enunciado": "En la tabla de la p. 35, ¿qué porcentaje del total laborable es trabajo y cuál estudios?",
+   "respuesta": "16,7 % y 7,9 %; ocupacional 24,6 %; p. 35.",
+   "referencia": "p. 35",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q054",
+   "n_ficha": 54,
+   "tipo": "abierta",
+   "enunciado": "En la tabla de la p. 35, ¿qué motivos son los mayores en sábado y festivos?",
+   "respuesta": "Ocio o diversión 13,7 %, pasear 10,0 %, visitar amigos o familia 8,4 %; p. 35.",
+   "referencia": "p. 35",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q055",
+   "n_ficha": 55,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánto representaba la movilidad obligada en los manuales clásicos y cuánto hoy?",
+   "respuesta": "60-65 % frente a algo menos de la mitad; p. 36.",
+   "referencia": "p. 36",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q056",
+   "n_ficha": 56,
+   "tipo": "abierta",
+   "enunciado": "¿Qué porcentajes de motivos antes no obligados destaca la Encuesta de Cataluña?",
+   "respuesta": "6,3 compras diarias; 4,7 acompañar personas; 2,8 gestiones personales; 1,8 médico u hospital; 1 formación no reglada; p. 36.",
+   "referencia": "p. 36",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q057",
+   "n_ficha": 57,
+   "tipo": "abierta",
+   "enunciado": "En la tabla de la p. 36, ¿qué grupo usa más el vehículo privado y cuáles más el modo a pie o en bicicleta?",
+   "respuesta": "Ocupados, 49,9 % en privado; jubilados y pensionistas, 68,8 %, y dedicados a tareas del hogar, 67,4 % a pie o en bici; p. 36.",
+   "referencia": "p. 36",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q058",
+   "n_ficha": 58,
+   "tipo": "abierta",
+   "enunciado": "¿Qué se dice de los preadolescentes?",
+   "respuesta": "Menores de 13 años, requieren acompañante; en zonas periurbanas francesas el 90 % depende por completo de sus padres en desplazamientos extraescolares y dos de cada tres veces es la madre; pp. 36-37.",
+   "referencia": "pp. 36-37",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q059",
+   "n_ficha": 59,
+   "tipo": "abierta",
+   "enunciado": "¿Qué porcentaje de la población de la RMB es \"sin movilidad\"?",
+   "respuesta": "6,6 %, personas que no hicieron ningún desplazamiento el día anterior; p. 38.",
+   "referencia": "p. 38",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q060",
+   "n_ficha": 60,
+   "tipo": "abierta",
+   "enunciado": "¿Qué proporción de autobuses urbanos está adaptada a personas con movilidad reducida en las grandes ciudades españolas?",
+   "respuesta": "Del orden de 75-90 % de las flotas; p. 38.",
+   "referencia": "p. 38",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q061",
+   "n_ficha": 61,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la autocontención y cuáles son los valores de Barcelona y de su región?",
+   "respuesta": "Relación entre los viajes que no salen del municipio y el total generado en la ciudad; Barcelona 86,4 %, resto de la región 68 % en laborables; p. 39.",
+   "referencia": "p. 39",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q062",
+   "n_ficha": 62,
+   "tipo": "abierta",
+   "enunciado": "En la tabla de la p. 39, ¿cuál es la distribución modal de los viajes internos de Barcelona en laborables?",
+   "respuesta": "A pie 49,7 %, transporte público 31,3 %, transporte privado 19 %; p. 39.",
+   "referencia": "p. 39",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q063",
+   "n_ficha": 63,
+   "tipo": "abierta",
+   "enunciado": "¿En qué áreas el coche es menos del 60 % de los viajes al trabajo en medios mecanizados?",
+   "respuesta": "Madrid, Barcelona y Bilbao; p. 39.",
+   "referencia": "p. 39",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q064",
+   "n_ficha": 64,
+   "tipo": "abierta",
+   "enunciado": "En la tabla de la p. 40, ¿qué área tiene mayor transporte colectivo en el motivo trabajo y cuánto?",
+   "respuesta": "Madrid, 40,4 %; p. 40.",
+   "referencia": "p. 40",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q065",
+   "n_ficha": 65,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánto dura en promedio el viaje al trabajo en las grandes ciudades?",
+   "respuesta": "Entre 40 y 50 minutos; p. 40.",
+   "referencia": "p. 40",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q066",
+   "n_ficha": 66,
+   "tipo": "abierta",
+   "enunciado": "¿Qué duraciones da la Encuesta de Cataluña en días laborables?",
+   "respuesta": "31,52 minutos en los viajes que desbordan el término municipal y 18 en los internos de Barcelona; pp. 40-41.",
+   "referencia": "pp. 40-41",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q067",
+   "n_ficha": 67,
+   "tipo": "abierta",
+   "enunciado": "¿Qué muestran Wenglenski y Orfeuil sobre Francia entre 1975 y 1990?",
+   "respuesta": "La distancia domicilio-trabajo pasó de 7 a 12 km mientras el tiempo siguió cerca de una hora; p. 41.",
+   "referencia": "p. 41",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q068",
+   "n_ficha": 68,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo evolucionó la autocontención de los municipios de la periferia metropolitana de Barcelona?",
+   "respuesta": "Del 40 % en 1990 al 30,7 % en 2000; p. 43.",
+   "referencia": "p. 43",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q069",
+   "n_ficha": 69,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ocurrió con la centralidad de Barcelona tras la extensión de su red viaria?",
+   "respuesta": "Se reforzó: casi toda la nueva construcción de oficinas hasta 1998, trabajo especializado, compras no esporádicas y ocio de fines de semana; pp. 42-43.",
+   "referencia": "pp. 42-43",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q070",
+   "n_ficha": 70,
+   "tipo": "abierta",
+   "enunciado": "En la tabla de la p. 42, ¿qué motivo de viaje de la periferia a Barcelona en fin de semana baja entre 1995 y 2000?",
+   "respuesta": "Al cine, de 11,3 % a 10,8 %; p. 42.",
+   "referencia": "p. 42",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q071",
+   "n_ficha": 71,
+   "tipo": "abierta",
+   "enunciado": "En la tabla de la p. 44, ¿cuánto dura un viaje a pie por ocio y cuánto en coche?",
+   "respuesta": "33,4 y 20,8 minutos; p. 44.",
+   "referencia": "p. 44",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q072",
+   "n_ficha": 72,
+   "tipo": "abierta",
+   "enunciado": "Según Movilia (p. 44), ¿qué ocurre con la duración del viaje en transporte público al aumentar el tamaño del municipio?",
+   "respuesta": "Baja de 43,5 a 35,8 minutos, mientras su porcentaje de viajes sube de 5,6 % a 26,6 %; p. 44.",
+   "referencia": "p. 44",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q073",
+   "n_ficha": 73,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánto gastan al mes los usuarios de transporte colectivo y privado en la RMB y qué concluye Herce?",
+   "respuesta": "26,43 y 105,74 euros; poca influencia del costo en la elección del modo, contra la teoría clásica; p. 44.",
+   "referencia": "p. 44",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q074",
+   "n_ficha": 74,
+   "tipo": "abierta",
+   "enunciado": "¿Qué viajes por persona y día tiene el centro de Madrid frente a la periferia?",
+   "respuesta": "3,24 frente a 2,82; p. 45.",
+   "referencia": "p. 45",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q075",
+   "n_ficha": 75,
+   "tipo": "abierta",
+   "enunciado": "¿Qué sostiene Ascher (1995) sobre las periferias y los peajes?",
+   "respuesta": "Las clases menos favorecidas viven en las periferias y sufren más la dependencia del automóvil, cuyo uso es inelástico al costo; los peajes son ineficaces e injustos; hay que atender la intermodalidad; p. 45.",
+   "referencia": "p. 45",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q076",
+   "n_ficha": 76,
+   "tipo": "vf",
+   "enunciado": "Según Herce, el uso del vehículo privado sigue siendo propio de las clases favorecidas.",
+   "respuesta": "Falso: ha dejado de serlo; Movilia usa el nivel de estudios como indicador; p. 45.",
+   "referencia": "p. 45",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "ha dejado de serlo; Movilia usa el nivel de estudios como indicador; p. 45."
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q077",
+   "n_ficha": 77,
+   "tipo": "abierta",
+   "enunciado": "En la tabla de la p. 46, ¿qué nivel de estudios tiene mayor uso de coche o moto y cuánto?",
+   "respuesta": "Formación profesional superior, 63,5 %; los universitarios, 51,5 %; p. 46.",
+   "referencia": "p. 46",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q078",
+   "n_ficha": 78,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué se estudia Figueras y qué características tiene?",
+   "respuesta": "Ciudad media de unos 40.000 habitantes, capital de comarca dinámica, con síntomas de dispersión, fuera de la RMB; p. 46.",
+   "referencia": "p. 46",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q079",
+   "n_ficha": 79,
+   "tipo": "abierta",
+   "enunciado": "En la tabla de la p. 47, ¿qué porcentaje de los viajes de estudios interiores al municipio se hace a pie y en transporte privado?",
+   "respuesta": "62,2 % y 30,2 %; p. 47.",
+   "referencia": "p. 47",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q080",
+   "n_ficha": 80,
+   "tipo": "abierta",
+   "enunciado": "¿Qué propone Herce sobre las encuestas para planes de movilidad de ciudades pequeñas?",
+   "respuesta": "No hace falta recurrir a encuestas muy elaboradas porque suponen un gasto desproporcionado; bastan las fuentes de los observatorios, aproximaciones cualitativas y conteos esporádicos; p. 48.",
+   "referencia": "p. 48",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q081",
+   "n_ficha": 81,
+   "tipo": "abierta",
+   "enunciado": "¿Qué desventaja tienen las \"arañas de tráfico\"?",
+   "respuesta": "Su clasificación está pensada desde los manuales de capacidad de las carreteras; p. 49.",
+   "referencia": "p. 49",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-q082",
+   "n_ficha": 82,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo cierra Herce el capítulo II?",
+   "respuesta": "Diagnóstico cualitativo; las cifras solo para comprobar hipótesis y orden de magnitud; las encuestas masivas enmascaran el diagnóstico y, por ajustar el decimal, olvidan acertar en el orden de magnitud del número entero; p. 49.",
+   "referencia": "p. 49",
+   "estado": "completa"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s07-herce-2009-cap1-2-t001",
+   "n_ficha": 1,
+   "grupo": "Movilidad y territorio de redes",
+   "texto": "\"Movilidad\" desplazó a \"transporte\" porque son conceptos de diferente alcance, no por motivos coyunturales (p. 15). Error típico: decir que es una moda del lenguaje.",
+   "referencia": "p. 15"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t002",
+   "n_ficha": 2,
+   "grupo": "Movilidad y territorio de redes",
+   "texto": "Hall: se rompen los vínculos de proximidad y se sustituyen por vínculos de conexión. Si una opción invierte el sentido, está mal. Las redes sustituyen a los sistemas de asentamientos como invariante de la organización espacial (p. 15).",
+   "referencia": "p. 15"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t003",
+   "n_ficha": 3,
+   "grupo": "Movilidad y territorio de redes",
+   "texto": "Los factores de localización dejan de ser deterministas y pasan a criterios de oportunidad, oferta de externalidades, competencia entre espacios, especialización territorial y mutación constante de usos (p. 16). La \"economía regional\" y la \"ordenación del territorio\" son las dos disciplinas en crisis.",
+   "referencia": "p. 16"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t004",
+   "n_ficha": 4,
+   "grupo": "Movilidad y territorio de redes",
+   "texto": "La paradoja (pp. 16-17): las infraestructuras son soporte fijo de la economía, pero cambia su rol como discriminador de los servicios al ciudadano; ampliarlas indiscriminadamente aumenta la dispersión, no la reduce.",
+   "referencia": "pp. 16-17"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t005",
+   "n_ficha": 5,
+   "grupo": "Movilidad y territorio de redes",
+   "texto": "Fig. 1.2: la flecha discontinua vuelve a \"Mayor extensión de redes de infraestructuras\"; las dos cajas finales son consumo energético y exclusión social; menor densidad y desplazamientos más largos son dos causas de la dependencia del automóvil.",
+   "referencia": null
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t006",
+   "n_ficha": 6,
+   "grupo": "Movilidad y territorio de redes",
+   "texto": "La alternativa es concentración urbana y densidad del suelo; los discursos \"progresistas\" que la enmascaran son reequilibrio territorial, ciudad-región y ruralización de parte del hábitat urbano (pp. 17-18).",
+   "referencia": "pp. 17-18"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t007",
+   "n_ficha": 7,
+   "grupo": "Movilidad y territorio de redes",
+   "texto": "Administración central o autonómica: producción y modernización de infraestructuras; Administración local: movilidad cotidiana, con menos recursos (p. 18). Los ejemplos más válidos de planes de movilidad vienen de los ayuntamientos (epílogo).",
+   "referencia": "p. 18"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t008",
+   "n_ficha": 8,
+   "grupo": "Movilidad y territorio de redes",
+   "texto": "Veltz: a los imperativos de la velocidad se suman los de la sincronización. Secchi: infraestructuras de movimiento veloz entre centros e infraestructuras de percolación (p. 19).",
+   "referencia": "p. 19"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t009",
+   "n_ficha": 9,
+   "grupo": "Movilidad obligada y no obligada",
+   "texto": "La división obligada/no obligada está en crisis; además la demanda ya no se expresa en dos puntas marcadas (p. 20). Son dos argumentos distintos (primero y segundo).",
+   "referencia": "p. 20"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t010",
+   "n_ficha": 10,
+   "grupo": "Movilidad obligada y no obligada",
+   "texto": "Fig. 1.3: Obligada 28,0 %; No obligada 24,3 %; Vuelta a casa 47,7 %; dentro de la obligada, trabajo 65,1 % y estudios 34,9 %; dentro de la no obligada, compras 24,3 %, visitas 23,5 %, diversión 21,1 %, otros 30,8 %. Trampa: confundir el 24,3 % de \"No obligada\" (pastel) con el 24,3 % de \"Compras\" (barra).",
+   "referencia": null
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t011",
+   "n_ficha": 11,
+   "grupo": "Movilidad obligada y no obligada",
+   "texto": "Los manuales clásicos daban 60-65 % para trabajo y estudios; hoy \"algo menos de la mitad\" (p. 36). Con los motivos antes no obligados más sus vueltas, cerca del 30 % (p. 36).",
+   "referencia": "p. 36; p. 36"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t012",
+   "n_ficha": 12,
+   "grupo": "Movilidad obligada y no obligada",
+   "texto": "Las clasificaciones por motivos y por modos eran las dos usadas \"hasta no hace mucho\"; la clasificación obligada/no obligada implicaba discriminación (Miralles y Cebollada 2003) (p. 32).",
+   "referencia": "p. 32"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t013",
+   "n_ficha": 13,
+   "grupo": "Movilidad obligada y no obligada",
+   "texto": "Viajes casi recurrentes escondidos en \"otros motivos\": llevar niños al colegio, compras cotidianas, rehabilitación u otros motivos de salud (p. 32).",
+   "referencia": "p. 32"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t014",
+   "n_ficha": 14,
+   "grupo": "Oferta, derecho a la conexión y sostenibilidad",
+   "texto": "La oferta de infraestructuras marca el comportamiento de la demanda (p. 22). Monzón: más desplazamientos diarios en el centro de Madrid que en la periferia, aunque en la periferia haya más población en edad de estudiar y activa.",
+   "referencia": "p. 22"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t015",
+   "n_ficha": 15,
+   "grupo": "Oferta, derecho a la conexión y sostenibilidad",
+   "texto": "Soria y Puig (1980): las personas pueden transportarse a sí mismas; la disponibilidad de energía determina qué es mueble o inmueble; la accesibilidad la proporciona el conjunto de vías y estaciones; el transporte autónomo no consume más energía que los alimentos (pp. 22-23).",
+   "referencia": "pp. 22-23"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t016",
+   "n_ficha": 16,
+   "grupo": "Oferta, derecho a la conexión y sostenibilidad",
+   "texto": "El derecho a la conexión implica atender todas las formas de desplazamiento, con cuidado preferente de las que consumen menos energía y crean menos dependencia (p. 23).",
+   "referencia": "p. 23"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t017",
+   "n_ficha": 17,
+   "grupo": "Oferta, derecho a la conexión y sostenibilidad",
+   "texto": "Orden jerárquico: justicia social, energético, ambiental (p. 24). Un enunciado con \"ambiental primero\" o \"energético primero\" es falso.",
+   "referencia": "p. 24"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t018",
+   "n_ficha": 18,
+   "grupo": "Oferta, derecho a la conexión y sostenibilidad",
+   "texto": "\"Quien contamine pague\" puede gravar modos poco contaminantes pero insostenibles energéticamente, o dar privilegio a quien puede pagar la contaminación (p. 24).",
+   "referencia": "p. 24"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t019",
+   "n_ficha": 19,
+   "grupo": "Oferta, derecho a la conexión y sostenibilidad",
+   "texto": "Ascher 2004: mecánica (mundo rural), orgánica (ciudad industrial), comunicativa (individuos y organizaciones), reflexiva (el desafío) (p. 24).",
+   "referencia": "p. 24"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t020",
+   "n_ficha": 20,
+   "grupo": "Oferta, derecho a la conexión y sostenibilidad",
+   "texto": "Cuatro grupos en riesgo de exclusión (p. 25): sin vehículo motorizado propio; a quienes el espacio ocupado por vehículos impide ir a pie o en bicicleta; a quienes no pueden usar o no encuentran adecuado el vehículo; a quienes pierden mucho tiempo en intercambios de un colectivo ineficaz.",
+   "referencia": "p. 25"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t021",
+   "n_ficha": 21,
+   "grupo": "Oferta, derecho a la conexión y sostenibilidad",
+   "texto": "Dupuy: espiral de dependencia entre motorización e incremento del espacio viario; pérdida de autonomía y exclusión de no motorizados; más accesibilidad para motorizados, menos para no motorizados (pp. 25-26).",
+   "referencia": "pp. 25-26"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t022",
+   "n_ficha": 22,
+   "grupo": "Oferta, derecho a la conexión y sostenibilidad",
+   "texto": "Los desplazamientos a pie son la mayor parte de los de la ciudad si se cuentan los viajes realizados solo a pie y los tramos a pie de otros desplazamientos; todas las transferencias entre modos se hacen a pie (p. 26).",
+   "referencia": "p. 26"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t023",
+   "n_ficha": 23,
+   "grupo": "Oferta, derecho a la conexión y sostenibilidad",
+   "texto": "Cuadros: cinco alteraciones del modelo social (trabajo autónomo; equilibrio horario; puntas de vehículo privado en fines de semana; encarecimiento de viajes en vehículo privado; conciencia del costo energético y ambiental); cuatro insuficiencias del modelo tradicional; cuatro políticas frente a la exclusión; tres políticas de sostenibilidad ambiental y eficacia económica (pp. 27-28).",
+   "referencia": "pp. 27-28"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t024",
+   "n_ficha": 24,
+   "grupo": "Oferta, derecho a la conexión y sostenibilidad",
+   "texto": "Planes \"en cascada\" (de lo general a lo particular) quedan desfasados al llegar a los problemas urbanos concretos (p. 27).",
+   "referencia": "p. 27"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t025",
+   "n_ficha": 25,
+   "grupo": "Cifras de la demanda",
+   "texto": "3 a 3,5 viajes/persona/día. Movilia: 2,8 (menos de 10.000 habitantes); 2,9 (10.000-50.000); 3 (50.000-500.000); 2,8 (más de 500.000) (p. 29).",
+   "referencia": "p. 29"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t026",
+   "n_ficha": 26,
+   "grupo": "Cifras de la demanda",
+   "texto": "Barcelona: 1996, 1,84 y 0,80; 2001, 1,88 y 0,83 (laborable y festivo); nueva metodología, 3,44 y 2,39. Viajes a pie de 33,8 % a 45,9 % (p. 30). Sin profesionales del transporte: baja 9-10 %; 3,12 (Cataluña) y 3,38 (RMB) según el texto (ver inconsistencia 2).",
+   "referencia": "p. 30"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t027",
+   "n_ficha": 27,
+   "grupo": "Cifras de la demanda",
+   "texto": "Observatorios: a pie ≈1/3 de la movilidad en grandes ciudades españolas, 2/3 motorizados (p. 31). Movilia, a pie: 1,04; 0,94; 1,05 viajes/persona/día, casi sin relación con el tamaño (p. 31).",
+   "referencia": "p. 31; p. 31"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t028",
+   "n_ficha": 28,
+   "grupo": "Cifras de la demanda",
+   "texto": "Tabla de la p. 31: laborable, a pie contra motorizado: Cataluña 1,52 y 1,86; RMB 1,57 y 1,84; Barcelona 1,74 y 1,72; Sabadell 1,75 y 1,71. Solo en Barcelona y Sabadell el a pie supera al motorizado.",
+   "referencia": "p. 31"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t029",
+   "n_ficha": 29,
+   "grupo": "Cifras de la demanda",
+   "texto": "Tabla de la p. 35, laborable: trabajo 16,7; estudios 7,9; ocupacional 24,6; movilidad personal 29,9; vuelta a casa 45,5. Festivo: ocio o diversión 13,7; pasear 10,0; visitar 8,4; compras cotidianas 7,2; ocupacional 4,1; movilidad personal 48,7; vuelta a casa 47,3.",
+   "referencia": "p. 35"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t030",
+   "n_ficha": 30,
+   "grupo": "Cifras de la demanda",
+   "texto": "Fig. 2.3: las puntas se igualan en un periodo de 13-14 horas (p. 33). Fig. 2.4: puntas de los viernes por la tarde, con trabajo (amortiguado), centros comerciales y comienzo del fin de semana (p. 34).",
+   "referencia": "p. 33; p. 34"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t031",
+   "n_ficha": 31,
+   "grupo": "Cifras de la demanda",
+   "texto": "En áreas con buen transporte colectivo al trabajo, el automóvil por ocio en fines de semana pasa a superar al automóvil por trabajo en laborables (p. 35).",
+   "referencia": "p. 35"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t032",
+   "n_ficha": 32,
+   "grupo": "Cifras de la demanda",
+   "texto": "Tabla de la p. 36: ocupados, vehículo privado 49,9 %; estudiantes, a pie o bici 53,7 %; hogar, 67,4 %; jubilados, 68,8 % a pie o en bici y 14,5 % en privado; hombres, privado 44,2 %; mujeres, a pie o bici 51,0 % y colectivo 21,1 %.",
+   "referencia": "p. 36"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t033",
+   "n_ficha": 33,
+   "grupo": "Cifras de la demanda",
+   "texto": "Preadolescentes: menores de 13 años; 90 % depende por completo de sus padres para los desplazamientos extraescolares (Francia periurbana); dos de cada tres veces es la madre (pp. 36-37). El 4,7 % de \"acompañar\" incluye más que el acompañamiento escolar (p. 37).",
+   "referencia": "pp. 36-37; p. 37"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t034",
+   "n_ficha": 34,
+   "grupo": "Cifras de la demanda",
+   "texto": "Personas sin movilidad: 6,6 % de la población (RMB) (p. 38). Autobuses urbanos adaptados: 75-90 % de las flotas en grandes ciudades españolas (p. 38). Grupos menos conocidos: inmigrantes (básicamente mujeres analfabetas) y jóvenes sin coche o carné (p. 38).",
+   "referencia": "p. 38; p. 38; p. 38"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t035",
+   "n_ficha": 35,
+   "grupo": "Modos, ámbitos y tiempos",
+   "texto": "Autocontención laborable: Barcelona 86,4 %; resto de la RMB, 68 % (p. 39). El motivo trabajo es donde menor es la autocontención.",
+   "referencia": "p. 39"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t036",
+   "n_ficha": 36,
+   "grupo": "Modos, ámbitos y tiempos",
+   "texto": "Tabla de la p. 39, laborables: Cataluña 45,1 / 14,3 / 40,6; región de Barcelona 45,5 / 18,6 / 35,8; Barcelona interna 49,7 / 31,3 / 19. Festivos: 42,6 / 8,4 / 49,1; 44,2 / 11,1 / 44,7; 46,4 / 38 / 15,6.",
+   "referencia": "p. 39"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t037",
+   "n_ficha": 37,
+   "grupo": "Modos, ámbitos y tiempos",
+   "texto": "Solo en Madrid, Barcelona y Bilbao el coche es menos del 60 % de los viajes al trabajo en medios mecanizados (p. 39); transporte público de 4 % a 7 % en municipios de menos de 100.000 habitantes (pp. 39-40).",
+   "referencia": "p. 39; pp. 39-40"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t038",
+   "n_ficha": 38,
+   "grupo": "Modos, ámbitos y tiempos",
+   "texto": "Tabla de la p. 40: transporte colectivo en el motivo trabajo: Madrid 40,4; Barcelona 29,7; Bilbao 24,0; Zaragoza 19,1; Málaga 24,6. veh-km/hab.: Madrid 86,45; Barcelona 55,50. Viajeros-km/1.000 hab.: Madrid 2,36; Barcelona 1,58; Bilbao 1,03; Zaragoza 0,68; Málaga 0,62.",
+   "referencia": "p. 40"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t039",
+   "n_ficha": 39,
+   "grupo": "Modos, ámbitos y tiempos",
+   "texto": "Ciudades europeas que aumentaron la densidad y calidad de la oferta y subieron el transporte público en la movilidad obligada: París, Estocolmo, Zúrich y Madrid (p. 40). Île-de-France: el coche pierde peso en el trabajo y lo gana en fines de semana.",
+   "referencia": "p. 40"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t040",
+   "n_ficha": 40,
+   "grupo": "Modos, ámbitos y tiempos",
+   "texto": "Viaje cotidiano al trabajo en grandes ciudades: 40-50 minutos; Cataluña: 31,52 minutos (viajes que desbordan el municipio) y 18 (internos de Barcelona) en laborable; 37,70 y 17,87 en festivo; RMB aproximadamente 8 % más (pp. 40-41).",
+   "referencia": "pp. 40-41"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t041",
+   "n_ficha": 41,
+   "grupo": "Modos, ámbitos y tiempos",
+   "texto": "El tiempo de viaje define el tamaño máximo de la aglomeración real; la velocidad no redujo la duración sino que extendió la ciudad. Francia 1975-1990: 7 a 12 km, tiempo constante cerca de una hora (p. 41).",
+   "referencia": "p. 41"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t042",
+   "n_ficha": 42,
+   "grupo": "Modos, ámbitos y tiempos",
+   "texto": "La extensión de la red viaria de Barcelona reforzó la centralidad de la capital (trabajo especializado, terciario, compras no esporádicas, ocio de fin de semana) (p. 42). Autocontención de la periferia: 40 % (1990) a 30,7 % (2000) (p. 43). Oficinas: casi toda la nueva construcción en la capital hasta 1998.",
+   "referencia": "p. 42; p. 43"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t043",
+   "n_ficha": 43,
+   "grupo": "Modos, ámbitos y tiempos",
+   "texto": "Tabla de la p. 42: en 2000, mirar tiendas 19,3; cine 10,8; bares y discotecas 11,6; restaurantes 14,6; teatro 20,3; museos 20,5; ropa o calzado 17,7. Solo el cine baja.",
+   "referencia": "p. 42"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t044",
+   "n_ficha": 44,
+   "grupo": "Modos, ámbitos y tiempos",
+   "texto": "Tabla de la p. 43: Barcelona, transporte público 31,4, 34,5 y 33,5; privado 26,2, 20,9 y 24,0. Primera corona: público 38,4, 40,3 y 41,8; privado 23,5, 21,1 y 20,5.",
+   "referencia": "p. 43"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t045",
+   "n_ficha": 45,
+   "grupo": "Modos, ámbitos y tiempos",
+   "texto": "Tabla de la p. 44: ocio a pie 33,4 min (más que en coche, 20,8); tren, ocio 61,3 y estudios 53,0; autobús metropolitano, trabajo 45,6 y ocio 47,9; promedios 23,5; 21,2; 19,7; 28,3.",
+   "referencia": "p. 44"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t046",
+   "n_ficha": 46,
+   "grupo": "Modos, ámbitos y tiempos",
+   "texto": "Movilia por tamaño: transporte público, duración 43,5; 39,8; 36,3; 35,8 min y 5,6; 7,1; 12,9; 26,6 % de viajes; privado, duración 20,1; 19,3; 21,1; 26,3 min y 55,1; 53,2; 45,8; 35,7 % (p. 44). Trampa: leer duración por porcentaje.",
+   "referencia": "p. 44"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t047",
+   "n_ficha": 47,
+   "grupo": "Costo y discriminación",
+   "texto": "Gasto mensual en la RMB: 26,43 euros (colectivo) y 105,74 (privado): poca influencia del costo en la elección del modo, contra la teoría clásica (p. 44). Barcelona: viajes internos 34 % del total; 62 % de los motorizados internos en transporte público; 19,48 euros/mes; privado menor del 70 % del promedio metropolitano; costo por desplazamiento poco más de la mitad (pp. 44-45).",
+   "referencia": "p. 44; pp. 44-45"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t048",
+   "n_ficha": 48,
+   "grupo": "Costo y discriminación",
+   "texto": "Indicio de discriminación social: costo en dinero más el costo de no poder viajar (carestía en dinero o tiempo) que internalizan los de la periferia. Madrid: 3,24 en el centro y 2,82 en los municipios periféricos (p. 45).",
+   "referencia": "p. 45"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t049",
+   "n_ficha": 49,
+   "grupo": "Costo y discriminación",
+   "texto": "Ascher 1995: clases menos favorecidas en las periferias, uso del coche inelástico respecto del costo, peajes ineficaces e injustos, y más atención a la intermodalidad (el colectivo alimentado por vehículos privados) (p. 45).",
+   "referencia": "p. 45"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t050",
+   "n_ficha": 50,
+   "grupo": "Costo y discriminación",
+   "texto": "El vehículo privado \"ha dejado de ser propio de las clases favorecidas\"; el indicador usado por Movilia es el nivel de estudios, correlacionado con la renta (p. 45). Tabla de la p. 46: coche/moto 34,8 (sin estudios); 41,9; 53,9; 63,5 (formación profesional superior); 51,5 (universitarios); total 48,6; a pie o bici 52,0 (sin estudios) y 39,2 (total).",
+   "referencia": "p. 45; p. 46"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t051",
+   "n_ficha": 51,
+   "grupo": "Costo y discriminación",
+   "texto": "Figueras (Gerona): unos 40.000 habitantes; capital de comarca dinámica; fuera de la RMB; síntomas de dispersión; transporte urbano casi anecdótico (pp. 46-47). Tabla de la p. 47: viajes al trabajo interiores al municipio, 34 % a pie, 0,8 % colectivo y 65,2 % privado; estudios interiores, 62,2 %, 7,6 % y 30,2 %; trabajo hacia fuera, 2,35 % y 97,65 %; estudios hacia fuera, 12,9 % y 87,1 %; totales interiores 45,3, 3,5 y 51,2 %; totales hacia fuera 4,1 y 95,9 %.",
+   "referencia": "pp. 46-47; p. 47"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t052",
+   "n_ficha": 52,
+   "grupo": "Costo y discriminación",
+   "texto": "Conclusión: análisis cualitativo; las cifras sirven para comprobar hipótesis y para el orden de magnitud; las encuestas masivas no suelen tener continuidad; \"ajustar el decimal\" frente a \"acertar en el orden de magnitud del número entero\" (p. 49). Las encuestas elaboradas para ciudades pequeñas son un gasto desproporcionado (p. 48).",
+   "referencia": "p. 49; p. 48"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-t053",
+   "n_ficha": 53,
+   "grupo": "Costo y discriminación",
+   "texto": "Las encuestas suelen alimentar un aparato analítico de estudio y predicción más que conocer las necesidades de cada grupo; fallas señaladas: la clasificación forzada en obligada/no obligada, la atención desproporcionada al automóvil y el recurso a la motorización como explicación errónea del comportamiento (p. 48).",
+   "referencia": "p. 48"
+  }
+ ],
+ "pares": [
+  {
+   "id": "s07-herce-2009-cap1-2-p001",
+   "par": "Movilidad y transporte",
+   "diferencia": "La movilidad es la realización de vínculos de conexión de las personas (un derecho); el transporte es la técnica de llevar personas o cosas. Herce: son conceptos de diferente alcance, no una moda"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p002",
+   "par": "Vínculos de proximidad y vínculos de conexión",
+   "diferencia": "Hall: con la electrónica y la telemática se rompen los primeros y los sustituyen los segundos, a muy diferentes niveles"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p003",
+   "par": "Sistema de asentamientos y sistema de redes",
+   "diferencia": "Las redes de infraestructuras sustituyen a los asentamientos urbanos como invariante de la organización espacial (Fig. 1.1)"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p004",
+   "par": "Sostenibilidad energética, medioambiental y social",
+   "diferencia": "Energética: alternativas de menor consumo de energía. Medioambiental: reducción de emisiones. Social: equidad en el acceso a la movilidad. Orden de atención: social, energética, ambiental"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p005",
+   "par": "Movilidad obligada y no obligada (clasificación clásica) y motivos ocupacionales y personales (Encuesta de Cataluña)",
+   "diferencia": "La primera agrupa trabajo y estudio frente al resto y esconde motivos recurrentes en \"otros\"; la nueva distingue motivos específicos (compras cotidianas, acompañar, médico...) y vueltas a casa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p006",
+   "par": "Total movilidad personal, total ocupacional y total vuelta a casa (tabla p. 35)",
+   "diferencia": "Personal e ocupacional son los viajes de ida por motivo; la vuelta a casa va aparte (del trabajo y por motivos personales)"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p007",
+   "par": "Viajes/persona/día con y sin profesionales del transporte",
+   "diferencia": "Sin transportistas y mensajeros los estándares bajan 9-10 % (p. 30); en Figueras, \"con viajes de mensajería y gestiones\" sube el trabajo de 2,12 a 2,64 (p. 47)"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p008",
+   "par": "Autocontención de Barcelona (86,4 %), del resto de la RMB (68 %) y de la periferia (40 % a 30,7 %)",
+   "diferencia": "Los dos primeros son de días laborables (p. 39); el tercero es la evolución 1990-2000 de la periferia (p. 43)"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p009",
+   "par": "Movilia (Ministerio de Fomento, 2000/2001, toda España) y Encuesta de movilidad cotidiana de Cataluña (Generalitat, 2006)",
+   "diferencia": "Movilia da promedios por tamaño de municipio; la de Cataluña, ámbitos catalanes, modos, motivos y grupos"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p010",
+   "par": "Observatorio de la Movilidad Metropolitana (UPM), Observatorio de la Diputación de Barcelona y Observatorio de la Movilidad para Madrid",
+   "diferencia": "El de la UPM compara áreas metropolitanas españolas (tabla p. 40); el de la Diputación aporta datos de a pie y de Figueras; el de Madrid, 3,24 contra 2,82"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p011",
+   "par": "Fig. 1.4 (Constant) y Fig. 1.5 (Sanejouand)",
+   "diferencia": "La primera: redes que niegan la existencia a lo que no está en sus ejes (Nueva Babilonia, 1969); la segunda: espacio permeado por un sistema capilar hasta caminos y senderos (valle del Sena, 1972)"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p012",
+   "par": "Fig. 1.9 y Fig. 1.10 (Dupuy)",
+   "diferencia": "La 1.9 relaciona motorización y dependencia del automóvil (espiral); la 1.10, accesibilidad de motorizados y no motorizados"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p013",
+   "par": "Ascher 2004 y Ascher 1995",
+   "diferencia": "2004 (Los nuevos principios del urbanismo): solidaridad mecánica, orgánica, comunicativa, reflexiva. 1995 (Métapolis): periferias de clases menos favorecidas, uso del coche inelástico, peajes ineficaces e injustas"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p014",
+   "par": "Dupuy 1995 y Dupuy 2000",
+   "diferencia": "1995: Les territoires de l'automobile (espiral de dependencia). 2000: La dépendance automobile et l'aménagement des villes (Figs. 1.9 y 1.10)"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p015",
+   "par": "Wenglenski 2007 y Wenglenski y Orfeuil",
+   "diferencia": "2007: Île-de-France, pérdida de importancia del coche en el viaje al trabajo y aumento los fines de semana. Con Orfeuil: distancias de 7 a 12 km con tiempo constante cerca de una hora"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p016",
+   "par": "Tiempos de la p. 43 y de la p. 44",
+   "diferencia": "La p. 43 es por ámbito (Barcelona y primera corona), modo y año (1990, 1995, 2000); la p. 44 es por motivo y modo (RMB, 2006) y por tamaño de población (Movilia)"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p017",
+   "par": "Duración y porcentaje de viajes (Movilia, p. 44)",
+   "diferencia": "La duración del público baja con el tamaño de población (43,5 a 35,8 min); su porcentaje sube (5,6 a 26,6 %)"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p018",
+   "par": "Gasto del colectivo y del privado",
+   "diferencia": "26,43 y 105,74 euros al mes en la RMB; 19,48 euros/mes para el público en Barcelona interna"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p019",
+   "par": "Viajes de preadolescentes y 4,7 % de acompañar",
+   "diferencia": "El 90 %, y la madre dos de cada tres veces, son de Massot (Francia periurbana, 2007); el 4,7 % es el de acompañar personas en la RMB"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p020",
+   "par": "Personas sin movilidad (6,6 %) y accesibilidad de autobuses (75-90 %)",
+   "diferencia": "La primera es población que no viajó el día anterior; la segunda, flota urbana adaptada en grandes ciudades españolas"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p021",
+   "par": "Figueras y Barcelona",
+   "diferencia": "Figueras: ciudad media de unos 40.000 habitantes fuera de la RMB, con transporte urbano \"anecdótico\"; Barcelona: ciudad central con 49,7 % a pie y 31,3 % de transporte público en viajes internos laborables"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-p022",
+   "par": "\"Araña de tráfico\" y datos de transporte colectivo",
+   "diferencia": "La araña (mapa de intensidades de circulación) está pensada desde los manuales de capacidad; los datos del colectivo son menos fiables por falta de desagregación por tramos"
+  }
+ ]
+}

@@ -1,0 +1,1356 @@
+{
+ "semana": 6,
+ "lectura": "contreras-ruiz-2026",
+ "autor": "Yency Contreras-Ortiz y César Augusto Ruiz-Rojas",
+ "titulo": "Dinámica y valor inmobiliario en la Región Metropolitana Bogotá-Cundinamarca 2000-2022",
+ "alcance": "Artículo completo (pp. 262-281)",
+ "fuente": "content/semana-06/contreras-ruiz-2026/ficha.md",
+ "preguntas": [
+  {
+   "id": "s06-contreras-ruiz-2026-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Qué analiza el artículo y en qué período?",
+   "respuesta": "Los procesos de transformación de 25 municipios de la Región Metropolitana de Bogotá, a partir de su dinámica inmobiliaria y de sus impactos en la valoración predial y en el recaudo del impuesto predial; 2000-2022; p. 263.",
+   "referencia": "p. 263",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el hallazgo central del resumen?",
+   "respuesta": "Los incentivos de la norma urbana amplían las áreas urbanas y modifican la vocación de los suelos rurales y el valor inmobiliario, sin que los mayores valores se capturen en impuestos para el beneficio colectivo; p. 263.",
+   "referencia": "p. 263",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q003",
+   "n_ficha": 3,
+   "tipo": "vf",
+   "enunciado": "El artículo analiza la Región Metropolitana formal creada por la Ley 2199 de 2022.",
+   "respuesta": "Falso: analiza municipios con relaciones funcionales con Bogotá y relevantes para la integración metropolitana, no la figura formal; p. 268.",
+   "referencia": "p. 268",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "analiza municipios con relaciones funcionales con Bogotá y relevantes para la integración metropolitana, no la figura formal; p. 268."
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos municipios se analizan y con qué criterio se definen?",
+   "respuesta": "25, los que el DANE señala como parte de la Sabana de Bogotá, con importantes relaciones de metropolización con la capital; p. 268.",
+   "referencia": "p. 268",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos de los 25 son áreas de influencia de Bogotá según el Sistema de Ciudades del DNP (2014)?",
+   "respuesta": "23; p. 268.",
+   "referencia": "p. 268",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos municipios tienen datos de licenciamiento y cuáles faltan?",
+   "respuesta": "21; faltan Chocontá, Subachoque, Suesca y Guasca; p. 269, nota 3.",
+   "referencia": "p. 269",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos anillos se usan y cuántos municipios tiene cada uno?",
+   "respuesta": "Cuatro; 10, 7, 3 y 5; Fig. 1, p. 268.",
+   "referencia": "p. 268",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "El segundo anillo incluye: (a) Zipaquirá, Tocancipá, Tabio, Tenjo, Sibaté, Subachoque, Bojacá; (b) Facatativá, El Rosal, Gachancipá; (c) Soacha, Chía, Mosquera; (d) Nemocón, Cogua, Sesquilé.",
+   "respuesta": "a; Fig. 1, p. 268.",
+   "referencia": "p. 268",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "¿En qué anillo están Guasca y Sopó?",
+   "respuesta": "Primero; Fig. 1, p. 268.",
+   "referencia": "p. 268",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q010",
+   "n_ficha": 10,
+   "tipo": "abierta",
+   "enunciado": "¿Qué variable usan como proxy del valor inmobiliario y de qué fuente sale?",
+   "respuesta": "El puntaje catastral del Registro 2 del IGAC (2022); pp. 269-270.",
+   "referencia": "pp. 269-270",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué no usan el valor catastral ni precios de transacción?",
+   "respuesta": "No se obtuvo la base catastral con valor catastral pese a solicitudes en 2020 y 2021 al IGAC y a los municipios, y por limitaciones de alcance y recursos y la inexistencia de un único sistema de datos no se podían construir análisis de ofertas y transacciones; p. 269, nota 4.",
+   "referencia": "p. 269",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "¿Qué califica el puntaje catastral?",
+   "respuesta": "Las construcciones de los predios según estructura, acabados principales, baño y cocina; identifica armazón, muros, cubierta y estado de conservación; p. 269.",
+   "referencia": "p. 269",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q013",
+   "n_ficha": 13,
+   "tipo": "abierta",
+   "enunciado": "¿Qué rango de puntaje corresponde al tipo 4 de la Fig. 2?",
+   "respuesta": "47-64; p. 269.",
+   "referencia": "p. 269",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q014",
+   "n_ficha": 14,
+   "tipo": "abierta",
+   "enunciado": "¿Qué predios se analizan para el puntaje catastral?",
+   "respuesta": "Los urbanos de cada municipio, por disponibilidad de información; pp. 269-270.",
+   "referencia": "pp. 269-270",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q015",
+   "n_ficha": 15,
+   "tipo": "vf",
+   "enunciado": "Registro 1 del IGAC contiene el puntaje catastral.",
+   "respuesta": "Falso: Registro 1 trae información alfanumérica física y jurídica del predio; el puntaje es del Registro 2; p. 269.",
+   "referencia": "p. 269",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "Registro 1 trae información alfanumérica física y jurídica del predio; el puntaje es del Registro 2; p. 269."
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "¿Para qué se usan los datos del DANE (2005, 2017)?",
+   "respuesta": "Para ver los cambios en el crecimiento de las áreas de las cabeceras municipales, la ampliación de la ocupación y de los perímetros urbanos; p. 269.",
+   "referencia": "p. 269",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q017",
+   "n_ficha": 17,
+   "tipo": "abierta",
+   "enunciado": "¿Qué método econométrico adicional se aplica y con qué técnica de estimación?",
+   "respuesta": "Diferencias en Diferencias (DiDi, Bernal y Peña 2011), por mínimos cuadrados ordinarios; p. 270.",
+   "referencia": "p. 270",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q018",
+   "n_ficha": 18,
+   "tipo": "abierta",
+   "enunciado": "¿Qué se considera tratamiento y qué control?",
+   "respuesta": "Tratamiento: inmuebles con cambio del uso real o ampliación del área construida atribuible a los POT; control: inmuebles sin esos cambios; p. 270.",
+   "referencia": "p. 270",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se define el impacto?",
+   "respuesta": "Diferencia positiva o negativa del cambio del valor catastral de los inmuebles que cambiaron (factual) respecto al cambio de los que no cambiaron (contrafactual); p. 270.",
+   "referencia": "p. 270",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "¿Qué mide β1 en la Ecuación 2?",
+   "respuesta": "El impacto generado por el tratamiento: la diferencia entre los dos promedios muestrales del grupo de ΔYi; p. 270.",
+   "referencia": "p. 270",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q021",
+   "n_ficha": 21,
+   "tipo": "vf",
+   "enunciado": "En el texto, i = 1 indica la observación antes del tratamiento.",
+   "respuesta": "Falso: i = 0 antes, i = 1 después; p. 270. Nota: la Ecuación 1 usa los subíndices 1 y 2.",
+   "referencia": "p. 270",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "i = 0 antes, i = 1 después; p. 270. Nota: la Ecuación 1 usa los subíndices 1 y 2."
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "¿Qué periodo cubre el DiDi y por qué se considera razonable?",
+   "respuesta": "2012-2020, ocho años; se supone representativo de la consolidación de las decisiones de los POT, que se adoptaron y ajustaron en el periodo; p. 270.",
+   "referencia": "p. 270",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q023",
+   "n_ficha": 23,
+   "tipo": "abierta",
+   "enunciado": "¿De dónde se tomaron los datos de recaudo predial?",
+   "respuesta": "De Terridata del DNP (2021), base de finanzas públicas con el histórico de presupuestos municipales; pp. 270-271.",
+   "referencia": "pp. 270-271",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q024",
+   "n_ficha": 24,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál fue el crecimiento de Bogotá en el periodo intercensal 1951-1964?",
+   "respuesta": "7,68%; p. 271.",
+   "referencia": "p. 271",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q025",
+   "n_ficha": 25,
+   "tipo": "abierta",
+   "enunciado": "¿En qué período los municipios aumentaron conjuntamente sus tasas de crecimiento, y qué pasaba con Bogotá?",
+   "respuesta": "1973-1985; Bogotá ya tenía un comportamiento decreciente; p. 271.",
+   "referencia": "p. 271",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q026",
+   "n_ficha": 26,
+   "tipo": "vf",
+   "enunciado": "En 1973-1985 los municipios del primer anillo tuvieron los crecimientos promedio más altos de toda la segunda mitad del siglo XX.",
+   "respuesta": "Verdadero; p. 271.",
+   "referencia": "p. 271",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "p. 271."
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q027",
+   "n_ficha": 27,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios volvieron a aumentar sus tasas a inicios de los 2000?",
+   "respuesta": "Mosquera, Chía y Sopó (primer anillo) y Tabio y Bojacá (segundo); en el cuarto anillo todos retomaron un crecimiento importante en 1993-2005; p. 271.",
+   "referencia": "p. 271",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q028",
+   "n_ficha": 28,
+   "tipo": "abierta",
+   "enunciado": "En el censo de 2018 los siete municipios con tasas cercanas o superiores a 4% fueron:",
+   "respuesta": "Mosquera, Cajicá, Madrid, Cota, Soacha, Tocancipá y Gachancipá; p. 271.",
+   "referencia": "p. 271",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q029",
+   "n_ficha": 29,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tasas tenían la ciudad núcleo y los circunvecinos en el último censo?",
+   "respuesta": "Núcleo por debajo del 1%; circunvecinos cercanos en promedio al 2,5%; p. 271.",
+   "referencia": "p. 271",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q030",
+   "n_ficha": 30,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos de los 25 municipios tienen incrementos de área urbana entre 2005 y 2017, y en cuántos creció menos la población?",
+   "respuesta": "24; en 17; p. 271.",
+   "referencia": "p. 271",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q031",
+   "n_ficha": 31,
+   "tipo": "abierta",
+   "enunciado": "¿Qué incremento de área urbana tuvo Cogua y qué significa?",
+   "respuesta": "206,30%, uno de los incrementos más importantes del conjunto, muy alejado del aumento de población; cuarto anillo; p. 272.",
+   "referencia": "p. 272",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q032",
+   "n_ficha": 32,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios del segundo anillo son la excepción al rango de 40% a 130% de crecimiento del área urbana?",
+   "respuesta": "Zipaquirá y Bojacá; p. 272.",
+   "referencia": "p. 272",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q033",
+   "n_ficha": 33,
+   "tipo": "vf",
+   "enunciado": "Para el tercer anillo, el crecimiento del área es muy superior al de la población.",
+   "respuesta": "Falso: el texto dice que muestran una relación directa; p. 272.",
+   "referencia": "p. 272",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "el texto dice que muestran una relación directa; p. 272."
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q034",
+   "n_ficha": 34,
+   "tipo": "abierta",
+   "enunciado": "Para el primer anillo, ¿qué municipios crecieron más de 100% en cabeceras urbanas?",
+   "respuesta": "Cajicá y La Calera; p. 272.",
+   "referencia": "p. 272",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q035",
+   "n_ficha": 35,
+   "tipo": "abierta",
+   "enunciado": "¿Qué indica la Fig. 4?",
+   "respuesta": "La evolución de la densidad de predios urbanos y rurales por hectárea en 2000, 2012 y 2020; subdivisión predial; p. 272.",
+   "referencia": "p. 272",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q036",
+   "n_ficha": 36,
+   "tipo": "abierta",
+   "enunciado": "¿En qué ejes viales se da la subdivisión predial urbana fuera del primer anillo?",
+   "respuesta": "Autopista Norte y Sur, Calle 13 y Calle 80 hacia el occidente; p. 273.",
+   "referencia": "p. 273",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q037",
+   "n_ficha": 37,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios tienen los mayores incrementos de subdivisión rural y a qué densidades llegan?",
+   "respuesta": "Madrid, Mosquera, Soacha, Funza, Cajicá y Cota; de menos de un predio por hectárea en 2000 a casi tres en 2020; p. 273.",
+   "referencia": "p. 273",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q038",
+   "n_ficha": 38,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos m2 se licenciaron entre 2005 y 2022 y qué municipio lidera?",
+   "respuesta": "33 921 835 m2; Soacha, con 8 248 529 m2; p. 273.",
+   "referencia": "p. 273",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q039",
+   "n_ficha": 39,
+   "tipo": "abierta",
+   "enunciado": "¿Qué proporción del área licenciada es residencial y cuál industrial-logística?",
+   "respuesta": "73,5% (24 937 669 m2) y 14,7% (4 977 748 m2); p. 273.",
+   "referencia": "p. 273",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q040",
+   "n_ficha": 40,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipio supera a varios más cercanos a Bogotá pese a ser del segundo anillo?",
+   "respuesta": "Zipaquirá; p. 273.",
+   "referencia": "p. 273",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q041",
+   "n_ficha": 41,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios siguen a Soacha en área licenciada residencial?",
+   "respuesta": "Chía, Zipaquirá, Mosquera, Cajicá, Madrid y Cota; p. 274.",
+   "referencia": "p. 274",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q042",
+   "n_ficha": 42,
+   "tipo": "abierta",
+   "enunciado": "Los municipios con más área industrial licenciada son: (a) Funza y Cota, seguidos por Mosquera, Tenjo y Tocancipá; (b) Soacha y Chía; (c) Zipaquirá y Facatativá; (d) Cajicá y Sopó.",
+   "respuesta": "a; p. 274.",
+   "referencia": "p. 274",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q043",
+   "n_ficha": 43,
+   "tipo": "abierta",
+   "enunciado": "¿Qué explica la consolidación industrial en Funza y Cota?",
+   "respuesta": "La conexión con la actividad logística del aeropuerto El Dorado, incentivos tributarios generados por algunos municipios y los corredores viales norte y occidente; p. 274.",
+   "referencia": "p. 274",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q044",
+   "n_ficha": 44,
+   "tipo": "abierta",
+   "enunciado": "¿Con qué se liga la concentración residencial licenciada?",
+   "respuesta": "Con aprobaciones de cambios de clasificación del suelo (rural a expansión urbana) en los POT aprobados entre 2000 y 2005, que llevaron a planes parciales para vivienda; p. 274.",
+   "referencia": "p. 274",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q045",
+   "n_ficha": 45,
+   "tipo": "abierta",
+   "enunciado": "¿Qué patrón se observa para VIS y NO VIS?",
+   "respuesta": "Segregación de la vivienda social en municipios del occidente de Bogotá; NO VIS en distintos rangos de valor hacia el centro y norte de la Sabana occidente y centro, tendiendo al suelo rural campestre o condominios densos; p. 274.",
+   "referencia": "p. 274",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q046",
+   "n_ficha": 46,
+   "tipo": "abierta",
+   "enunciado": "¿Qué pasó con las licencias en 2020 y desde 2021?",
+   "respuesta": "Disminución importante en 2020, posiblemente por el COVID-19; repunte muy importante desde 2021; p. 274.",
+   "referencia": "p. 274",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q047",
+   "n_ficha": 47,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos actos de POT se identificaron entre 1999 y 2021 y qué promedio de revisiones implica?",
+   "respuesta": "70; descontando los 25 de primera generación quedan 45, promedio de al menos 1,8 revisiones por municipio; p. 274.",
+   "referencia": "p. 274",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q048",
+   "n_ficha": 48,
+   "tipo": "abierta",
+   "enunciado": "¿Qué papel tienen los Macroproyectos de Vivienda en Soacha?",
+   "respuesta": "Cobran especial importancia; ejemplo, Ciudad Verde; nota 6, p. 274.",
+   "referencia": "p. 274",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q049",
+   "n_ficha": 49,
+   "tipo": "abierta",
+   "enunciado": "En el diagrama de cajas de la Fig. 6, ¿qué representan Q1 y Q3 y qué mide el rango intercuartílico?",
+   "respuesta": "Q1 es el cuartil de 25% (borde izquierdo), Q3 el de 75% (borde derecho); el rango intercuartílico es la medida de dispersión; p. 274.",
+   "referencia": "p. 274",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q050",
+   "n_ficha": 50,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ventaja da el puntaje catastral frente a los precios de mercado para comparar valores en el tiempo?",
+   "respuesta": "Es comparable entre predios, municipios y años y no requiere ajustar valores que se suceden en el tiempo; p. 274.",
+   "referencia": "p. 274",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q051",
+   "n_ficha": 51,
+   "tipo": "abierta",
+   "enunciado": "¿Qué concluye el artículo sobre la evolución del valor 2000-2012-2020?",
+   "respuesta": "Una clara valorización de los inmuebles durante 20 años, con crecimiento de Q2, Q3 y de la media en los municipios, como expresión de la dinámica metropolitana y posibles efectos de los POT; p. 275.",
+   "referencia": "p. 275",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q052",
+   "n_ficha": 52,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios superaron 50 puntos de puntaje promedio en 2020?",
+   "respuesta": "Cajicá, Chía, Cota y Sopó; p. 275.",
+   "referencia": "p. 275",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q053",
+   "n_ficha": 53,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles se ubican entre 40 y 50 puntos?",
+   "respuesta": "Funza, Mosquera, Madrid, La Calera, Zipaquirá, Tocancipá y Facatativá; p. 275.",
+   "referencia": "p. 275",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q054",
+   "n_ficha": 54,
+   "tipo": "vf",
+   "enunciado": "Los mayores valores inmobiliarios se concentran solo en los primeros anillos.",
+   "respuesta": "Falso: también, en menor medida, en Facatativá y Zipaquirá, centros subregionales; p. 276.",
+   "referencia": "p. 276",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "también, en menor medida, en Facatativá y Zipaquirá, centros subregionales; p. 276."
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q055",
+   "n_ficha": 55,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios crecieron más \"respecto a sí mismos\" en 2000-2012 y cómo lo interpreta el texto?",
+   "respuesta": "Chía, Mosquera, La Calera y Sopó; probables procesos más tempranos de consolidación urbana; p. 276.",
+   "referencia": "p. 276",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q056",
+   "n_ficha": 56,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios crecen \"en proporción a su valor inicial\" en 2000-2012 y con qué se asocian?",
+   "respuesta": "El Rosal, Gachancipá, Bojacá, Guasca, Suesca y Subachoque; con parcelación y vivienda campestre, suelo suburbano de media y alta densidad; p. 276.",
+   "referencia": "p. 276",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q057",
+   "n_ficha": 57,
+   "tipo": "abierta",
+   "enunciado": "¿A qué dinámicas se asocian Madrid, Cajicá y Tocancipá en 2012-2020?",
+   "respuesta": "A dinámicas inmobiliarias de reciente importancia; Zipaquirá y Facatativá, a una trayectoria de subcentros regionales; p. 276.",
+   "referencia": "p. 276",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q058",
+   "n_ficha": 58,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dos medidas del recaudo predial se comparan?",
+   "respuesta": "Per cápita (población) y el promedio por predio urbano (Predial / Predios Urbanos); p. 276.",
+   "referencia": "p. 276",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q059",
+   "n_ficha": 59,
+   "tipo": "abierta",
+   "enunciado": "Según el texto, ¿qué municipios superaron el 150% de crecimiento del recaudo per cápita?",
+   "respuesta": "Solo Tocancipá y Chía; p. 277.",
+   "referencia": "p. 277",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q060",
+   "n_ficha": 60,
+   "tipo": "abierta",
+   "enunciado": "Según el texto, ¿qué municipios superaron el 100%?",
+   "respuesta": "Solo Funza, Chocontá, Tabio y Tenjo; p. 277.",
+   "referencia": "p. 277",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q061",
+   "n_ficha": 61,
+   "tipo": "abierta",
+   "enunciado": "¿Qué diferencia hay entre Tocancipá y Chía en las dos medidas?",
+   "respuesta": "Tocancipá: el promedio por inmueble urbano refleja grandes predios asociados al emplazamiento industrial; Chía: crecimiento mucho más equilibrado en las dos medidas por su consolidación de predios residenciales y comerciales; p. 277.",
+   "referencia": "p. 277",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q062",
+   "n_ficha": 62,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ocurre en Cajicá entre recaudo y valor?",
+   "respuesta": "Su recaudo per cápita crece más de 50% pero cae el recaudo promedio de los inmuebles urbanos, en contraste con el crecimiento del puntaje catastral; p. 277.",
+   "referencia": "p. 277",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q063",
+   "n_ficha": 63,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice el texto del resto de municipios?",
+   "respuesta": "No registran crecimientos importantes del recaudo o incluso una caída en las dos mediciones, que no se corresponde con el crecimiento del valor inmobiliario; p. 277.",
+   "referencia": "p. 277",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q064",
+   "n_ficha": 64,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo afectaron los alivios tributarios de 2020 las conclusiones?",
+   "respuesta": "La tendencia municipal no cambia de manera importante ni las reflexiones planteadas; p. 278.",
+   "referencia": "p. 278",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q065",
+   "n_ficha": 65,
+   "tipo": "abierta",
+   "enunciado": "¿Qué muestra la Fig. 10?",
+   "respuesta": "El impacto (positivo o negativo) del cambio de valor inmobiliario por aumento de área construida frente al cambio del recaudo del impuesto predial por municipio en 2012-2020, con el P valor de la estimación del DiDi; pp. 278-279.",
+   "referencia": "pp. 278-279",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q066",
+   "n_ficha": 66,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios muestran relación positiva entre valor y recaudo?",
+   "respuesta": "Tocancipá y Chocontá, y también Chía; p. 278.",
+   "referencia": "p. 278",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q067",
+   "n_ficha": 67,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios tienen impacto de valor alto pero recaudo bajo o decreciente?",
+   "respuesta": "Sopó, y de forma más intensa La Calera, con recaudo bajo; Madrid, con recaudo en disminución; pp. 278-279.",
+   "referencia": "pp. 278-279",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q068",
+   "n_ficha": 68,
+   "tipo": "abierta",
+   "enunciado": "¿Qué municipios aparecen con ineficiencia y cuáles con relación más proporcional?",
+   "respuesta": "Ineficiencia en Facatativá y Zipaquirá; relación más proporcional y positiva en Funza y Tenjo; p. 279.",
+   "referencia": "p. 279",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q069",
+   "n_ficha": 69,
+   "tipo": "abierta",
+   "enunciado": "¿Qué factores impactan la valoración sin mejorar el recaudo según las conclusiones?",
+   "respuesta": "Expansión de cabeceras urbanas, cambios de clasificación y usos del suelo (sobre todo rural), autorizaciones para monousos residenciales a gran escala, parcelación campestre e implantación de áreas industriales-logísticas en corredores viales sin articulación con otros usos; p. 279.",
+   "referencia": "p. 279",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q070",
+   "n_ficha": 70,
+   "tipo": "abierta",
+   "enunciado": "¿Qué propone el artículo para la gobernanza metropolitana?",
+   "respuesta": "Mecanismos sociales, políticos y económicos para ciudades que se complementen; acuerdos entre actores; gobernanza o arreglos formales que desarrollen fuentes de financiamiento asociadas a la renta de la tierra; \"estructuras de gobernanza antes que de gobiernos\" (Ruiz 2020); pp. 279-280.",
+   "referencia": "pp. 279-280",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q071",
+   "n_ficha": 71,
+   "tipo": "abierta",
+   "enunciado": "¿Qué instrumentos incorpora la Ley 2199 de 2022 según el artículo?",
+   "respuesta": "Captura de valor con base en suelo (plusvalía y contribución por valorización) y de gestión de la movilidad (derechos por el uso de terminales de transporte y de los Centros de Intercambio Modal, CIM); pp. 279-280.",
+   "referencia": "pp. 279-280",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q072",
+   "n_ficha": 72,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el instrumento clave que destacan para capturar rentas y reducir la segregación?",
+   "respuesta": "El Catastro Multipropósito; también para informalidad, seguridad jurídica y finanzas territoriales; p. 280.",
+   "referencia": "p. 280",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q073",
+   "n_ficha": 73,
+   "tipo": "abierta",
+   "enunciado": "Según Baer (2008a), el principal factor de valorización del suelo urbano es: (a) la norma; (b) la localización; (c) el costo de construcción; (d) la densidad.",
+   "respuesta": "b; pp. 265-266.",
+   "referencia": "pp. 265-266",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q074",
+   "n_ficha": 74,
+   "tipo": "abierta",
+   "enunciado": "¿Qué significa que la demanda de suelo sea \"derivada\"?",
+   "respuesta": "Que se adquiere por lo que se puede hacer en él, su uso potencial, no por el suelo en sí; Baer 2008b, p. 266.",
+   "referencia": "p. 266",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q075",
+   "n_ficha": 75,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los cuatro factores del precio de las mercancías inmobiliarias (Topalov 1979)?",
+   "respuesta": "Lo que se pueda construir (norma y valor de mercado de los productos), costos de adecuación del terreno, costos de construcción y precio del suelo; p. 267.",
+   "referencia": "p. 267",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q076",
+   "n_ficha": 76,
+   "tipo": "abierta",
+   "enunciado": "¿Qué distinguen las rentas primarias y secundarias de Jaramillo (2010)?",
+   "respuesta": "Primarias: producción de las materialidades urbanas; secundarias: consumo de esos bienes según usos y funcionalidad, con cuatro tipos; p. 267.",
+   "referencia": "p. 267",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q077",
+   "n_ficha": 77,
+   "tipo": "abierta",
+   "enunciado": "Las rentas secundarias de Jaramillo incluyen: (a) diferencial de comercio, monopolio de segregación, diferencial de vivienda y diferencial y de monopolio industrial; (b) renta absoluta y renta diferencial; (c) plusvalía y valorización; (d) renta de localización y de capital.",
+   "respuesta": "a; p. 267.",
+   "referencia": "p. 267",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q078",
+   "n_ficha": 78,
+   "tipo": "abierta",
+   "enunciado": "¿Qué característica atribuye Abramo (2020) al suelo urbano?",
+   "respuesta": "Inmovilidad espacial, largo proceso de depreciación física y es un bien compuesto vinculado a materialidades de otros suelos; p. 265.",
+   "referencia": "p. 265",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q079",
+   "n_ficha": 79,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la \"paradoja\" de la tierra según Galvaliz et al. (2018)?",
+   "respuesta": "Que tiene precio sin ser producto del trabajo social ni mercancía en sentido estricto; p. 266.",
+   "referencia": "p. 266",
+   "estado": "completa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-q080",
+   "n_ficha": 80,
+   "tipo": "abierta",
+   "enunciado": "¿Qué intervenciones públicas impactan el valor del suelo según Eguino y Erba (2020)?",
+   "respuesta": "Redes de infraestructuras y servicios, normas de uso y densidades, delimitación del perímetro urbano y áreas de expansión, entre otros; p. 268, nota 2.",
+   "referencia": "p. 268",
+   "estado": "completa"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s06-contreras-ruiz-2026-t001",
+   "n_ficha": 1,
+   "grupo": "Área de estudio y datos",
+   "texto": "El estudio no analiza la Región Metropolitana formal de la Ley 2199 de 2022: analiza 25 municipios que el DANE señala como parte de la Sabana de Bogotá, con relaciones funcionales y de metropolización con la capital. Bogotá no es uno de los 25.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t002",
+   "n_ficha": 2,
+   "grupo": "Área de estudio y datos",
+   "texto": "Cifras de municipios: 25 (estudio, DANE), 23 (áreas de influencia de Bogotá según el Sistema de Ciudades, DNP 2014), 21 (con licenciamiento DANE; faltan Chocontá, Subachoque, Suesca y Guasca).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t003",
+   "n_ficha": 3,
+   "grupo": "Área de estudio y datos",
+   "texto": "Los anillos son cuatro y se definen \"de acuerdo con su cercanía\" a Bogotá: 10, 7, 3 y 5 municipios. Errores típicos: poner a Zipaquirá o Facatativá en el primer anillo, a Gachancipá en el segundo o a Guasca en el cuarto. Guasca y Sopó son del primer anillo, Gachancipá y El Rosal del tercero.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t004",
+   "n_ficha": 4,
+   "grupo": "Área de estudio y datos",
+   "texto": "La variable proxy del valor inmobiliario es el puntaje catastral (Registro 2 del IGAC); no es valor catastral ni precio de mercado ni oferta o transacciones. No se pudo obtener el valor catastral (solicitudes a IGAC en 2020 y 2021 sin respuesta, nota 4) ni construir análisis de ofertas y transacciones.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t005",
+   "n_ficha": 5,
+   "grupo": "Área de estudio y datos",
+   "texto": "El puntaje catastral califica las construcciones por estructura, acabados principales, baño y cocina, con tipos 1 a 6 y calificación hasta 100; se analizan los predios urbanos.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t006",
+   "n_ficha": 6,
+   "grupo": "Área de estudio y datos",
+   "texto": "Registro 1 del IGAC: información física y jurídica (área de terreno, área construida, destinos económicos) para subdivisión predial; Registro 2: puntaje catastral.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t007",
+   "n_ficha": 7,
+   "grupo": "Área de estudio y datos",
+   "texto": "Fuentes: DANE (2005, 2017) para áreas de cabeceras, DANE (2023) para licencias, IGAC (2022) para el puntaje, DNP (2021) Terridata para el recaudo predial.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t008",
+   "n_ficha": 8,
+   "grupo": "Área de estudio y datos",
+   "texto": "La ventaja que se atribuye al puntaje catastral: es comparable entre predios, municipios y años, y permite balance del cambio de valor sin ajustar valores que se suceden en el tiempo, como los precios de mercado.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t009",
+   "n_ficha": 9,
+   "grupo": "Método DiDi",
+   "texto": "El método adicional es Diferencias en Diferencias (Bernal y Peña 2011), estimado por mínimos cuadrados ordinarios, para 2012-2020 (\"ocho años\").",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t010",
+   "n_ficha": 10,
+   "grupo": "Método DiDi",
+   "texto": "El \"tratamiento\" son las disposiciones de los POT, que se identifican con inmuebles que cambiaron de uso real o ampliaron el área construida; el control son los inmuebles sin esos cambios.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t011",
+   "n_ficha": 11,
+   "grupo": "Método DiDi",
+   "texto": "Impacto = diferencia (positiva o negativa) del cambio del valor catastral entre los que cambiaron (factual) y los que no (contrafactual). El modelo busca controlar diferencias preexistentes entre los grupos.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t012",
+   "n_ficha": 12,
+   "grupo": "Método DiDi",
+   "texto": "β1 es el parámetro del impacto del tratamiento; corresponde a la diferencia entre los promedios muestrales de ΔYi de los dos grupos.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t013",
+   "n_ficha": 13,
+   "grupo": "Método DiDi",
+   "texto": "Supuestos explícitos: los POT definieron zonas y casos de aplicación que incentivaron a unos predios y a otros no; 2012-2020 fue representativo de la consolidación de decisiones de los POT (con modificaciones desde 2000); el mercado logró actuar bajo el incentivo normativo.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t014",
+   "n_ficha": 14,
+   "grupo": "Método DiDi",
+   "texto": "En la Fig. 10 el tratamiento es el aumento de área construida (edificabilidad) y el eje vertical es \"Impacto Puntaje Catastral\"; la Fig. 10 también informa la significancia (P valor) de la estimación.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t015",
+   "n_ficha": 15,
+   "grupo": "Población y áreas urbanas",
+   "texto": "Período intercensal 1951-1964: crecimiento de Bogotá de 7,68%. Funza y Madrid tuvieron tasas importantes en esa década; el conjunto de municipios solo tuvo aumentos significativos en 1973-1985, cuando Bogotá ya decrecía.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t016",
+   "n_ficha": 16,
+   "grupo": "Población y áreas urbanas",
+   "texto": "En 1973-1985 los municipios del primer anillo tuvieron los crecimientos promedio más altos de toda la segunda mitad del siglo XX, y en los circunvecinos se mantuvo en 1985-1993 (aunque 1985-1993 fue en promedio inferior al período anterior).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t017",
+   "n_ficha": 17,
+   "grupo": "Población y áreas urbanas",
+   "texto": "Desde los 2000: Mosquera, Chía y Sopó (primer anillo) y Tabio y Bojacá (segundo) vuelven a aumentar tasas; en el cuarto anillo todos retoman crecimiento importante en 1993-2005.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t018",
+   "n_ficha": 18,
+   "grupo": "Población y áreas urbanas",
+   "texto": "Último censo (2018): siete municipios con tasas cercanas o superiores a 4% (Mosquera, Cajicá, Madrid, Cota, Soacha, Tocancipá y Gachancipá); núcleo por debajo de 1%; circunvecinos cerca de 2,5% en promedio.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t019",
+   "n_ficha": 19,
+   "grupo": "Población y áreas urbanas",
+   "texto": "24 de 25 municipios aumentan su área urbana entre 2005 y 2017; en 17 la población creció menos que el área. No es \"los 25\" ni \"todos\".",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t020",
+   "n_ficha": 20,
+   "grupo": "Población y áreas urbanas",
+   "texto": "Cifras por anillo: Sopó, Soacha, Madrid y Guasca, 10% a 35%; Chía, Funza, Mosquera y Cota, 50% a casi 100%; Cajicá y La Calera, más de 100%. Segundo anillo: 40% a 130%, salvo Zipaquirá y Bojacá. Tercero: relación directa con población. Cuarto: Cogua 206,30%.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t021",
+   "n_ficha": 21,
+   "grupo": "Población y áreas urbanas",
+   "texto": "La mayoría de los municipios pequeños crece más en ocupación urbana que en población: expansión sobre áreas rurales que se estarían habilitando para usos urbanos.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t022",
+   "n_ficha": 22,
+   "grupo": "Población y áreas urbanas",
+   "texto": "Subdivisión predial urbana desde 2000, no solo en el primer anillo (Cajicá, Funza, Madrid, Cota, Mosquera, Chía, Soacha) sino en otros anillos vinculados por ejes viales: Autopista Norte y Sur, Calle 13 y Calle 80 (occidente).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t023",
+   "n_ficha": 23,
+   "grupo": "Población y áreas urbanas",
+   "texto": "Subdivisión predial rural en todos los municipios; los mayores incrementos son Madrid, Mosquera, Soacha, Funza, Cajicá y Cota; de menos de un predio por ha (2000) a casi tres (2020); se evidencia vivienda campestre, condominios y propiedades horizontales.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t024",
+   "n_ficha": 24,
+   "grupo": "Licenciamiento",
+   "texto": "Total 2005-2022: 33 921 835 m2. Soacha: 8 248 529 m2. Residencial: 73,5% (24 937 669 m2). Industrial-logístico: 14,7% (4 977 748 m2). No confundir los dos porcentajes ni las dos bases.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t025",
+   "n_ficha": 25,
+   "grupo": "Licenciamiento",
+   "texto": "Top del total licenciado: Soacha, y \"muy lejos\" Chía, Cota, Mosquera, Funza, Cajicá y Madrid; Zipaquirá (segundo anillo) llama la atención porque supera a varios municipios más cercanos a Bogotá.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t026",
+   "n_ficha": 26,
+   "grupo": "Licenciamiento",
+   "texto": "Top residencial: Soacha casi una tercera parte (7 226 246 m2), seguido por Chía, Zipaquirá, Mosquera, Cajicá, Madrid y Cota (\"casi todos del primer anillo\"). Funza no figura en esta lista; figura en la del total y en la industrial.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t027",
+   "n_ficha": 27,
+   "grupo": "Licenciamiento",
+   "texto": "Top industrial: Funza y Cota; luego Mosquera, Tenjo y Tocancipá. Causas: conexión con la actividad logística del aeropuerto El Dorado, incentivos tributarios de algunos municipios y efecto de corredores viales norte y occidente.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t028",
+   "n_ficha": 28,
+   "grupo": "Licenciamiento",
+   "texto": "La concentración residencial (sin mezcla de otros usos) refleja territorios mono-funcionales (vivienda). Se liga a cambios de clasificación (rural a expansión urbana) de los POT aprobados entre 2000 y 2005 y a planes parciales para vivienda.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t029",
+   "n_ficha": 29,
+   "grupo": "Licenciamiento",
+   "texto": "La tendencia residencial se traslada al tercer y cuarto anillo por conexiones viales y conmutación laboral con Bogotá, que sigue concentrando un importante volumen de empleos de la RM.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t030",
+   "n_ficha": 30,
+   "grupo": "Licenciamiento",
+   "texto": "VIS se segrega en municipios del occidente de Bogotá; NO VIS en distintos rangos de valor hacia el centro y norte de la Sabana occidente y centro, tendiendo al suelo rural (campestre o condominios densos).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t031",
+   "n_ficha": 31,
+   "grupo": "Licenciamiento",
+   "texto": "2012-2019 mayor dinamismo de licencias en todos los usos; 2020 caída importante (posiblemente por COVID-19); desde 2021 repunte muy importante.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t032",
+   "n_ficha": 32,
+   "grupo": "Licenciamiento",
+   "texto": "POT: 70 actos entre 1999 y 2021; 25 de primera generación; 45 modificaciones; promedio de al menos 1,8 revisiones por municipio. Nota 6: Macroproyectos de Vivienda en Soacha (por ejemplo, Ciudad Verde).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t033",
+   "n_ficha": 33,
+   "grupo": "Valor inmobiliario",
+   "texto": "Fig. 6: diagramas de cajas del puntaje en 2000, 2012 y 2020. Q1 = 25%, Q3 = 75%, rango intercuartílico = dispersión; el texto dice que la marca en negrilla es la media y que la mitad del rectángulo indicaría la mediana.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t034",
+   "n_ficha": 34,
+   "grupo": "Valor inmobiliario",
+   "texto": "Resultado general: entre 2000, 2012 y 2020 Q2, Q3 y la media se desplazan hacia valores mayores (el rango Q2-Q3 cambia \"en varios de los casos\") y el crecimiento de nivel de la media es evidente en todos y cada uno de los municipios; el texto lo llama \"clara valorización\" en 20 años, con posibles efectos de los POT.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t035",
+   "n_ficha": 35,
+   "grupo": "Valor inmobiliario",
+   "texto": "En 2020, Cajicá, Chía, Cota y Sopó superan 50 puntos; siete municipios están entre 40 y 50 (Funza, Mosquera, Madrid, La Calera, Zipaquirá, Tocancipá y Facatativá).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t036",
+   "n_ficha": 36,
+   "grupo": "Valor inmobiliario",
+   "texto": "Los mayores valores están en los primeros anillos o, en menor medida, en dos centros subregionales (Facatativá y Zipaquirá, SDP 2015) que hace dos y tres décadas dominaban la concentración urbana de la región.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t037",
+   "n_ficha": 37,
+   "grupo": "Valor inmobiliario",
+   "texto": "Mayor incremento 2000-2012: Chía, Mosquera, La Calera y Sopó crecieron más \"respecto a sí mismos\" (procesos más tempranos de consolidación urbana). El Rosal, Gachancipá, Bojacá, Guasca, Suesca y Subachoque crecen \"en proporción a su valor inicial\" y se asocian a parcelación y vivienda campestre (suelo suburbano de media y alta densidad). Fíjese en las dos listas y en que la segunda no es \"del tercer y cuarto anillo\" solamente.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t038",
+   "n_ficha": 38,
+   "grupo": "Valor inmobiliario",
+   "texto": "2012-2020: los municipios con mayores puntajes y crecimiento se vinculan a dinámicas inmobiliarias recientes (Madrid, Cajicá, Tocancipá) o a trayectoria de subcentros regionales (Zipaquirá y Facatativá).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t039",
+   "n_ficha": 39,
+   "grupo": "Valor inmobiliario",
+   "texto": "La numeración de figuras en el texto no coincide con las leyendas desde la Fig. 7 (ver inconsistencia 1): el recaudo está en la Fig. 9 aunque el texto cita la Fig. 8.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t040",
+   "n_ficha": 40,
+   "grupo": "Eficiencia tributaria e impacto",
+   "texto": "Recaudo predial: se compara per cápita y por predio urbano (Predial / Predios Urbanos). Solo Tocancipá y Chía superan 150% en el per cápita; solo Funza, Chocontá, Tabio y Tenjo superan 100% (según el texto).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t041",
+   "n_ficha": 41,
+   "grupo": "Eficiencia tributaria e impacto",
+   "texto": "Tocancipá: el promedio del recaudo por inmueble urbano refleja grandes predios asociados al emplazamiento industrial; Chía: crecimiento equilibrado en las dos medidas por su consolidación de predios residenciales y comerciales.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t042",
+   "n_ficha": 42,
+   "grupo": "Eficiencia tributaria e impacto",
+   "texto": "Cajicá, Sesquilé y Suesca superan el 50% del per cápita; Cajicá tiene caída del recaudo promedio por inmueble urbano pese al crecimiento del puntaje.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t043",
+   "n_ficha": 43,
+   "grupo": "Eficiencia tributaria e impacto",
+   "texto": "El resto de municipios no crece o cae en las dos mediciones, algo que \"claramente no se corresponde\" con el crecimiento del valor inmobiliario.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t044",
+   "n_ficha": 44,
+   "grupo": "Eficiencia tributaria e impacto",
+   "texto": "COVID-19: en 2020 hubo alivios tributarios (incluido el predial), pero la tendencia municipal y las reflexiones no cambian de manera importante.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t045",
+   "n_ficha": 45,
+   "grupo": "Eficiencia tributaria e impacto",
+   "texto": "Fig. 10: Tocancipá, Chocontá y Chía muestran relación positiva (recaudo e impacto de valor); Sopó y La Calera (más intensa) tienen impacto positivo con baja variación de recaudo; Madrid tiene disminución del recaudo; Facatativá y Zipaquirá ineficiencia; Funza y Tenjo relación más proporcional y positiva.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t046",
+   "n_ficha": 46,
+   "grupo": "Eficiencia tributaria e impacto",
+   "texto": "El texto interpreta Madrid como \"desaprovechamiento en los ingresos tributarios\" frente a una mejora evidente del valor de la tierra; no lo describe como municipio con bajo valor.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t047",
+   "n_ficha": 47,
+   "grupo": "Conclusiones",
+   "texto": "Conclusión central: la expansión de cabeceras, los cambios de clasificación y uso (sobre todo rural), los monousos residenciales de vivienda masiva, la parcelación campestre y las áreas industriales-logísticas en corredores viales impactan la valoración \"sin que ello signifique mejores recaudos\".",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t048",
+   "n_ficha": 48,
+   "grupo": "Conclusiones",
+   "texto": "La ineficiencia del recaudo se describe como que los mayores valores de renta urbana producto de las normas de ordenamiento no son capturados por la colectividad a través de los instrumentos destinados para ello; el municipio y sus autoridades son los encargados de garantizar servicios y soportes urbanos.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t049",
+   "n_ficha": 49,
+   "grupo": "Conclusiones",
+   "texto": "El artículo advierte que los potenciales normativos ya son superiores a las tasas de crecimiento poblacional y que podría llegar a haber \"no absorción de la oferta inmobiliaria producida\", como ya sucede en países como México.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t050",
+   "n_ficha": 50,
+   "grupo": "Conclusiones",
+   "texto": "Gobernanza (Ruiz 2020, p. 97): estructuras de gobernanza \"antes que de gobiernos\", propias de coordinación, cooperación y administración del conflicto; retos en fuentes de financiamiento asociadas a dinámicas metropolitanas, en especial la renta de la tierra (Carruthers 2012; Bird y Slack 2013).",
+   "referencia": "p. 97"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t051",
+   "n_ficha": 51,
+   "grupo": "Conclusiones",
+   "texto": "Ley Orgánica 2199 de 2022: oportunidad de planeación y gestión supramunicipal; instrumentos de captura de valor con base en suelo (plusvalía y contribución por valorización) y de gestión de la movilidad (derechos por el uso de las terminales de transporte y de los Centros de Intercambio Modal, CIM).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t052",
+   "n_ficha": 52,
+   "grupo": "Conclusiones",
+   "texto": "Estrategias de integración que se piden: asociación de municipios con características y necesidades comunes; fortalecimiento y revitalización de ciudades intermedias y redes de ciudades; ordenamiento equilibrado y equitativo con vulnerabilidad climática; proyectos conjuntos de movilidad (sistemas masivos a partir de DOTS), de espacio público y estructura ecológica regional, equipamientos y seguridad alimentaria.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t053",
+   "n_ficha": 53,
+   "grupo": "Conclusiones",
+   "texto": "El Catastro Multipropósito es el \"instrumento clave\" para reducir la segregación socioespacial, atender la informalidad, dar seguridad jurídica a la propiedad y fortalecer las finanzas territoriales.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t054",
+   "n_ficha": 54,
+   "grupo": "Conclusiones",
+   "texto": "La base de las propuestas es una visión regional que capture y redistribuya rentas \"no solo del suelo, sino de las actividades económicas localizadas en el territorio\".",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t055",
+   "n_ficha": 55,
+   "grupo": "Marco teórico",
+   "texto": "Baer (2008a, p. 9): la localización es el principal factor de valorización del suelo urbano. Baer (2008b, p. 347): el valor del suelo está determinado por el mejor y máximo uso, tanto económico como normativo; la demanda es derivada (por uso potencial).",
+   "referencia": "p. 9; p. 347"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t056",
+   "n_ficha": 56,
+   "grupo": "Marco teórico",
+   "texto": "Baer y Kauw (2016, p. 7): la mayor parte de la demanda no compite por suelo urbano para consumo directo, sino por la actividad que le da soporte.",
+   "referencia": "p. 7"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t057",
+   "n_ficha": 57,
+   "grupo": "Marco teórico",
+   "texto": "Morales-Schechinger (2012): irreproductibilidad y escasez relativa; (2005): el precio depende del \"tirón\" de la competencia entre demandantes.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t058",
+   "n_ficha": 58,
+   "grupo": "Marco teórico",
+   "texto": "Abramo (2020): inmovilidad espacial, largo proceso de depreciación física, bien compuesto vinculado a materialidades producidas en otros suelos. Es la inmovilidad lo que el texto atribuye también a la mercancía inmobiliaria (Pérez et al. 2021).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t059",
+   "n_ficha": 59,
+   "grupo": "Marco teórico",
+   "texto": "Topalov (1979, en L'Huillier 2020): sobreganancias de localización por \"efectos útiles de aglomeración\"; los cuatro factores del precio: lo que se puede construir, costos de adecuación del terreno, costos de construcción, precio del suelo.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t060",
+   "n_ficha": 60,
+   "grupo": "Marco teórico",
+   "texto": "Jaramillo (2010, en L'Huillier 2020): rentas primarias (producción de materialidades urbanas) y secundarias (consumo; cuatro tipos: diferencial de comercio, monopolio de segregación, diferencial de vivienda, diferencial y de monopolio industrial).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t061",
+   "n_ficha": 61,
+   "grupo": "Marco teórico",
+   "texto": "Galvaliz et al. (2018): paradoja de que la tierra tenga precio sin ser producto del trabajo social ni mercancía en sentido estricto. Kralich y Rongvaux (2014): especulación, valor de uso presente como factor residual.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t062",
+   "n_ficha": 62,
+   "grupo": "Marco teórico",
+   "texto": "Pérez, Frediani y Cortizo (2021): rápida valorización de tierras más privilegiadas; la demanda se desplaza a zonas cada vez más alejadas y genera periferias dispersas; mercado de localizaciones.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t063",
+   "n_ficha": 63,
+   "grupo": "Marco teórico",
+   "texto": "Castaño y Tamayo (2014): valor de mercado = precio por el que factiblemente se vendería un inmueble en un mercado de libre oferta y demanda; el precio es variable en el tiempo, con apreciaciones objetivas y subjetivas.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t064",
+   "n_ficha": 64,
+   "grupo": "Marco teórico",
+   "texto": "Eguino y Erba (2020): los valores de las transacciones resultan de intervenciones públicas (infraestructuras, normas de uso y densidades, perímetro urbano y expansión) y privadas (mejoras y construcciones).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t065",
+   "n_ficha": 65,
+   "grupo": "Marco teórico",
+   "texto": "Contexto histórico del artículo: migración campo-ciudad por sustitución de importaciones, polos de desarrollo e infraestructura, y en Colombia además la violencia política; concentración en pocas grandes ciudades; finales de los ochenta e inicios de los noventa, descentralización y democratización con municipios en el centro de la planificación, emergencia del sector privado, desregulación y Estado neoliberal.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t066",
+   "n_ficha": 66,
+   "grupo": "Marco teórico",
+   "texto": "Brasil y Colombia, a finales del siglo pasado, buscaron intervenir el mercado con regulación de usos del suelo y con instrumentos de gestión y financiación del desarrollo urbano, para que el Estado capture los beneficios de las rentas producidas colectivamente.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t067",
+   "n_ficha": 67,
+   "grupo": "Marco teórico",
+   "texto": "Montaña (2015, p. 17): \"metropolización del desarrollo\". Bogotá se estudió con mayor profundidad (Garza 2019; Lonja de Propiedad Raíz de Bogotá 2016); los efectos de los cambios normativos y de ocupación de los municipios han sido poco analizados.",
+   "referencia": "p. 17"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t068",
+   "n_ficha": 68,
+   "grupo": "Marco teórico",
+   "texto": "El resumen en español afirma que los mayores valores \"no se están capturando\" en impuestos; el abstract en inglés dice \"not necessarily\" (más débil).",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t069",
+   "n_ficha": 69,
+   "grupo": "Marco teórico",
+   "texto": "Palabras clave del artículo: Desarrollo urbano, Economía de la tierra, Expansión urbana, Uso de la tierra, Valor inmobiliario.",
+   "referencia": null
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-t070",
+   "n_ficha": 70,
+   "grupo": "Marco teórico",
+   "texto": "Periodo: el título y el resumen dicen 2000-2022; el DiDi y el recaudo del análisis de impacto cubren 2012-2020; los puntajes se leen en 2000, 2012 y 2020; las licencias, 2005-2022.",
+   "referencia": null
+  }
+ ],
+ "pares": [
+  {
+   "id": "s06-contreras-ruiz-2026-p001",
+   "par": "Puntaje catastral y valor catastral",
+   "diferencia": "El puntaje (Registro 2 del IGAC, 0 a 100) califica la construcción por estructura, acabados, baño y cocina y es la variable proxy del valor; el valor catastral no se pudo obtener (nota 4). El texto del DiDi (p. 270) menciona \"valor catastral\" pero la Fig. 10 mide \"Impacto Puntaje Catastral\""
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p002",
+   "par": "Registro 1 y Registro 2 del IGAC",
+   "diferencia": "Registro 1: información alfanumérica física y jurídica del predio (área de terreno, área construida, destinos económicos), para subdivisión predial y desarrollo inmobiliario; Registro 2: puntaje catastral de las construcciones"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p003",
+   "par": "Rango (tipo) y calificación (Fig. 2)",
+   "diferencia": "Rango o tipo es de 1 a 6; calificación es el puntaje de 1 a 100; cada tipo agrupa un intervalo de puntaje"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p004",
+   "par": "Área de cabecera y áreas urbanas",
+   "diferencia": "La Fig. 3 compara cabecera urbana más centros poblados entre 2005 y 2017; el texto habla de \"cabeceras\" y de \"áreas urbanas\" casi como sinónimos"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p005",
+   "par": "Crecimiento de población y de área urbana",
+   "diferencia": "Población 2005-2018 y área 2005-2017; en 17 municipios la población creció menos que el área; Zipaquirá es el único con área negativa"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p006",
+   "par": "Subdivisión predial urbana y rural",
+   "diferencia": "Urbana: predios por hectárea desde 2000, también en municipios de otros anillos por ejes viales; rural: en todos los municipios, con los mayores aumentos en Madrid, Mosquera, Soacha, Funza, Cajicá y Cota (de menos de 1 a casi 3 predios por ha)"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p007",
+   "par": "Área licenciada total, residencial e industrial",
+   "diferencia": "Total: Soacha, Chía, Cota, Mosquera, Funza, Cajicá, Madrid (más Zipaquirá llamativo); residencial: Soacha, Chía, Zipaquirá, Mosquera, Cajicá, Madrid, Cota (sin Funza); industrial: Funza y Cota, luego Mosquera, Tenjo y Tocancipá"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p008",
+   "par": "25, 23 y 21 municipios",
+   "diferencia": "25 son del estudio (DANE, Sabana de Bogotá); 23 son áreas de influencia de Bogotá según el DNP (2014); 21 tienen datos de licenciamiento (se excluyen Chocontá, Subachoque, Suesca y Guasca)"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p009",
+   "par": "VIS y NO VIS",
+   "diferencia": "VIS: segregación de la vivienda social en municipios del occidente de Bogotá; NO VIS: distribuida en distintos rangos de valor hacia el centro y norte de la Sabana occidente y centro, con tendencia a suelo rural (campestre o condominios densos)"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p010",
+   "par": "Tratamiento y control en el DiDi",
+   "diferencia": "Tratamiento: inmuebles con cambio del uso real o ampliación del área construida (2012-2020), atribuido a los POT; control: inmuebles sin esos cambios"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p011",
+   "par": "Ȳ2 y Ȳ1, i = 0 e i = 1",
+   "diferencia": "La Ecuación 1 usa Ȳ2 (después) y Ȳ1 (antes); el texto define i = 0 (antes) e i = 1 (después)"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p012",
+   "par": "β1 y el DiDi",
+   "diferencia": "β1 de ΔYi = β0 + β1 D1 + νi es el impacto del tratamiento: diferencia entre los promedios muestrales de ΔYi de tratamiento y control"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p013",
+   "par": "Mediana, media y cuartiles (Fig. 6)",
+   "diferencia": "Q1 borde izquierdo (25%), Q3 borde derecho (75%), Q2 mediana (según el texto, la mitad del rectángulo), media = marca en negrilla; el rango intercuartílico (Q1 a Q3) mide dispersión"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p014",
+   "par": "Media del puntaje (Fig. 7) y cambio porcentual (Fig. 8)",
+   "diferencia": "Fig. 7: nivel del promedio en 2000, 2012 y 2020; Fig. 8: variación porcentual entre 2000-2012 y 2012-2020"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p015",
+   "par": "Recaudo per cápita y por predio urbano",
+   "diferencia": "Per cápita: recaudo predial entre población; Predial / Predios Urbanos: promedio por predio urbano; Cajicá: per cápita sube más de 50%, promedio por predio urbano cae"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p016",
+   "par": "Los que más crecieron \"respecto a sí mismos\" y los que crecieron \"en proporción a su valor inicial\"",
+   "diferencia": "Primeros (2000-2012): Chía, Mosquera, La Calera, Sopó, circunvecinos con los mayores niveles; segundos: El Rosal, Gachancipá, Bojacá, Guasca, Suesca, Subachoque, asociados a parcelación y vivienda campestre"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p017",
+   "par": "Primeros anillos y centros subregionales",
+   "diferencia": "Mayor valor en los primeros anillos o, en menor medida, en Facatativá y Zipaquirá, centros subregionales que hace dos y tres décadas dominaban la concentración urbana"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p018",
+   "par": "Rentas primarias y secundarias (Jaramillo 2010)",
+   "diferencia": "Primarias: producción de materialidades urbanas; secundarias: consumo de esos bienes, según usos y funcionalidad; cuatro tipos de secundarias"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p019",
+   "par": "Valor de uso y valor de cambio / demanda derivada",
+   "diferencia": "El valor de uso presente pasa a ser factor residual frente a la potencialidad de capturar rentas extraordinarias; la demanda es derivada porque se compra por lo que se puede hacer en el suelo (uso potencial)"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p020",
+   "par": "Intervenciones públicas y privadas (Eguino y Erba)",
+   "diferencia": "Públicas: infraestructuras y servicios, normas de uso y densidades, perímetro urbano y expansión; privadas: mejoras y construcciones"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p021",
+   "par": "Región Metropolitana formal (Ley 2199 de 2022) y los 25 municipios del estudio",
+   "diferencia": "El artículo no se refiere a la figura formal sino a municipios con relaciones funcionales con Bogotá; la ley aparece en conclusiones como oportunidad de captura de valor"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p022",
+   "par": "Plusvalía, valorización y derechos de terminales y CIM",
+   "diferencia": "Plusvalía y contribución por valorización: captura de valor con base en suelo; derechos por el uso de las terminales de transporte y de los Centros de Intercambio Modal: instrumentos de gestión de la movilidad"
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p023",
+   "par": "Gobernanza y gobierno metropolitano",
+   "diferencia": "Gobernanza: coordinación, cooperación y administración del conflicto (Ruiz 2020); gobierno: estructura institucional formal; el texto cita \"estructuras de gobernanza antes que de gobiernos\""
+  },
+  {
+   "id": "s06-contreras-ruiz-2026-p024",
+   "par": "2020 en licencias y en recaudo",
+   "diferencia": "Licencias: caída importante en 2020 (COVID-19, \"posiblemente\") y repunte desde 2021; recaudo: alivios tributarios en 2020, pero la tendencia municipal no cambia de manera importante"
+  }
+ ]
+}

@@ -1,0 +1,512 @@
+{
+ "semana": 3,
+ "lectura": "polese-1998-cap9",
+ "autor": "Mario Polèse",
+ "titulo": "Economía urbana y regional, capítulo 9: Localización de las actividades económicas y teoría de los lugares centrales",
+ "alcance": "Capítulo 9 hasta la p. 313 (inicio de oficinas y terciario superior)",
+ "fuente": "content/semana-03/polese-1998-cap9/ficha.md",
+ "preguntas": [
+  {
+   "id": "s03-polese-1998-cap9-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué el título del capítulo habla de espacio \"nacional\" y dónde se trata la localización intraurbana?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Qué siete postulados define el modelo simple de inspiración weberiana?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "En el ejemplo siderúrgico (1,5 de hierro y 1,2 de carbón por tonelada de acero), ¿dónde se localiza la empresa y por qué?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se define el índice material y qué significa un valor mayor o menor que 1?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué la industria del aluminio se localiza cerca de la hidroelectricidad y no de la bauxita?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué las imprentas, panaderías y cerveceras tienden a localizarse cerca del mercado?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo afecta el cambio tecnológico a la atracción de los recursos naturales?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "En el ejemplo de la renta de localización, ¿por qué el productor de X cobra $9,95 y cuánto es la renta?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué la oferta inelástica es condición del concepto de renta?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q010",
+   "n_ficha": 10,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tres localizaciones quedan a la empresa con puntos de ruptura de carga y qué explica sobre las ciudades?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Cuándo conviene camión, tren y barco según la Fig. 9.3?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los postulados implícitos del panorama de competencia espacial de la Fig. 9.4 y por qué hexágonos?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q013",
+   "n_ficha": 13,
+   "tipo": "abierta",
+   "enunciado": "¿Qué mide la distancia entre z y w en la Fig. 9.5 y qué renta genera?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q014",
+   "n_ficha": 14,
+   "tipo": "abierta",
+   "enunciado": "¿Quién gana y quién pierde con una baja generalizada de costos de transporte, con empresas igual de eficaces y con empresas de eficiencia diferente?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q015",
+   "n_ficha": 15,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se relaciona la teoría de los lugares centrales con la competencia espacial de Lösch y con la observación de Christaller?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "¿Qué cuatro características definen un bien o servicio de rango superior?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q017",
+   "n_ficha": 17,
+   "tipo": "abierta",
+   "enunciado": "En la jerarquía de lugares centrales, ¿qué ofrece cada rango y por qué hay más distancia entre ciudades de rango B que de rango D?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q018",
+   "n_ficha": 18,
+   "tipo": "abierta",
+   "enunciado": "Con s = 6, r = 1000 y k = 0,5, ¿qué poblaciones resultan para los rangos D, C, B y A? Con a = 10 km, ¿cuáles son d_C y d_B?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "¿Qué postula la regla rango-tamaño de Zipf, cómo se grafica y en qué se parece a la teoría de lugares centrales?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "¿Qué características tiene el sistema \"perfecto\" de lugares centrales?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q021",
+   "n_ficha": 21,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las causas de desvío respecto del modelo y en qué territorios se cumple mejor?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-polese-1998-cap9-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué los servicios de oficina y el terciario superior no siguen bien la lógica de los lugares centrales?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s03-polese-1998-cap9-t001",
+   "n_ficha": 1,
+   "grupo": null,
+   "texto": "Weber: 1909, Über den Standort der Industrie; \"padre\" de las teorías económicas de la localización industrial. Christaller 1935. Lösch 1944. Zipf: geógrafo norteamericano. Beckmann (1968), Isard (1956), Hoover (1951). Von Thünen se nombra solo en la apertura como uno de los \"padres\" junto con Lösch y Weber.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t002",
+   "n_ficha": 2,
+   "grupo": null,
+   "texto": "Siete postulados del modelo básico (plano homogéneo, ubicación conocida de insumos, mercado conocido, demanda perfectamente elástica, transporte lineal, mano de obra dada, tecnología fija): no confundir con los cuatro postulados implícitos de la Fig. 9.4 (sin externalidades, demanda uniforme, costos de producción comparables, transporte lineal).",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t003",
+   "n_ficha": 3,
+   "grupo": null,
+   "texto": "Función de producción lineal, sin economías de escala ni sustitución: 1,5 de hierro y 1,2 de carbón por tonelada de acero (A = 1).",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t004",
+   "n_ficha": 4,
+   "grupo": null,
+   "texto": "Costos por km: hierro 0,075; carbón 0,06; producto final 0,05; la empresa se localiza en F (la mina de hierro), aunque el índice material (2,7) indique que tanto el hierro como el carbón pesan más que el acero; el criterio es el costo mayor de transporte por tonelada-km.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t005",
+   "n_ficha": 5,
+   "grupo": null,
+   "texto": "Índice material = peso de insumos localizados / peso de ventas; mayor que 1 = pérdida de peso, orientada a recursos; menor que 1 = ganancia de peso, orientada al mercado. Los insumos omnipresentes no cuentan como localizados.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t006",
+   "n_ficha": 6,
+   "grupo": null,
+   "texto": "Si t fuera tres veces mayor para el producto final, el resultado cambia: la atracción depende del peso y del costo de transporte a la vez.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t007",
+   "n_ficha": 7,
+   "grupo": null,
+   "texto": "Costos de transporte infinitos = factor inmóvil o fijo; el suelo es el mejor ejemplo (renta del suelo en el cap. 10).",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t008",
+   "n_ficha": 8,
+   "grupo": null,
+   "texto": "Aluminio: se localiza cerca de la electricidad (hidroeléctricas), no de la bauxita; la electricidad no tiene peso pero es un insumo \"pesado\" por sus costos fijos de transporte.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t009",
+   "n_ficha": 9,
+   "grupo": null,
+   "texto": "Ganancia de peso: bebidas gaseosas, cerveza (agua), cementeras (piedra y tierra), cerca del mercado (punto M). Orientadas al mercado por perecibilidad: imprentas, panaderías y pastelerías, moda; textil menos sensible al mercado que vestido.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t010",
+   "n_ficha": 10,
+   "grupo": null,
+   "texto": "Cambio tecnológico: baja el índice material, aumenta la sustitución (gas o hidroelectricidad por carbón o petróleo; aluminio por acero) y modifica la definición de los insumos; las funciones modernas dependen más de factores intangibles.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t011",
+   "n_ficha": 11,
+   "grupo": null,
+   "texto": "Paraná: reducción de 80 por ciento en el costo de transporte de la electricidad (rayo láser); Río de Janeiro y Buenos Aires podrían producir aluminio al mismo precio; Paraná pierde ventajas comparativas de localización y exporta electricidad.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t012",
+   "n_ficha": 12,
+   "grupo": null,
+   "texto": "Renta de localización: X $6 + $2 = $8; Y $5 + $5 = $10; X vende a $9,95; renta $1,95; requiere oferta inelástica; no viene de productividad (Y es más eficaz en origen); siempre hay rentas de localización porque la distancia cuesta; se reparten entre propietarios, gobierno, empresas y trabajadores.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t013",
+   "n_ficha": 13,
+   "grupo": null,
+   "texto": "Ruptura de carga: las opciones de localización son solo tres (mercado, origen de un insumo, punto de ruptura de carga obligatorio); explica ciudades junto a ríos y mar; la curva T sube bruscamente en h. Cuidado con T y T' (el texto de la p. 293 rotula T la curva sin ruptura; en la figura es T').",
+   "referencia": "p. 293"
+  },
+  {
+   "id": "s03-polese-1998-cap9-t014",
+   "n_ficha": 14,
+   "grupo": null,
+   "texto": "Modos de transporte (Fig. 9.3; el texto de la p. 293 dice \"Figura 9.1\" por error): costos fijos más altos en el avión y más bajos en el camión; pendiente mayor en el camión y menor en el barco (por eficiencia energética); camión menos de 500 km, tren hasta 1000 km, barco más allá; avión solo con alto valor agregado y sensibilidad al tiempo; mexicano a Berlín por Hamburgo o Rostock, no Cádiz o Le Havre.",
+   "referencia": "p. 293"
+  },
+  {
+   "id": "s03-polese-1998-cap9-t015",
+   "n_ficha": 15,
+   "grupo": null,
+   "texto": "Excepciones a las grandes ciudades junto a vías fluviales: Bogotá, Johanesburgo, Madrid y México. Regiones interiores poco industrializadas: Saskatchewan, Chihuahua, Dakota, Montana (y las del interior sudamericano). Las poblaciones tropicales subieron a las mesetas para huir de costas malsanas.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t016",
+   "n_ficha": 16,
+   "grupo": null,
+   "texto": "Mano de obra: el modelo básico no considera la \"mano de obra barata\"; los salarios intervienen si varían con productividad igual o la productividad varía con salario igual; depende del peso del trabajo en la producción.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t017",
+   "n_ficha": 17,
+   "grupo": null,
+   "texto": "Competencia espacial: hexágonos para cubrir sin espacio vacío; fronteras i y j en el cruce de curvas de transporte; óptimo social; libre entrada; costo marginal = costo medio = precio; P1 = costo de producción común.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t018",
+   "n_ficha": 18,
+   "grupo": null,
+   "texto": "El espacio protege a la empresa; sin costos de transporte, competencia perfecta; los costos de interacción espacial actúan como aranceles; la baja generalizada de costos de transporte (P1 a P2) no cambia las fronteras m y n si las empresas son igual de eficaces y beneficia al consumidor.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t019",
+   "n_ficha": 19,
+   "grupo": null,
+   "texto": "Montañas: división en z sin montañas y en w con montañas; protección = distancia entre z y w; renta de localización para D. Con T' (autopista) las empresas de D desaparecen si C es más eficaz; la frontera de C se desplaza de m a m'.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t020",
+   "n_ficha": 20,
+   "grupo": null,
+   "texto": "Mejoras de transporte y comunicación: concentración en las empresas más eficaces (con límite en rendimientos decrecientes y deseconomías de aglomeración); ningún mercado está protegido; costos sociales (cierre de fábricas, migración de mano de obra).",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t021",
+   "n_ficha": 21,
+   "grupo": null,
+   "texto": "Lugares centrales: extensión de los modelos de competencia espacial; Christaller observó Alemania del sur; Lösch dio las bases económicas; se aplica sobre todo al terciario, pero según Lösch era más general.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t022",
+   "n_ficha": 22,
+   "grupo": null,
+   "texto": "Cuatro características del bien de rango superior (economías de escala, consumo poco frecuente, costo de transporte bajo, voluntad de desplazarse); las b y d están relacionadas; \"consumo frecuente implica costos de transporte elevados\" para el rango inferior.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t023",
+   "n_ficha": 23,
+   "grupo": null,
+   "texto": "Cada lugar central ofrece los bienes y servicios de todos los rangos inferiores más los propios; solo el de rango A ofrece los de rango superior; hay más distancia entre ciudades B que entre D.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t024",
+   "n_ficha": 24,
+   "grupo": null,
+   "texto": "Ópera: 1000 espectadores; 1/1500 habitantes; 200 km; cinco millones de habitantes (el libro; la aritmética daría 1,5 millones). Panadería: 1 km a pie, una panadería cada 2 km como mínimo.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t025",
+   "n_ficha": 25,
+   "grupo": null,
+   "texto": "Fórmulas: C_D = kr/(1-k); C_C y C_B = s/(1-k) por el rango inmediato inferior; con s = 6, r = 1000, k = 0,5 las poblaciones son 1000, 12 000, 144 000 y 1 728 000 (múltiplo de 12). Distancias: d_C = a por raíz de s; d_B = d_C por raíz de s; con a = 10 km, 24,5 y 60 km. s = 6 en la Fig. 9.8 (centros D por centro C).",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t026",
+   "n_ficha": 26,
+   "grupo": null,
+   "texto": "Regla rango-tamaño (Zipf): P_i = P_g / R_i (q); recta en doble escala logarítmica; saltos o niveles indican categorías de ciudades (lugares centrales); Francia 1831, 1911 y 1990 (Guérin-Pace, 1993); estabilidad de las relaciones jerárquicas; el libro la llama \"distribución de Pareto\".",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t027",
+   "n_ficha": 27,
+   "grupo": null,
+   "texto": "Sistema perfecto: la cima ofrece la gama completa excepto actividades primarias; población de rango n+1 múltiplo constante del rango n; mismo rango: mismo tamaño, mismas funciones, misma distancia, misma zona de influencia.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t028",
+   "n_ficha": 28,
+   "grupo": null,
+   "texto": "Siete causas de desvío (geografía, obstáculos institucionales, poder de compra y preferencias, actividades no comerciales, infraestructura, economías o deseconomías de aglomeración, manufactura con I_M mayor que 1 y terciario moderno); las regiones agrícolas homogéneas se ajustan al modelo (Iowa, Saskatchewan, Ucrania, Rusia, Pampas); es un modelo de sistemas urbanos preindustriales.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t029",
+   "n_ficha": 29,
+   "grupo": null,
+   "texto": "La teoría no se aplica si los costos de producción superan a los de transporte del producto final (I_M mayor que 1) ni a productos exportables a escala mundial; cuanto más sensible al mercado una industria, más fiel al modelo.",
+   "referencia": null
+  },
+  {
+   "id": "s03-polese-1998-cap9-t030",
+   "n_ficha": 30,
+   "grupo": null,
+   "texto": "Servicios de oficina: no requieren desplazamiento del consumidor, límites imprecisos de mercado, terciario motor o superior, exportables, efecto multiplicador local (base económica), \"materia gris e información\"; el terciario tradicional sí sigue la teoría de lugares centrales.",
+   "referencia": null
+  }
+ ],
+ "pares": [
+  {
+   "id": "s03-polese-1998-cap9-p001",
+   "par": "Localización intraurbana y interurbana o interregional",
+   "diferencia": "Intraurbana: cap. 10; interurbana o interregional: cap. 9, espacios \"nacionales\""
+  },
+  {
+   "id": "s03-polese-1998-cap9-p002",
+   "par": "I_M mayor que 1 y menor que 1",
+   "diferencia": "Mayor que 1: pérdida de peso, orientada a los recursos; menor que 1: ganancia de peso, orientada al mercado"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p003",
+   "par": "Insumo localizado y omnipresente",
+   "diferencia": "Localizado: ubicación fija, entra en el índice material (Pi); omnipresente (agua, piedra, tierra): sin costo de transporte, no localiza la industria"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p004",
+   "par": "Insumo más pesado en sentido estricto y más \"pesado\"",
+   "diferencia": "Bauxita (más pesada físicamente) frente a electricidad (más difícil de transportar): el aluminio sigue a la electricidad"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p005",
+   "par": "Peso físico y peso ampliado",
+   "diferencia": "Ampliado incluye fragilidad, volumen y todo lo que eleve la tasa de transporte; \"peso\" como sinónimo de costo de transporte"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p006",
+   "par": "Orientada a los recursos y orientada al mercado",
+   "diferencia": "Recursos: I_M mayor que 1 (siderúrgica, papel, enlatados, aluminio); mercado: ganancia de peso o producto perecedero/personalizado (cerveza, cemento, imprentas, panaderías, moda)"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p007",
+   "par": "Costos de transporte, de comunicación y de interacción espacial",
+   "diferencia": "Transporte en sentido estricto frente a comunicación (insumos no materiales); el concepto genérico de costo de transporte los abarca todos"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p008",
+   "par": "Renta de localización, renta del suelo y renta por privilegios",
+   "diferencia": "Localización: ventaja por menor costo de transporte con oferta fija; suelo: factor fijo (cap. 10); privilegios: proteccionismo o monopolio"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p009",
+   "par": "Curva T y curva T' (Fig. 9.2)",
+   "diferencia": "T: con ruptura de carga; T': sin ruptura. El texto de la p. 293 rotula \"curva T\" la que no tiene ruptura (inconsistencia)"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p010",
+   "par": "Puntos z y w (Fig. 9.5)",
+   "diferencia": "z: división sin montañas; w: división con montañas; z a w = efecto de protección"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p011",
+   "par": "Puntos m y m' (Fig. 9.7)",
+   "diferencia": "m: frontera de C con T (costos altos); m': con T' (baja de costos), más allá de D"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p012",
+   "par": "Fricción del espacio y efecto protector del espacio",
+   "diferencia": "Mismo fenómeno desde dos lados: costos de transporte que dividen los mercados y protegen a cada empresa"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p013",
+   "par": "Competencia espacial y lugares centrales",
+   "diferencia": "Competencia espacial: una rama, áreas hexagonales idénticas (Lösch); lugares centrales: gama diversificada, jerarquía de ciudades (Christaller y Lösch), extensión de la anterior"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p014",
+   "par": "Christaller, Lösch y Weber",
+   "diferencia": "Christaller: observación empírica, Die Zentralen Orte in Süddeutschland, 1935; Lösch: bases económicas del modelo deductivo y competencia espacial, 1944; Weber: localización industrial, 1909"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p015",
+   "par": "Bien de rango superior y de rango inferior",
+   "diferencia": "Superior: economías de escala, consumo poco frecuente, transporte bajo para el consumidor, dispuesto a ir lejos; inferior: lo inverso (pan, zapatero)"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p016",
+   "par": "s, r, k y a",
+   "diferencia": "s: lugares de rango inferior por lugar central; r: población rural del lugar más pequeño; k: población del lugar central sobre la de su zona de influencia; a: distancia entre lugares de rango D"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p017",
+   "par": "Lugares centrales y regla rango-tamaño",
+   "diferencia": "Lugares centrales: categorías discretas y saltos; rango-tamaño: recta continua en escala doble logarítmica; ambas dicen que el tamaño de un centro no es independiente del de los demás"
+  },
+  {
+   "id": "s03-polese-1998-cap9-p018",
+   "par": "Servicios al consumo y servicios a la producción (terciario motor, superior)",
+   "diferencia": "Los segundos se destinan a otras empresas, son exportables y no requieren el desplazamiento del consumidor: no siguen bien la lógica de lugares centrales"
+  }
+ ]
+}

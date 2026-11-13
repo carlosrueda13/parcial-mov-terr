@@ -1,0 +1,205 @@
+{
+ "semana": 2,
+ "lectura": "montanez-delgado-1998",
+ "autor": "Gustavo Montañez Gómez y Ovidio Delgado Mahecha",
+ "titulo": "Espacio, territorio y región: conceptos básicos para un proyecto nacional",
+ "alcance": "Artículo completo",
+ "fuente": "content/semana-02/montanez-delgado-1998/ficha.md",
+ "preguntas": [
+  {
+   "id": "s02-montanez-delgado-1998-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Qué diferencia el territorio del \"marco espacial del dominio soberano de un Estado\"?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es territorialidad según el texto y a quién se atribuye cada definición?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo define el texto la desterritorialización y qué ejemplo da?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los tres conceptos de convergencia, distanciamiento y compresión y cuál se explica por el capitalismo global?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Qué son horizontalidades y verticalidades?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿Qué papel tiene el subsistema de regulación respecto de los transportes y las comunicaciones?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Qué entienden los autores por equidad territorial y articulación regional?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los cinco elementos para construir el proyecto nacional desde lo territorial?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s02-montanez-delgado-1998-t001",
+   "n_ficha": 1,
+   "grupo": null,
+   "texto": "\"Territorio es el marco espacial que delimita el dominio soberano del Estado\": el texto dice que NO es solo eso; es escenario de las relaciones sociales (consideración 1).",
+   "referencia": null
+  },
+  {
+   "id": "s02-montanez-delgado-1998-t002",
+   "n_ficha": 2,
+   "grupo": null,
+   "texto": "Territorio, espacio y región usados como sinónimos o receptáculos neutros: el texto lo critica expresamente.",
+   "referencia": null
+  },
+  {
+   "id": "s02-montanez-delgado-1998-t003",
+   "n_ficha": 3,
+   "grupo": null,
+   "texto": "Orden y contenido de las siete consideraciones; la 6 (no es fijo, es móvil, mutable y desequilibrado) y la 7 (identidad, ciudadanía solo existen a partir de su expresión de territorialidad).",
+   "referencia": null
+  },
+  {
+   "id": "s02-montanez-delgado-1998-t004",
+   "n_ficha": 4,
+   "grupo": null,
+   "texto": "Atribución: espacio como sistemas de objetos y acciones es de Santos (1997); territorio de Geiger y Correia de Andrade; territorialidad con cita de Montañez (1997) y Lobato Correa; actividad espacial, Massey; convergencia/distanciamiento/compresión, Lyshon; horizontalidades y verticalidades, Santos (1996); Furtado (1992) para el proyecto nacional; Rodríguez Mariño para la periodización; Soja (1989) para el vínculo territorialidad-regionalismo y espacio/poder/saber; Giddens (1984) para regionalización del territorio.",
+   "referencia": null
+  },
+  {
+   "id": "s02-montanez-delgado-1998-t005",
+   "n_ficha": 5,
+   "grupo": null,
+   "texto": "Años de Santos citados con dos fechas: 1997 (espacio y región) y 1996 (horizontalidades y verticalidades).",
+   "referencia": null
+  },
+  {
+   "id": "s02-montanez-delgado-1998-t006",
+   "n_ficha": 6,
+   "grupo": null,
+   "texto": "Cifra: cuarenta años frente a cuarenta mil años (nacieron más objetos).",
+   "referencia": null
+  },
+  {
+   "id": "s02-montanez-delgado-1998-t007",
+   "n_ficha": 7,
+   "grupo": null,
+   "texto": "La compresión espacio-tiempo se atribuye al capitalismo como sistema global; la convergencia, a la tecnología de transporte e información.",
+   "referencia": null
+  },
+  {
+   "id": "s02-montanez-delgado-1998-t008",
+   "n_ficha": 8,
+   "grupo": null,
+   "texto": "La circulación ya no se define por transportes y comunicaciones: el subsistema de regulación gana papel rector.",
+   "referencia": null
+  },
+  {
+   "id": "s02-montanez-delgado-1998-t009",
+   "n_ficha": 9,
+   "grupo": null,
+   "texto": "\"Equidad territorial\" definida como acercamiento a una igualdad de oportunidades de desarrollo regional; no es igualdad absoluta.",
+   "referencia": null
+  },
+  {
+   "id": "s02-montanez-delgado-1998-t010",
+   "n_ficha": 10,
+   "grupo": null,
+   "texto": "Los cinco caminos: no confundir \"lo público territorial\" (ciudadanía, territorialidades democráticas) con \"lo privado territorial\" (no ser obstáculo a la democracia).",
+   "referencia": null
+  },
+  {
+   "id": "s02-montanez-delgado-1998-t011",
+   "n_ficha": 11,
+   "grupo": null,
+   "texto": "Los ejemplos de territorialización son del texto: guerrillas en el territorio estatal, migrantes en periferias urbanas, multinacionales sobre Estados. No inventar otros.",
+   "referencia": null
+  },
+  {
+   "id": "s02-montanez-delgado-1998-t012",
+   "n_ficha": 12,
+   "grupo": null,
+   "texto": "Las lealtades al territorio nacen del grado de territorialidad (no del grado de desterritorialización).",
+   "referencia": null
+  }
+ ],
+ "pares": [
+  {
+   "id": "s02-montanez-delgado-1998-p001",
+   "par": "Territorio y territorialidad",
+   "diferencia": "Territorio: extensión delimitada con relación de poder o posesión. Territorialidad: grado de control sobre una porción de espacio y conjunto de prácticas que garantizan apropiación y permanencia"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-p002",
+   "par": "Territorialización y desterritorialización",
+   "diferencia": "La segunda es pérdida de territorio por dinámica y conflictos de poder; una empresa puede expandirse a costa de otra"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-p003",
+   "par": "Espacio, territorio y región",
+   "diferencia": "No son sinónimos. Espacio geográfico: sistemas de objetos y de acciones (Santos). Territorio: espacio de poder, gestión y dominio. Región: subdivisión del espacio (Santos); subespacio de conveniencia; división espacio-temporal producida por la territorialidad"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-p004",
+   "par": "Convergencia, distanciamiento y compresión espacio-tiempo",
+   "diferencia": "Convergencia: tecnología acerca o aleja los lugares. Distanciamiento: interacción entre ausentes. Compresión: combina ambos y la explica por el capitalismo global"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-p005",
+   "par": "Horizontalidades y verticalidades",
+   "diferencia": "Contigüidad territorial frente a relaciones en red entre lugares distantes"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-p006",
+   "par": "Territorialidad estatal y múltiples territorialidades",
+   "diferencia": "El proyecto democrático exige coexistencia de múltiples territorialidades reconocidas y reguladas por la territorialidad estatal"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-p007",
+   "par": "Actividad espacial y territorialidad",
+   "diferencia": "La actividad espacial (Massey) es la red de relaciones de un agente; su capacidad desigual produce la apropiación de territorio y, con ella, la territorialidad"
+  }
+ ]
+}

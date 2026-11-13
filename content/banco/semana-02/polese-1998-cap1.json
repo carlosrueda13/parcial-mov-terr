@@ -1,0 +1,331 @@
+{
+ "semana": 2,
+ "lectura": "polese-1998-cap1",
+ "autor": "Mario Polèse",
+ "titulo": "Economía urbana y regional, capítulo 1: Desarrollo económico y urbanización",
+ "alcance": "Capítulo 1 (pp. 29-58)",
+ "fuente": "content/semana-02/polese-1998-cap1/ficha.md",
+ "preguntas": [
+  {
+   "id": "s02-polese-1998-cap1-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las tres condiciones necesarias para que haya urbanización según Polèse?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-polese-1998-cap1-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Qué diferencia hay entre urbanización y crecimiento urbano?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-polese-1998-cap1-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo define el autor el desarrollo económico y por qué habla de \"irreversible\"?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-polese-1998-cap1-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice la ley de Engel y qué datos del capítulo la ilustran?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-polese-1998-cap1-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Qué significa una elasticidad-ingreso inferior a 1,0 y qué valor da la comparación Tanzania-Canadá?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-polese-1998-cap1-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "Según el capítulo, ¿qué combinación de factores empuja a la mano de obra agrícola hacia otros sectores?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-polese-1998-cap1-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué el análisis económico considera racional el éxodo rural y qué límite tiene ese postulado?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-polese-1998-cap1-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "¿Qué semejanzas y qué diferencias tiene la urbanización de los países en desarrollo frente a la de los industrializados?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-polese-1998-cap1-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué el crecimiento urbano de los PED es más rápido? ¿Qué papel juegan natalidad y mortalidad?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-polese-1998-cap1-q010",
+   "n_ficha": 10,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se calcula la tasa potencial máxima de crecimiento de la población urbana y qué resultado da para Canadá en 1901?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-polese-1998-cap1-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Qué desafíos plantea la urbanización a los PED?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s02-polese-1998-cap1-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "En la simulación del país A, ¿qué pasa con la demanda agrícola, la demanda no agrícola y la población urbana entre t1 y t2?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s02-polese-1998-cap1-t001",
+   "n_ficha": 1,
+   "grupo": null,
+   "texto": "Las tres condiciones de urbanización: ingreso per cápita sostenido, elasticidad-ingreso menor que 1,0 para productos del campo y economías de aglomeración en bienes no agrícolas. Un distractor típico: elasticidad mayor que 1,0, o economías de escala en el campo.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t002",
+   "n_ficha": 2,
+   "grupo": null,
+   "texto": "Urbanización no es crecimiento urbano, y la tasa se mide como urbana/total.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t003",
+   "n_ficha": 3,
+   "grupo": null,
+   "texto": "Definición de desarrollo: \"sostenido e irreversible\"; ingreso \"real\"; indicador PNB per cápita; limitaciones (sector informal, distribución).",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t004",
+   "n_ficha": 4,
+   "grupo": null,
+   "texto": "Los números de población mundial: de 1.600 a 5.300 millones (1900-1990), urbanización de 9,2% a 42,0%, población urbana de 148 a 2.200 millones; ojo con \"multiplicó por 330%\", \"450%\" y \"1.500%\" (razones, no incrementos).",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t005",
+   "n_ficha": 5,
+   "grupo": null,
+   "texto": "El umbral de la Fig. 1.2 es ciudades de 20.000 habitantes o más (no 2.000: ese es el umbral del Cuadro 1.10).",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t006",
+   "n_ficha": 6,
+   "grupo": null,
+   "texto": "Revolución Industrial en Inglaterra, siglo XVII; Engel, 1821-1896, 153 familias belgas, 1853; producción industrial mundial multiplicada por más de 200 en menos de dos siglos (Bairoch).",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t007",
+   "n_ficha": 7,
+   "grupo": null,
+   "texto": "Cuadros 1.1 a 1.3: 498 dólares y 18% (menos urbanizados), 18.656 dólares y 79% (más urbanizados), 37 veces; Portugal (35%, US$ 7.450) y Argentina (87%) como contraejemplo que subraya factores institucionales e históricos; \"los países iberoamericanos\" se excluyen del Cuadro 1.2.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t008",
+   "n_ficha": 8,
+   "grupo": null,
+   "texto": "De los países con urbanización inferior a 20% ninguno tiene PNB por habitante superior a 300 dólares.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t009",
+   "n_ficha": 9,
+   "grupo": null,
+   "texto": "Ley de Engel: baja la proporción del gasto en alimentos, no el gasto absoluto; base fisiológica; 11% Canadá, 48% Colombia, 64% Tanzania.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t010",
+   "n_ficha": 10,
+   "grupo": null,
+   "texto": "Elasticidad Tanzania-Canadá: 0,2 (638% frente a 3.557%); +10% de PNB implica +2% de la demanda de básicos; entre 0,5 y 0,8 dentro de un país.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t011",
+   "n_ficha": 11,
+   "grupo": null,
+   "texto": "Productividad agrícola: 600 veces Suiza frente a Mozambique, 80 veces Canadá frente a Haití, México veinte veces menos que Canadá, Argentina 8.074; fertilizantes 4.202 contra 19; los factores institucionales pesan más que los biofísicos.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t012",
+   "n_ficha": 12,
+   "grupo": null,
+   "texto": "Mano de obra agrícola: Canadá 3,6%, Estados Unidos 2,5%, Haití 65,1%, Mozambique 82,2%; Italia 60% a 8%; España 50% a 12%.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t013",
+   "n_ficha": 13,
+   "grupo": null,
+   "texto": "Éxodo rural: se explica por diferencias de ingreso; ni la pobreza urbana ni el visitante son criterios; mismos motivos que en Europa y Norteamérica hace un siglo; el postulado de racionalidad no garantiza un óptimo social.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t014",
+   "n_ficha": 14,
+   "grupo": null,
+   "texto": "PED frente a industrializados: urbanización \"conforme al modelo general\"; la diferencia está en la amplitud y rapidez, no en la tasa de urbanización; las tasas de urbanización de 1875-1900 (17,2% a 26,1%) y de PED 1950-1975 son análogas.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t015",
+   "n_ficha": 15,
+   "grupo": null,
+   "texto": "Causa de la mayor amplitud: la mortalidad, no la natalidad; los PED como \"víctimas\" de los avances sanitarios; la mortalidad baja antes del desarrollo.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t016",
+   "n_ficha": 16,
+   "grupo": null,
+   "texto": "Fórmula de la tasa potencial de crecimiento urbano: crecimiento natural / nivel de urbanización; Canadá 3,2; Marruecos 5,6; Guatemala 7,6; reales 3,8 y 3,5.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t017",
+   "n_ficha": 17,
+   "grupo": null,
+   "texto": "América Latina: 1% a 2% anual en las grandes ciudades; Buenos Aires pasó de primera a tercera; Lima casi ocho veces en 45 años; México desacelera desde 1980; más rápido en los países menos urbanizados.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t018",
+   "n_ficha": 18,
+   "grupo": null,
+   "texto": "Tecnología y tamaño de ciudad: en el siglo XIX no había tecnología para más de cinco o seis millones; Londres 1881: 4,7 millones.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t019",
+   "n_ficha": 19,
+   "grupo": null,
+   "texto": "Veinte mayores aglomeraciones: la mayoría de las de ocho millones o más están en PED; tamaño de la ciudad sin relación con el nivel de desarrollo; India 26% urbana con Delhi, Bombay y Calcuta.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t020",
+   "n_ficha": 20,
+   "grupo": null,
+   "texto": "Cuatro desafíos urbanos de los PED (suelo, instituciones y sector informal, vivienda, inversión pública y descentralización).",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t021",
+   "n_ficha": 21,
+   "grupo": null,
+   "texto": "País A: elasticidades 0,38 y 1,94; urbanización 15% a 68%; población urbana por 18; i de 25.000 a 448.800; demanda de i por 72; ingreso de 200 a 1.200; un tercio de la población urbana vive en i; t1 y t2 separados por unos 40 años.",
+   "referencia": null
+  },
+  {
+   "id": "s02-polese-1998-cap1-t022",
+   "n_ficha": 22,
+   "grupo": null,
+   "texto": "Discrepancias del propio libro: Marruecos 0,9 en el texto contra 1,0 en el Cuadro 1.8; Guatemala 3,5 en el texto contra 3,2; \"Alemania en 1990\" cuando es 1900; 36,6% y 36,3% intercambiados en el texto; 25% frente a 22,5% en la simulación. Si una opción usa uno de esos valores, guiarse por la tabla y señalarlo.",
+   "referencia": null
+  }
+ ],
+ "pares": [
+  {
+   "id": "s02-polese-1998-cap1-p001",
+   "par": "Urbanización y crecimiento urbano",
+   "diferencia": "Urbanización: aumento de la tasa (población urbana / total). Crecimiento urbano: aumento en número de habitantes de las ciudades; puede darse sin que suba la tasa"
+  },
+  {
+   "id": "s02-polese-1998-cap1-p002",
+   "par": "Desarrollo económico y crecimiento coyuntural",
+   "diferencia": "Desarrollo: aumento sostenido e irreversible del ingreso real por habitante; un alza coyuntural (petróleo) no lo es"
+  },
+  {
+   "id": "s02-polese-1998-cap1-p003",
+   "par": "Ingreso real y nominal",
+   "diferencia": "Real: en unidades monetarias constantes, descontada la inflación"
+  },
+  {
+   "id": "s02-polese-1998-cap1-p004",
+   "par": "PNB, PIB, ingreso nacional",
+   "diferencia": "Se usan casi como sinónimos; la diferencia PNB/producto neto viene de la amortización del capital; el PIB se menciona como sinónimo ocasional"
+  },
+  {
+   "id": "s02-polese-1998-cap1-p005",
+   "par": "Elasticidad-ingreso y elasticidad-precio",
+   "diferencia": "Misma relación porcentual; una respecto del ingreso, la otra respecto del precio"
+  },
+  {
+   "id": "s02-polese-1998-cap1-p006",
+   "par": "Elasticidad menor y mayor que 1,0",
+   "diferencia": "Menor que 1: la demanda crece menos que el ingreso (agrícolas, 0,38 en la simulación). Mayor que 1: crece más (no agrícolas, 1,94 en la simulación)"
+  },
+  {
+   "id": "s02-polese-1998-cap1-p007",
+   "par": "Tasa de natalidad y de crecimiento natural",
+   "diferencia": "Crecimiento natural = natalidad menos mortalidad; el texto explica que la diferencia PED-industrializados está en la mortalidad, no en la natalidad (salvo África)"
+  },
+  {
+   "id": "s02-polese-1998-cap1-p008",
+   "par": "Tasa de urbanización y crecimiento de la población urbana",
+   "diferencia": "La segunda combina urbanización y crecimiento demográfico"
+  },
+  {
+   "id": "s02-polese-1998-cap1-p009",
+   "par": "Tamaño de la ciudad y nivel de desarrollo",
+   "diferencia": "No hay vínculo entre ambos, aunque urbanización y desarrollo sí están ligados"
+  },
+  {
+   "id": "s02-polese-1998-cap1-p010",
+   "par": "Comparación entre países y comparación en un mismo país",
+   "diferencia": "Entre países Tanzania-Canadá: 0,2; en un mismo país los bienes básicos varían entre 0,5 y 0,8"
+  },
+  {
+   "id": "s02-polese-1998-cap1-p011",
+   "par": "Rural-urbano en indicadores sociales",
+   "diferencia": "Mortalidad infantil y agua potable muestran desigualdad ciudad-campo, con excepciones en el cuadro (Filipinas y Tailandia en agua)"
+  }
+ ]
+}

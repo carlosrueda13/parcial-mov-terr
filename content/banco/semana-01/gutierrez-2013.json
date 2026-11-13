@@ -1,0 +1,225 @@
+{
+ "semana": 1,
+ "lectura": "gutierrez-2013",
+ "autor": "Andrea Gutiérrez",
+ "titulo": "¿Qué es la movilidad? Elementos para (re)construir las definiciones básicas del campo del transporte",
+ "alcance": "Artículo completo",
+ "fuente": "content/semana-01/gutierrez-2013/ficha.md",
+ "preguntas": [
+  {
+   "id": "s01-gutierrez-2013-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "Según la autora, ¿qué comparten y qué no comparten la movilidad y el transporte?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-gutierrez-2013-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "Diferencia entre accesibilidad y acceso y a qué enfoque pertenece cada uno.",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-gutierrez-2013-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "¿Qué universos de viajes distingue la autora y cómo se nombran en las conclusiones?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-gutierrez-2013-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "Describe los tres momentos del viaje y qué esfera predomina en cada uno.",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-gutierrez-2013-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la movilidad latente y qué la diferencia de la vulnerable?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-gutierrez-2013-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué la autora dice que el enfoque ontológico del viaje \"subsocializa\" el desplazamiento?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-gutierrez-2013-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Qué mide cada uno de los dos parámetros de Estevan y Sanz?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s01-gutierrez-2013-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "¿Qué cambia entre la definición ontológica y la teleológica del viaje en morfología y tiempo?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s01-gutierrez-2013-t001",
+   "n_ficha": 1,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Transporte y movilidad como sinónimos. El texto: no lo son, pero hay íntima interpenetración (p. 65).",
+   "referencia": "p. 65"
+  },
+  {
+   "id": "s01-gutierrez-2013-t002",
+   "n_ficha": 2,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Movilidad que reemplaza o abarca al transporte. El texto: son pensamientos alternativos y complementarios; no se oponen, no se excluyen ni se encadenan jerárquicamente (p. 71). La movilidad \"amplía la frontera\" del estudio del transporte (p. 67).",
+   "referencia": "p. 71; p. 67"
+  },
+  {
+   "id": "s01-gutierrez-2013-t003",
+   "n_ficha": 3,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Movilidad cuantitativa y accesibilidad cualitativa (Estevan y Sanz, p. 64). Es fácil invertirlas.",
+   "referencia": "p. 64"
+  },
+  {
+   "id": "s01-gutierrez-2013-t004",
+   "n_ficha": 4,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Movilidad territorial (urbana) frente a movilidad social (nota 1, p. 65). El artículo trata solo la territorial.",
+   "referencia": "p. 65"
+  },
+  {
+   "id": "s01-gutierrez-2013-t005",
+   "n_ficha": 5,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Usos distintos de \"efectiva\" y \"potencial\": - Orfeuil: movilidad potencial y efectiva, la efectiva como concreción de la potencial (p. 66). - Universos de Gutiérrez: concebida, efectiva (viajes que la persona considera posibles para sí) y realizada (p. 66). - Tipos de movilidad: \"potencial\" son las alternativas de transporte existentes, con independencia de que sean una opción para el grupo (p. 70). - Lévy: movilidad como posibilidad, competencia y capital (pp. 65-66).",
+   "referencia": "p. 66; p. 66; p. 70; pp. 65-66"
+  },
+  {
+   "id": "s01-gutierrez-2013-t006",
+   "n_ficha": 6,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Tres clasificaciones distintas que no se deben mezclar: universos de viajes (concebida, efectiva, realizada); tipos de movilidad (potencial, latente, vulnerable, oculta); medidas teleológicas (insatisfecha, insatisfactoria, insuficiente, asociada).",
+   "referencia": null
+  },
+  {
+   "id": "s01-gutierrez-2013-t007",
+   "n_ficha": 7,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "En las conclusiones el universo de la movilidad se nombra \"realizados, realizables y concebidos\" (p. 71), no \"concebidos, efectivos y realizados\" (p. 66). Un enunciado puede usar una u otra versión.",
+   "referencia": "p. 71; p. 66"
+  },
+  {
+   "id": "s01-gutierrez-2013-t008",
+   "n_ficha": 8,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Accesibilidad (llegar a lugares, ontológico) frente a acceso (realizar servicios o actividades, teleológico) (p. 68).",
+   "referencia": "p. 68"
+  },
+  {
+   "id": "s01-gutierrez-2013-t009",
+   "n_ficha": 9,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Viaje ontológico (lineal, tiempo continuo, cartográfico) frente a teleológico (reticular, discontinuo, biográfico) (p. 69).",
+   "referencia": "p. 69"
+  },
+  {
+   "id": "s01-gutierrez-2013-t010",
+   "n_ficha": 10,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Hipermovilidad e inmovilidad no son buenas ni malas en sí; depende del fin y es relativa a cada grupo y a cada motivo de viaje (p. 71).",
+   "referencia": "p. 71"
+  },
+  {
+   "id": "s01-gutierrez-2013-t011",
+   "n_ficha": 11,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "La telecomunicación suprime el desplazamiento, no la movilidad: es un \"no viaje\" (p. 66).",
+   "referencia": "p. 66"
+  },
+  {
+   "id": "s01-gutierrez-2013-t012",
+   "n_ficha": 12,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Atribuir a Gutiérrez lo que ella cita de otro: Lévy, Kaufmann, Orfeuil, Miralles-Guasch, Estevan y Sanz, Hernández, Soja, Santos, Lindón, Bonnemaison, Thaddeus y Maine.",
+   "referencia": null
+  },
+  {
+   "id": "s01-gutierrez-2013-t013",
+   "n_ficha": 13,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Tesis de la Geografía del Transporte: asociación de determinación \"causal o recíproca\", no solo causal (p. 64).",
+   "referencia": "p. 64"
+  },
+  {
+   "id": "s01-gutierrez-2013-t014",
+   "n_ficha": 14,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Quién estudia qué: Geografía de los Transportes = sistemas de transporte y sus impactos territoriales (medios); movilidad cotidiana = desplazamientos recurrentes de la población (personas) (p. 64). Las dos citas son de Miralles-Guasch.",
+   "referencia": "p. 64"
+  },
+  {
+   "id": "s01-gutierrez-2013-t015",
+   "n_ficha": 15,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Cuantificadores y negaciones reales del texto, fáciles de torcer: - \"sin transporte no hay movilidad (excepto a pie)\" (p. 65); - el desplazamiento sin fin es \"posible pero excepcional\" (p. 67); - la proximidad no satisface \"necesariamente\" la accesibilidad (p. 72); - concretar actividades no implica \"necesariamente\" un viaje lineal (p. 72); - la satisfacción es el \"único\" aspecto capaz de dimensionar el valor de la movilidad (p. 71); - la lógica locacional es cierta pero \"parcial\" (p. 72).",
+   "referencia": "p. 65; p. 67; p. 72; p. 72; p. 71; p. 72"
+  },
+  {
+   "id": "s01-gutierrez-2013-t016",
+   "n_ficha": 16,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Tipos de movilidad: vulnerable es descendente; potencial y latente, ascendentes (p. 70). La oculta es la no registrada por las estadísticas.",
+   "referencia": "p. 70"
+  },
+  {
+   "id": "s01-gutierrez-2013-t017",
+   "n_ficha": 17,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Los tres momentos del viaje y su esfera: pre viaje, subjetiva o privada; viaje y pos viaje, objetiva o pública (p. 70).",
+   "referencia": "p. 70"
+  },
+  {
+   "id": "s01-gutierrez-2013-t018",
+   "n_ficha": 18,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "La unidad de estudio es el viaje; el objeto de estudio es el desplazamiento territorial de personas y bienes (p. 65-66). Después la autora llama al objeto \"práctica de viaje\" (p. 66).",
+   "referencia": "p. 65-66; p. 66"
+  },
+  {
+   "id": "s01-gutierrez-2013-t019",
+   "n_ficha": 19,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "La definición del viaje como práctica social (\"reiteración frecuente de comportamientos\", \"comportamientos grupales que definen un patrón\") apunta a una visión subjetiva pero no individual (p. 65).",
+   "referencia": "p. 65"
+  },
+  {
+   "id": "s01-gutierrez-2013-t020",
+   "n_ficha": 20,
+   "grupo": "Cada línea es una confusión que un enunciado de opción múltiple puede explotar cambiando una palabra.",
+   "texto": "Año y fuente: Bitácora Urbano Territorial 21(2), 2012; el programa la cita como 2013.",
+   "referencia": null
+  }
+ ],
+ "pares": []
+}

@@ -9,7 +9,10 @@ El formato es selección múltiple más preguntas abiertas, con diferencias suti
 | Carpeta | Contenido |
 |---|---|
 | `docs/` | Programa de lecturas, arquitectura y pipeline de contenido |
-| `content/semana-NN/` | Metadatos por lectura, fichas fuente y bancos de preguntas (JSON o Markdown) |
+| `content/semana-NN/` | Metadatos por lectura y fichas fuente (Markdown) |
+| `content/banco/` | Banco estructurado por lectura (preguntas, trampas, pares), generado de las fichas. No se edita a mano |
+| `content/schema/` | Esquema JSON del banco |
+| `scripts/` | `build_banco.py` regenera `content/banco/` a partir de las fichas |
 | `prompts/notebooklm/` | Guía y prompts para generar los audios en NotebookLM |
 | `design/` | Referencia del diseño aprobado (canvas) |
 | `media/` | Audios y videos. No se versionan (ver `.gitignore`) |
@@ -26,7 +29,8 @@ Las lecturas (PDF) tampoco se versionan. Viven en la carpeta local del curso.
 - Semana 6: Contreras y Ruiz 2026 (completo) y SDP 2014 (pp. 73-115) leídos completos, con ficha, lecturas.json y prompts (dos audios cada uno).
 - Semana 7: Avellaneda y Dextre cap. 1, Herce caps. I y II y Transport Access Manual (pp. 16-21 y 45-57) leídos completos, con ficha, lecturas.json y prompts (Herce en tres audios; el Manual en dos).
 - Semana 8: Fernández 2023, caps. 1 y 2 (pp. 5-50), leído completo, con ficha, lecturas.json y prompts (tres audios). Falta Viana Cerqueira et al. (2026): el PDF debe aportarse.
-- Plataforma (backend y frontend): diseño aprobado, código sin iniciar. Decisiones: VM en OCI, frontend en Cloudflare Pages, videos con Remotion.
+- Banco estructurado (13-nov): 878 preguntas modelo, 745 trampas y 319 pares extraídos de las 19 fichas, validados contra el esquema. 151 preguntas de las semanas 1 a 4 siguen sin respuesta en la ficha (marcadas `sin_respuesta`); se completarán desde las fichas.
+- Plataforma (backend y frontend): diseño aprobado, código del frontend en curso. Decisiones: VM en OCI, frontend en Cloudflare Pages, videos con Remotion.
 
 ## Método de contenido
 

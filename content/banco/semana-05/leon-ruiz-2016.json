@@ -1,0 +1,906 @@
+{
+ "semana": 5,
+ "lectura": "leon-ruiz-2016",
+ "autor": "Nohra León y César A. Ruiz",
+ "titulo": "El sistema urbano en Colombia y la formación metropolitana: una aproximación desde la Nueva Geografía Económica",
+ "alcance": "Artículo completo (pp. 21-37)",
+ "fuente": "content/semana-05/leon-ruiz-2016/ficha.md",
+ "preguntas": [
+  {
+   "id": "s05-leon-ruiz-2016-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la NGE en el artículo y qué modelo suyo se usa?",
+   "respuesta": "Nueva Geografía Económica; el modelo de Sistemas Urbanos, con jerarquía urbana que evoluciona; pp. 23-24.",
+   "referencia": "pp. 23-24",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q002",
+   "n_ficha": 2,
+   "tipo": "vf",
+   "enunciado": "El artículo parte de la teoría del lugar central para explicar la metropolización.",
+   "respuesta": "Falso: la teoría del lugar central (Christaller, Lösch) es la tradición de la jerarquía; el marco es la NGE; p. 23.",
+   "referencia": "p. 23",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "la teoría del lugar central (Christaller, Lösch) es la tradición de la jerarquía; el marco es la NGE; p. 23."
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "¿Qué supuesto sostiene el artículo sobre la estructura metropolitana?",
+   "respuesta": "Que se puede asimilar a un subsistema dinámico dentro de un sistema urbano mayor; p. 23.",
+   "referencia": "p. 23",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿De dónde viene la dinámica del replicador?",
+   "respuesta": "De la teoría de juegos evolutiva (Taylor y Jonker 1978); la NGE la adopta como ad hoc para representar la migración; p. 24.",
+   "referencia": "p. 24",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Qué enfoques incluye la Geografía Económica Evolucionaria según el artículo?",
+   "respuesta": "Darwinismo Generalizado, Dependencia de la Trayectoria y Sistemas Complejos Adaptativos; p. 24.",
+   "referencia": "p. 24",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "Defina el IPT en el artículo.",
+   "respuesta": "Cociente entre la población de la primera ciudad del país, Bogotá, y la población total nacional; p. 25.",
+   "referencia": "p. 25",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué usan solo el IPT?",
+   "respuesta": "Por ser de sencilla comprensión y útil para comparar en el tiempo y entre ciudades, con ciudad o área metropolitana; nota 1, p. 25.",
+   "referencia": "p. 25",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "Enumere los cuatro períodos del artículo con sus años y el sentido de la primacía de Bogotá.",
+   "respuesta": "Consolidación republicana 1820-1870, disminuye; Expansión comercial 1870-1918, aumenta; Industrialización 1920-1993, aumenta considerablemente; cuarto período 1973-1993, acomodamiento y menor crecimiento del IPT; p. 26.",
+   "referencia": "p. 26",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "El período de expansión comercial termina en (a) 1920, (b) 1918, (c) 1930, (d) 1973.",
+   "respuesta": "b; p. 26. Cuidado: el cap. 9 de Cuervo y González da 1920.",
+   "referencia": "p. 26",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q010",
+   "n_ficha": 10,
+   "tipo": "vf",
+   "enunciado": "En el cuarto período Bogotá pierde su creciente primacía.",
+   "respuesta": "Falso: disminuye la tasa de crecimiento del IPT, \"sin que por ello se haya perdido la creciente primacía\"; p. 26.",
+   "referencia": "p. 26",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "disminuye la tasa de crecimiento del IPT, \"sin que por ello se haya perdido la creciente primacía\"; p. 26."
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dos hechos explican la consolidación de ciudades y la formación de zonas metropolitanas según Cuervo y González?",
+   "respuesta": "Expansión de las regiones económicas cuyo núcleo son las cuatro grandes ciudades; formación de polos económicos en ciudades que ingresan al grupo de las grandes; p. 26.",
+   "referencia": "p. 26",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la cuadricefalia y a qué autor se asocia?",
+   "respuesta": "Predominancia jerárquica de Bogotá, Medellín, Cali y Barranquilla durante un período prolongado del siglo XX; Gouëset (1998); p. 25.",
+   "referencia": "p. 25",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q013",
+   "n_ficha": 13,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las tres propiedades definitorias del sistema socioespacial colombiano?",
+   "respuesta": "Flexibilidad, multipolaridad y dualidad (más regional que urbana); Cuervo y González 1997, 347; p. 26.",
+   "referencia": "p. 26",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q014",
+   "n_ficha": 14,
+   "tipo": "vf",
+   "enunciado": "Según el artículo, desde 1973 la cuadricefalia desaparece en todas las perspectivas.",
+   "respuesta": "Falso: desaparece desde la ciudad-municipio; desde la zona metropolitana las cuatro reafirman su importancia; pp. 26 y 31.",
+   "referencia": "pp. 26 y 31",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "desaparece desde la ciudad-municipio; desde la zona metropolitana las cuatro reafirman su importancia; pp. 26 y 31."
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q015",
+   "n_ficha": 15,
+   "tipo": "abierta",
+   "enunciado": "¿Cuándo empieza la nueva fase de primacía urbana y con qué se relaciona?",
+   "respuesta": "Desde 1973; con la transición demográfica; p. 27.",
+   "referencia": "p. 27",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dos fuerzas atribuye Zipf (según Camagni 2005, 129) a la regla rango-tamaño?",
+   "respuesta": "Una de unificación o concentración, ligada a economías de escala, y una de diversificación o difusión, ligada a reducir costos de transporte; p. 27.",
+   "referencia": "p. 27",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q017",
+   "n_ficha": 17,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo interpreta Simon la regla?",
+   "respuesta": "Ley del efecto proporcional: la tasa de crecimiento del centro es independiente de su dimensión; nota 4, p. 28.",
+   "referencia": "p. 28",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q018",
+   "n_ficha": 18,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las cuatro categorías de ciudades?",
+   "respuesta": "Primera metrópoli nacional (Bogotá); grandes metrópolis (Cali, Medellín, Barranquilla); metropolitanas emergentes (Cartagena, Cúcuta, Bucaramanga, Pereira); intermedias-pequeñas; pp. 27-28.",
+   "referencia": "pp. 27-28",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué Pereira está entre las emergentes si Ibagué y Soledad son mayores?",
+   "respuesta": "Por ser núcleo metropolitano de un área mayor; p. 28.",
+   "referencia": "p. 28",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo cambia la estructura de cabeza en 1985?",
+   "respuesta": "Ruptura de la cuadricefalia y paso a una estructura con mayor primacía de Bogotá frente a las tres siguientes; p. 27.",
+   "referencia": "p. 27",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q021",
+   "n_ficha": 21,
+   "tipo": "abierta",
+   "enunciado": "Complete: en 1993 el beta de los municipios es (a) -0,892, (b) -0,88, (c) -0,947, (d) -0,973.",
+   "respuesta": "b, con r2 ajustado 0,90; p. 29.",
+   "referencia": "p. 29",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "Complete: en 2005 el beta de las zonas metropolitanas es (a) -0,973, (b) -0,947, (c) -0,892, (d) -0,88.",
+   "respuesta": "a, con r2 ajustado 0,958; p. 31.",
+   "referencia": "p. 31",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q023",
+   "n_ficha": 23,
+   "tipo": "vf",
+   "enunciado": "La unidad metropolitana explica mejor el ajuste a -1 porque su r2 ajustado es mayor que el de los municipios.",
+   "respuesta": "Falso: el beta se acerca más a -1, pero el r2 ajustado es un poco menor en 1993 y 2005; pp. 29 y 31.",
+   "referencia": "pp. 29 y 31",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "el beta se acerca más a -1, pero el r2 ajustado es un poco menor en 1993 y 2005; pp. 29 y 31."
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q024",
+   "n_ficha": 24,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos municipios se usan en las regresiones de 1993 y 2005?",
+   "respuesta": "1.014, los mismos; p. 29.",
+   "referencia": "p. 29",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q025",
+   "n_ficha": 25,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántas zonas metropolitanas se estudian y cuántas están constituidas legalmente?",
+   "respuesta": "Siete; cinco: Valle de Aburrá, Bucaramanga, Barranquilla, Cúcuta y Centro Occidente; Bogotá y Cali no; p. 30.",
+   "referencia": "p. 30",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q026",
+   "n_ficha": 26,
+   "tipo": "abierta",
+   "enunciado": "Ciudad núcleo de la zona Centro Occidente.",
+   "respuesta": "Pereira, con Dosquebradas y La Virginia (1991); p. 30.",
+   "referencia": "p. 30",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q027",
+   "n_ficha": 27,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice la Tabla 1 de Envigado?",
+   "respuesta": "Es un municipio del Valle de Aburrá no incluido en la ordenanza; p. 30.",
+   "referencia": "p. 30",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q028",
+   "n_ficha": 28,
+   "tipo": "abierta",
+   "enunciado": "Jerarquía metropolitana de 1993 a 2005.",
+   "respuesta": "Bogotá, Medellín, Cali, Barranquilla, Bucaramanga, Cartagena, Pereira y Cúcuta, sin variación; p. 30.",
+   "referencia": "p. 30",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q029",
+   "n_ficha": 29,
+   "tipo": "abierta",
+   "enunciado": "¿Qué relación tiene Bogotá con Medellín en lo urbano y en lo metropolitano?",
+   "respuesta": "Triple frente a \"un poco más del doble\"; p. 30.",
+   "referencia": "p. 30",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q030",
+   "n_ficha": 30,
+   "tipo": "abierta",
+   "enunciado": "¿Qué pasa con Barranquilla como ciudad y como zona metropolitana?",
+   "respuesta": "Como ciudad pierde importancia, por el mayor crecimiento de los municipios metropolizados (Soledad supera a Pereira en 2005); como zona crece a la velocidad de las demás distintas de Bogotá y reactiva su importancia; p. 31.",
+   "referencia": "p. 31",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q031",
+   "n_ficha": 31,
+   "tipo": "abierta",
+   "enunciado": "En el conjunto de metrópolis estudiadas, ¿quiénes ganan y quiénes pierden importancia?",
+   "respuesta": "Ganan Bucaramanga y Pereira; pierden Cartagena y Cúcuta; p. 31.",
+   "referencia": "p. 31",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q032",
+   "n_ficha": 32,
+   "tipo": "abierta",
+   "enunciado": "¿Qué cambio de interpretación propone la p. 32?",
+   "respuesta": "Lo que parecía disminución de la concentración de las grandes ciudades es un cambio de la unidad de concentración territorial: la fuerza de aglomeración se amplía a sus zonas metropolitanas; p. 32.",
+   "referencia": "p. 32",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q033",
+   "n_ficha": 33,
+   "tipo": "abierta",
+   "enunciado": "Defina el IIM y escriba la ecuación.",
+   "respuesta": "IPT metropolitano entre IPT urbano; IIM = AM / N = (N + M) / N = 1 + M / N; p. 32.",
+   "referencia": "p. 32",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q034",
+   "n_ficha": 34,
+   "tipo": "abierta",
+   "enunciado": "¿Qué significa un IIM igual a 2?",
+   "respuesta": "Que el núcleo iguala la población de todos los municipios metropolizados (M = N); Tabla 2.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q035",
+   "n_ficha": 35,
+   "tipo": "vf",
+   "enunciado": "Un IIM mayor que 2 en la Fase I significa que la pendiente es positiva.",
+   "respuesta": "Falso: en la Fase I la pendiente es negativa; en la Fase III es positiva; Tabla 2, pp. 33-34.",
+   "referencia": "pp. 33-34",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "en la Fase I la pendiente es negativa; en la Fase III es positiva; Tabla 2, pp. 33-34."
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q036",
+   "n_ficha": 36,
+   "tipo": "abierta",
+   "enunciado": "¿Qué distingue la Fase II?",
+   "respuesta": "Transición a la metropolización: IIM entre 1 y 2 con pendiente negativa, o igual a 1 sin pendiente; el núcleo es muy superior a los municipios; Tabla 2.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q037",
+   "n_ficha": 37,
+   "tipo": "abierta",
+   "enunciado": "¿Qué indican las curvas cerradas y las abiertas de la Figura 6?",
+   "respuesta": "Cerradas (línea a): pasaron más rápido por la metropolización; abiertas (línea c): proceso más extendido; pp. 32 y 34.",
+   "referencia": "pp. 32 y 34",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q038",
+   "n_ficha": 38,
+   "tipo": "abierta",
+   "enunciado": "¿Qué representan las líneas d y e?",
+   "respuesta": "e: ciudades que tienden a no alcanzar la metropolización propiamente dicha; d: ciudades ya inmersas en dinámicas metropolitanas; p. 34.",
+   "referencia": "p. 34",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q039",
+   "n_ficha": 39,
+   "tipo": "abierta",
+   "enunciado": "¿Qué limita al modelo de la NGE en el movimiento de población?",
+   "respuesta": "Mueve solo trabajadores, por el potencial de mercado (diferencial de salarios), sin desempleo ni población que no trabaja; p. 34.",
+   "referencia": "p. 34",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q040",
+   "n_ficha": 40,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ciudad alcanzó la consolidación metropolitana más rápido?",
+   "respuesta": "Bucaramanga, curva cerrada; p. 35.",
+   "referencia": "p. 35",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q041",
+   "n_ficha": 41,
+   "tipo": "abierta",
+   "enunciado": "¿Qué pasó con Bogotá en 1954?",
+   "respuesta": "Llegó a un primer momento de metropolización y amplió sus límites jurisdiccionales, lo que la llevó a un segundo momento; p. 35.",
+   "referencia": "p. 35",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q042",
+   "n_ficha": 42,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice el texto de Cali, Pereira y Cúcuta en el IIM?",
+   "respuesta": "Cali aún no evidencia un claro paso a la consolidación metropolitana; Pereira y Cúcuta parecen haber surgido inmersas en fuertes procesos metropolitanos; p. 35.",
+   "referencia": "p. 35",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q043",
+   "n_ficha": 43,
+   "tipo": "abierta",
+   "enunciado": "Tres períodos de 1918 a 2005 según el IIM.",
+   "respuesta": "1918-1938 crecimiento lento y pendiente negativa; 1938-1973 consolidación urbana y quiebre hacia pendientes positivas; 1973-2005 consolidación de la metropolización; p. 35.",
+   "referencia": "p. 35",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q044",
+   "n_ficha": 44,
+   "tipo": "abierta",
+   "enunciado": "¿Qué concluyen los autores sobre la estabilidad de la jerarquía?",
+   "respuesta": "Relativamente estable después de la década de los veinte; con la zona metropolitana se preserva y es más estable en el largo plazo (cincuenta a ochenta años) que con la unidad ciudad-municipio; p. 36.",
+   "referencia": "p. 36",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q045",
+   "n_ficha": 45,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué no se puede medir la metropolización como un fenómeno reciente?",
+   "respuesta": "Porque sus fases han ocurrido en períodos de varias décadas y no simultáneamente en todas las ciudades; p. 36.",
+   "referencia": "p. 36",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q046",
+   "n_ficha": 46,
+   "tipo": "abierta",
+   "enunciado": "¿Qué limita el índice de Alfonso y cómo se complementa con el IIM?",
+   "respuesta": "Mide integración en un año específico a partir de matrices origen-destino de trabajadores, pero no la evolución; el IIM describe la evolución intrametropolitana; pp. 32 y 35.",
+   "referencia": "pp. 32 y 35",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q047",
+   "n_ficha": 47,
+   "tipo": "abierta",
+   "enunciado": "¿Qué cifra del artículo es de municipios nuevos y a qué se refiere?",
+   "respuesta": "Entre 35 y 40 municipios nuevos en los últimos diez años, con articulación funcional menos evidente, en el grupo de ciudades intermedias-pequeñas; p. 28.",
+   "referencia": "p. 28",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-q048",
+   "n_ficha": 48,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tesis doctoral origina el artículo y quién la dirigió?",
+   "respuesta": "Metropolización de las grandes ciudades en Colombia: una aproximación desde las instituciones subnacionales y el desarrollo económico, de César A. Ruiz (2015), dirigida por Nohra León; p. 21.",
+   "referencia": "p. 21",
+   "estado": "completa"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s05-leon-ruiz-2016-t001",
+   "n_ficha": 1,
+   "grupo": null,
+   "texto": "El artículo parte de la NGE; no de la teoría del lugar central. Christaller (1933) y Lösch (1954) aparecen como la tradición germánica de la jerarquía; la NGE (Fujita, Krugman) incluye una jerarquía que evoluciona.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t002",
+   "n_ficha": 2,
+   "grupo": null,
+   "texto": "Modelo de la NGE que se usa: Sistemas Urbanos (Fujita y Krugman 2004; Fujita, Krugman y Venables 2000; Fujita, Krugman y Mori 1998); Mori (1997) para la emergencia de estructuras metropolitanas a partir de economías monocéntricas.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t003",
+   "n_ficha": 3,
+   "grupo": null,
+   "texto": "Supuesto central: la estructura metropolitana es un subsistema dinámico dentro de un sistema urbano mayor (nacional o internacional); no \"un sistema independiente\".",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t004",
+   "n_ficha": 4,
+   "grupo": null,
+   "texto": "La dinámica del replicador viene de la teoría de juegos evolutiva (Taylor y Jonker 1978); la NGE la adopta como ad hoc para representar la migración.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t005",
+   "n_ficha": 5,
+   "grupo": null,
+   "texto": "Una estrategia es evolutivamente estable si existe una barrera positiva a la invasión referida al tamaño de la población, de modo que los mutantes obtienen pagos inferiores.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t006",
+   "n_ficha": 6,
+   "grupo": null,
+   "texto": "Para la NGE, la geografía de una economía refleja historia y accidentes, no previsiones sobre el futuro (Fujita y Krugman 2004, 182).",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t007",
+   "n_ficha": 7,
+   "grupo": null,
+   "texto": "Tres enfoques de la Geografía Económica Evolucionaria: Darwinismo Generalizado, Dependencia de la Trayectoria, Sistemas Complejos Adaptativos (Boschman y Martin 2010); tres requerimientos (dinámica más allá de la estática comparativa, procesos irreversibles, novedad como fuente de autotransformación).",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t008",
+   "n_ficha": 8,
+   "grupo": null,
+   "texto": "El IPT del artículo es la población de la primera ciudad (Bogotá) entre la población total; con las ciudades se calcula cada una (Figura 1), no solo Bogotá. Se escoge porque es de sencilla comprensión y sirve para comparar en el tiempo y entre ciudades, con ciudad o área metropolitana.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t009",
+   "n_ficha": 9,
+   "grupo": null,
+   "texto": "La Figura 1 cubre 1918-2005 (censos); los períodos del IPT se leen para 1820-1993 en Cuervo y González.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t010",
+   "n_ficha": 10,
+   "grupo": null,
+   "texto": "Períodos del artículo: Consolidación republicana 1820-1870 (disminuye la primacía de Bogotá); Expansión comercial 1870-1918 (aumenta); Industrialización 1920-1993 (aumenta de forma considerable); cuarto período 1973-1993 (acomodamiento y menor tasa de crecimiento del IPT de Bogotá). Fíjese en 1918 y 1920 y en que el tercero termina en 1993 con el cuarto traslapado.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t011",
+   "n_ficha": 11,
+   "grupo": null,
+   "texto": "Causas del aumento de la primacía en 1870-1918: inserción internacional, café, éxito de la hacienda, inicio de la consolidación del Estado y guerras civiles de inicios del siglo XX. Causas en 1920-1993: Estado nacional, integración territorial del espacio económico, urbanización creciente e industrialización.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t012",
+   "n_ficha": 12,
+   "grupo": null,
+   "texto": "En el cuarto período se disminuye la tasa de crecimiento del IPT de Bogotá, \"sin que por ello se haya perdido la creciente primacía de Bogotá\".",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t013",
+   "n_ficha": 13,
+   "grupo": null,
+   "texto": "Dos hechos que explican el acomodamiento: expansión de las regiones económicas cuyo núcleo son las cuatro grandes ciudades, y formación de polos en ciudades nuevas en el grupo de las grandes.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t014",
+   "n_ficha": 14,
+   "grupo": null,
+   "texto": "La cuadricefalia son Bogotá, Medellín, Cali y Barranquilla (Gouëset 1998); sus orígenes remiten al poblamiento hispánico influido por el asentamiento precolombino.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t015",
+   "n_ficha": 15,
+   "grupo": null,
+   "texto": "Tres propiedades definitorias (Cuervo y González 1997, 347): flexibilidad, multipolaridad y dualidad; la dualidad es más regional que urbana.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t016",
+   "n_ficha": 16,
+   "grupo": null,
+   "texto": "Desde la ciudad-municipio, la cuadricefalia desaparece desde los años ochenta (la ruptura se ve en 1985 en la función rango-tamaño); desde la zona metropolitana no cambian el posicionamiento ni la jerarquía de las cuatro.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t017",
+   "n_ficha": 17,
+   "grupo": null,
+   "texto": "Tres hechos que explican el cambio desde los ochenta (visión ciudad-municipio): desaparición de la cuadricefalia, cambio en la estructura demográfica del sistema de ciudades, inicio de la fase de metropolización de las que encabezan la jerarquía.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t018",
+   "n_ficha": 18,
+   "grupo": null,
+   "texto": "La nueva fase de primacía urbana empieza en 1973 y se asocia a la transición demográfica (crecimiento poblacional moderado y consolidación de la urbanización).",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t019",
+   "n_ficha": 19,
+   "grupo": null,
+   "texto": "En la fase desde 1973, el IPT de las ciudades se estabiliza \"con excepción de Bogotá\".",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t020",
+   "n_ficha": 20,
+   "grupo": null,
+   "texto": "La regla rango-tamaño requiere un universo de ciudades debidamente delimitado (todas las ciudades de un país).",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t021",
+   "n_ficha": 21,
+   "grupo": null,
+   "texto": "La interpretación de Zipf que el artículo reproduce es la de Camagni (2005, 129): dos fuerzas, concentración (economías de escala) y difusión (reducción de costos de transporte). No es de Fujita.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t022",
+   "n_ficha": 22,
+   "grupo": null,
+   "texto": "Nota 4: Simon, Ley del efecto proporcional; la tasa de crecimiento del centro es independiente de su dimensión; beta = 1 significa equilibrio entre rango y tamaño.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t023",
+   "n_ficha": 23,
+   "grupo": null,
+   "texto": "Cuatro categorías: primera metrópoli nacional (Bogotá); grandes metrópolis (Cali, Medellín, Barranquilla); metropolitanas emergentes (Cartagena, Cúcuta, Bucaramanga, Pereira); intermedias-pequeñas (el resto, fuera del estudio).",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t024",
+   "n_ficha": 24,
+   "grupo": null,
+   "texto": "Barranquilla es \"gran metrópoli\" y no pierde su rango de cuarta ciudad como ciudad-municipio; Pereira es \"emergente\" aunque la superan Ibagué y Soledad, porque es núcleo de un área mayor.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t025",
+   "n_ficha": 25,
+   "grupo": null,
+   "texto": "Cali y Medellín disputan el segundo lugar como ciudad-municipio; como zona metropolitana, Medellín es segunda y Cali tercera.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t026",
+   "n_ficha": 26,
+   "grupo": null,
+   "texto": "Betas (municipios, mismos 1.014): 1993, -0,88 (r2 ajustado 0,90); 2005, -0,947 (0,961). Betas (zonas metropolitanas): 1993, -0,892 (0,895); 2005, -0,973 (0,958). No intercambiar.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t027",
+   "n_ficha": 27,
+   "grupo": null,
+   "texto": "Interpretación de los betas: se acercan a -1 con el tiempo; el sistema tiende a un ajuste de equilibrio espacial (evolutivamente más estable); la zona metropolitana explica mejor el ajuste.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t028",
+   "n_ficha": 28,
+   "grupo": null,
+   "texto": "\"Siete zonas metropolitanas\" (Valle de Aburrá, Bucaramanga, Barranquilla, Cúcuta, Centro Occidente, Bogotá y Cali), cinco legalmente constituidas; Bogotá y Cali no.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t029",
+   "n_ficha": 29,
+   "grupo": null,
+   "texto": "Valle de Aburrá: ordenanza n.º 34 del 27 de noviembre de 1980; Bucaramanga y Barranquilla, n.º 20 y n.º 28 de 1981; Cúcuta, n.º 000508 de 1991; Centro Occidente, n.º 01 de 1981 y n.º 014 de 1991.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t030",
+   "n_ficha": 30,
+   "grupo": null,
+   "texto": "Centro Occidente tiene como núcleo a Pereira (con Dosquebradas y La Virginia (1991)); Santa Rosa de Cabal no está incluido en la ordenanza; Envigado, no incluido en el Valle de Aburrá según la tabla.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t031",
+   "n_ficha": 31,
+   "grupo": null,
+   "texto": "Bogotá metropolitana: 17 municipios; Cali: 4 (Candelaria, Jamundí, Palmira, Yumbo).",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t032",
+   "n_ficha": 32,
+   "grupo": null,
+   "texto": "Jerarquía metropolitana: Bogotá, Medellín, Cali, Barranquilla, Bucaramanga, Cartagena, Pereira, Cúcuta; se mantiene sin variación entre 1993 y 2005; Cartagena no está entre las siete zonas de la Tabla 1.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t033",
+   "n_ficha": 33,
+   "grupo": null,
+   "texto": "Bogotá frente a Medellín: triple en lo urbano, \"un poco más del doble\" en lo metropolitano.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t034",
+   "n_ficha": 34,
+   "grupo": null,
+   "texto": "Bucaramanga y Pereira ganan importancia y Cartagena y Cúcuta la pierden dentro del conjunto de metrópolis estudiadas.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t035",
+   "n_ficha": 35,
+   "grupo": null,
+   "texto": "Soledad (Barranquilla) supera a Pereira como ciudad-municipio en 2005; Barranquilla como ciudad pierde importancia, como zona crece a la velocidad del resto de zonas distintas de Bogotá.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t036",
+   "n_ficha": 36,
+   "grupo": null,
+   "texto": "La idea clave de la p. 32: lo que parecía disminución de la concentración de las grandes ciudades es un cambio de la unidad de concentración territorial; la fuerza de aglomeración se amplía a la zona metropolitana.",
+   "referencia": "p. 32"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t037",
+   "n_ficha": 37,
+   "grupo": null,
+   "texto": "El IIM es IPT metropolitano entre IPT urbano; también AM / N = 1 + M / N. No es el índice de Alfonso, que parte de matrices origen-destino de trabajadores y no muestra la evolución.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t038",
+   "n_ficha": 38,
+   "grupo": null,
+   "texto": "Fases del IIM: Fase I consolidación urbana (pendiente negativa; IIM mayor que 2 o igual a 2); Fase II transición (negativa entre 1 y 2; sin pendiente en 1); Fase III consolidación metropolitana (pendiente positiva; IIM entre 1 y 2, igual a 2 o mayor que 2). Lo que cambia de fase es la pendiente.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t039",
+   "n_ficha": 39,
+   "grupo": null,
+   "texto": "IIM igual a 2: el núcleo iguala a todos los municipios (M = N); en Fase I los municipios crecen más despacio; en Fase III crecen más rápido.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t040",
+   "n_ficha": 40,
+   "grupo": null,
+   "texto": "Figura 6: curva a cerrada (rápida); curva c abierta (extendida); línea e, tienden a no alcanzar la metropolización; línea d, ya inmersas.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t041",
+   "n_ficha": 41,
+   "grupo": null,
+   "texto": "El modelo se limita a población (no pudo reproducirse con variables económicas); con variables proxy se intenta mostrar el círculo virtuoso entre aglomeración y economías de aglomeración.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t042",
+   "n_ficha": 42,
+   "grupo": null,
+   "texto": "El modelo de la NGE mueve trabajadores por la función de potencial de mercado, que significa diferencial de salarios; no considera desempleo ni población que no trabaja.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t043",
+   "n_ficha": 43,
+   "grupo": null,
+   "texto": "Casos del IIM: Bucaramanga, más rápida (curva cerrada); Medellín y Barranquilla, las tres fases en el mismo tiempo pero a menor intensidad; Bogotá, primer momento en 1954 y ampliación de límites jurisdiccionales; Cali, sin paso claro a consolidación metropolitana; Pereira y Cúcuta, \"inmersas\".",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t044",
+   "n_ficha": 44,
+   "grupo": null,
+   "texto": "Tres períodos del IIM: 1918-1938 (crecimiento lento, pendiente negativa), 1938-1973 (consolidación urbana, quiebre y pendientes positivas), 1973-2005 (consolidación metropolitana). Los cambios de fase no son simultáneos entre ciudades.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t045",
+   "n_ficha": 45,
+   "grupo": null,
+   "texto": "Conclusión sobre la estabilidad: la jerarquía entre ciudades fue relativamente estable después de los veinte; con la zona metropolitana la jerarquía se preserva y es más estable en el largo plazo (cincuenta a ochenta años).",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t046",
+   "n_ficha": 46,
+   "grupo": null,
+   "texto": "Dos hechos adicionales: las fases duraron varias décadas (\"no sería posible medir la metropolización como un fenómeno reciente\") y no ocurrieron simultáneamente en las ciudades.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t047",
+   "n_ficha": 47,
+   "grupo": null,
+   "texto": "Autores y filiación: Nohra León (Departamento de Geografía) y César A. Ruiz (ingeniero civil, Facultad de Ingeniería); es el capítulo 3 de la tesis doctoral de Ruiz (2015), dirigida por León.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t048",
+   "n_ficha": 48,
+   "grupo": null,
+   "texto": "Fuentes de los datos: censos del DANE (Figura 7), censo de 2005 y Cuervo y González 1997 (Figuras 1, 2, 3 y 5), Tabla 1 de páginas web de las áreas metropolitanas.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t049",
+   "n_ficha": 49,
+   "grupo": null,
+   "texto": "\"Polimetropolitanismo\" es de Alfonso (2012a, 2012b); la \"cuadricefalia\" es de Gouëset (1998); \"macrocefalia\" es el desequilibrio de las ciudades latinoamericanas según Gouëset.",
+   "referencia": null
+  },
+  {
+   "id": "s05-leon-ruiz-2016-t050",
+   "n_ficha": 50,
+   "grupo": null,
+   "texto": "En los últimos diez años se han configurado entre 35 y 40 municipios nuevos con articulación funcional menos evidente (Alfonso 2012a); no es una cifra de zonas metropolitanas.",
+   "referencia": null
+  }
+ ],
+ "pares": [
+  {
+   "id": "s05-leon-ruiz-2016-p001",
+   "par": "IPT urbano e IPT metropolitano",
+   "diferencia": "Urbano: población de la ciudad (municipio) núcleo entre la población nacional; metropolitano: población del área metropolitana entre la nacional"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p002",
+   "par": "IIM e IPT",
+   "diferencia": "IIM = IPT metropolitano / IPT urbano = AM / núcleo (1 + M/N); el IPT es primera ciudad entre población total"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p003",
+   "par": "IIM e Índice de Metropolización de Alfonso",
+   "diferencia": "IIM: cociente de poblaciones, con evolución en el tiempo; Alfonso: matrices origen-destino de trabajadores, mide integración en un año específico y el papel de migraciones permanentes y pendulares, pero no su evolución"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p004",
+   "par": "ciudad-municipio, zona metropolitana, área metropolitana constituida",
+   "diferencia": "Ciudad-municipio: unidad político-administrativa; zona metropolitana: núcleo más municipios metropolizados, constituida o no por ordenanza; las constituidas son cinco (Valle de Aburrá, Bucaramanga, Barranquilla, Cúcuta, Centro Occidente), las no constituidas son Bogotá y Cali"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p005",
+   "par": "cuadricefalia en lo urbano y en lo metropolitano",
+   "diferencia": "Desde la ciudad-municipio se transforma y desaparece (desde 1973; ruptura visible en 1985); desde la zona metropolitana las cuatro conservan su posición y \"reafirman su importancia\""
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p006",
+   "par": "jerarquía urbana y jerarquía metropolitana",
+   "diferencia": "Urbana: pequeñas ciudades como Soledad adelantan a núcleos (Pereira); metropolitana: orden estable Bogotá, Medellín, Cali, Barranquilla, Bucaramanga, Cartagena, Pereira, Cúcuta"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p007",
+   "par": "cuatro períodos del IPT (León y Ruiz) y tres períodos del IPT (cap. 9 de Cuervo y González)",
+   "diferencia": "León y Ruiz: 1820-1870, 1870-1918, 1920-1993 y un cuarto de acomodamiento 1973-1993; cap. 9: 1820-1870, 1870-1920 y 1920-1973"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p008",
+   "par": "acomodamiento 1973-1993 y 1973-2005",
+   "diferencia": "Cuervo y González: cuarto período 1973-1993; León y Ruiz extienden el período de acomodamiento urbano a 1973-2005"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p009",
+   "par": "cuatro corredores y tres corredores más uno en formación",
+   "diferencia": "León y Ruiz citan cuatro corredores tempranos (Cuervo y González 1997, 296); el cap. 9 (p. 298) tiene tres y el del piedemonte llanero en formación"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p010",
+   "par": "Primera metrópoli, grandes metrópolis, metropolitanas emergentes, intermedias-pequeñas",
+   "diferencia": "Bogotá; Cali, Medellín, Barranquilla; Cartagena, Cúcuta, Bucaramanga, Pereira; el resto"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p011",
+   "par": "evolución en la NGE y en la Geografía Económica Evolucionaria",
+   "diferencia": "NGE: temporalidad de la estabilidad de estructuras, dinámica del replicador, equilibrio evolutivamente estable; GEE: tres enfoques (Darwinismo Generalizado, Dependencia de la Trayectoria, Sistemas Complejos Adaptativos) y tres requerimientos"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p012",
+   "par": "replicador y causalidad acumulativa",
+   "diferencia": "El replicador (teoría de juegos evolutiva) describe el movimiento de población; la causalidad acumulativa es la base para describir economías y deseconomías de aglomeración"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p013",
+   "par": "Zipf y Simon (nota de Camagni)",
+   "diferencia": "Zipf: dos fuerzas (concentración por economías de escala y difusión por reducción de costos de transporte); Simon: Ley del efecto proporcional (la tasa de crecimiento es independiente de la dimensión)"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p014",
+   "par": "beta teórico -1 y beta de la nota 4",
+   "diferencia": "La nota 4 dice beta = 1 para el equilibrio con la forma f(R) = Log P menos beta Log R; las regresiones informan beta negativo y se compara con -1"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p015",
+   "par": "mejor ajuste por beta y por r2",
+   "diferencia": "La unidad metropolitana ajusta mejor por beta (más cerca de -1); por r2 ajustado el municipio es ligeramente mayor en 1993 y 2005"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p016",
+   "par": "IIM mayor que 2 en Fase I y en Fase III",
+   "diferencia": "Fase I: pendiente negativa (el núcleo crece más rápido); Fase III: pendiente positiva (crecen más rápido los municipios); lo que distingue la fase es la pendiente"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p017",
+   "par": "curvas a, c, d y e de la Figura 6",
+   "diferencia": "a: cerrada, rápida; c: abierta, extendida en el tiempo; d: ciudades ya inmersas en dinámicas metropolitanas; e: ciudades que tienden a no alcanzar la metropolización"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p018",
+   "par": "período 1918-1938 y fase I",
+   "diferencia": "El texto dice que en 1918-1938 el IIM tiene pendiente negativa (núcleo mucho mayor); la Tabla 2 asigna esa pendiente a la Fase I (IIM mayor que 2 o igual a 2) y a la mitad de la Fase II (IIM entre 1 y 2)"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p019",
+   "par": "polimetropolitanismo y cuadricefalia",
+   "diferencia": "Polimetropolitanismo: varias metrópolis en la escala nacional (Alfonso); cuadricefalia: cuatro cabezas urbanas (Gouëset)"
+  },
+  {
+   "id": "s05-leon-ruiz-2016-p020",
+   "par": "macrocefalia y cuadricefalia",
+   "diferencia": "Macrocefalia: ciudades mayores desproporcionadamente grandes (Gouëset); en Colombia es singular porque tiene cuatro cabezas"
+  }
+ ]
+}

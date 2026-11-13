@@ -1,0 +1,558 @@
+{
+ "semana": 3,
+ "lectura": "camagni-2005-intro-cap1",
+ "autor": "Roberto Camagni",
+ "titulo": "Economía urbana: Introducción (pp. 19-20) y capítulo 1, El principio de aglomeración (o de la sinergia) (pp. 31-44)",
+ "alcance": "Introducción pp. 19-20 y capítulo 1 pp. 31-44",
+ "fuente": "content/semana-03/camagni-2005-intro-cap1/ficha.md",
+ "preguntas": [
+  {
+   "id": "s03-camagni-2005-intro-cap1-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Qué pregunta responde cada uno de los cinco principios de la Introducción y en qué capítulo se trata?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tres principios de organización económica general origina los cinco principios y qué beneficio asocia la Figura 2 a cada uno?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "En la Figura 2, ¿qué operador corresponde a cada principio genético?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué Lösch puede explicar aglomeraciones en un espacio homogéneo y por qué el equilibrio de largo plazo produce hexágonos?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Para qué bienes pierde fuerza el enfoque de Lösch y para cuáles sigue siendo válido? ¿Qué cifra de costos de transporte cita el texto?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las tres fuentes de economías externas de 1.3?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Qué diferencia hay entre economías de localización y de urbanización?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "Describa las cinco economías de localización y dé un ejemplo de circulación y valorización.",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la industrial atmosphere y qué tipo de incertidumbre reduce?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q010",
+   "n_ficha": 10,
+   "tipo": "abierta",
+   "enunciado": "¿Qué predice el modelo de Weber sobre la aglomeración y cuáles son sus tres límites según Camagni?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo actuaba la renta de la tierra en Weber como factor desaglomerador?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las tres categorías de economías de urbanización y sus rasgos Ia a IIIe?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q013",
+   "n_ficha": 13,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo varía el costo medio de la educación, los bomberos y las redes de gas, agua o electricidad con la dimensión de la ciudad?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q014",
+   "n_ficha": 14,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dos zonas distingue la Figura 1.5 y qué tipo de externalidad expresa cada una?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q015",
+   "n_ficha": 15,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué algunos autores ven la ciudad principalmente como reductor de costos de transacción?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tres ventajas disfrutan las familias en la ciudad grande y cuáles son objetivas o subjetivas?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q017",
+   "n_ficha": 17,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dos formas de deseconomía describe el texto, con qué ejemplos?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q018",
+   "n_ficha": 18,
+   "tipo": "abierta",
+   "enunciado": "¿Qué curvas usa la Figura 1.6 y qué define cada punto A a F? ¿Cuál es el óptimo social y cuál el per cápita?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "¿Qué supuestos exige tratar la dimensión urbana como problema de óptimo social (nota 19)?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tres enfoques empíricos se usan para medir economías de aglomeración y qué crítica recibe cada uno?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q021",
+   "n_ficha": 21,
+   "tipo": "abierta",
+   "enunciado": "¿Qué cifras aportan Segal, Shefer, Carlino y Sveikauskas?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué Camagni propone hablar de intervalo de dimensiones eficientes y qué tres consideraciones ofrece?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q023",
+   "n_ficha": 23,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dimensión mínima cita el texto y qué otras cifras del capítulo no deben confundirse con ella?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q024",
+   "n_ficha": 24,
+   "tipo": "abierta",
+   "enunciado": "Compare los enfoques económico-liberal y político-radical sobre la gran ciudad.",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-q025",
+   "n_ficha": 25,
+   "tipo": "abierta",
+   "enunciado": "¿Qué replica Camagni a la \"tiranía de la ciudad\" y de qué depende que la ciudad imponga precios altos?",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s03-camagni-2005-intro-cap1-t001",
+   "n_ficha": 1,
+   "grupo": null,
+   "texto": "Introducción: cinco principios con su nombre alternativo, su pregunta y su capítulo. Aglomeración o sinergia: ¿por qué existe la ciudad? (cap. 1). Accesibilidad o competencia espacial: ¿dónde en la ciudad? (cap. 2). Interacción espacial o demanda de movilidad y contactos: ¿cómo en la ciudad? (cap. 3). Jerarquía u orden de las ciudades: ¿cuáles y cuántas ciudades? (cap. 4). Competitividad o base de exportación: ¿por qué crece la ciudad? (cap. 5). Las preguntas de examen pueden mezclar nombre y pregunta.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t002",
+   "n_ficha": 2,
+   "grupo": null,
+   "texto": "Los capítulos 6, 7 y 8 no son principios: renta urbana, sostenibilidad urbana y estrategias, y justificación de las políticas con innovación y capital relacional.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t003",
+   "n_ficha": 3,
+   "grupo": null,
+   "texto": "Principios económicos generales: marshalliano (eficiencia estática, asignación óptima), schumpeteriano (eficiencia dinámica, innovación) y \"genéricamente marxiano\" (poder y control de los recursos). Los beneficios de la Figura 2 llevan los mismos adjetivos.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t004",
+   "n_ficha": 4,
+   "grupo": null,
+   "texto": "El espacio es a la vez variable instrumental (en la optimización) y dependiente (impactada por ella). No es solo una de las dos.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t005",
+   "n_ficha": 5,
+   "grupo": null,
+   "texto": "Figura 2: los operadores son renta absoluta, multiplicador del ingreso, renta diferencial, jerarquías y redes de ciudades, y potencial de localización, asociados en ese orden a aglomeración, competitividad, accesibilidad, jerarquía e interacción. El orden de la figura difiere del orden de los capítulos.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t006",
+   "n_ficha": 6,
+   "grupo": null,
+   "texto": "Lösch: el equilibrio de largo plazo con hexágonos aparece porque el beneficio extraordinario atrae nuevas empresas hasta llevarlo a cero; el equilibrio de la primera etapa (áreas separadas, demanda sin satisfacer) no es estable.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t007",
+   "n_ficha": 7,
+   "grupo": null,
+   "texto": "El modelo de Lösch explica aglomeraciones en un espacio homogéneo con solo dos elementos: economías de escala y costos de transporte. No necesita yacimientos ni puertos naturales; estos explican la fortuna de una ciudad, no la lógica del sistema urbano.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t008",
+   "n_ficha": 8,
+   "grupo": null,
+   "texto": "El modelo de Lösch usa competencia monopolística con productos diferenciados espacialmente y sirve de base al principio de jerarquía (cap. 4).",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t009",
+   "n_ficha": 9,
+   "grupo": null,
+   "texto": "Relevancia empírica del enfoque de Lösch: para bienes industriales el costo de transporte es hoy 3-8% del precio final, de modo que la aglomeración se explica mejor por las economías externas; para servicios sigue importando (bajo valor unitario y contacto personal no eliminable).",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t010",
+   "n_ficha": 10,
+   "grupo": null,
+   "texto": "Tres fuentes de economías externas en 1.3: capital fijo social o recursos específicos, indivisibilidades, sinergias.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t011",
+   "n_ficha": 11,
+   "grupo": null,
+   "texto": "Economías de localización: externas a la empresa pero internas a la industria o sector. Si el enunciado dice \"internas a la industria\" o \"propias del sector\", es localización; si dice \"dirigidas a todas las actividades\", es urbanización.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t012",
+   "n_ficha": 12,
+   "grupo": null,
+   "texto": "Las cinco economías de localización son pecuniarias, transaccionales, de aprendizaje, de circulación y valorización, y dinámicas. Las pecuniarias hablan de vínculos input/output y menores costos globales o mayores ingresos; no de contactos cara a cara (eso es transaccional).",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t013",
+   "n_ficha": 13,
+   "grupo": null,
+   "texto": "Industrial atmosphere es de Marshall y corresponde a las economías dinámicas, definidas como reducción de la incertidumbre dinámica.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t014",
+   "n_ficha": 14,
+   "grupo": null,
+   "texto": "Weber predice localización aglomerada cuando las ventajas de aglomeración y los ahorros en costo del trabajo superan los mayores costos de transporte frente a la localización de mínimo costo de transporte. No es \"siempre aglomerada\".",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t015",
+   "n_ficha": 15,
+   "grupo": null,
+   "texto": "Tres límites del modelo de Weber: ligado al siglo XIX (desintegración lineal, especialización-diferenciación-reintegración); equilibrio parcial sin interacción entre empresas; estático (sin innovación ni distribución de renta). Un enunciado que diga \"equilibrio general\" o \"dinámico\" es falso.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t016",
+   "n_ficha": 16,
+   "grupo": null,
+   "texto": "Weber sí tenía conciencia de las relaciones distributivas: los factores desaglomeradores provienen del alza del valor de las tierras y redistribuyen a favor de rentas y salarios y contra los beneficios (nota 13).",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t017",
+   "n_ficha": 17,
+   "grupo": null,
+   "texto": "Urbanización: las tres categorías son sector público, gran mercado e incubadora de factores y mercado de inputs. No hay una categoría \"innovación\" en esa clasificación.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t018",
+   "n_ficha": 18,
+   "grupo": null,
+   "texto": "Ia a IIIe: Ia es infraestructura de capital fijo social (a menudo a costo cero para el usuario); Ib, economías de escala en servicios públicos; IIa, mercado grande (la relación mercado interno/externo crece con el logaritmo de la dimensión); IIb, nichos; IIIa a IIIe, mercado de trabajo, funciones superiores, funciones especializadas, capacidades directivas, comunicación e información.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t019",
+   "n_ficha": 19,
+   "grupo": null,
+   "texto": "Nota 15: tres comportamientos de costos medios: educación (horizontal), bomberos (U, mínimo en 100.000-300.000), redes (decrecientes).",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t020",
+   "n_ficha": 20,
+   "grupo": null,
+   "texto": "Figura 1.5: el área superior izquierda es indivisibilidad; el área inferior derecha es sinergia. La ciudad como reductor de costos de transacción es una lectura de algunos autores, no el único efecto.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t021",
+   "n_ficha": 21,
+   "grupo": null,
+   "texto": "Familias: servicios públicos más eficientes, servicios privados personales avanzados y diversificados, y ventajas de variedad. Algunos elementos son objetivos y otros subjetivos.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t022",
+   "n_ficha": 22,
+   "grupo": null,
+   "texto": "Las deseconomías aparecen o porque el elemento cambia de signo (congestión) o porque lo supera otro elemento contrario (conflictividad social). Los dos ejemplos no se intercambian.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t023",
+   "n_ficha": 23,
+   "grupo": null,
+   "texto": "La renta urbana debe incluirse entre los costos de instalación y crece con la dimensión de la ciudad.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t024",
+   "n_ficha": 24,
+   "grupo": null,
+   "texto": "Los cuatro problemas de 1.4 incluyen preguntar si existe un costo social global pagado por los habitantes urbanos y por los habitantes de las áreas no urbanas (mayores precios de productos urbanos).",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t025",
+   "n_ficha": 25,
+   "grupo": null,
+   "texto": "Figura 1.6: C es el máximo de la distancia entre AB y AC (óptimo per cápita); E es MC = MB (óptimo social); B (solo costos) y D (solo beneficios) no son \"el óptimo\". Más allá de C los beneficios totales aún crecen más que los costos.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t026",
+   "n_ficha": 26,
+   "grupo": null,
+   "texto": "Las curvas incluyen elementos inmateriales (contaminación, congestión, conflictividad, variedad). Supuestos de la nota 19: medida unívoca (población), comparabilidad costo-beneficio, identidad de intereses, preferencias homogéneas, costo de oportunidad nulo.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t027",
+   "n_ficha": 27,
+   "grupo": null,
+   "texto": "Tres enfoques empíricos: función agregada urbana (crítica: misma función para ciudades distintas), función desagregada por sector (crítica: el mix terciario no se mide) y diferenciales de renta y salario (crítica: compensación de incomodidades).",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t028",
+   "n_ficha": 28,
+   "grupo": null,
+   "texto": "Cifras de notas: Segal 58 áreas, más de 3 millones, +8%; Shefer 10 sectores; Carlino 19 sectores y 12 con urbanización significativa; Sveikauskas 14 sectores y 6,4% por duplicar la dimensión. El 6,4% es productividad del trabajo industrial, no del capital.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t029",
+   "n_ficha": 29,
+   "grupo": null,
+   "texto": "Mills: la econometría de las economías de aglomeración va más avanzada que la teoría.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t030",
+   "n_ficha": 30,
+   "grupo": null,
+   "texto": "Dimensión mínima: 200-250 mil habitantes, de relativo consenso. No confundir con 100.000-300.000 (bomberos, nota 15) ni con 5.040 (Platón).",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t031",
+   "n_ficha": 31,
+   "grupo": null,
+   "texto": "Dimensión máxima: se define por nivel de la jerarquía y rol, no con un límite único; el ejemplo es Nueva York, Pavía y Fiorenzuola.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t032",
+   "n_ficha": 32,
+   "grupo": null,
+   "texto": "Una ciudad más pequeña bien inserta en un sistema interconectado, con división vertical (jerarquía) y horizontal (funcional), puede ser más eficiente que una gran ciudad monocéntrica.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t033",
+   "n_ficha": 33,
+   "grupo": null,
+   "texto": "Platón: 5.040 ciudadanos, sin esclavos, extranjeros, mujeres ni niños; 7! con 59 divisores, incluidos 1 a 10.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t034",
+   "n_ficha": 34,
+   "grupo": null,
+   "texto": "Enfoque liberal: equilibrio general, ventajas netas capitalizadas en el suelo, indiferencia localizativa. Las ventajas existen, pero no generan ganancia por cambiar de lugar. Nota 28: benefician en última instancia a los propietarios del suelo.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t035",
+   "n_ficha": 35,
+   "grupo": null,
+   "texto": "Enfoque radical: modelos de dominio y monopolio; costo social pagado por la población urbana y por la colectividad no urbana vía sistema fiscal nacional; salarios altos como compensación de incomodidades; \"tiranía de la ciudad\" y \"contradicción ciudad/campo\".",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t036",
+   "n_ficha": 36,
+   "grupo": null,
+   "texto": "Camagni opone reservas a la tesis radical: la ciudad se acerca más a la competencia que el campo (lobbies agrícolas con precios administrados) o la gran empresa, y sus precios altos dependen de la diferenciación e innovación, no del monopolio. La nota 29 cita análisis del caso francés que desmienten que la colectividad no urbana financie los costos de la gran ciudad vía sistema fiscal.",
+   "referencia": null
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-t037",
+   "n_ficha": 37,
+   "grupo": null,
+   "texto": "Fin de la lectura: el análisis dinámico (nacimiento de empresas, hipótesis de la incubadora) es la sección 1.5, no incluida en las pp. 31-44.",
+   "referencia": "pp. 31-44"
+  }
+ ],
+ "pares": [
+  {
+   "id": "s03-camagni-2005-intro-cap1-p001",
+   "par": "Economías de localización y de urbanización",
+   "diferencia": "Localización: externas a la empresa pero internas a la industria o sector, ligadas a la aglomeración de actividades similares. Urbanización: dirigidas a todas las actividades, ligadas a la naturaleza de la ciudad (sector público, gran mercado, incubadora de factores)"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-p002",
+   "par": "Economías internas y externas de escala",
+   "diferencia": "Internas: concentran en un lugar el volumen de producción de una empresa (Lösch). Externas: concentran empresas y actividades diversas (capital fijo social, indivisibilidades, sinergias)"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-p003",
+   "par": "Indivisibilidades y sinergias",
+   "diferencia": "Indivisibilidad: algo que solo se supera con un umbral mínimo de demanda. Sinergia: mejora de eficiencia conjunta por interacción. En la Fig. 1.5, arriba a la izquierda y abajo a la derecha"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-p004",
+   "par": "Economías transaccionales y pecuniarias",
+   "diferencia": "Transaccionales: menores costos de transacción por proximidad y contactos cara a cara. Pecuniarias: especialización entre empresas y vínculos input/output (menores costos globales o mayores ingresos)"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-p005",
+   "par": "Economías de aprendizaje y dinámicas",
+   "diferencia": "Aprendizaje: mercado de mano de obra especializada y competencias técnicas, más productividad con los mismos inputs. Dinámicas: industrial atmosphere, innovación y difusión rápida del progreso técnico, reducción de la incertidumbre dinámica"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-p006",
+   "par": "Circulación y valorización",
+   "diferencia": "Servicios previos y posteriores a la producción manufacturera y efectos de imagen o de llamada de mercado (Carpi, Prato; Como, Sassuolo, Brianza)"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-p007",
+   "par": "Categorías I, II, III de urbanización",
+   "diferencia": "I: sector público; II: gran mercado; III: incubadora de factores y de mercado de inputs"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-p008",
+   "par": "Cinco principios y tres principios generales",
+   "diferencia": "Cinco (aglomeración, accesibilidad, interacción espacial, jerarquía, competitividad): generadores del espacio urbano. Tres (marshalliano, schumpeteriano, marxiano): principios de organización económica de los que nacen"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-p009",
+   "par": "Puntos B, C, D, E y F de la Fig. 1.6",
+   "diferencia": "B: solo costos. C: máximo per cápita (AB menos AC). D: solo beneficios. E: MC = MB (óptimo social). F: costos y beneficios en equilibrio (dimensión máxima)"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-p010",
+   "par": "Óptimo per cápita (C) y óptimo social (E)",
+   "diferencia": "C favorece a la población ya residente y podría bloquear la expansión; en C los beneficios totales aún crecen más que los costos. E es para toda la colectividad (programación)"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-p011",
+   "par": "Dimensión óptima y dimensión eficiente",
+   "diferencia": "El texto propone un intervalo de dimensiones eficientes ligado al rol de cada ciudad en la jerarquía, no una cifra única"
+  },
+  {
+   "id": "s03-camagni-2005-intro-cap1-p012",
+   "par": "Enfoque liberal y radical",
+   "diferencia": "Liberal: equilibrio general competitivo, indiferencia localizativa, ventajas netas capitalizadas en renta del suelo. Radical: dominio y monopolio, la gran ciudad como costo social, \"tiranía de la ciudad\""
+  }
+ ]
+}

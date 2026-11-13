@@ -1,0 +1,1451 @@
+{
+ "semana": 7,
+ "lectura": "transport-access-manual-2020",
+ "autor": "Committee of the Transport Access Manual (CoTAM)",
+ "titulo": "Transport Access Manual: A Guide for Measuring Connection between People and Places, capítulo 1 (Concepts) y capítulo 3 (Measures)",
+ "alcance": "pp. 16-21 (final de la introducción del cap. 1 y secciones 1.1 a 1.3) y pp. 45-57 (cap. 3 completo hasta la Fig. 3.3); la p. 15 y la p. 44 se leyeron solo como contexto",
+ "fuente": "content/semana-07/transport-access-manual-2020/ficha.md",
+ "preguntas": [
+  {
+   "id": "s07-transport-access-manual-2020-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Qué busca el transporte según el Manual?",
+   "respuesta": "Conectar a las personas con bienes, servicios y actividades; p. 15, contexto.",
+   "referencia": "p. 15",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q002",
+   "n_ficha": 2,
+   "tipo": "vf",
+   "enunciado": "Para el Manual, access y accessibility se usan indistintamente.",
+   "respuesta": "Verdadero; nota 1, p. 15.",
+   "referencia": "p. 15",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "nota 1, p. 15."
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo describe el Manual el cambio de enfoque?",
+   "respuesta": "De una planificación orientada a la movilidad a una orientada al acceso; p. 15, contexto.",
+   "referencia": "p. 15",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es access management?",
+   "respuesta": "Regular la entrada a calles locales y accesos desde vías mayores; nota 2, p. 15.",
+   "referencia": "p. 15",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Qué sugiere el Manual sobre su estructura de lectura?",
+   "respuesta": "Es no lineal, como un hipertexto, y no hace falta leerlo en secuencia; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿Dónde lista el Manual recursos adicionales?",
+   "respuesta": "Apéndice H; nota 3, p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es transit según la nota 4?",
+   "respuesta": "Equivalente a public transport; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos ejemplos de preguntas que responde el acceso lista la p. 16?",
+   "respuesta": "Siete.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "¿En cuánto tiempo deberían poder llegar los bomberos en el ejemplo de la p. 16?",
+   "respuesta": "12 minutos.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q010",
+   "n_ficha": 10,
+   "tipo": "abierta",
+   "enunciado": "¿Qué distancia en tiempo de ambulancia se menciona para el hospital?",
+   "respuesta": "30 minutos; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice el Manual del movimiento frente al acceso?",
+   "respuesta": "El acceso ve el movimiento como un medio, no como un fin; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el fin según el Manual?",
+   "respuesta": "La capacidad de participar en la actividad que el viajero busca; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q013",
+   "n_ficha": 13,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo define el Manual mobility?",
+   "respuesta": "El movimiento de personas y bienes de aquí a allá: cuánto puede alguien recorrer en un tiempo dado; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q014",
+   "n_ficha": 14,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo define el Manual access en la sección 1.1?",
+   "respuesta": "Qué lugares puede alcanzar alguien en ese tiempo; cuántos bienes, servicios, destinos o interacciones sociales; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q015",
+   "n_ficha": 15,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es el Green Book?",
+   "respuesta": "A Policy on the Geometric Design of Streets and Highways, de AASHTO, 2018; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dos funciones de la vía usa AASHTO?",
+   "respuesta": "Mobility y access; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q017",
+   "n_ficha": 17,
+   "tipo": "vf",
+   "enunciado": "Según AASHTO, las arterias deben tener bajo acceso y alta movilidad.",
+   "respuesta": "Verdadero; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "p. 17."
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q018",
+   "n_ficha": 18,
+   "tipo": "vf",
+   "enunciado": "Según el Manual, el uso del suelo es lo central en la definición de acceso de AASHTO.",
+   "respuesta": "Falso: para AASHTO no importa el uso del suelo, solo que un conductor pueda estacionar; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "para AASHTO no importa el uso del suelo, solo que un conductor pueda estacionar; p. 17."
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "¿Qué otra confusión señala el Manual con el término access?",
+   "respuesta": "La de acceder al propio sistema de transporte, por ejemplo vivir a menos de 10 minutos de una parada; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "¿Qué velocidad promedio reporta el Mobility Report de NYC DOT 2018 para el tráfico de Midtown Manhattan?",
+   "respuesta": "Menos de 8 km/h, 5 mph; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q021",
+   "n_ficha": 21,
+   "tipo": "abierta",
+   "enunciado": "¿Qué caso representa alto acceso y relativamente baja movilidad?",
+   "respuesta": "Midtown Manhattan; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántas pizzerías tiene Nueva York según el texto y cuántas Laramie?",
+   "respuesta": "Más de 350 y menos de una docena; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q023",
+   "n_ficha": 23,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ilustra Laramie, Wyoming?",
+   "respuesta": "Mucha distancia cubierta en media hora pero pocos destinos alcanzables; p. 17.",
+   "referencia": "p. 17",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q024",
+   "n_ficha": 24,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tres sistemas interactúan con Access en la Fig. 1.1?",
+   "respuesta": "Redes de transporte, Speed; uso del suelo y demanda de viaje, Activity; sistema financiero, Money; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q025",
+   "n_ficha": 25,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es el flujo principal del modelo?",
+   "respuesta": "Más Activity genera más Money, más Money financia infraestructura y aumenta Speed, mayor Speed aumenta Access y más Access produce más Activity; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q026",
+   "n_ficha": 26,
+   "tipo": "abierta",
+   "enunciado": "¿Qué expresión usa el texto para el lazo positivo principal?",
+   "respuesta": "\"More begets more\"; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q027",
+   "n_ficha": 27,
+   "tipo": "abierta",
+   "enunciado": "¿Qué representa la línea central de Access a Money?",
+   "respuesta": "Captura de valor del suelo: la gente paga un premio por ubicarse donde hay más oportunidades; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q028",
+   "n_ficha": 28,
+   "tipo": "vf",
+   "enunciado": "La conexión de Activity a Access es positiva.",
+   "respuesta": "Verdadero; más gente, más acceso; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa",
+   "verdadera": true,
+   "explicacion": "más gente, más acceso; p. 19."
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q029",
+   "n_ficha": 29,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué la conexión de Speed a Money es positiva?",
+   "respuesta": "Porque la gente paga un premio por viajar más rápido, en teoría por el tiempo que ahorra; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q030",
+   "n_ficha": 30,
+   "tipo": "abierta",
+   "enunciado": "¿Qué evitan los dampeners?",
+   "respuesta": "Que las ciudades converjan a un solo punto en el espacio; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q031",
+   "n_ficha": 31,
+   "tipo": "abierta",
+   "enunciado": "¿Qué representa la conexión negativa de Activity a Speed?",
+   "respuesta": "Aglomeración y congestión; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q032",
+   "n_ficha": 32,
+   "tipo": "abierta",
+   "enunciado": "¿Qué representa la conexión negativa de Money a Activity?",
+   "respuesta": "Lo que es más caro se consume menos; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q033",
+   "n_ficha": 33,
+   "tipo": "abierta",
+   "enunciado": "¿Qué representa la conexión negativa de Access a Speed?",
+   "respuesta": "Las fricciones de ubicarse en un lugar con acceso; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q034",
+   "n_ficha": 34,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ejemplo da el texto para Access a Speed?",
+   "respuesta": "Una autopista urbana, aunque no esté congestionada, es más lenta que una rural; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q035",
+   "n_ficha": 35,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántas conexiones positivas y negativas tiene la Fig. 1.1?",
+   "respuesta": "Siete positivas y tres negativas; de la figura, p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q036",
+   "n_ficha": 36,
+   "tipo": "abierta",
+   "enunciado": "¿Qué mide la Fig. 1.2?",
+   "respuesta": "La relación física entre acceso, movimiento y lugar, y el vecindario de 10, 15 o 20 minutos; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q037",
+   "n_ficha": 37,
+   "tipo": "abierta",
+   "enunciado": "¿Qué color representa cada modo en la Fig. 1.2?",
+   "respuesta": "Amarillo caminar, verde bicicleta, naranja bus, azul tren, morado automóvil; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q038",
+   "n_ficha": 38,
+   "tipo": "abierta",
+   "enunciado": "¿Qué incluye caminar en la figura?",
+   "respuesta": "Viajes en silla de ruedas y con cochecitos; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q039",
+   "n_ficha": 39,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la relación D, R y T de la nota 8?",
+   "respuesta": "D = R · T; T = D/R; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q040",
+   "n_ficha": 40,
+   "tipo": "abierta",
+   "enunciado": "¿De qué depende la velocidad de viaje y de qué la distancia?",
+   "respuesta": "La velocidad, del diseño de la vía y el tráfico; la distancia, de la directness o circuity de la red; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q041",
+   "n_ficha": 41,
+   "tipo": "abierta",
+   "enunciado": "¿Qué más reconoce la movilidad según el texto?",
+   "respuesta": "El costo monetario respecto del ingreso y lo que la gente sabe o percibe de la red; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q042",
+   "n_ficha": 42,
+   "tipo": "abierta",
+   "enunciado": "¿Qué mide place?",
+   "respuesta": "Ubicación, tipo e intensidad de las actividades disponibles; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q043",
+   "n_ficha": 43,
+   "tipo": "abierta",
+   "enunciado": "¿Qué otros términos usa el texto para el mismo concepto de place?",
+   "respuesta": "Land use y destinations; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q044",
+   "n_ficha": 44,
+   "tipo": "abierta",
+   "enunciado": "Según el texto de la p. 20, ¿a qué distancia en bicicleta queda el parque regional del ejemplo?",
+   "respuesta": "A 20 minutos; la figura lo rotula 10 mins.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q045",
+   "n_ficha": 45,
+   "tipo": "abierta",
+   "enunciado": "¿Qué indican las líneas discontinuas de la Fig. 1.2?",
+   "respuesta": "Isocronas de 10, 20 y 30 minutos caminando; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q046",
+   "n_ficha": 46,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánto llega el ciclista en 10 minutos comparado con caminar?",
+   "respuesta": "Tan lejos como se camina en 20 minutos; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q047",
+   "n_ficha": 47,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice el texto que debe medirse en lugar de velocidad y congestión?",
+   "respuesta": "El acceso; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q048",
+   "n_ficha": 48,
+   "tipo": "vf",
+   "enunciado": "Según la p. 20, lo que importa es qué tan rápido se mueve la gente.",
+   "respuesta": "Falso: lo que importa es cuántas cosas pueden alcanzar.",
+   "referencia": null,
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "lo que importa es cuántas cosas pueden alcanzar."
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q049",
+   "n_ficha": 49,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se agrupan las medidas de accesibilidad en el capítulo 3?",
+   "respuesta": "Primal y dual; p. 45.",
+   "referencia": "p. 45",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q050",
+   "n_ficha": 50,
+   "tipo": "abierta",
+   "enunciado": "¿Qué miden las medidas primales?",
+   "respuesta": "Cuántas oportunidades se alcanzan en un tiempo o costo dado; opportunity-denominated; p. 45.",
+   "referencia": "p. 45",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q051",
+   "n_ficha": 51,
+   "tipo": "abierta",
+   "enunciado": "¿Qué miden las duales?",
+   "respuesta": "Cuánto tiempo o costo toma alcanzar un conjunto dado de oportunidades; p. 45.",
+   "referencia": "p. 45",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q052",
+   "n_ficha": 52,
+   "tipo": "abierta",
+   "enunciado": "¿Qué describen a grandes rasgos las primales y las duales?",
+   "respuesta": "Primales, la amplitud de oportunidades; duales, el costo de viajar a un conjunto específico; p. 45.",
+   "referencia": "p. 45",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q053",
+   "n_ficha": 53,
+   "tipo": "abierta",
+   "enunciado": "¿Quién describió tempranamente el potencial u oportunidad de interacción?",
+   "respuesta": "Carey, 1867, Principles of Social Science; p. 46.",
+   "referencia": "p. 46",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q054",
+   "n_ficha": 54,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo definió Hansen la accesibilidad?",
+   "respuesta": "Como el potencial de oportunidades para la interacción; 1959; p. 46.",
+   "referencia": "p. 46",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q055",
+   "n_ficha": 55,
+   "tipo": "abierta",
+   "enunciado": "Escriba la ecuación de Hansen.",
+   "respuesta": "A_i = Σ_j O_j f(C_ij); p. 46.",
+   "referencia": "p. 46",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q056",
+   "n_ficha": 56,
+   "tipo": "abierta",
+   "enunciado": "¿Qué significan O_j y C_ij?",
+   "respuesta": "Oportunidades en el destino j y costo de viaje de i a j; p. 46.",
+   "referencia": "p. 46",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q057",
+   "n_ficha": 57,
+   "tipo": "abierta",
+   "enunciado": "¿Para qué se ha usado la ecuación de Hansen?",
+   "respuesta": "Empleos, servicios minoristas y otras personas; p. 46.",
+   "referencia": "p. 46",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q058",
+   "n_ficha": 58,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es un travelshed?",
+   "respuesta": "El área encerrada por una isocrona, cuyo límite es un tiempo de viaje dado desde el origen; nota 10, p. 46.",
+   "referencia": "p. 46",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q059",
+   "n_ficha": 59,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la impedancia de una medida acumulada?",
+   "respuesta": "Binaria: 1 si C_ij ≤ t, si no 0; Ec. 3.2, p. 47.",
+   "referencia": "p. 47",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q060",
+   "n_ficha": 60,
+   "tipo": "abierta",
+   "enunciado": "Nombre dos ventajas de la medida de oportunidades acumuladas.",
+   "respuesta": "Pocos datos; la entienden los no especialistas; significado consistente para comparar; p. 47.",
+   "referencia": "p. 47",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q061",
+   "n_ficha": 61,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es un edge effect?",
+   "respuesta": "Un gran grupo de destinos justo después del corte que cambia el resultado; p. 47.",
+   "referencia": "p. 47",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q062",
+   "n_ficha": 62,
+   "tipo": "abierta",
+   "enunciado": "En el ejemplo del texto, ¿qué lugares tendrían más acceso con un corte de 45 minutos?",
+   "respuesta": "Los que están a 44 minutos del grupo de destinos frente a los de 46; p. 47.",
+   "referencia": "p. 47",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q063",
+   "n_ficha": 63,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se mitiga la arbitrariedad del corte?",
+   "respuesta": "Examinando un rango de umbrales; p. 47.",
+   "referencia": "p. 47",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q064",
+   "n_ficha": 64,
+   "tipo": "abierta",
+   "enunciado": "¿Qué umbrales típicos se anclan para viajes al trabajo?",
+   "respuesta": "15, 30, 45 y 60 minutos; nota 16, p. 47.",
+   "referencia": "p. 47",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q065",
+   "n_ficha": 65,
+   "tipo": "vf",
+   "enunciado": "Existe un estándar claro del número correcto de oportunidades accesibles.",
+   "respuesta": "Falso; p. 47.",
+   "referencia": "p. 47",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "p. 47."
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q066",
+   "n_ficha": 66,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se define la medida ponderada?",
+   "respuesta": "Descuenta las oportunidades según su distancia, tiempo o costo; p. 48.",
+   "referencia": "p. 48",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q067",
+   "n_ficha": 67,
+   "tipo": "abierta",
+   "enunciado": "¿Con qué nombre histórico se conocen las medidas ponderadas y por qué?",
+   "respuesta": "Gravity-type; las primeras funciones se basaron en la ley de gravedad de Newton; nota 18, p. 48.",
+   "referencia": "p. 48",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q068",
+   "n_ficha": 68,
+   "tipo": "abierta",
+   "enunciado": "¿Qué requisito debe cumplir la impedancia?",
+   "respuesta": "Ser decreciente, o más exactamente no creciente, respecto del tiempo; nota 21, p. 48.",
+   "referencia": "p. 48",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q069",
+   "n_ficha": 69,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la función de impedancia más usada?",
+   "respuesta": "Exponencial negativa, e^(β C_ij), con β < 0; Ec. 3.3, p. 48.",
+   "referencia": "p. 48",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q070",
+   "n_ficha": 70,
+   "tipo": "abierta",
+   "enunciado": "¿Qué son las effective opportunities?",
+   "respuesta": "El equivalente de cierto número de oportunidades justo en la puerta, con peso 1 en tiempo cero; p. 49.",
+   "referencia": "p. 49",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q071",
+   "n_ficha": 71,
+   "tipo": "abierta",
+   "enunciado": "¿Qué rango se sugiere para reescalar?",
+   "respuesta": "0 a 100; p. 49, Geurs y Van Wee 2004.",
+   "referencia": "p. 49",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q072",
+   "n_ficha": 72,
+   "tipo": "abierta",
+   "enunciado": "¿Qué valores típicos de β da la Tabla 3.1 para la exponencial?",
+   "respuesta": "−0,008 de observed trips y −0,054 de best model fit; p. 49.",
+   "referencia": "p. 49",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q073",
+   "n_ficha": 73,
+   "tipo": "abierta",
+   "enunciado": "¿Qué parámetros trae la función Generalized Exp. en la Tabla 3.1?",
+   "respuesta": "α = 1,8 y β = −0,002; p. 49.",
+   "referencia": "p. 49",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q074",
+   "n_ficha": 74,
+   "tipo": "abierta",
+   "enunciado": "¿Qué indica el símbolo † y el ⊕ en la Tabla 3.1?",
+   "respuesta": "†, observed trips, Reggiani et al. 2011; ⊕, best model fit, Feldman et al. 2012 y Wu et al. 2019; p. 49.",
+   "referencia": "p. 49",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q075",
+   "n_ficha": 75,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo es la función logística y qué significa 0.5*?",
+   "respuesta": "Curva en S invertida con punto de inflexión t_i; f = 0,5 cuando C_ij = t_i; p. 49.",
+   "referencia": "p. 49",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q076",
+   "n_ficha": 76,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la ventaja de la medida ponderada?",
+   "respuesta": "Considera todo el rango de tiempos; p. 49.",
+   "referencia": "p. 49",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q077",
+   "n_ficha": 77,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dificultad principal tiene la medida ponderada?",
+   "respuesta": "Elegir la función de impedancia y estimar sus parámetros; p. 50.",
+   "referencia": "p. 50",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q078",
+   "n_ficha": 78,
+   "tipo": "abierta",
+   "enunciado": "¿De dónde puede tomarse β si hay un modelo estratégico?",
+   "respuesta": "Del componente de elección de destino o distribución de viajes; p. 50.",
+   "referencia": "p. 50",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q079",
+   "n_ficha": 79,
+   "tipo": "abierta",
+   "enunciado": "¿Qué método simplificado se propone para calibrar β?",
+   "respuesta": "Con tiempos de viaje medianos observados por propósito, modo o población; Merlin 2020; p. 50.",
+   "referencia": "p. 50",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q080",
+   "n_ficha": 80,
+   "tipo": "vf",
+   "enunciado": "Las medidas ponderadas son transferibles entre ciudades y años.",
+   "respuesta": "Falso; p. 50.",
+   "referencia": "p. 50",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "p. 50."
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q081",
+   "n_ficha": 81,
+   "tipo": "abierta",
+   "enunciado": "¿Qué suponen las acumuladas y las ponderadas de los destinos de un tipo?",
+   "respuesta": "Que son fungibles y ofrecen el mismo atractivo; nota 31, p. 50.",
+   "referencia": "p. 50",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q082",
+   "n_ficha": 82,
+   "tipo": "abierta",
+   "enunciado": "¿Qué significa que una oportunidad sea rival?",
+   "respuesta": "Que si una persona la ocupa no queda disponible para otra; p. 51.",
+   "referencia": "p. 51",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q083",
+   "n_ficha": 83,
+   "tipo": "abierta",
+   "enunciado": "¿Qué ejemplo usa el texto para contrastar parques y camas de hospital?",
+   "respuesta": "Los parques rara vez están llenos; las camas hay que medirlas respecto de la población; p. 51.",
+   "referencia": "p. 51",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q084",
+   "n_ficha": 84,
+   "tipo": "abierta",
+   "enunciado": "¿En qué se basa el acceso competitivo?",
+   "respuesta": "Descuenta cada oportunidad por la demanda que tiene acceso a ella; p. 51.",
+   "referencia": "p. 51",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q085",
+   "n_ficha": 85,
+   "tipo": "abierta",
+   "enunciado": "¿De quién se adapta la formulación de las Ecs. 3.4 a 3.6?",
+   "respuesta": "Shen 1998; nota 34, p. 51.",
+   "referencia": "p. 51",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q086",
+   "n_ficha": 86,
+   "tipo": "abierta",
+   "enunciado": "¿Qué calcula la Ec. 3.4?",
+   "respuesta": "El acceso en el destino a la demanda: A_j = Σ_i D_i f(C_ji); p. 51.",
+   "referencia": "p. 51",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q087",
+   "n_ficha": 87,
+   "tipo": "abierta",
+   "enunciado": "¿Qué calcula la Ec. 3.5?",
+   "respuesta": "El descuento por competencia g(O_j) = O_j / A_j; p. 52.",
+   "referencia": "p. 52",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q088",
+   "n_ficha": 88,
+   "tipo": "abierta",
+   "enunciado": "¿Qué calcula la Ec. 3.6?",
+   "respuesta": "El acceso competitivo A_i^g = Σ_j g(O_j) f(C_ij); p. 52.",
+   "referencia": "p. 52",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q089",
+   "n_ficha": 89,
+   "tipo": "abierta",
+   "enunciado": "¿Qué pasa con el promedio de acceso competitivo si oferta y demanda están balanceadas?",
+   "respuesta": "Es exactamente 1,0; p. 52.",
+   "referencia": "p. 52",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q090",
+   "n_ficha": 90,
+   "tipo": "abierta",
+   "enunciado": "¿Qué significa un acceso competitivo mayor que 1,0?",
+   "respuesta": "Acceso superior; menor que 1,0, inferior; nota 36, p. 52.",
+   "referencia": "p. 52",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q091",
+   "n_ficha": 91,
+   "tipo": "abierta",
+   "enunciado": "¿Qué mejora el acceso competitivo respecto del balance empleo-trabajador?",
+   "respuesta": "No se limita a fronteras jurisdiccionales; nota 36, p. 52.",
+   "referencia": "p. 52",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q092",
+   "n_ficha": 92,
+   "tipo": "abierta",
+   "enunciado": "Nombre dos desventajas del acceso competitivo.",
+   "respuesta": "Más cálculo y mayor dificultad de interpretación por ser una razón; también lugares con muchas oportunidades y alta demanda dan razones parecidas a otros con pocas y baja demanda; p. 52.",
+   "referencia": "p. 52",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q093",
+   "n_ficha": 93,
+   "tipo": "abierta",
+   "enunciado": "¿Qué recomienda el texto si las medidas simples dan la misma orientación de política?",
+   "respuesta": "Preferir las simples; p. 52.",
+   "referencia": "p. 52",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q094",
+   "n_ficha": 94,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se denomina una medida dual?",
+   "respuesta": "Por el tiempo requerido para alcanzar un número dado de oportunidades; p. 53.",
+   "referencia": "p. 53",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q095",
+   "n_ficha": 95,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es el pint-of-milk test?",
+   "respuesta": "Si se puede comprar un litro de leche a menos de 10 minutos caminando desde la casa; p. 53.",
+   "referencia": "p. 53",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q096",
+   "n_ficha": 96,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el umbral de oportunidades en el pint-of-milk test?",
+   "respuesta": "1; p. 53.",
+   "referencia": "p. 53",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q097",
+   "n_ficha": 97,
+   "tipo": "abierta",
+   "enunciado": "¿Qué calcula la Ec. 3.7?",
+   "respuesta": "El mínimo de C_ij para todo j con O_j > 0; p. 53.",
+   "referencia": "p. 53",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q098",
+   "n_ficha": 98,
+   "tipo": "abierta",
+   "enunciado": "¿Qué cambia entre el acceso primal y el dual en cuanto a las isocronas?",
+   "respuesta": "En el primal el tamaño es fijo y se cuentan oportunidades; en el dual la isocrona se expande hasta cubrir un umbral; pp. 53-54.",
+   "referencia": "pp. 53-54",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q099",
+   "n_ficha": 99,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es Ω en la formulación dual?",
+   "respuesta": "El umbral de oportunidades; p. 54.",
+   "referencia": "p. 54",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q100",
+   "n_ficha": 100,
+   "tipo": "abierta",
+   "enunciado": "¿Qué restricción impone la Ec. 3.10?",
+   "respuesta": "Σ_j O_j Q_ij ≥ Ω; p. 54.",
+   "referencia": "p. 54",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q101",
+   "n_ficha": 101,
+   "tipo": "abierta",
+   "enunciado": "¿Qué valores toma Q_ij?",
+   "respuesta": "0 o 1; Ec. 3.11, p. 54.",
+   "referencia": "p. 54",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q102",
+   "n_ficha": 102,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo deben estar ordenados los tiempos C_i en el algoritmo?",
+   "respuesta": "De menor a mayor, de las ubicaciones más cercanas a las más lejanas; p. 54.",
+   "referencia": "p. 54",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q103",
+   "n_ficha": 103,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es ω_i?",
+   "respuesta": "Una variable temporal con los destinos acumulados en la iteración k; p. 55.",
+   "referencia": "p. 55",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q104",
+   "n_ficha": 104,
+   "tipo": "abierta",
+   "enunciado": "¿Qué actualiza el algoritmo en cada iteración?",
+   "respuesta": "ω_i ← ω_i + O_k y A'_i ← max(A'_i, C_ik); Fig. 3.2, p. 55.",
+   "referencia": "p. 55",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q105",
+   "n_ficha": 105,
+   "tipo": "abierta",
+   "enunciado": "¿Dónde está el script en R para calcular el acceso dual?",
+   "respuesta": "Apéndice E; p. 55.",
+   "referencia": "p. 55",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q106",
+   "n_ficha": 106,
+   "tipo": "abierta",
+   "enunciado": "¿Qué relación hay entre las medidas primal y dual?",
+   "respuesta": "Con medición suficientemente precisa, A oportunidades en t minutos corresponde a t minutos para A oportunidades; Breheny 1978, p. 55.",
+   "referencia": "p. 55",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q107",
+   "n_ficha": 107,
+   "tipo": "abierta",
+   "enunciado": "Nombre dos ventajas de la medida dual.",
+   "respuesta": "Es intuitiva y se alinea con la percepción del público; facilita comparar entre ciudades; se cuantifica como el costo en tiempo de tareas; pp. 55-56.",
+   "referencia": "pp. 55-56",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q108",
+   "n_ficha": 108,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué es arbitrario fijar un umbral mayor que 1?",
+   "respuesta": "Hay poco consenso sobre el mínimo de oportunidades para la plena participación; p. 56.",
+   "referencia": "p. 56",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q109",
+   "n_ficha": 109,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué el tiempo solo puede no reflejar la preferencia?",
+   "respuesta": "Porque el lugar principal de compras no tiene por qué ser el más cercano a casa; Burns y Warren 1995, p. 56.",
+   "referencia": "p. 56",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q110",
+   "n_ficha": 110,
+   "tipo": "vf",
+   "enunciado": "Las buenas prácticas de las medidas duales están más establecidas que las de las primales.",
+   "respuesta": "Falso; p. 56.",
+   "referencia": "p. 56",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "p. 56."
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q111",
+   "n_ficha": 111,
+   "tipo": "abierta",
+   "enunciado": "¿Qué muestra la Fig. 3.3?",
+   "respuesta": "Travelsheds en transporte público a las 8 AM en Minneapolis-St. Paul, de 10 a 60 minutos, para un bloque censal de origen; fuente Accessibility Observatory 2017; p. 57.",
+   "referencia": "p. 57",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q112",
+   "n_ficha": 112,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice la Tabla 3.1 sobre f en C_ij = 0 para Power (Gravity) y Tanner?",
+   "respuesta": "0; p. 49.",
+   "referencia": "p. 49",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q113",
+   "n_ficha": 113,
+   "tipo": "abierta",
+   "enunciado": "En la Fig. 3.1, ¿qué función aparece en la leyenda y no en la Tabla 3.1?",
+   "respuesta": "Gaussian y Step; pp. 48-49.",
+   "referencia": "pp. 48-49",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-q114",
+   "n_ficha": 114,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el criterio de la Ec. 3.10 y cuál el del diagrama de la Fig. 3.2?",
+   "respuesta": "La ecuación pide Σ ≥ Ω; el diagrama sigue mientras ω_i + O_k ≤ Ω; pp. 54-55.",
+   "referencia": "pp. 54-55",
+   "estado": "completa"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s07-transport-access-manual-2020-t001",
+   "n_ficha": 1,
+   "grupo": "Acceso, movilidad y el modelo de la Fig. 1.1",
+   "texto": "Access (Manual) es qué lugares se alcanzan en un tiempo dado; mobility es qué tanto se recorre (p. 17). No intercambiar.",
+   "referencia": "p. 17"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t002",
+   "n_ficha": 2,
+   "grupo": "Acceso, movilidad y el modelo de la Fig. 1.1",
+   "texto": "El Manual no se centra en llegar a paradas o estaciones (\"How many people live within 10 minutes of a bus stop?\"); mide llegar a lugares de interés (p. 17).",
+   "referencia": "p. 17"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t003",
+   "n_ficha": 3,
+   "grupo": "Acceso, movilidad y el modelo de la Fig. 1.1",
+   "texto": "AASHTO: dos funciones de la vía, mobility y access; arterias, alta movilidad y bajo acceso; locales, baja movilidad y alto acceso (p. 17). Para AASHTO no importa el uso del suelo. Error típico: atribuirle al Manual la clasificación funcional.",
+   "referencia": "p. 17"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t004",
+   "n_ficha": 4,
+   "grupo": "Acceso, movilidad y el modelo de la Fig. 1.1",
+   "texto": "Midtown Manhattan: menos de 8 km/h (5 mph), alto acceso y baja movilidad. Laramie: mucha distancia en media hora, pocos destinos. Más de 350 pizzerías en Nueva York frente a menos de una docena en Laramie (p. 17). No invertir los casos.",
+   "referencia": "p. 17"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t005",
+   "n_ficha": 5,
+   "grupo": "Acceso, movilidad y el modelo de la Fig. 1.1",
+   "texto": "Access management es otra cosa (nota 2); access y accessibility son intercambiables (nota 1).",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t006",
+   "n_ficha": 6,
+   "grupo": "Acceso, movilidad y el modelo de la Fig. 1.1",
+   "texto": "El fin del transporte no es el movimiento sino la actividad: \"movement as a means, not an end\" (p. 16).",
+   "referencia": "p. 16"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t007",
+   "n_ficha": 7,
+   "grupo": "Acceso, movilidad y el modelo de la Fig. 1.1",
+   "texto": "Las siete preguntas de la p. 16: grupos con acceso por encima o debajo del promedio, transit y empleos, ubicación del negocio, entretenimiento y restaurantes, estudiantes caminando o en bicicleta, hospital a 30 minutos en ambulancia, bomberos a 12 minutos. No mezclar cifras (30 y 12).",
+   "referencia": "p. 16"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t008",
+   "n_ficha": 8,
+   "grupo": "Acceso, movilidad y el modelo de la Fig. 1.1",
+   "texto": "Fig. 1.1: Speed, Activity, Access y Money. Flujo principal: Activity a Money a Speed a Access a Activity, todo positivo (más begets más). Tres negativas: Activity a Speed (congestión), Money a Activity (lo caro se consume menos), Access a Speed (fricciones de ubicarse en lugares con acceso).",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t009",
+   "n_ficha": 9,
+   "grupo": "Acceso, movilidad y el modelo de la Fig. 1.1",
+   "texto": "Las tres positivas interiores: Access a Money (captura de valor del suelo), Activity a Access, Speed a Money (la gente paga un premio por viajar más rápido). Sin amortiguadores las ciudades convergerían a un punto.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t010",
+   "n_ficha": 10,
+   "grupo": "Acceso, movilidad y el modelo de la Fig. 1.1",
+   "texto": "La velocidad aumenta el acceso, pero el acceso reduce la velocidad: no por aglomeración sino por fricciones (autopista urbana frente a rural, semáforos en cada cuadra).",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t011",
+   "n_ficha": 11,
+   "grupo": "Movimiento, lugar y vecindario de 10 minutos",
+   "texto": "Colores: amarillo caminar (incluye sillas de ruedas y cochecitos), verde bicicleta, naranja bus, azul tren, morado automóvil (p. 20).",
+   "referencia": "p. 20"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t012",
+   "n_ficha": 12,
+   "grupo": "Movimiento, lugar y vecindario de 10 minutos",
+   "texto": "D = R · T; T = D/R (nota 8). La velocidad depende del diseño de la vía y del tráfico; la distancia, de la directness o circuity; la movilidad además depende del costo respecto del ingreso y de información y percepción.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t013",
+   "n_ficha": 13,
+   "grupo": "Movimiento, lugar y vecindario de 10 minutos",
+   "texto": "Ejemplo textual: cancha a 10 minutos caminando, parque regional a 20 minutos en bicicleta, hospital a 10 minutos en bus; las isocronas son de 10, 20 y 30 minutos caminando; el ciclista llega en 10 minutos tan lejos como se camina en 20 (p. 20). La figura muestra 10 mins en bicicleta a los parques (inconsistencia 1): si la pregunta es sobre el texto, 20; si es sobre la figura, 10.",
+   "referencia": "p. 20"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t014",
+   "n_ficha": 14,
+   "grupo": "Movimiento, lugar y vecindario de 10 minutos",
+   "texto": "Lo que importa no es qué tan rápido se mueven las personas sino cuántas cosas pueden alcanzar; lo que se mide en lugar de velocidad y congestión es el acceso (p. 20).",
+   "referencia": "p. 20"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t015",
+   "n_ficha": 15,
+   "grupo": "Primal frente a dual",
+   "texto": "Primal: opportunity-denominated. Dual: time- o cost-denominated (p. 45). Primales, amplitud de oportunidades; duales, costo de llegar a un conjunto específico.",
+   "referencia": "p. 45"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t016",
+   "n_ficha": 16,
+   "grupo": "Primal frente a dual",
+   "texto": "Tres medidas primales: cumulative, weighted cumulative y competitive. Dos tipos de dual: single y multiple opportunity.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t017",
+   "n_ficha": 17,
+   "grupo": "Primal frente a dual",
+   "texto": "Hansen (1959): accessibility como \"the potential of opportunities for interaction\"; Carey (1867) fue la descripción temprana del potencial. Usos de la Ec. 3.1: empleos (Linneker y Spence 1992), servicios minoristas (Guy 1983), otras personas (Patton y Clark 1970). No intercambiar autores.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t018",
+   "n_ficha": 18,
+   "grupo": "Primal frente a dual",
+   "texto": "Términos de la Ec. 3.1: A_i acceso desde i; O_j oportunidades en el destino j; C_ij costo de viajar de i a j; f(C_ij) función de impedancia.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t019",
+   "n_ficha": 19,
+   "grupo": "Acumulada",
+   "texto": "Impedancia binaria: 1 si C_ij ≤ t, si no 0 (Ec. 3.2). Ventajas: pocos datos, comprensible para juntas no expertas, significado consistente entre tiempos y lugares.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t020",
+   "n_ficha": 20,
+   "grupo": "Acumulada",
+   "texto": "Desventajas: edge effects (ejemplo 44 y 46 minutos con un corte de 45), el corte afecta el ranking (Pereira 2019) y no hay un estándar del número correcto de oportunidades. El texto añade que en la mayoría de los casos prácticos los edge effects son menores y que se mitiga con varios umbrales.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t021",
+   "n_ficha": 21,
+   "grupo": "Acumulada",
+   "texto": "Umbrales de ejemplo: 5, 10, ..., 60 minutos (nota 16); para viajes al trabajo, 15, 30, 45 y 60.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t022",
+   "n_ficha": 22,
+   "grupo": "Ponderada",
+   "texto": "También se llama gravity; las primeras funciones se basaron en la ley de gravedad de Newton (atracción decrece con el cuadrado de la distancia). Nombre histórico: distance decay; hoy, impedance.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t023",
+   "n_ficha": 23,
+   "grupo": "Ponderada",
+   "texto": "Requisito de la impedancia: decreciente (más exacto, no creciente, nota 21). Forma más común: exponencial negativa, e^(β C_ij) con β < 0 (Ec. 3.3).",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t024",
+   "n_ficha": 24,
+   "grupo": "Ponderada",
+   "texto": "Tiempo cero, peso 1: effective opportunities; conviene reescalar a 0-100 para comparar.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t025",
+   "n_ficha": 25,
+   "grupo": "Ponderada",
+   "texto": "Desventajas: elegir función y parámetros (β varía entre contextos), menos interpretable, no transferible entre ciudades ni años. Opciones de calibración: tomar β del strategic planning model (por propósito, modo, hora), método simplificado con tiempos de viaje medianos (Merlin 2020), ajustar un modelo de elección de destino con la matriz origen-destino (Papa y Coppola 2012), tomar de una región similar (McArthur et al. 2011); si no, usar acumulada.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t026",
+   "n_ficha": 26,
+   "grupo": "Ponderada",
+   "texto": "Tabla 3.1: ocho funciones además de la acumulada; † observed trips (Reggiani et al. 2011); ⊕ best model fit (Feldman et al. 2012; Wu et al. 2019). La exponencial: β = −0,008† y −0,054⊕. Power: α = −1,835†. Generalized Exp.: α = 1,8, β = −0,002. Tanner: α = −0,63, β = −0,5. Log-normal: indefinida en 0.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t027",
+   "n_ficha": 27,
+   "grupo": "Ponderada",
+   "texto": "Nota 31: tanto la acumulada como la ponderada suponen que cada destino de un tipo es fungible y ofrece el mismo atractivo.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t028",
+   "n_ficha": 28,
+   "grupo": "Ponderada",
+   "texto": "Ventaja de la ponderada: 31 minutos se valora más que 59, y 61 es solo marginalmente peor que 59.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t029",
+   "n_ficha": 29,
+   "grupo": "Competitiva",
+   "texto": "Se usa cuando las oportunidades son rivales (empleos, camas de hospital); parques rara vez llenos no lo requieren (ejemplo de Nueva York).",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t030",
+   "n_ficha": 30,
+   "grupo": "Competitiva",
+   "texto": "Tres pasos: A_j a la demanda (Ec. 3.4), g(O_j) = O_j / A_j (Ec. 3.5) y A_i^g = Σ g(O_j) f(C_ij) (Ec. 3.6). Adaptado de Shen (1998).",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t031",
+   "n_ficha": 31,
+   "grupo": "Competitiva",
+   "texto": "Con oferta y demanda balanceadas, el promedio es exactamente 1,0; mayor que 1,0, acceso superior; menor, inferior (Allen y Farber 2017). Mejora el balance empleo-trabajador (Cervero 1989; 1996) porque no se limita a fronteras jurisdiccionales.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t032",
+   "n_ficha": 32,
+   "grupo": "Competitiva",
+   "texto": "Desventajas: más cálculo; es una razón, difícil de interpretar; lugares con muchas oportunidades y alta demanda frente a pocas y mínima demanda dan razones similares (Knox 1978).",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t033",
+   "n_ficha": 33,
+   "grupo": "Competitiva",
+   "texto": "Cierre de 3.1.3: si las simples dan la misma orientación de política, preferir las simples.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t034",
+   "n_ficha": 34,
+   "grupo": "Competitiva",
+   "texto": "Evidencia a favor para empleo (Shen 1998), en especial de menores ingresos (Merlin y Hu 2017a).",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t035",
+   "n_ficha": 35,
+   "grupo": "Dual",
+   "texto": "Pint-of-milk test: umbral de 1 oportunidad, tiempo a la tienda más cercana, aprobada si es menos de 10 minutos caminando. Ec. 3.7: mínimo de C_ij entre destinos con O_j > 0.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t036",
+   "n_ficha": 36,
+   "grupo": "Dual",
+   "texto": "Múltiples oportunidades: la isocrona se expande hasta cubrir Ω; el tiempo de esa isocrona es la medida. En la primal, el tiempo es fijo y se cuentan oportunidades.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t037",
+   "n_ficha": 37,
+   "grupo": "Dual",
+   "texto": "Ecs. 3.8 a 3.11: argmin sobre Q_ij, restricción Σ O_j Q_ij ≥ Ω, Q_ij ∈ {0, 1}; la notación es A'_i, Ω y Q̂_ij (matriz de incidencia). El algoritmo de la Fig. 3.2 ordena C_i de menor a mayor y reordena O igual; ω_i acumula; salida A'_i = max(A'_i, C_ik).",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t038",
+   "n_ficha": 38,
+   "grupo": "Dual",
+   "texto": "Relación primal-dual (Breheny 1978): A oportunidades en t minutos corresponde a t minutos para A oportunidades.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t039",
+   "n_ficha": 39,
+   "grupo": "Dual",
+   "texto": "Ventajas de la dual: intuitiva, escala en minutos comparable entre ciudades, costo en tiempo de tareas (compras, dentista), extensible a lo digital. Desventajas: umbral mayor que 1 arbitrario, poco consenso del mínimo de oportunidades, el tiempo solo puede no reflejar preferencias (Burns y Warren 1995), cálculo menos directo y campo de investigación activa.",
+   "referencia": null
+  },
+  {
+   "id": "s07-transport-access-manual-2020-t040",
+   "n_ficha": 40,
+   "grupo": "Figura 3.3",
+   "texto": "Minneapolis-St. Paul, travelsheds en transporte público a las 8 AM, de 10 a 60 minutos, bloque censal de origen 270531261003046, fuente Accessibility Observatory (2017).",
+   "referencia": null
+  }
+ ],
+ "pares": [
+  {
+   "id": "s07-transport-access-manual-2020-p001",
+   "par": "Mobility y access (Manual)",
+   "diferencia": "Mobility: cuánto puede alguien recorrer en un tiempo dado (movimiento de personas y bienes de aquí a allá). Access: qué lugares puede alcanzar en ese tiempo"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p002",
+   "par": "Access (Manual) y \"access\" de AASHTO",
+   "diferencia": "AASHTO: una de las dos funciones de la vía (da acceso al suelo adyacente; no importa el uso del suelo). Manual: acceso de diferentes personas a una diversidad de lugares"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p003",
+   "par": "Access y access to the transport system",
+   "diferencia": "Lo segundo es, por ejemplo, vivir a menos de 10 minutos de una parada; el Manual mide llegar a lugares de interés, no a partes del sistema"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p004",
+   "par": "Access y access management",
+   "diferencia": "Access management regula la entrada a calles locales y accesos desde vías mayores (Gluck y Lorenz 2010)"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p005",
+   "par": "Access y accessibility",
+   "diferencia": "Se usan indistintamente (nota 1, p. 15)"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p006",
+   "par": "Midtown Manhattan y Laramie",
+   "diferencia": "Midtown: alto acceso y baja movilidad (menos de 8 km/h). Laramie: se cubre mucha distancia pero se alcanzan pocos destinos"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p007",
+   "par": "Activity a Speed y Access a Speed (Fig. 1.1)",
+   "diferencia": "Los dos son negativos. El primero es aglomeración y congestión; el segundo, las fricciones de ubicarse en un lugar con acceso (autopista urbana menos congestionada pero más lenta que una rural)"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p008",
+   "par": "Lazo exterior y conexiones interiores (Fig. 1.1)",
+   "diferencia": "Exterior: Activity a Money a Speed a Access a Activity, todo positivo. Interiores: tres positivas (Access a Money, Activity a Access, Speed a Money) y tres negativas"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p009",
+   "par": "Movement y place (Fig. 1.2)",
+   "diferencia": "Movement: capacidad de moverse en el espacio (modo, velocidad, circuity, costo, información). Place: ubicación, tipo e intensidad de actividades (land use, destinations)"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p010",
+   "par": "Primal y dual",
+   "diferencia": "Primal: oportunidades alcanzables en un tiempo o costo dado (amplitud). Dual: tiempo o costo para alcanzar un número dado de oportunidades"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p011",
+   "par": "Cumulative, weighted cumulative y competitive",
+   "diferencia": "Acumulada: cuenta dentro de un corte (binaria). Ponderada: descuenta por impedancia. Competitiva: descuenta la oferta por la demanda que la alcanza"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p012",
+   "par": "Travelshed e isochrone",
+   "diferencia": "Equivalentes (nota 10): el área cuyo límite es un tiempo de viaje dado desde el origen"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p013",
+   "par": "Impedance, distance decay y gravity-type",
+   "diferencia": "Impedance es el término general (tiempo y otros costos); distance decay es el nombre histórico; gravity-type viene de la ley de gravedad de Newton"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p014",
+   "par": "Strategic planning model y sus sinónimos",
+   "diferencia": "Urban, regional o metropolitan transportation planning model, travel demand model, four-step model (nota 20)"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p015",
+   "par": "Decreasing y non-increasing",
+   "diferencia": "El texto dice decreciente; la nota 21 corrige: no creciente"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p016",
+   "par": "Observed trips (†) y best model fit (⊕)",
+   "diferencia": "Dos fuentes de los valores típicos de la Tabla 3.1: Reggiani et al. 2011; Feldman et al. 2012 y Wu et al. 2019"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p017",
+   "par": "Opportunities rivales y no rivales",
+   "diferencia": "Rivales: empleos, camas de hospital (competitiva). No rivales en la práctica: parques (acumulada o ponderada)"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p018",
+   "par": "A_j (círculo) y A_i^g",
+   "diferencia": "A_j: acceso en el destino a la demanda (Ec. 3.4). A_i^g: acceso competitivo del origen (Ec. 3.6)"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p019",
+   "par": "Single y multiple opportunities (dual)",
+   "diferencia": "Single: mínimo del tiempo a destinos con O_j > 0 (Ec. 3.7). Multiple: isocrona que se expande hasta cubrir Ω (Ecs. 3.8 a 3.11)"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p020",
+   "par": "Edge effect y arbitrariedad del umbral",
+   "diferencia": "Edge effect: un gran grupo de destinos justo después del corte. Arbitrariedad: la elección del corte puede cambiar el ranking de lugares"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p021",
+   "par": "Effective opportunities y número de oportunidades en el travelshed",
+   "diferencia": "Effective: equivalente en oportunidades junto a la puerta (peso 1 en tiempo 0). Número en el travelshed: la medida acumulada"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p022",
+   "par": "Ecuación de Hansen y modelo gravitacional completo",
+   "diferencia": "La Ec. 3.1 es la forma general A_i = Σ O_j f(C_ij); cada medida primal es un caso según f"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-p023",
+   "par": "Pint-of-milk test y dual multiple",
+   "diferencia": "Pint-of-milk: umbral de 1 oportunidad, binaria; el tiempo al mínimo da la medida. Multiple: umbral mayor que 1"
+  }
+ ]
+}

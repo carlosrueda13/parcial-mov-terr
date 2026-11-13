@@ -1,0 +1,1136 @@
+{
+ "semana": 8,
+ "lectura": "fernandez-2023-cap1-2",
+ "autor": "Leidy Carolina Fernández Peña (director: César Augusto Ruiz)",
+ "titulo": "Metodología de evaluación multidimensional de la accesibilidad a través del transporte público como expresión de la vulnerabilidad social en Bogotá, capítulos 1 (Accesibilidad a las funciones básicas de la ciudad a través del transporte público como expresión de la vulnerabilidad social) y 2 (Variables multidimensionales asociadas a la accesibilidad a las funciones básicas de la ciudad a través del transporte público revisadas en las UTAM de Bogotá)",
+ "alcance": "Capítulo 1 (pp. 5-27) y capítulo 2 (pp. 28-50); página impresa = página del PDF menos 20. La introducción (pp. 1-4) y los capítulos 3 en adelante (desde la p. 51) están en el mismo PDF pero no son lectura obligatoria",
+ "fuente": "content/semana-08/fernandez-2023-cap1-2/ficha.md",
+ "preguntas": [
+  {
+   "id": "s08-fernandez-2023-cap1-2-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las cuatro funciones básicas de la ciudad que define la tesis?",
+   "respuesta": "Trabajo, estudio, salud y recreación y cultura; p. 7.",
+   "referencia": "p. 7",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Con qué fuente se definieron las cuatro funciones?",
+   "respuesta": "Con los motivos de viaje de la EMB2019; p. 7.",
+   "referencia": "p. 7",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q003",
+   "n_ficha": 3,
+   "tipo": "vf",
+   "enunciado": "Las cuatro funciones son las únicas que ofrece la ciudad.",
+   "respuesta": "Falso: no son las únicas; p. 7.",
+   "referencia": "p. 7",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "no son las únicas; p. 7."
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿Qué lista de funciones da Lucas (2012)?",
+   "respuesta": "Empleo, educación, salud, recreación y construcción de redes sociales; p. 6.",
+   "referencia": "p. 6",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo define Lefebvre (1973) el derecho a la ciudad, según el texto?",
+   "respuesta": "Derecho de todos los ciudadanos y grupos sociales a disfrutar de las diversas oportunidades que ofrece la ciudad; p. 6.",
+   "referencia": "p. 6",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿Qué objetivo de acceso trae el ODS 2030 que cita el texto?",
+   "respuesta": "Acceso universal, \"que nadie quede rezagado\"; pp. 7-8.",
+   "referencia": "pp. 7-8",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Qué define Hansen (1959) como accesibilidad?",
+   "respuesta": "Un potencial de interacción entre destinos; p. 8.",
+   "referencia": "p. 8",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "¿Y Ben-Akiva (1979)?",
+   "respuesta": "En función de los beneficios proporcionados por la interacción entre el transporte y el uso de la tierra, desde la economía del transporte; p. 8.",
+   "referencia": "p. 8",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dicen Geurs y Van Wee (2004)?",
+   "respuesta": "La medida en que los sistemas de transporte y uso de la tierra permiten llegar a actividades o destinos a través de modos de transporte; p. 8.",
+   "referencia": "p. 8",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q010",
+   "n_ficha": 10,
+   "tipo": "vf",
+   "enunciado": "Según Gacitúa y Sojo, la exclusión social es una categoría o un estatus.",
+   "respuesta": "Falso: debe conceptualizarse como un proceso; p. 12.",
+   "referencia": "p. 12",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "debe conceptualizarse como un proceso; p. 12."
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las cuatro dimensiones de la exclusión según Delbosc y Currie (2011)?",
+   "respuesta": "Consumo, producción, compromiso político e interacción social; pp. 11-12.",
+   "referencia": "pp. 11-12",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "¿Qué factores incluye la pobreza según el Cabinet Office (2009)?",
+   "respuesta": "Desempleo, bajos ingresos, discriminación, crimen, habilidades limitadas y ruptura familiar; p. 11.",
+   "referencia": "p. 11",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q013",
+   "n_ficha": 13,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las tres dimensiones de equidad de Litman (2005)?",
+   "respuesta": "Horizontal; vertical por ingresos y clase social; vertical por necesidad y habilidad de movilidad; p. 12.",
+   "referencia": "p. 12",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q014",
+   "n_ficha": 14,
+   "tipo": "abierta",
+   "enunciado": "¿Quiénes se ven más afectados según Mackett y Thoreau (2015)?",
+   "respuesta": "Menores ingresos, discapacidades, tercera edad, niños, mujeres y minorías étnicas; p. 12.",
+   "referencia": "p. 12",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q015",
+   "n_ficha": 15,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los dos componentes de las capacidades combinadas (Pereira et al., 2017)?",
+   "respuesta": "La capacidad de la persona para acceder y usar el sistema, y la visión macroscópica de la interacción entre el sistema de transporte y los patrones de uso de la tierra; p. 13.",
+   "referencia": "p. 13",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los cuatro elementos de la accesibilidad según Geurs y Wee (2011)?",
+   "respuesta": "Uso del suelo, tiempo, individuo y sistema de transporte; p. 9.",
+   "referencia": "p. 9",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q017",
+   "n_ficha": 17,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo concibe Martens (2012) la movilidad?",
+   "respuesta": "No como un bien normal sino como un bien social distinto, fuera de la esfera del mercado; p. 9.",
+   "referencia": "p. 9",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q018",
+   "n_ficha": 18,
+   "tipo": "abierta",
+   "enunciado": "¿Qué beneficios pasó por alto la planificación tradicional según el texto?",
+   "respuesta": "Tarifas bajas, mayor capacidad de acceder a servicios y menor soledad y depresión por aislamiento; p. 9.",
+   "referencia": "p. 9",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "¿A qué modos se limita el estudio?",
+   "respuesta": "TransMilenio, SITP, SITP provisional, Alimentador, Taxi y Bicitaxi; p. 10.",
+   "referencia": "p. 10",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el único modo informal de esa lista?",
+   "respuesta": "Bicitaxi; p. 10.",
+   "referencia": "p. 10",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q021",
+   "n_ficha": 21,
+   "tipo": "abierta",
+   "enunciado": "¿Qué medio se toma de cada viaje?",
+   "respuesta": "El medio de transporte principal declarado a nivel de viaje; p. 10.",
+   "referencia": "p. 10",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "¿Qué significa que los usuarios sean cautivos, según el texto?",
+   "respuesta": "Que, por vivir lejos de las oportunidades y tener bajos ingresos, dependen en su mayoría del transporte público; p. 11.",
+   "referencia": "p. 11",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q023",
+   "n_ficha": 23,
+   "tipo": "abierta",
+   "enunciado": "¿Qué muestra la Fig. 1-1?",
+   "respuesta": "Un acceso equitativo supuesto o ideal a las funciones básicas con el transporte público como medio, afectado por nueve impedancias socioeconómicas y de movilidad; p. 13.",
+   "referencia": "p. 13",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q024",
+   "n_ficha": 24,
+   "tipo": "abierta",
+   "enunciado": "Nombre cuatro de las nueve impedancias de la Fig. 1-1.",
+   "respuesta": "Ingresos, tiempo de viaje, condición de discapacidad, tiempo de acceso, nivel educativo, experiencia de viaje, etapas de viaje, tiempo de espera, costos adicionales; p. 13.",
+   "referencia": "p. 13",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q025",
+   "n_ficha": 25,
+   "tipo": "abierta",
+   "enunciado": "¿Qué estudio de Quito cita el texto y qué variables usa?",
+   "respuesta": "Herrero y Olarte: distancia a la centralidad, la capilla de Iñaquito, y densidad del transporte público; p. 14.",
+   "referencia": "p. 14",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q026",
+   "n_ficha": 26,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tres escenarios compara Oviedo y Bocarejo (2011)?",
+   "respuesta": "Accesibilidad real, teórica y declarada; p. 14.",
+   "referencia": "p. 14",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q027",
+   "n_ficha": 27,
+   "tipo": "abierta",
+   "enunciado": "¿Qué hace Lucas et al. (2016)?",
+   "respuesta": "Combina igualitarismo y suficientarismo, SRAI; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q028",
+   "n_ficha": 28,
+   "tipo": "abierta",
+   "enunciado": "¿Qué mide la accesibilidad acumulativa (El-Geneidy et al., 2016)?",
+   "respuesta": "Los empleos alcanzables en distintos destinos frente a los costos totales de trasladarse desde distintos orígenes; p. 16.",
+   "referencia": "p. 16",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q029",
+   "n_ficha": 29,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tres índices construye el estudio de Cali (Jaramillo et al., 2012)?",
+   "respuesta": "Necesidades sociales de transporte, oferta de transporte público y un índice que compara demanda y oferta para hallar brechas de cobertura; pp. 16-17.",
+   "referencia": "pp. 16-17",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q030",
+   "n_ficha": 30,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la función de impedancia?",
+   "respuesta": "La que reconoce que el valor de una oportunidad es menor si el costo de acceder a ella es mayor; pp. 17-18.",
+   "referencia": "pp. 17-18",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q031",
+   "n_ficha": 31,
+   "tipo": "abierta",
+   "enunciado": "¿Qué forma suele tener la impedancia y por qué?",
+   "respuesta": "Exponencial negativa: a mayor costo de acceso, menor atractivo; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q032",
+   "n_ficha": 32,
+   "tipo": "abierta",
+   "enunciado": "¿Qué valor del tiempo usan los estudios de 2017 y 2018?",
+   "respuesta": "69.6 COP/min, calculado para 2011; pp. 17-18.",
+   "referencia": "pp. 17-18",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q033",
+   "n_ficha": 33,
+   "tipo": "abierta",
+   "enunciado": "¿Qué diferencia hay entre los estudios de 2017 y 2018?",
+   "respuesta": "El de 2017 distingue la impedancia por modo; el de 2018 compara un escenario sin subsidios y otro con tarifas subsidiadas; p. 18.",
+   "referencia": "p. 18",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q034",
+   "n_ficha": 34,
+   "tipo": "abierta",
+   "enunciado": "¿Qué agrega el estudio de Chile (Tiznado-Aitken y Carlos, 2021) a la impedancia?",
+   "respuesta": "La variable confort, con parámetros que penalizan caminata, aglomeración y transferencias, en tiempo en vehículo; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q035",
+   "n_ficha": 35,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se calcula el tiempo de viaje en la aplicación?",
+   "respuesta": "Con la hora de inicio y fin, multiplicando por 1440 para obtener minutos; p. 19.",
+   "referencia": "p. 19",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q036",
+   "n_ficha": 36,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué solo se usó el tiempo de viaje reportado?",
+   "respuesta": "Porque a veces la suma de espera y acceso superaba el tiempo de viaje, posiblemente porque las personas omiten esos tiempos; pp. 19-20.",
+   "referencia": "pp. 19-20",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q037",
+   "n_ficha": 37,
+   "tipo": "abierta",
+   "enunciado": "¿Qué motivos de viaje se filtraron para las oportunidades?",
+   "respuesta": "Los motivos 1 y 2, asociados a trabajo; p. 20.",
+   "referencia": "p. 20",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q038",
+   "n_ficha": 38,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se estimó el parámetro del modelo?",
+   "respuesta": "Regresión lineal por mínimos cuadrados sobre el modelo log-log, con factores de expansión por UTAM; pp. 20-21.",
+   "referencia": "pp. 20-21",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q039",
+   "n_ficha": 39,
+   "tipo": "abierta",
+   "enunciado": "¿Qué resultado llamativo muestra la Tabla 1-1?",
+   "respuesta": "No todos los coeficientes son negativos y su orden de magnitud es mínimo, de modo que la accesibilidad es inelástica al tiempo de viaje; p. 21.",
+   "referencia": "p. 21",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q040",
+   "n_ficha": 40,
+   "tipo": "abierta",
+   "enunciado": "¿Qué pruebas se aplicaron al modelo y qué se dice del r²?",
+   "respuesta": "Durbin-Watson, Breusch-Pagan y White; el r² no superaba 0,5 en la mayoría de los casos; p. 25.",
+   "referencia": "p. 25",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q041",
+   "n_ficha": 41,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se interpreta un coeficiente positivo en una UTAM con tiempos de más de 90 minutos?",
+   "respuesta": "Como usuarios cautivos que se comportan distinto a lo que la teoría implica; no porque el tiempo estimule viajar; p. 25.",
+   "referencia": "p. 25",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q042",
+   "n_ficha": 42,
+   "tipo": "abierta",
+   "enunciado": "Nombre tres UTAM de 90 a 120 minutos con coeficiente positivo y una de más de 120.",
+   "respuesta": "Ciudad Jardín, Comuneros y Ciudad Usme; UTAM 572 en Soacha; p. 25.",
+   "referencia": "p. 25",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q043",
+   "n_ficha": 43,
+   "tipo": "abierta",
+   "enunciado": "¿Qué colores usa la Fig. 1-2?",
+   "respuesta": "Azul para coeficiente negativo y rojo para positivo; p. 25.",
+   "referencia": "p. 25",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q044",
+   "n_ficha": 44,
+   "tipo": "abierta",
+   "enunciado": "¿Qué rangos de tiempo usa la Fig. 1-3?",
+   "respuesta": "43-60, 60-90, 90-120 y mayor a 120 minutos; p. 26.",
+   "referencia": "p. 26",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q045",
+   "n_ficha": 45,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué se excluyó Sumapaz?",
+   "respuesta": "Por su carácter rural; p. 26.",
+   "referencia": "p. 26",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q046",
+   "n_ficha": 46,
+   "tipo": "abierta",
+   "enunciado": "¿Qué conclusión saca el capítulo 1 sobre los viajes de trabajo?",
+   "respuesta": "Las personas sacrifican tiempo con tal de no renunciar al trabajo, del que depende el sustento familiar; el impacto de la impedancia se ve mitigado y la accesibilidad es inelástica; p. 27.",
+   "referencia": "p. 27",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q047",
+   "n_ficha": 47,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es el precio generalizado según de Rus et al. (2003)?",
+   "respuesta": "La suma del valor monetario de los determinantes que afectan la demanda de servicios de transporte de un individuo; p. 28.",
+   "referencia": "p. 28",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q048",
+   "n_ficha": 48,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es una impedancia en el capítulo 2?",
+   "respuesta": "Lo que genera fricción y limita el movimiento: todo lo que requiere mayor inversión o esfuerzo del usuario, de la tarifa a la experiencia de viaje; p. 29.",
+   "referencia": "p. 29",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q049",
+   "n_ficha": 49,
+   "tipo": "vf",
+   "enunciado": "La cantidad de viajes es una impedancia.",
+   "respuesta": "Falso: no es una impedancia en sí; se analiza para entender el comportamiento de los viajes; p. 30.",
+   "referencia": "p. 30",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "no es una impedancia en sí; se analiza para entender el comportamiento de los viajes; p. 30."
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q050",
+   "n_ficha": 50,
+   "tipo": "abierta",
+   "enunciado": "¿Qué función genera más viajes en la Fig. 2-1?",
+   "respuesta": "Trabajo; p. 30.",
+   "referencia": "p. 30",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q051",
+   "n_ficha": 51,
+   "tipo": "abierta",
+   "enunciado": "¿Dónde se acumulan los destinos de las cuatro funciones?",
+   "respuesta": "En el centro ampliado de la ciudad; p. 31.",
+   "referencia": "p. 31",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q052",
+   "n_ficha": 52,
+   "tipo": "abierta",
+   "enunciado": "¿Qué clases tiene la Fig. 2-2?",
+   "respuesta": "0-60, 60-90, 90-120 y más de 120 minutos; p. 32.",
+   "referencia": "p. 32",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q053",
+   "n_ficha": 53,
+   "tipo": "abierta",
+   "enunciado": "¿Cuánto tiempo diario implican las UTAM naranjas y las rojas en trabajo?",
+   "respuesta": "Cerca de 3 horas y al menos 4 horas; las 4 horas equivalen a 50% de una jornada de 8; p. 33.",
+   "referencia": "p. 33",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q054",
+   "n_ficha": 54,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántas UTAM superan 90 minutos en estudio?",
+   "respuesta": "Solo 8; p. 33.",
+   "referencia": "p. 33",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q055",
+   "n_ficha": 55,
+   "tipo": "abierta",
+   "enunciado": "¿Qué función tiene menos UTAM con espera menor a 10 minutos?",
+   "respuesta": "Trabajo; p. 35.",
+   "referencia": "p. 35",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q056",
+   "n_ficha": 56,
+   "tipo": "abierta",
+   "enunciado": "¿Qué localidad tiene esperas menores a 10 minutos en las cuatro funciones?",
+   "respuesta": "Chapinero y algunas UTAM aledañas; p. 35.",
+   "referencia": "p. 35",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q057",
+   "n_ficha": 57,
+   "tipo": "abierta",
+   "enunciado": "¿Qué UTAM tiene los mayores tiempos de caminata en salud y estudio?",
+   "respuesta": "Monte Blanco, entre 20 y 30 minutos; p. 35.",
+   "referencia": "p. 35",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q058",
+   "n_ficha": 58,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se agregan las etapas por UTAM?",
+   "respuesta": "Según la moda del número de etapas, con un máximo de 5; p. 37.",
+   "referencia": "p. 37",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q059",
+   "n_ficha": 59,
+   "tipo": "abierta",
+   "enunciado": "¿Qué UTAM de recreación y cultura tienen más etapas?",
+   "respuesta": "Suba, Casa Blanca Suba y Álamos; p. 37.",
+   "referencia": "p. 37",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q060",
+   "n_ficha": 60,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se define el sobrecosto?",
+   "respuesta": "El excedente del valor total del viaje, suma de los costos de cada etapa, sobre la tarifa de 2019 del modo principal, promediado por UTAM de origen y función; p. 38.",
+   "referencia": "p. 38",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q061",
+   "n_ficha": 61,
+   "tipo": "abierta",
+   "enunciado": "¿Qué función tiene menos costos adicionales y cuál más?",
+   "respuesta": "Estudio, menos; salud, más, en su mayoría entre 5 000 y 10 000 pesos; pp. 38-40.",
+   "referencia": "pp. 38-40",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q062",
+   "n_ficha": 62,
+   "tipo": "abierta",
+   "enunciado": "¿Dónde se concentran los sobrecostos mayores a $10 000 en salud?",
+   "respuesta": "Principalmente en la localidad de Fontibón; p. 40.",
+   "referencia": "p. 40",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q063",
+   "n_ficha": 63,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se calcula la probabilidad de pago adicional?",
+   "respuesta": "Porcentaje de los viajes de la UTAM con sobrecosto mayor a cero sobre sus viajes totales para ese motivo; p. 40.",
+   "referencia": "p. 40",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q064",
+   "n_ficha": 64,
+   "tipo": "abierta",
+   "enunciado": "¿En qué clase de probabilidad está la mayor parte de la ciudad para salud?",
+   "respuesta": "Entre 25% y 50%; p. 42.",
+   "referencia": "p. 42",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q065",
+   "n_ficha": 65,
+   "tipo": "abierta",
+   "enunciado": "¿Qué se mapea en la Fig. 2-8 y cómo se obtiene?",
+   "respuesta": "La experiencia de viaje negativa, el complemento del promedio de la calificación por etapa; pp. 42-43.",
+   "referencia": "pp. 42-43",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q066",
+   "n_ficha": 66,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la experiencia negativa usual y dónde se orienta en trabajo?",
+   "respuesta": "Usualmente 2; hacia la periferia sur; p. 42.",
+   "referencia": "p. 42",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q067",
+   "n_ficha": 67,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué se usa la moda de ingresos y no el promedio?",
+   "respuesta": "Porque el promedio podría mostrar mayores ingresos de los que recibe la mayoría de la población de la UTAM; p. 44.",
+   "referencia": "p. 44",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q068",
+   "n_ficha": 68,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál era el salario mínimo cuando se hizo la encuesta?",
+   "respuesta": "$828.116; p. 44.",
+   "referencia": "p. 44",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q069",
+   "n_ficha": 69,
+   "tipo": "abierta",
+   "enunciado": "¿En qué localidades se concentra la moda de un salario mínimo?",
+   "respuesta": "Usme, Ciudad Bolívar y Kennedy; p. 44.",
+   "referencia": "p. 44",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q070",
+   "n_ficha": 70,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se agrupan los 14 niveles educativos?",
+   "respuesta": "Básica, hasta media completa; técnica, técnico y tecnológico completos e incompletos; universitaria, universitario incompleto o más; p. 45.",
+   "referencia": "p. 45",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q071",
+   "n_ficha": 71,
+   "tipo": "abierta",
+   "enunciado": "¿De qué pregunta sale el nivel educativo?",
+   "respuesta": "La pregunta 5 del módulo B Personas; p. 45.",
+   "referencia": "p. 45",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q072",
+   "n_ficha": 72,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántas personas tiene la UTAM con más universitarios y cuánto la supera la de educación básica?",
+   "respuesta": "Cerca de 90 000; la supera por más de 100 000; p. 46.",
+   "referencia": "p. 46",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q073",
+   "n_ficha": 73,
+   "tipo": "abierta",
+   "enunciado": "¿Qué tres subsidios revisa la EMB2019 y con qué descuento?",
+   "respuesta": "SISBEN, 40% hasta 30 pasajes al mes, puntaje de 40 o menos; discapacidad, recarga mensual con tarifa diferencial, RLCDP y sin vehículo; adultos mayores de 62 años, cerca de 12% y máximo 30 pasajes al mes; p. 47.",
+   "referencia": "p. 47",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q074",
+   "n_ficha": 74,
+   "tipo": "abierta",
+   "enunciado": "¿Qué subsidio tiene menos beneficiarios y en qué UTAM se concentra?",
+   "respuesta": "El de discapacidad; en Engativá, Patio Bonito, Bosa Central e Ismael Perdomo; p. 47.",
+   "referencia": "p. 47",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q075",
+   "n_ficha": 75,
+   "tipo": "abierta",
+   "enunciado": "¿En qué UTAM se concentra el subsidio SISBEN?",
+   "respuesta": "Bosa Central y El Lucero; p. 48.",
+   "referencia": "p. 48",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q076",
+   "n_ficha": 76,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dos categorías de dificultad se agrupan y cuál duplica a la otra?",
+   "respuesta": "Dificultad de movilidad y de comunicación; la de comunicación duplica a la de movilidad; p. 49.",
+   "referencia": "p. 49",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q077",
+   "n_ficha": 77,
+   "tipo": "abierta",
+   "enunciado": "¿Qué UTAM tiene más personas con ambas dificultades?",
+   "respuesta": "Bosa Central; El Rincón, en Suba, también alta; p. 49.",
+   "referencia": "p. 49",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q078",
+   "n_ficha": 78,
+   "tipo": "abierta",
+   "enunciado": "¿Qué estratos suelen representar mayor vulnerabilidad y por qué el estrato 3 es particular?",
+   "respuesta": "Los estratos 1 y 2; el 3 es muy variado, con residentes de bajos a medios ingresos; p. 50.",
+   "referencia": "p. 50",
+   "estado": "completa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q079",
+   "n_ficha": 79,
+   "tipo": "vf",
+   "enunciado": "A mayor estrato de la UTAM, mayor vulnerabilidad social.",
+   "respuesta": "Falso: entre mayor sea el valor, menor es su vulnerabilidad; p. 50.",
+   "referencia": "p. 50",
+   "estado": "completa",
+   "verdadera": false,
+   "explicacion": "entre mayor sea el valor, menor es su vulnerabilidad; p. 50."
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-q080",
+   "n_ficha": 80,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué se revisa el estrato con reservas?",
+   "respuesta": "Porque no solo depende de capacidad adquisitiva sino de factores arquitectónicos y espaciales; p. 50.",
+   "referencia": "p. 50",
+   "estado": "completa"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s08-fernandez-2023-cap1-2-t001",
+   "n_ficha": 1,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "Son cuatro funciones básicas: trabajo, estudio, salud y recreación y cultura (p. 7), definidas por los motivos de viaje de la EMB2019; no son las únicas y las actividades de cuidado quedan fuera. Lucas (2012) lista empleo, educación, salud, recreación y redes sociales (p. 6): son cinco y no coinciden. Error típico: añadir \"compras\" o \"cuidado\", o quitar \"cultura\".",
+   "referencia": "p. 7; p. 6"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t002",
+   "n_ficha": 2,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "Derecho a la ciudad: Lefebvre (1973) es el derecho de todos los ciudadanos y grupos sociales a disfrutar de las diversas oportunidades de la ciudad; la definición del Foro Social Mundial de 2003 es \"usufructo equitativo\", con sustentabilidad y justicia social, derecho colectivo en especial de grupos vulnerables y desfavorecidos (pp. 6-7).",
+   "referencia": "pp. 6-7"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t003",
+   "n_ficha": 3,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "El ODS 2030 aporta el acceso universal, \"que nadie quede rezagado\", con un nivel básico de accesibilidad a mercados y oportunidades (pp. 7-8). No es el derecho a la ciudad.",
+   "referencia": "pp. 7-8"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t004",
+   "n_ficha": 4,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "Las tres definiciones: Hansen (1959) potencial de interacción entre destinos; Ben-Akiva (1979) beneficios de la interacción entre transporte y uso de la tierra, desde la economía del transporte; Geurs y Van Wee (2004) la medida en que transporte y uso de la tierra permiten llegar a actividades o destinos, desde la geografía del transporte (p. 8). Trampa: intercambiar autores o disciplinas.",
+   "referencia": "p. 8"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t005",
+   "n_ficha": 5,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "La accesibilidad tiene una dimensión territorial y es además una característica individual (Cebollada et al., 2003).",
+   "referencia": null
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t006",
+   "n_ficha": 6,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "La exclusión de Kenyon et al. (2003) es un proceso que impide participar en la vida económica, política y social por la reducida accesibilidad. Gacitúa y Sojo (2000): no es una categoría o un estatus sino un proceso (p. 12).",
+   "referencia": "p. 12"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t007",
+   "n_ficha": 7,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "Martens (2012): la movilidad no es un bien normal sino un bien social fuera de la esfera del mercado (p. 9). La planificación tradicional se enfocó en el ahorro de tiempo y pasó por alto tarifas bajas, acceso a servicios y menos soledad y depresión (Lucas, Tyler y Christodoulou, 2009).",
+   "referencia": "p. 9"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t008",
+   "n_ficha": 8,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "Cuatro elementos de la accesibilidad (Geurs y Wee, 2011): uso del suelo, tiempo, individuo y sistema de transporte; en la tesis el sistema es el transporte público (p. 9).",
+   "referencia": "p. 9"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t009",
+   "n_ficha": 9,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "Modos del estudio: TransMilenio, SITP (urbano, complementario y especial), SITP provisional, Alimentador, Taxi y Bicitaxi; el único informal es el bicitaxi, que en Soacha complementa la oferta (p. 10). El Grupo A es más amplio. Se usa el medio principal declarado a nivel de viaje.",
+   "referencia": "p. 10"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t010",
+   "n_ficha": 10,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "Vulnerabilidad (Rivera, 2012): se define en relación con una amenaza o riesgo y con las condiciones sociales que subyacen a la desigualdad; usuarios cautivos en hogares de bajos ingresos alejados de las oportunidades (Tiznado-Aitken y Carlos, 2021) (pp. 10-11).",
+   "referencia": "pp. 10-11"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t011",
+   "n_ficha": 11,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "Cuatro dimensiones de exclusión (Delbosc y Currie, 2011): consumo, producción, compromiso político, interacción social (pp. 11-12). Factores de pobreza (Cabinet Office, 2009): desempleo, bajos ingresos, discriminación, crimen, habilidades limitadas y ruptura familiar (p. 11). No mezclar las listas.",
+   "referencia": "pp. 11-12; p. 11"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t012",
+   "n_ficha": 12,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "Tres dimensiones de equidad (Litman, 2005): horizontal; vertical por ingresos y clase social; vertical por necesidad y habilidad de movilidad (p. 12). Grupos más afectados (Mackett y Thoreau, 2015): menores ingresos, discapacidades, tercera edad, niños, mujeres y minorías étnicas.",
+   "referencia": "p. 12"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t013",
+   "n_ficha": 13,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "Pereira et al. (2017): capacidades combinadas, dos componentes: capacidad de la persona (factores personales y externos) y visión macroscópica (red de transporte y uso de la tierra) (p. 13).",
+   "referencia": "p. 13"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t014",
+   "n_ficha": 14,
+   "grupo": "Funciones, derecho a la ciudad y exclusión",
+   "texto": "Fig. 1-1: nueve impedancias, entre ellas ingresos, condición de discapacidad y nivel educativo; el \"acceso equitativo\" es el supuesto o ideal; el transporte público es el medio (pp. 13-14).",
+   "referencia": "pp. 13-14"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t015",
+   "n_ficha": 15,
+   "grupo": "Medición y modelo gravitacional",
+   "texto": "Estudios revisados: Quito (distancia a la centralidad, la capilla de Iñaquito, y densidad del transporte público); Bogotá (Oviedo y Bocarejo, 2011: escenarios real, teórica y declarada); Bogotá y Barranquilla (Arellana et al., 2020: asequibilidad y accesibilidad); Belo Horizonte (Lobo et al., 2020); Tiznado-Aitken et al. (2020: confort, velocidad de caminata por edad, metodologías mixtas); Baron et al. (2017: esfuerzo físico, cognitivo, emocional); Lucas et al. (2016: SRAI, igualitarismo y suficientarismo); Martens (2012: esferas de Walzer); Delbosc y Currie (2011) y Ricciardi et al. (2015): Lorenz y Gini; El-Geneidy et al. (2016): accesibilidad acumulativa; Jaramillo et al. (2012): Cali, tres índices (pp. 14-17).",
+   "referencia": "pp. 14-17"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t016",
+   "n_ficha": 16,
+   "grupo": "Medición y modelo gravitacional",
+   "texto": "Estudios de Bogotá con Hansen: 2012 usa UPZ, diez UPZ, tiempo y porcentaje del ingreso; 2016, el sistema integrado con tiempo y costo monetario y tres escenarios de cobro; 2017, dos motivos y modos auto, buses y BRT con impedancia por modo; 2018, dos escenarios (sin subsidios y con tarifas subsidiadas). VOT: 69.6 COP/min (valor de 2011) en los de 2017 y 2018 (pp. 17-18).",
+   "referencia": "pp. 17-18"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t017",
+   "n_ficha": 17,
+   "grupo": "Medición y modelo gravitacional",
+   "texto": "La única condición del modelo para la impedancia es que sea una función decreciente del tiempo, normalmente exponencial negativa (p. 18). Más variables describen mejor pero complican la calibración.",
+   "referencia": "p. 18"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t018",
+   "n_ficha": 18,
+   "grupo": "Medición y modelo gravitacional",
+   "texto": "Ecuación de Tiznado-Aitken y Carlos (2021): agrega confort; los parámetros penalizan caminata y acceso, aglomeración y transferencias; unidad única: tiempo en vehículo (p. 19).",
+   "referencia": "p. 19"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t019",
+   "n_ficha": 19,
+   "grupo": "Medición y modelo gravitacional",
+   "texto": "Aplicación: EMB2019, Python, llave hogar-persona-viaje; tiempo de viaje = (hora fin − hora inicio) × 1440; la suma de espera y acceso a veces supera el tiempo de viaje (p. 19); por eso solo se usó el tiempo reportado y se estimó con regresión lineal por mínimos cuadrados (p. 20). Motivos 1 y 2 = trabajo. Factor de expansión por UTAM. Modelo log-log.",
+   "referencia": "p. 19; p. 20"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t020",
+   "n_ficha": 20,
+   "grupo": "Medición y modelo gravitacional",
+   "texto": "Resultado: coeficientes no siempre negativos, de magnitud mínima, sin importar el tiempo de viaje; la accesibilidad es inelástica respecto al tiempo (p. 21). Los tiempos de espera y caminata dieron resultados similares. r² casi siempre menor a 0,5; pruebas Durbin-Watson, Breusch-Pagan y White (p. 25).",
+   "referencia": "p. 21; p. 25"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t021",
+   "n_ficha": 21,
+   "grupo": "Medición y modelo gravitacional",
+   "texto": "Interpretación: coeficiente positivo en tiempos altos (Ciudad Jardín, Comuneros, Ciudad Usme, UTAM 572) significa usuarios cautivos, no que el tiempo estimule viajar (p. 25). En los mapas no hay una tendencia clara; Sumapaz se excluyó por rural (p. 26). La conclusión es la inelasticidad del empleo y la necesidad de un análisis multivariado (p. 27).",
+   "referencia": "p. 25; p. 26; p. 27"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t022",
+   "n_ficha": 22,
+   "grupo": "Medición y modelo gravitacional",
+   "texto": "La UTAM 63 queda en blanco por falta de datos en la EMB2019; no se imputó con vecinas (p. 23, nota).",
+   "referencia": "p. 23"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t023",
+   "n_ficha": 23,
+   "grupo": "Capítulo 2: variables de movilidad",
+   "texto": "Costo generalizado (de Rus et al., 2003): suma del valor monetario de los determinantes (tarifa, tiempo de viaje, espera, acceso, y otros como transferencias y experiencia); esos determinantes se nombran impedancias (p. 28). Impedancia = lo que genera fricción y limita el movimiento (p. 29).",
+   "referencia": "p. 28; p. 29"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t024",
+   "n_ficha": 24,
+   "grupo": "Capítulo 2: variables de movilidad",
+   "texto": "La cantidad de viajes no es una impedancia; se filtra a transporte público y suma factores de expansión por UTAM de origen; trabajo es la función que más viajes genera; los destinos se acumulan en el centro ampliado (comportamiento pendular) (pp. 30-31). Trampa: llamarla impedancia.",
+   "referencia": "pp. 30-31"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t025",
+   "n_ficha": 25,
+   "grupo": "Capítulo 2: variables de movilidad",
+   "texto": "Tiempos de viaje, trabajo: más de 90 minutos en la periferia y Soacha; cerca de 3 horas diarias (UTAM naranjas) y al menos 4 (rojas, 50% de una jornada de 8 horas). Estudio: solo 8 UTAM superan 90 minutos. Salud: menores a 60 en la zona nororiental y el centro ampliado; mayores en Soacha y el suroccidente. Recreación y cultura: bajan drásticamente, con UTAM sin datos (p. 33).",
+   "referencia": "p. 33"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t026",
+   "n_ficha": 26,
+   "grupo": "Capítulo 2: variables de movilidad",
+   "texto": "Espera: reportada por etapa y sumada; trabajo tiene menos UTAM con menos de 10 minutos; trabajo y salud tienen más UTAM con más de 20; las peores, en Soacha, el sur y el occidente; Chapinero y aledañas menos de 10 minutos en las cuatro funciones (p. 35).",
+   "referencia": "p. 35"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t027",
+   "n_ficha": 27,
+   "grupo": "Capítulo 2: variables de movilidad",
+   "texto": "Acceso: reportado por etapa y sumado; el texto dice menor a 10 minutos en las cuatro funciones; Monte Blanco entre 20 y 30 en salud y estudio; salud tiene más UTAM con más de 10 (p. 35).",
+   "referencia": "p. 35"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t028",
+   "n_ficha": 28,
+   "grupo": "Capítulo 2: variables de movilidad",
+   "texto": "Etapas: moda por UTAM, máximo 5, mayoría de una etapa; trabajo con más UTAM de dos; estudio con dos UTAM de Soacha \"hasta tres\"; recreación y cultura con Suba, Casa Blanca Suba y Álamos (p. 37).",
+   "referencia": "p. 37"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t029",
+   "n_ficha": 29,
+   "grupo": "Capítulo 2: variables de movilidad",
+   "texto": "Sobrecosto: solo se revisan los pagos de las demás etapas por encima de la tarifa del modo principal de 2019 (tarifa estándar sin variación por distancia); estudio con menos; salud con más (5 000 a 10 000, y más de 10 000 en Fontibón); recreación y cultura con más UTAM sobre 10 000; las UTAM periféricas pagan menos adicional; en trabajo disminuye al alejarse del centro ampliado (pp. 38-40).",
+   "referencia": "pp. 38-40"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t030",
+   "n_ficha": 30,
+   "grupo": "Capítulo 2: variables de movilidad",
+   "texto": "Probabilidad de pago adicional: porcentaje de viajes con sobrecosto mayor a cero; estudio con menos (salvo Soacha y Chapinero, más de 50%); Soacha mayor a 50% en todas las funciones salvo recreación y cultura; salud 25% a 50% en gran parte; recreación y cultura con más UTAM sobre 75% (pp. 40-42).",
+   "referencia": "pp. 40-42"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t031",
+   "n_ficha": 31,
+   "grupo": "Capítulo 2: variables de movilidad",
+   "texto": "Experiencia de viaje: se mapea la negativa (complemento); el promedio ronda 3 (aceptable) y la experiencia negativa usualmente es 2, hacia la periferia sur en trabajo (p. 42). La escala impresa dice \"1 a 5\" y \"6 el más alto\" a la vez; la leyenda de la Fig. 2-8 va de 1 a \"4 o más\".",
+   "referencia": "p. 42"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t032",
+   "n_ficha": 32,
+   "grupo": "Capítulo 2: condiciones socioeconómicas",
+   "texto": "Ingresos: salarios mínimos mensuales devengados; se usa la moda, no el promedio; rango de 1 a 10; $828.116 en la fecha de la encuesta; Usme, Ciudad Bolívar y Kennedy con moda de 1; la mayor parte de la ciudad no supera 3; Chapinero y Usaquén con más de 5 (pp. 44-45).",
+   "referencia": "pp. 44-45"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t033",
+   "n_ficha": 33,
+   "grupo": "Capítulo 2: condiciones socioeconómicas",
+   "texto": "Nivel educativo: pregunta 5 del módulo B Personas; 14 opciones en tres niveles; más universitarios hacia el norte; menores niveles hacia Soacha, Bosa y Kennedy; cerca de 90 000 universitarios en la mayor UTAM, y básica supera ese monto por más de 100 000; técnica \"casi la mitad\"; Tibabuyes y El Rincón (Suba) altos en los tres (pp. 45-46).",
+   "referencia": "pp. 45-46"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t034",
+   "n_ficha": 34,
+   "grupo": "Capítulo 2: condiciones socioeconómicas",
+   "texto": "Subsidios: pregunta 15 del formulario de viajes; SISBEN (puntaje de 40 o menos, 40% de descuento, hasta 30 pasajes al mes); discapacidad (recarga mensual, RLCDP, sin vehículo propio); adultos mayores (más de 62 años, cerca de 12% de descuento, máximo 30 pasajes al mes). Discapacidad tiene menos beneficiarios y se concentra en Engativá, Patio Bonito, Bosa Central e Ismael Perdomo; adultos mayores mejor distribuidos; SISBEN concentrado en Bosa Central y El Lucero, con bajos ingresos (pp. 47-48).",
+   "referencia": "pp. 47-48"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t035",
+   "n_ficha": 35,
+   "grupo": "Capítulo 2: condiciones socioeconómicas",
+   "texto": "Limitaciones: pregunta 8 del módulo B Personas; dos categorías (movilidad y comunicación); periferia sur y occidental; comunicación duplica a movilidad; Bosa Central con ambas en mayor cantidad; El Rincón también alto (pp. 48-49).",
+   "referencia": "pp. 48-49"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t036",
+   "n_ficha": 36,
+   "grupo": "Capítulo 2: condiciones socioeconómicas",
+   "texto": "Estrato: el predominante por UTAM según los archivos geográficos de la EMB2019; no necesariamente refleja vulnerabilidad; 1 y 2 los más vulnerables; 3 muy variado; a mayor valor, menor vulnerabilidad (p. 50).",
+   "referencia": "p. 50"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-t037",
+   "n_ficha": 37,
+   "grupo": "Capítulo 2: condiciones socioeconómicas",
+   "texto": "Todas las variables del capítulo 2 salen de la EMB2019 y se agregan por UTAM (de origen en las de movilidad); las de movilidad se calculan solo para viajes en transporte público.",
+   "referencia": null
+  }
+ ],
+ "pares": [
+  {
+   "id": "s08-fernandez-2023-cap1-2-p001",
+   "par": "Función básica y motivo de viaje",
+   "diferencia": "La función es el concepto (trabajo, estudio, salud, recreación y cultura); el motivo de viaje de la EMB2019 es lo que la mide. Trabajo agrupa los motivos 1 y 2 (trabajo y diligencias relacionadas)"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p002",
+   "par": "Hansen (1959), Ben-Akiva (1979), Geurs y Van Wee (2004)",
+   "diferencia": "Hansen: potencial de interacción entre destinos; Ben-Akiva: beneficios de la interacción transporte-uso de la tierra (economía del transporte); Geurs y Van Wee: medida en que transporte y uso de la tierra permiten llegar a actividades o destinos (geografía del transporte)"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p003",
+   "par": "Geurs y Van Wee (2004) y Geurs y Wee (2011)",
+   "diferencia": "La primera es la definición de accesibilidad; la segunda aparece en la conexión entre cuatro elementos: uso del suelo, tiempo, individuo y sistema de transporte"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p004",
+   "par": "Exclusión como proceso y como estatus",
+   "diferencia": "Gacitúa y Sojo (2000): no es una categoría o estatus, es un proceso"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p005",
+   "par": "Cuatro dimensiones de exclusión y tres de equidad",
+   "diferencia": "Exclusión (Delbosc y Currie 2011): consumo, producción, compromiso político, interacción social. Equidad (Litman 2005): horizontal, vertical por ingresos y clase social, vertical por necesidad y habilidad de movilidad"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p006",
+   "par": "Equidad vertical por ingresos y por necesidad y habilidad",
+   "diferencia": "La primera, distribución entre grupos con diferentes capacidades y necesidades según ingresos y clase social; la segunda, entre quienes tienen necesidades especiales"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p007",
+   "par": "Factores de pobreza (Cabinet Office) y dimensiones de exclusión (Delbosc y Currie)",
+   "diferencia": "Los primeros: desempleo, bajos ingresos, discriminación, crimen, habilidades limitadas y ruptura familiar; las segundas, las cuatro dimensiones"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p008",
+   "par": "Capacidad de la persona y visión macroscópica (Pereira et al. 2017)",
+   "diferencia": "La primera: factores personales y externos para acceder y usar el sistema; la segunda: interacción entre el sistema de transporte y los patrones de uso de la tierra (cobertura y conectividad, distribución espacial de actividades)"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p009",
+   "par": "Transporte público del Grupo A y los seis modos del estudio",
+   "diferencia": "El Grupo A es toda la oferta que recopiló la EMB2019; el estudio se limita a TransMilenio, SITP (urbano, complementario, especial), SITP provisional, Alimentador, Taxi y Bicitaxi"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p010",
+   "par": "Modo principal a nivel de viaje y medio por etapa",
+   "diferencia": "El estudio toma el modo principal del viaje; el medio por etapa se usó para identificar el medio utilizado en cada etapa"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p011",
+   "par": "Estudios de Bogotá con Hansen: 2012, 2016, 2017, 2018",
+   "diferencia": "2012 (Bocarejo y Oviedo): UPZ, diez UPZ en tres ingresos, impedancia = tiempo + % del ingreso; 2016 (Bocarejo et al.): sistema integrado, tiempo + costo monetario, tres escenarios de cobro; 2017 (Guzman et al.): estudio y trabajo, auto, buses y BRT, impedancia por modo, Lorenz y Gini; 2018 (Guzman y Oviedo): dos escenarios, sin subsidios y con tarifas subsidiadas"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p012",
+   "par": "Quito, Cali, Belo Horizonte, Santiago, Barranquilla",
+   "diferencia": "Quito: distancia a la centralidad y densidad del transporte público; Cali: tres índices (necesidades, oferta, brecha); Belo Horizonte: dimensión humana (Lobo et al.); Santiago: variables convertidas a tiempo en vehículo; Barranquilla (con Bogotá): asequibilidad y accesibilidad (Arellana et al.)"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p013",
+   "par": "Costo generalizado y tarifa",
+   "diferencia": "El costo generalizado es la suma del valor monetario de los determinantes (tarifa, tiempo de viaje, espera, acceso, y otros); la tarifa es uno de ellos"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p014",
+   "par": "Impedancia y oportunidades",
+   "diferencia": "Impedancia: lo que hace caer el valor de una oportunidad al subir el costo de acceder a ella; O_j: viajes atraídos con motivo trabajo a la zona j; A_i: viajes generados entre el par OD"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p015",
+   "par": "Tiempo de viaje, de espera y de acceso",
+   "diferencia": "Viaje: duración reportada (hora de inicio a fin); espera: desde que llega a la parada hasta que aborda; acceso o caminata: recorrido previo a llegar al paradero. Espera y acceso se reportan por etapa y se suman"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p016",
+   "par": "Etapas y transferencias",
+   "diferencia": "El texto define las etapas como número de transferencias; se agrega por UTAM con la moda; máximo 5 en la EMB2019"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p017",
+   "par": "Sobrecosto y probabilidad de pago adicional",
+   "diferencia": "Sobrecosto: promedio por UTAM del excedente sobre la tarifa del modo principal; probabilidad: porcentaje de viajes con sobrecosto mayor a cero sobre los viajes totales del motivo"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p018",
+   "par": "Experiencia de viaje y experiencia negativa",
+   "diferencia": "La primera es la calificación promedio de la EMB2019; la segunda, su complemento (lo que falta para la máxima), que es la que se mapea (Fig. 2-8)"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p019",
+   "par": "Moda y promedio (ingresos)",
+   "diferencia": "Se usa la moda de los salarios mínimos mensuales porque el promedio sobrestimaría los ingresos de la mayoría de la UTAM"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p020",
+   "par": "Formación básica, técnica y universitaria",
+   "diferencia": "Básica: hasta media completa; técnica: técnico y tecnológico, completos e incompletos; universitaria: universitario incompleto o más"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p021",
+   "par": "Subsidio SISBEN, de discapacidad y de adultos mayores",
+   "diferencia": "SISBEN: puntaje hasta 40, 40% de descuento, hasta 30 pasajes al mes; discapacidad: recarga mensual con tarifa diferencial, RLCDP, sin vehículo propio; adultos mayores: más de 62 años, cerca de 12% de descuento, máximo 30 pasajes al mes"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p022",
+   "par": "Dificultad de movilidad y de comunicación",
+   "diferencia": "La de comunicación duplica a la de movilidad (Fig. 2-12 y texto); ambas se acumulan en la periferia sur y occidental"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p023",
+   "par": "Estrato y vulnerabilidad",
+   "diferencia": "El estrato no necesariamente refleja vulnerabilidad (factores arquitectónicos y espaciales); 1 y 2 son los más vulnerables, 3 es muy variado; a mayor valor, menor vulnerabilidad"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p024",
+   "par": "Fig. 2-1: O_ y D_",
+   "diferencia": "O_ son los viajes que genera cada UTAM (orígenes, rojo, 4 clases); D_ son los viajes que recibe (destinos, verde, 5 clases)"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p025",
+   "par": "Fig. 1-2 y Fig. 1-3",
+   "diferencia": "La 1-2 es el signo del coeficiente de tiempo de viaje (azul negativo, rojo positivo); la 1-3 son los tiempos promedio de viaje de trabajo en cuatro rangos"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p026",
+   "par": "Los dos resultados de la Tabla 1-1",
+   "diferencia": "T viaje prom (tiempo promedio de viaje por UTAM) y Coef tviaje (coeficiente de la regresión); el coeficiente es de magnitud mínima"
+  },
+  {
+   "id": "s08-fernandez-2023-cap1-2-p027",
+   "par": "Capítulo 1 (modelo gravitacional) y capítulo 2 (variables multidimensionales)",
+   "diferencia": "El 1 aplica Hansen con solo el tiempo de viaje de trabajo y halla inelasticidad; el 2 revisa las impedancias del costo generalizado y las condiciones socioeconómicas por UTAM para las cuatro funciones"
+  }
+ ]
+}

@@ -1,0 +1,794 @@
+{
+ "semana": 4,
+ "lectura": "camagni-2005-cap2",
+ "autor": "Roberto Camagni",
+ "titulo": "Economía urbana, capítulo 2: El principio de accesibilidad (o de la competencia espacial)",
+ "alcance": "pp. 51-56 y pp. 64-70 del capítulo 2 (el capítulo ocupa las pp. 51-78)",
+ "fuente": "content/semana-04/camagni-2005-cap2/ficha.md",
+ "preguntas": [
+  {
+   "id": "s04-camagni-2005-cap2-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el principio de la economía urbana que se estudia en el capítulo 2 y en qué se origina?",
+   "respuesta": "Accesibilidad; competencia entre actividades por las localizaciones más ventajosas.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Qué abarca la accesibilidad según Camagni?",
+   "respuesta": "Superar la barrera espacial al movimiento de personas, cosas, bienes, servicios e informaciones; para empresas y para personas.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "Mencione un ejemplo de emplazamiento de ciudad por cercanía a materias primas, uno por mercado regional y uno por nodo de transporte.",
+   "respuesta": "Ciudades mineras del centro de Europa; Chicago; Milán.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dos elementos teóricos se desprenden de las reflexiones iniciales del capítulo?",
+   "respuesta": "Vínculo localización-renta; fundamento económico-espacial de la renta diferencial.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿La renta que sostiene el principio de accesibilidad depende de la fertilidad del suelo?",
+   "respuesta": "No; es independiente de la fertilidad y del régimen jurídico del suelo.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿En qué condición la renta garantiza una asignación eficiente del suelo entre usos alternativos?",
+   "respuesta": "Con un mercado perfecto de las áreas.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Quién hizo la primera referencia teóricamente consciente a la economía urbana y qué dijo sobre el valor?",
+   "respuesta": "Hurd, 1903; el valor depende de la cercanía.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es el centro en el modelo de Von Thünen y qué significa la distancia?",
+   "respuesta": "Sede del mercado; costo de transporte.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "¿Qué amplía Camagni respecto de las funciones centrales?",
+   "respuesta": "Todas las que aumentan ingresos o reducen costos, incluida la información.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q010",
+   "n_ficha": 10,
+   "tipo": "abierta",
+   "enunciado": "Enumere las hipótesis a) a g) del modelo de Von Thünen.",
+   "respuesta": null,
+   "referencia": null,
+   "estado": "sin_respuesta"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se define la renta por unidad de superficie en el modelo de Von Thünen?",
+   "respuesta": "Residuo: ingreso total menos costos, incluido el beneficio normal y el transporte.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "Escriba la ecuación [2.1] e indique ordenada en el origen y pendiente.",
+   "respuesta": "r(δ) = (p − c − τδ)x; (p − c)x; −τx.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q013",
+   "n_ficha": 13,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la distancia máxima de cultivo?",
+   "respuesta": "δmax = (p − c)/τ, donde r = 0.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q014",
+   "n_ficha": 14,
+   "tipo": "abierta",
+   "enunciado": "Con p = 100, c = 40, x = 2 y τ = 5, ¿cuál es la renta en el centro, la pendiente y δmax?",
+   "respuesta": "120; −10; 12.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q015",
+   "n_ficha": 15,
+   "tipo": "abierta",
+   "enunciado": "¿Qué cultivo ocupa el centro y por qué?",
+   "respuesta": "El de mayor ordenada en el origen: mayor producto neto por unidad de superficie.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la renta efectiva en la Figura 2.1?",
+   "respuesta": "La envolvente superior de las rentas ofrecidas, en negrita.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q017",
+   "n_ficha": 17,
+   "tipo": "abierta",
+   "enunciado": "¿Qué pasa con un cultivo cuya renta ofrecida es siempre inferior a la de otros?",
+   "respuesta": "No obtiene superficie.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q018",
+   "n_ficha": 18,
+   "tipo": "abierta",
+   "enunciado": "¿Qué forma toman las curvas de renta si se relajan la función de producción fija y el costo de transporte constante?",
+   "respuesta": "Decrecientes y convexas.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "En la ecuación [2.2], ¿qué representan z, c(δ), x(δ) y T?",
+   "respuesta": "Margen de beneficio medio; costo que depende de la distancia; producción por unidad de suelo, decreciente; suelo demandado.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la renta ofertada (bid rent)?",
+   "respuesta": "La renta unitaria de equilibrio que la empresa o individuo ofrece a cada distancia.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q021",
+   "n_ficha": 21,
+   "tipo": "abierta",
+   "enunciado": "Diferencie equilibrio parcial y general.",
+   "respuesta": "La curva de renta efectiva exógena frente a deducida del modelo.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se localizan empresas similares con la misma tasa de beneficio?",
+   "respuesta": "A lo largo de la misma curva de renta ofertada, indiferentes; esa curva es la efectiva.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q023",
+   "n_ficha": 23,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué la curva de renta efectiva es convexa?",
+   "respuesta": "Dependencia de ingresos y costos con la distancia, y sustitución de tierra por capital: construir hacia arriba.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q024",
+   "n_ficha": 24,
+   "tipo": "abierta",
+   "enunciado": "¿Con qué evidencia empírica es coherente?",
+   "respuesta": "Gradiente hiperbólico de renta, densidad creciente al centro, perfil vertical; Fig. 2.5.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q025",
+   "n_ficha": 25,
+   "tipo": "abierta",
+   "enunciado": "¿Qué muestran los dos paneles de la Figura 2.5 y cuál es su fuente?",
+   "respuesta": "Densidad residencial de Londres 1801-1941; valor del suelo en varias ciudades; Evans 1985.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q026",
+   "n_ficha": 26,
+   "tipo": "abierta",
+   "enunciado": "Con varios sectores, ¿cómo se obtiene la renta efectiva?",
+   "respuesta": "Envolvente superior de las curvas de renta ofertada.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q027",
+   "n_ficha": 27,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se deriva geométricamente la renta ofrecida residencial (Fig. 2.6)?",
+   "respuesta": "Rectas de balance Y − τδ = B + A·r tangentes a la curva de indiferencia U a cada distancia.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q028",
+   "n_ficha": 28,
+   "tipo": "abierta",
+   "enunciado": "¿Qué diferencia hay entre el equilibrio central a y el periférico b en la Fig. 2.6?",
+   "respuesta": "Central: vivienda menor, más otros bienes; periférico: vivienda mayor, menos otros bienes.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q029",
+   "n_ficha": 29,
+   "tipo": "abierta",
+   "enunciado": "Diferencie ciudad abierta y cerrada.",
+   "respuesta": "Utilidad exógena y población incógnita frente a población dada y utilidad endógena con renta marginal igual a la agraria.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q030",
+   "n_ficha": 30,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se determina el radio de la ciudad?",
+   "respuesta": "Donde la renta ofertada de equilibrio corta la renta agrícola; δmax.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q031",
+   "n_ficha": 31,
+   "tipo": "abierta",
+   "enunciado": "¿Qué pasa con varias clases sociales?",
+   "respuesta": "Anillos concéntricos; el suelo va a quien ofrece más a cada distancia.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q032",
+   "n_ficha": 32,
+   "tipo": "abierta",
+   "enunciado": "¿Qué nivel de utilidad es el relevante cuando conviven empresas e individuos?",
+   "respuesta": "El que iguala oferta y demanda de trabajo urbano.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q033",
+   "n_ficha": 33,
+   "tipo": "abierta",
+   "enunciado": "Describa la dinámica de la Fig. 2.7 cuando la utilidad elegida es demasiado alta.",
+   "respuesta": "Renta baja r', población escasa, inmigración, renta r'', ciudad hasta δ''max, utilidad menor.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q034",
+   "n_ficha": 34,
+   "tipo": "abierta",
+   "enunciado": "¿Qué actividades desplazan la vivienda del centro y cuáles se alejaron?",
+   "respuesta": "Terciario y funciones direccionales privadas desplazan la vivienda; la manufactura se alejó, salvo sectores ligeros y artesanales.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q035",
+   "n_ficha": 35,
+   "tipo": "abierta",
+   "enunciado": "¿Qué pasa con las actividades productivas descentradas y por qué importa el gradiente de salario?",
+   "respuesta": "Se forma un gradiente de salario de pendiente −τ y el equilibrio residencial no cambia; se mantiene el modelo monocéntrico.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q036",
+   "n_ficha": 36,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el ahorro que permite a una empresa en E pagar menos salario?",
+   "respuesta": "eτ, el ahorro en costos de transporte de los trabajadores que viven más allá de E.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q037",
+   "n_ficha": 37,
+   "tipo": "abierta",
+   "enunciado": "¿Qué principio desarrolla solo la new urban economics y con cuál tiene dificultades?",
+   "respuesta": "Accesibilidad; aglomeración.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q038",
+   "n_ficha": 38,
+   "tipo": "abierta",
+   "enunciado": "Verdadero o falso: \"La pendiente de la renta ofrecida en Von Thünen es −δx\".",
+   "respuesta": "Falso; es −τx; el libro imprime δx por una errata.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q039",
+   "n_ficha": 39,
+   "tipo": "abierta",
+   "enunciado": "¿Quién es Fujita y por qué se cita?",
+   "respuesta": "Urban Economic Theory, 1989; presentación del modelo de equilibrio general de la ciudad monocéntrica.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-q040",
+   "n_ficha": 40,
+   "tipo": "abierta",
+   "enunciado": "Diferencie la curva rr de la Figura 2.4 de las curvas r', r'', r''' de la misma figura.",
+   "respuesta": "rr es la renta efectiva dada; las otras son rentas ofertadas con distinta utilidad; δ* es la localización más ventajosa.",
+   "referencia": null,
+   "estado": "completa"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s04-camagni-2005-cap2-t001",
+   "n_ficha": 1,
+   "grupo": null,
+   "texto": "La accesibilidad no es solo costo de transporte: incluye tiempo, información estratégica con ventaja temporal y acceso de las personas a servicios infrecuentes o a maravillas naturales.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t002",
+   "n_ficha": 2,
+   "grupo": null,
+   "texto": "El principio de accesibilidad es el segundo principio (el primero es el de aglomeración, cap. 1).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t003",
+   "n_ficha": 3,
+   "grupo": null,
+   "texto": "La accesibilidad nace de la competencia por las localizaciones más ventajosas; es el fundamento de la organización interna del espacio urbano.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t004",
+   "n_ficha": 4,
+   "grupo": null,
+   "texto": "Ejemplos de emplazamiento: ciudades mineras del centro de Europa (materias primas), Chicago (mercado y centro de la mayor región cerealista de Occidente), Milán (nodo de transporte y comunicación), grandes ciudades portuarias (tráfico internacional).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t005",
+   "n_ficha": 5,
+   "grupo": null,
+   "texto": "El nivel interno de la ciudad (actividades productivas y residenciales) es el objeto \"de este y del siguiente capítulo\".",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t006",
+   "n_ficha": 6,
+   "grupo": null,
+   "texto": "La renta no solo ordena las actividades: también detiene el crecimiento de la aglomeración (visto en el cap. 1).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t007",
+   "n_ficha": 7,
+   "grupo": null,
+   "texto": "La renta asigna el suelo, en primera aproximación, a las actividades para las que la accesibilidad es más importante y que obtienen mejores resultados económicos.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t008",
+   "n_ficha": 8,
+   "grupo": null,
+   "texto": "Dos elementos teóricos: vínculo indisoluble localización-renta (la renta nace de la demanda y es el principio organizador) y fundamento económico-espacial natural y no eliminable de la renta diferencial.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t009",
+   "n_ficha": 9,
+   "grupo": null,
+   "texto": "La renta diferencial espacial es independiente de la fertilidad del suelo y de las formas jurídico-institucionales del régimen del suelo.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t010",
+   "n_ficha": 10,
+   "grupo": null,
+   "texto": "La asignación eficiente del suelo entre usos alternativos se da con un mercado perfecto de áreas, no en cualquier caso.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t011",
+   "n_ficha": 11,
+   "grupo": null,
+   "texto": "Hurd (1903) fue el primero en referirse de forma teóricamente consciente a la economía urbana, no Von Thünen; la cadena es valor, renta, localización, conveniencia, cercanía (nearness), y se concluye que el valor depende de la cercanía.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t012",
+   "n_ficha": 12,
+   "grupo": null,
+   "texto": "Von Thünen analiza la distribución territorial de producciones agrícolas \"a principios del siglo XIX\" (nota 1: 1826).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t013",
+   "n_ficha": 13,
+   "grupo": null,
+   "texto": "En Von Thünen el centro es el mercado de los productos agrícolas y el costo de la distancia es costo de transporte.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t014",
+   "n_ficha": 14,
+   "grupo": null,
+   "texto": "En la new urban economics, el centro de las residenciales concentra todos los empleos (terciarios del distrito de negocios) y recibe un recorrido diario de ida y vuelta (commuting).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t015",
+   "n_ficha": 15,
+   "grupo": null,
+   "texto": "Camagni acepta la simplificación y propone ampliar las funciones centrales a las que aumentan ingresos (densidad de demanda comercial o financiera) o reducen costos (insumos, envío del producto).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t016",
+   "n_ficha": 16,
+   "grupo": null,
+   "texto": "La información como insumo fundamental, sobre todo terciario, enriquecido por la acumulación de actividades communication oriented.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t017",
+   "n_ficha": 17,
+   "grupo": null,
+   "texto": "Los modelos de ecología social (Burgess, Hoyt) vienen al final del capítulo y no se relacionan culturalmente con los de la primera parte.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t018",
+   "n_ficha": 18,
+   "grupo": null,
+   "texto": "Hipótesis de Von Thünen (a-g): llanura homogénea con transporte en todas direcciones; un único centro-mercado; factores de producción disponibles de forma difusa (no se transportan); coeficientes fijos y rendimientos constantes; precio exógeno; costo de transporte unitario constante, lineal en volumen y distancia, distinto según el bien; demanda ilimitada (supply-oriented).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t019",
+   "n_ficha": 19,
+   "grupo": null,
+   "texto": "El costo de transporte unitario (τ) es constante para un bien, pero puede variar de un bien a otro.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t020",
+   "n_ficha": 20,
+   "grupo": null,
+   "texto": "En Von Thünen, c incluye el beneficio normal y los costos de transporte se restan aparte; la renta es el residuo.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t021",
+   "n_ficha": 21,
+   "grupo": null,
+   "texto": "La renta nace del ahorro en costos de transporte del productor ubicado más cerca del mercado central.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t022",
+   "n_ficha": 22,
+   "grupo": null,
+   "texto": "[2.1] r(δ) = (p − c − τδ)x: recta de pendiente negativa −τx (no −δx, errata de la p. 54) y ordenada en el origen (p − c)x.",
+   "referencia": "p. 54"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t023",
+   "n_ficha": 23,
+   "grupo": null,
+   "texto": "δmax = (p − c)/τ: es donde la renta es cero y cesa esa producción; no depende de x.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t024",
+   "n_ficha": 24,
+   "grupo": null,
+   "texto": "El centro lo ocupa el cultivo con mayor producto neto por unidad de superficie, la mayor ordenada en el origen, que usa el suelo de forma más intensiva y eficiente.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t025",
+   "n_ficha": 25,
+   "grupo": null,
+   "texto": "La renta efectiva es la envolvente superior de las curvas de renta ofrecida (en negrita en la Fig. 2.1); los cultivos quedan en círculos concéntricos.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t026",
+   "n_ficha": 26,
+   "grupo": null,
+   "texto": "Un cultivo cuya renta ofrecida es siempre inferior a la de otro cultivo en cualquier distancia no obtiene superficie y no se realiza.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t027",
+   "n_ficha": 27,
+   "grupo": null,
+   "texto": "Al flexibilizar los supuestos (intensidad variable de los factores, costo de transporte decreciente con la distancia) las curvas siguen decreciendo y se vuelven convexas, no rectas.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t028",
+   "n_ficha": 28,
+   "grupo": null,
+   "texto": "\"Dualidad\" entre estructura de localizaciones y renta; Samuelson sitúa a Von Thünen junto con Smith, Mill y Walras (nota 5).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t029",
+   "n_ficha": 29,
+   "grupo": null,
+   "texto": "El espacio de 2.3 es isótropo, radiocéntrico y se analiza en una dimensión; el centro se define como la localización más apetecible para cada actividad.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t030",
+   "n_ficha": 30,
+   "grupo": null,
+   "texto": "v = V/T = p·x(δ) con x' ≤ 0 (ingreso por unidad de suelo) y c = z + c(δ) con c' ≥ 0 (costo medio total por unidad de producción); T es el suelo demandado.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t031",
+   "n_ficha": 31,
+   "grupo": null,
+   "texto": "[2.2] r(δ) = [p − z − c(δ)]·x(δ) es la renta ofertada (bid rent): la renta unitaria de equilibrio que la empresa ofrece a cada distancia.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t032",
+   "n_ficha": 32,
+   "grupo": null,
+   "texto": "La renta ofertada es convexa (con pendiente decreciente en valor absoluto) cuando tanto los ingresos como los costos dependen de la distancia; recta solo si solo uno de ellos depende y de forma lineal (contexto, p. 57).",
+   "referencia": "p. 57"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t033",
+   "n_ficha": 33,
+   "grupo": null,
+   "texto": "Las empresas para las que el centro vale más tienen curvas más pendientes y se ubican en el centro (terciario); las manufacturas con mercado no local, curvas casi horizontales y localizaciones suburbanas (contexto).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t034",
+   "n_ficha": 34,
+   "grupo": null,
+   "texto": "La curva de renta ofertada más baja, no la más alta, es la que corresponde a mayor beneficio (empresa) o mayor utilidad (individuo): la tangencia con la renta efectiva se da en la curva más baja.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t035",
+   "n_ficha": 35,
+   "grupo": null,
+   "texto": "Los modelos de 2.3 y 2.4 son de equilibrio parcial: el sujeto decide con la curva de renta efectiva dada y los demás ya ubicados.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t036",
+   "n_ficha": 36,
+   "grupo": null,
+   "texto": "En equilibrio general hay que responder cómo se ubican sujetos iguales (a lo largo de la misma curva, todos indiferentes) y cómo se ubican sectores o ingresos distintos (envolvente superior).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t037",
+   "n_ficha": 37,
+   "grupo": null,
+   "texto": "La curva de renta efectiva no es una recta: por la sustitución tierra por capital (construir hacia arriba) la renta crece más que proporcionalmente al acercarse al centro; es convexa.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t038",
+   "n_ficha": 38,
+   "grupo": null,
+   "texto": "La evidencia empírica coherente: gradiente de renta en forma de hipérbole, densidad creciente hacia el centro y perfil vertical de la ciudad (Fig. 2.5).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t039",
+   "n_ficha": 39,
+   "grupo": null,
+   "texto": "Fig. 2.5: a) densidad residencial de Londres 1801-1941; b) valor del suelo en Rotterdam 1963, Los Ángeles 1960, Chicago 1928 y 1952, Zúrich 1936, Perth 1955-59, Vancouver 1963; fuente Evans (1985); escalas logarítmicas.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t040",
+   "n_ficha": 40,
+   "grupo": null,
+   "texto": "En el equilibrio residencial general, el eje vertical de la derivación es el bien compuesto B (precio unitario) y el horizontal el suelo A (dimensión de la vivienda); la recta de balance es Y − τδ = B·1 + A·r y su pendiente r sale de la tangencia con la curva de indiferencia U.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t041",
+   "n_ficha": 41,
+   "grupo": null,
+   "texto": "Fig. 2.6: el equilibrio central a(A⁰, B⁰) tiene vivienda menor y más bienes B que el periférico b(A', B').",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t042",
+   "n_ficha": 42,
+   "grupo": null,
+   "texto": "Ciudad abierta: la utilidad es exógena (nivel nacional) y el modelo define tamaño físico y población. Ciudad cerrada: la población está dada y la utilidad es endógena (la renta en el margen es la agraria).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t043",
+   "n_ficha": 43,
+   "grupo": null,
+   "texto": "El radio de la ciudad δmax está donde la curva de renta ofertada de equilibrio corta la renta agrícola horizontal (nota 11: renta agrícola constante a toda distancia).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t044",
+   "n_ficha": 44,
+   "grupo": null,
+   "texto": "Con varias clases sociales, el suelo va a la que ofrece más a cada distancia; resultan anillos concéntricos y cada clase está en indiferencia localizativa dentro de su anillo.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t045",
+   "n_ficha": 45,
+   "grupo": null,
+   "texto": "Qué nivel de utilidad de los individuos es relevante: el que iguala la oferta de trabajo urbana con la demanda de trabajo de las empresas.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t046",
+   "n_ficha": 46,
+   "grupo": null,
+   "texto": "Dinámica Fig. 2.7: utilidad demasiado alta, renta ofrecida demasiado baja (r'), población escasa frente a la demanda de trabajo, inmigración, renta más alta (r''), ciudad más grande (δ''max) y utilidad total menor.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t047",
+   "n_ficha": 47,
+   "grupo": null,
+   "texto": "En la realidad, terciario y funciones direccionales privadas desplazan la vivienda del centro; la manufactura se fue (necesita espacio y no puede construir hacia arriba), salvo sectores ligeros y artesanales (prendas de vestir, editorial, orfebrería).",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t048",
+   "n_ficha": 48,
+   "grupo": null,
+   "texto": "El pattern localizativo que emerge del modelo es siempre el de círculos concéntricos (tradición thüneniana); la estructura por sectores (Fig. 2.9) pertenece a la sección 2.6, que no es exigida.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t049",
+   "n_ficha": 49,
+   "grupo": null,
+   "texto": "Gradiente de salario urbano de inclinación −τ; la empresa en E a distancia e ahorra eτ; el equilibrio residencial no cambia, y se mantiene el modelo monocéntrico con empleo difuso.",
+   "referencia": null
+  },
+  {
+   "id": "s04-camagni-2005-cap2-t050",
+   "n_ficha": 50,
+   "grupo": null,
+   "texto": "El enfoque de la new urban economics desarrolla solo el principio de accesibilidad y tiene dificultades con el de aglomeración (nota 10).",
+   "referencia": null
+  }
+ ],
+ "pares": [
+  {
+   "id": "s04-camagni-2005-cap2-p001",
+   "par": "Renta ofertada (bid rent) vs renta efectiva",
+   "diferencia": "La ofertada es lo que una actividad (o un individuo con un nivel de utilidad) está dispuesto a pagar a cada distancia; la efectiva es la que de hecho se paga, la envolvente superior de las ofertadas"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p002",
+   "par": "Equilibrio parcial vs general",
+   "diferencia": "Parcial: la curva de renta efectiva está dada exógenamente y decide un solo sujeto. General: esa curva sale del propio modelo, con todos los sujetos decidiendo a la vez"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p003",
+   "par": "Ciudad abierta vs cerrada",
+   "diferencia": "Abierta: población incógnita, utilidad exógena (nivel nacional), el modelo da el tamaño y la población. Cerrada: población dada, renta en el margen igual a la agraria, utilidad endógena"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p004",
+   "par": "c en 2.2 vs c en 2.3",
+   "diferencia": "En Von Thünen (2.2), c es el costo unitario de producción fijo e incluye el beneficio normal; en 2.3, c es el costo medio total y se separa en z (margen de beneficio medio) + c(δ) (costo que depende de la distancia)"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p005",
+   "par": "x en Von Thünen vs x(δ) en 2.3",
+   "diferencia": "En Von Thünen x es fija (coeficientes fijos); en 2.3 depende de la distancia con x' ≤ 0"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p006",
+   "par": "δ y τ",
+   "diferencia": "δ: distancia al centro; τ: costo de transporte unitario. La pendiente de [2.1] es −τx, no −δx"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p007",
+   "par": "Pendiente de la recta vs ordenada",
+   "diferencia": "Ordenada (p − c)x decide quién ocupa el centro; la pendiente −τx decide hasta dónde llega"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p008",
+   "par": "Hurd (1903) vs Von Thünen",
+   "diferencia": "Von Thünen: principios del s. XIX, producciones agrícolas (nota: 1826); Hurd: primera referencia teóricamente consciente a la economía urbana, 1903"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p009",
+   "par": "Alonso (1960, 1964) vs Muth (1969)",
+   "diferencia": "Alonso: localización productiva (1960 y 1964) y residencial (1964); Muth: residencial (1969)"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p010",
+   "par": "Modelos económicos vs \"ecología social\"",
+   "diferencia": "Los de ecología social (Burgess 1925; Hoyt 1939) no se relacionan culturalmente con la línea de Von Thünen pero son coherentes con la accesibilidad"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p011",
+   "par": "Camagni (τx) vs Polèse (Ef)",
+   "diferencia": "Mismo modelo en otra notación: Camagni r = (p − c)x − τδx; Polèse R = E(p − a) − Efk (x = E; c = a; τ = f; δ = k)"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p012",
+   "par": "Renta diferencial espacial vs fertilidad",
+   "diferencia": "La renta que funda el principio de accesibilidad no depende de la fertilidad del suelo ni del régimen jurídico del suelo"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p013",
+   "par": "Curva con renta ofertada más baja",
+   "diferencia": "Mayor utilidad (la empresa: mayor beneficio)"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-p014",
+   "par": "Salario: ahorro de transporte eτ vs gradiente −τ",
+   "diferencia": "eτ es el ahorro de la empresa ubicada en E a distancia e; el gradiente de salario urbano tiene inclinación −τ"
+  }
+ ]
+}

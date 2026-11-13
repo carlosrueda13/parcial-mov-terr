@@ -1,0 +1,936 @@
+{
+ "semana": 5,
+ "lectura": "cuervo-gonzalez-cap8",
+ "autor": "Luis Mauricio Cuervo y Josefina González",
+ "titulo": "Industria y ciudades en la era de la mundialización, capítulo 8: Desarrollo económico y primacía urbana en América Latina. Una visión histórico-comparativa",
+ "alcance": "Cap. 8, pp. 278-294 (el capítulo ocupa las pp. 253-294)",
+ "fuente": "content/semana-05/cuervo-gonzalez-cap8/ficha.md",
+ "preguntas": [
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q001",
+   "n_ficha": 1,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es la primacía urbana en este capítulo?",
+   "respuesta": "Peso de la primera ciudad que sobrepasa los patrones en sentido histórico y sistémico; concepto estadístico sin connotación normativa; expresión particular de la concentración urbana.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q002",
+   "n_ficha": 2,
+   "tipo": "abierta",
+   "enunciado": "¿Qué diferencia hay entre primacía y concentración urbana?",
+   "respuesta": "Primacía: ciudad mayor frente al resto de la red, IPT y similares; concentración: distribución por tamaños, q. La concentración responde más a las transformaciones económicas.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q003",
+   "n_ficha": 3,
+   "tipo": "abierta",
+   "enunciado": "¿Qué se evalúa con el IPT?",
+   "respuesta": "El peso demográfico de la primera ciudad en el total nacional; sube cuando la ciudad crece más que el país.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q004",
+   "n_ficha": 4,
+   "tipo": "abierta",
+   "enunciado": "Escriba el IPU y diga qué ventaja y qué inconveniente tiene.",
+   "respuesta": "Primera ciudad / población urbana; aísla el efecto de la urbanización, pero depende de definiciones oficiales de lo urbano variables.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q005",
+   "n_ficha": 5,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se calcula el ICC y por qué se llama índice de cuatro ciudades?",
+   "respuesta": "Primera ciudad / suma de las tres siguientes; entran cuatro ciudades.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q006",
+   "n_ficha": 6,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es el defecto principal del ICC y cuál su virtud?",
+   "respuesta": "Subconjunto arbitrario; uso común en fuentes y permite observar la cabeza urbana.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q007",
+   "n_ficha": 7,
+   "tipo": "abierta",
+   "enunciado": "¿Qué mide q y cuál es su signo?",
+   "respuesta": "Pendiente de la función rango-tamaño; siempre negativo; se usa el valor absoluto; aumenta con la concentración.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q008",
+   "n_ficha": 8,
+   "tipo": "abierta",
+   "enunciado": "¿Qué es A en LogP = A − q LogR?",
+   "respuesta": "El intercepto vertical; tamaño teórico de la ciudad mayor.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q009",
+   "n_ficha": 9,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué q tiene comparabilidad limitada?",
+   "respuesta": "Varía según el subconjunto de ciudades y no hay criterio objetivo para elegirlo.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q010",
+   "n_ficha": 10,
+   "tipo": "abierta",
+   "enunciado": "¿Qué indica el R cuadrado de la función rango-tamaño y qué valores tuvo?",
+   "respuesta": "Porcentaje del cambio en la población atribuible al rango; sobre 80% y cerca de 95% en la mayoría.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q011",
+   "n_ficha": 11,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo se calcula el IPRT y cómo se interpreta?",
+   "respuesta": "Primera ciudad / Exp(A); 1 = talla esperada; mayor que 1 = excesivamente grande.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q012",
+   "n_ficha": 12,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dos inconvenientes tiene el IPRT?",
+   "respuesta": "Cálculo dispendioso y A cambiante, que dificulta las comparaciones en el tiempo.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q013",
+   "n_ficha": 13,
+   "tipo": "abierta",
+   "enunciado": "Escriba el CIC y defina i y j.",
+   "respuesta": "CIC = (IPT_i − IPT_j) / (i − j); i, final del período de crecimiento; j, inicio.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q014",
+   "n_ficha": 14,
+   "tipo": "abierta",
+   "enunciado": "¿Qué indicador se escogió \"por excelencia\" para la primacía y por qué?",
+   "respuesta": "El IPT; amplitud de comparaciones internacionales y larga duración de las series.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q015",
+   "n_ficha": 15,
+   "tipo": "abierta",
+   "enunciado": "¿Qué unidad de análisis de ciudad se adoptó?",
+   "respuesta": "La ciudad funcional actual, conurbación o región metropolitana; se sacrifica precisión histórica.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q016",
+   "n_ficha": 16,
+   "tipo": "abierta",
+   "enunciado": "¿Qué dice Portes (1989) sobre el ICC?",
+   "respuesta": "Disminuyó en la década de 1980 en 12 de los 14 países que estudió.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q017",
+   "n_ficha": 17,
+   "tipo": "abierta",
+   "enunciado": "¿Cuántos países de la Tabla 8.2 tienen IPT decreciente y cuáles?",
+   "respuesta": "Ocho: Cuba, Argentina, Venezuela, Uruguay, Guatemala, Nicaragua, El Salvador, México.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q018",
+   "n_ficha": 18,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles tuvieron desaceleración del crecimiento del IPT?",
+   "respuesta": "Seis: Costa Rica, Brasil, Chile, Colombia, Perú y Paraguay.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q019",
+   "n_ficha": 19,
+   "tipo": "abierta",
+   "enunciado": "¿Desde cuándo disminuye el IPT en Argentina y Venezuela y en Cuba?",
+   "respuesta": "Desde 1970-80 y desde 1960-70.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q020",
+   "n_ficha": 20,
+   "tipo": "abierta",
+   "enunciado": "Mencione tres cifras que muestren pérdida de peso económico de la ciudad mayor.",
+   "respuesta": "México 37,5% a 33,5%; Santiago 49,2% a 41,5%; Bogotá 22% a 20%.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q021",
+   "n_ficha": 21,
+   "tipo": "abierta",
+   "enunciado": "¿Qué pasó con el peso de São Paulo en la producción industrial brasileña?",
+   "respuesta": "De 44% a 30% entre 1960 y 1990.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q022",
+   "n_ficha": 22,
+   "tipo": "abierta",
+   "enunciado": "¿Qué cambió en la región central de Venezuela?",
+   "respuesta": "Su participación en el valor agregado industrial pasó de 62% a 40% entre 1980 y 1992.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q023",
+   "n_ficha": 23,
+   "tipo": "abierta",
+   "enunciado": "¿Qué determina el sentido de las transformaciones económicas desde 1970?",
+   "respuesta": "El agotamiento de la industrialización sustitutiva desde finales de los sesenta, combinado con factores externos.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q024",
+   "n_ficha": 24,
+   "tipo": "abierta",
+   "enunciado": "¿Qué hicieron los países grandes y los pequeños para prolongar la sustitución de importaciones?",
+   "respuesta": "Grandes: ampliar el mercado interno; medianos y pequeños: integración económica regional.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q025",
+   "n_ficha": 25,
+   "tipo": "abierta",
+   "enunciado": "Describa los tres ciclos macroeconómicos.",
+   "respuesta": "Setenta: capital abundante y revaluación; ochenta: deuda, devaluación e hiperinflación; fin de los ochenta y comienzos de los noventa: estabilización, privatización y nuevo financiamiento externo.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q026",
+   "n_ficha": 26,
+   "tipo": "abierta",
+   "enunciado": "¿Qué paradoja tuvo la abundancia de capital de los setenta?",
+   "respuesta": "Dio un segundo aliento a la sustitución de importaciones.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q027",
+   "n_ficha": 27,
+   "tipo": "abierta",
+   "enunciado": "Enumere las cuatro estrategias estructurales.",
+   "respuesta": "Industrialización sustitutiva, promoción de exportaciones, exportaciones primarias, substitución de exportaciones.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q028",
+   "n_ficha": 28,
+   "tipo": "abierta",
+   "enunciado": "¿Qué efecto espacial tuvo mantener o abandonar la industrialización sustitutiva?",
+   "respuesta": "Desconcentración en ambos casos: desindustrialización de grandes ciudades vs industria pesada en regiones periféricas.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q029",
+   "n_ficha": 29,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué el efecto espacial de las exportaciones primarias es contradictorio?",
+   "respuesta": "Benefician regiones menos desarrolladas, pero las rentas se consumen e invierten en las grandes ciudades.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q030",
+   "n_ficha": 30,
+   "tipo": "abierta",
+   "enunciado": "¿Qué caracteriza el caso chileno en la substitución de exportaciones?",
+   "respuesta": "Desaparece industria tradicional de Santiago y crecen exportaciones de bosques, frutas y minerales.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q031",
+   "n_ficha": 31,
+   "tipo": "abierta",
+   "enunciado": "¿Pueden coexistir las cuatro estrategias?",
+   "respuesta": "Ideológicamente son incompatibles, pero cada época deja su marca y coexisten en la estructura económica.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q032",
+   "n_ficha": 32,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son las dos características del ciclo económico latinoamericano?",
+   "respuesta": "Alta intensidad y simetría o anacronía con el ciclo de los países desarrollados.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q033",
+   "n_ficha": 33,
+   "tipo": "abierta",
+   "enunciado": "Diferencie la articulación comercial y la financiera con el ciclo del Norte.",
+   "respuesta": "Comercial sincrónica; financiera simétrica o anacrónica.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q034",
+   "n_ficha": 34,
+   "tipo": "abierta",
+   "enunciado": "¿Qué segmento es concentrativo y cuál desconcentrativo?",
+   "respuesta": "Financiero: contracíclico y concentrativo; comercial: procíclico y desconcentrativo.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q035",
+   "n_ficha": 35,
+   "tipo": "abierta",
+   "enunciado": "¿Qué actividades se benefician de la abundancia de recursos financieros internacionales?",
+   "respuesta": "Financiera, comercial de importaciones, inmobiliaria y de servicios; favorece las grandes ciudades.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q036",
+   "n_ficha": 36,
+   "tipo": "abierta",
+   "enunciado": "¿Cuál es la gran dificultad que señala el texto para la economía espacial?",
+   "respuesta": "No hay criterios para saber si un cambio coyuntural impactará la estructura socioespacial.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q037",
+   "n_ficha": 37,
+   "tipo": "abierta",
+   "enunciado": "¿Cuáles son los tres ejes del cambio socioespacial?",
+   "respuesta": "Talla del espacio nacional, madurez de la urbanización, estructura de temporalidades.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q038",
+   "n_ficha": 38,
+   "tipo": "abierta",
+   "enunciado": "¿Por qué la talla del país es un factor ambivalente?",
+   "respuesta": "Los pequeños son más vulnerables, pero su tamaño puede neutralizar el impacto geográfico por el alcance de la ciudad mayor.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q039",
+   "n_ficha": 39,
+   "tipo": "abierta",
+   "enunciado": "Clasifique los países según la madurez de su urbanización.",
+   "respuesta": "Moderna precoz: Cono Sur y México; intermedia: Brasil y Colombia; tardía: América Central y el Caribe.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q040",
+   "n_ficha": 40,
+   "tipo": "abierta",
+   "enunciado": "Compare el efecto de las actividades de alta productividad y el de la agricultura campesina.",
+   "respuesta": "Alta productividad: corto plazo, reversible; campesina: largo plazo, estable y duradero.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q041",
+   "n_ficha": 41,
+   "tipo": "abierta",
+   "enunciado": "¿Qué subregiones latinoamericanas identifica el capítulo?",
+   "respuesta": "Cono Sur, América andina, América Central y Brasil.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q042",
+   "n_ficha": 42,
+   "tipo": "abierta",
+   "enunciado": "¿Cómo describe el capítulo la evidencia de debilitamiento primacial?",
+   "respuesta": "Sugestiva: muchos países con descensos absolutos y otros con desaceleración de dos a tres décadas; las excepciones son pocas.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q043",
+   "n_ficha": 43,
+   "tipo": "abierta",
+   "enunciado": "¿Qué razón principal explica el debilitamiento en el Cono Sur y Perú; en Brasil, Venezuela y Colombia; en América Central y México?",
+   "respuesta": "Desindustrialización; continuidad de la industrialización con industria básica; apertura comercial.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q044",
+   "n_ficha": 44,
+   "tipo": "abierta",
+   "enunciado": "¿Qué grado de certeza reclama el capítulo para sus explicaciones?",
+   "respuesta": "Las explicaciones son exploratorias, claves de lectura y conclusiones provisionales; no hay evidencia suficiente para contrastar las hipótesis.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q045",
+   "n_ficha": 45,
+   "tipo": "abierta",
+   "enunciado": "Verdadero o falso: \"En la Tabla 8.2 el CIC de Costa Rica comienza a descender en 1960-70.\"",
+   "respuesta": "Falso en la tabla: sube en 1960-70 y baja desde 1970-80; el texto dice que se desacelera desde 1960-70. Vale el texto en el examen, pero conviene conocer la diferencia.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q046",
+   "n_ficha": 46,
+   "tipo": "abierta",
+   "enunciado": "Verdadero o falso: \"El ICC es la población de la primera ciudad dividida entre la suma de las cuatro mayores.\"",
+   "respuesta": "Falso: entre la suma de las tres siguientes.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q047",
+   "n_ficha": 47,
+   "tipo": "abierta",
+   "enunciado": "Verdadero o falso: \"El valor de q aumenta en términos absolutos cuando disminuye la concentración urbana.\"",
+   "respuesta": "Falso: aumenta con la concentración.",
+   "referencia": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-q048",
+   "n_ficha": 48,
+   "tipo": "abierta",
+   "enunciado": "Verdadero o falso: \"El capítulo concluye que la primacía latinoamericana ya alcanzó definitivamente su punto de saturación.\"",
+   "respuesta": "Falso: presenta síntomas y claves de lectura; las explicaciones y su durabilidad son exploratorias y las conclusiones, provisionales.",
+   "referencia": null,
+   "estado": "completa"
+  }
+ ],
+ "trampas": [
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t001",
+   "n_ficha": 1,
+   "grupo": null,
+   "texto": "ICC no es \"primera ciudad entre las cuatro mayores\": es primera ciudad entre la suma de las tres siguientes. Se llama índice de cuatro ciudades (p. 292).",
+   "referencia": "p. 292"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t002",
+   "n_ficha": 2,
+   "grupo": null,
+   "texto": "IPT divide entre la población total del país, no entre la urbana (esa es IPU) (p. 292).",
+   "referencia": "p. 292"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t003",
+   "n_ficha": 3,
+   "grupo": null,
+   "texto": "q es el único indicador estructural; los demás son puntuales. Pero el IPRT es una combinación de puntuales y estructurales (pp. 292-294).",
+   "referencia": "pp. 292-294"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t004",
+   "n_ficha": 4,
+   "grupo": null,
+   "texto": "q \"toma siempre un valor negativo\" y se interpreta por su valor absoluto; si su valor absoluto aumenta, hay mayor concentración urbana (p. 293).",
+   "referencia": "p. 293"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t005",
+   "n_ficha": 5,
+   "grupo": null,
+   "texto": "q crece cuando las ciudades de mayor tamaño crecen a una tasa superior a la de las menores (p. 293).",
+   "referencia": "p. 293"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t006",
+   "n_ficha": 6,
+   "grupo": null,
+   "texto": "q depende del número de ciudades elegido y no hay criterio objetivo para elegir el subconjunto; por eso sus comparaciones son restringidas, aunque sigue siendo útil como indicador sintético estructural (p. 293).",
+   "referencia": "p. 293"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t007",
+   "n_ficha": 7,
+   "grupo": null,
+   "texto": "El R cuadrado de q \"habitualmente\" supera el 80% y en la mayoría de los casos ronda el 95% (p. 293). Mide el cambio de la población (dependiente) atribuible al rango (independiente).",
+   "referencia": "p. 293"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t008",
+   "n_ficha": 8,
+   "grupo": null,
+   "texto": "A es el intercepto vertical y el tamaño teórico de la ciudad mayor; Exp(A) lo expresa en unidades de población (pp. 292, 294).",
+   "referencia": "pp. 292, 294"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t009",
+   "n_ficha": 9,
+   "grupo": null,
+   "texto": "IPRT = 1 significa talla real igual a la esperada; mayor que 1, ciudad excesivamente grande respecto de su sistema urbano (p. 294). Inconvenientes: cálculo dispendioso y A cambiante que dificulta comparaciones intertemporales.",
+   "referencia": "p. 294"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t010",
+   "n_ficha": 10,
+   "grupo": null,
+   "texto": "CIC = (IPT_i − IPT_j) / (i − j); i es el final y j el inicio de un período de crecimiento de la primacía (p. 294). Mide velocidad de crecimiento de la primacía con el IPT (no con ICC ni q).",
+   "referencia": "p. 294"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t011",
+   "n_ficha": 11,
+   "grupo": null,
+   "texto": "El IPT fue escogido \"por excelencia\" por la amplitud de las comparaciones internacionales y la larga duración de los períodos que deja observar, no por ser el más preciso (p. 292).",
+   "referencia": "p. 292"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t012",
+   "n_ficha": 12,
+   "grupo": null,
+   "texto": "El IPU aísla el efecto de la urbanización, pero depende de definiciones oficiales de lo urbano, que varían entre países y en el tiempo (p. 293).",
+   "referencia": "p. 293"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t013",
+   "n_ficha": 13,
+   "grupo": null,
+   "texto": "El ICC tiene como defecto el subconjunto arbitrario y como virtud su uso común en las fuentes estadísticas (p. 293).",
+   "referencia": "p. 293"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t014",
+   "n_ficha": 14,
+   "grupo": null,
+   "texto": "La unidad de análisis es la ciudad funcional actual; se sacrifica precisión histórica para poder comparar en el largo plazo (p. 291).",
+   "referencia": "p. 291"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t015",
+   "n_ficha": 15,
+   "grupo": null,
+   "texto": "En las comparaciones históricas internacionales se usó un conjunto de indicadores \"mucho más reducido\" que la canasta inicial (p. 291).",
+   "referencia": "p. 291"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t016",
+   "n_ficha": 16,
+   "grupo": null,
+   "texto": "Portes (1989): el ICC bajó en 12 de 14 países en la década de 1980 (no el IPT, no 22 países) (pp. 278-279).",
+   "referencia": "pp. 278-279"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t017",
+   "n_ficha": 17,
+   "grupo": null,
+   "texto": "El IPT de la Tabla 8.2 está calculado por la investigación con base en Moriconi-Ebrard (Géopolis, 1992) (nota 18).",
+   "referencia": null
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t018",
+   "n_ficha": 18,
+   "grupo": null,
+   "texto": "De los 22 países de la tabla: ocho con IPT decreciente y seis con desaceleración. Las décadas: Cuba 1960-70; Argentina y Venezuela 1970-80; Uruguay, Guatemala, Nicaragua, El Salvador y México 1980-90; Costa Rica 1960-70; Brasil, Chile, Colombia, Perú y Paraguay 1970-80 (p. 279).",
+   "referencia": "p. 279"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t019",
+   "n_ficha": 19,
+   "grupo": null,
+   "texto": "La tabla da el IPT y el CIC, no el ICC.",
+   "referencia": null
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t020",
+   "n_ficha": 20,
+   "grupo": null,
+   "texto": "Cifras de la p. 279: Ciudad de México 37,5% a 33,5% (1960-1985); Santiago 49,2% a 41,5% (1970-1988); Bogotá 22% a 20% (1984-1989); São Paulo, producción industrial 44% a 30% (1960-1990); empleo manufacturero de Ciudad de México 46% a 37% (1970-1985); región central de Venezuela, valor agregado industrial 62% a 40% (1980-1992).",
+   "referencia": "p. 279"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t021",
+   "n_ficha": 21,
+   "grupo": null,
+   "texto": "Cada cifra usa un indicador distinto: participación en el PIB (México, Santiago, Bogotá), producción industrial (São Paulo), empleo manufacturero (Ciudad de México), valor agregado industrial (Venezuela).",
+   "referencia": null
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t022",
+   "n_ficha": 22,
+   "grupo": null,
+   "texto": "La tendencia desconcentrativa es \"más reciente\" en Colombia que en México y Chile (p. 279).",
+   "referencia": "p. 279"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t023",
+   "n_ficha": 23,
+   "grupo": null,
+   "texto": "El agotamiento de la industrialización sustitutiva se da desde finales de los años sesenta (p. 279); el cambio de los últimos 25 años es resultado de factores internos y externos.",
+   "referencia": "p. 279"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t024",
+   "n_ficha": 24,
+   "grupo": null,
+   "texto": "Los países más grandes centraron su esfuerzo en el mercado interno; los medianos y pequeños, en la integración económica regional (p. 282).",
+   "referencia": "p. 282"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t025",
+   "n_ficha": 25,
+   "grupo": null,
+   "texto": "Años setenta: abundancia de capital externo, precios altos de materias primas, revaluación; la base exportadora no se amplió; la sustitución de importaciones tuvo un \"segundo aliento\" (paradoja) (p. 282).",
+   "referencia": "p. 282"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t026",
+   "n_ficha": 26,
+   "grupo": null,
+   "texto": "Años ochenta: deuda externa, devaluación abrupta, déficit público, hiperinflación; ajuste y contracción de importaciones llevaron a superávit comercial aun con precios de exportaciones estancados (p. 282).",
+   "referencia": "p. 282"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t027",
+   "n_ficha": 27,
+   "grupo": null,
+   "texto": "Fin de los ochenta y comienzos de los noventa: estabilización, reformas, privatización; nueva oleada de capital; revaluación; saldos comerciales negativos; financiamiento con inversiones de largo plazo y colocaciones especulativas de corto plazo (p. 282).",
+   "referencia": "p. 282"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t028",
+   "n_ficha": 28,
+   "grupo": null,
+   "texto": "Hay tres ciclos macro y cuatro estrategias; no confundirlos (pp. 282-285).",
+   "referencia": "pp. 282-285"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t029",
+   "n_ficha": 29,
+   "grupo": null,
+   "texto": "Industrialización sustitutiva: momentos privilegiados, los años setenta y la primera mitad de los noventa; no es continua sino intermitente (p. 283).",
+   "referencia": "p. 283"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t030",
+   "n_ficha": 30,
+   "grupo": null,
+   "texto": "El efecto espacial de mantener o abandonar la sustitutiva fue \"muy semejante\" (desconcentración), aunque por vías distintas: desindustrialización de las grandes ciudades (Cono Sur y algunos de América Central) frente a industria pesada en regiones periféricas (Brasil, Venezuela, Colombia) (pp. 283-284).",
+   "referencia": "pp. 283-284"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t031",
+   "n_ficha": 31,
+   "grupo": null,
+   "texto": "Promoción de exportaciones: años sesenta y principios de los setenta; no se puede establecer un patrón espacial dominante (p. 284).",
+   "referencia": "p. 284"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t032",
+   "n_ficha": 32,
+   "grupo": null,
+   "texto": "Exportaciones primarias: años setenta y ochenta; beneficiaron a regiones menos desarrolladas (petróleo, níquel, banano), pero las rentas se consumen e invierten en grandes ciudades, de modo que el efecto es contradictorio (p. 284).",
+   "referencia": "p. 284"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t033",
+   "n_ficha": 33,
+   "grupo": null,
+   "texto": "Substitución de exportaciones: finales de los ochenta; Chile es el caso paradigmático (se pierde industria tradicional de Santiago; crecen exportaciones de bosques, frutas y minerales); Caribe y América Central: servicios turísticos y laborales en zonas periféricas (pp. 284-285).",
+   "referencia": "pp. 284-285"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t034",
+   "n_ficha": 34,
+   "grupo": null,
+   "texto": "Las cuatro estrategias son ideológicamente incompatibles pero coexisten en la estructura del aparato económico: cada época deja su marca (p. 285).",
+   "referencia": "p. 285"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t035",
+   "n_ficha": 35,
+   "grupo": null,
+   "texto": "Conclusión del texto: tendencias de cambio universales; articulación con condiciones internas da resultados muy diferentes (p. 285).",
+   "referencia": "p. 285"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t036",
+   "n_ficha": 36,
+   "grupo": null,
+   "texto": "Dos características del ciclo económico latinoamericano: alta intensidad y simetría (anacronía) con el ciclo de los países desarrollados, especialmente el de EE. UU. (p. 285).",
+   "referencia": "p. 285"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t037",
+   "n_ficha": 37,
+   "grupo": null,
+   "texto": "En lo comercial la temporalidad es sincrónica; en lo financiero, simétrica o anacrónica (p. 286).",
+   "referencia": "p. 286"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t038",
+   "n_ficha": 38,
+   "grupo": null,
+   "texto": "Segmento financiero: contracíclico y concentrativo; comercial: procíclico y desconcentrativo (p. 286). Pero la actividad comercial de importaciones se beneficia de la abundancia de capital junto con la financiera, la inmobiliaria y los servicios; las exportaciones son las que favorecen a regiones menos desarrolladas.",
+   "referencia": "p. 286"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t039",
+   "n_ficha": 39,
+   "grupo": null,
+   "texto": "El debilitamiento de la primacía \"se estaría desarrollando\" mediante \"cortos ciclos concentrativos y desconcentrativos\": formulación hipotética (p. 286).",
+   "referencia": "p. 286"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t040",
+   "n_ficha": 40,
+   "grupo": null,
+   "texto": "La \"gran dificultad\" de la economía espacial y la geografía económica: no hay criterios para decidir si un cambio coyuntural afectará la estructura socioespacial (p. 286).",
+   "referencia": "p. 286"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t041",
+   "n_ficha": 41,
+   "grupo": null,
+   "texto": "Los ejes socioespaciales son tres: talla del espacio nacional, madurez del proceso de urbanización y estructura de las temporalidades (p. 287).",
+   "referencia": "p. 287"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t042",
+   "n_ficha": 42,
+   "grupo": null,
+   "texto": "La talla es ambivalente: los países pequeños son más vulnerables, pero su pequeña dimensión puede neutralizar el impacto geográfico (p. 287). La primera gran distinción es América del Sur y México frente a América Central y el Caribe.",
+   "referencia": "p. 287"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t043",
+   "n_ficha": 43,
+   "grupo": null,
+   "texto": "Nota 23: entre los países con decrecimiento de la primacía predominan los de menor tamaño geográfico.",
+   "referencia": null
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t044",
+   "n_ficha": 44,
+   "grupo": null,
+   "texto": "Madurez = grado de concentración urbana y tamaño de la ciudad mayor, no antigüedad del país; en países con larga tradición de crecimiento urbano los cambios económicos pueden impulsar transformaciones profundas (pp. 287-288).",
+   "referencia": "pp. 287-288"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t045",
+   "n_ficha": 45,
+   "grupo": null,
+   "texto": "Urbanización moderna precoz: Cono Sur y México; intermedia: Brasil y Colombia; tardía: América Central y el Caribe; ciudades gigantes: Buenos Aires, México y São Paulo (p. 288).",
+   "referencia": "p. 288"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t046",
+   "n_ficha": 46,
+   "grupo": null,
+   "texto": "Actividades de alta productividad: impacto de corto plazo, reversible, sin cambiar la distribución de la población; enclave: impacto fuerte y desproporcionado, sin crecimiento regional estable. Agricultura campesina: impacto de largo plazo, estable y duradero (p. 288).",
+   "referencia": "p. 288"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t047",
+   "n_ficha": 47,
+   "grupo": null,
+   "texto": "El texto promete distinguir recesión de crisis con el análisis coyuntural y estructural, pero en estas páginas no define ninguno de los dos términos (p. 289).",
+   "referencia": "p. 289"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t048",
+   "n_ficha": 48,
+   "grupo": null,
+   "texto": "La primacía \"deja de ser vista como disfuncionalidad o anormalidad\"; la propuesta no renuncia a integrarle una dimensión normativa, a condición de aportar evidencia empírica y claridad en las relaciones teóricas (p. 289).",
+   "referencia": "p. 289"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t049",
+   "n_ficha": 49,
+   "grupo": null,
+   "texto": "Primacía \"sensible al ritmo del crecimiento económico\" (Colombia y Japón); la concentración \"más permeable\" a las transformaciones económicas (p. 290).",
+   "referencia": "p. 290"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t050",
+   "n_ficha": 50,
+   "grupo": null,
+   "texto": "Cuatro subregiones: Cono Sur, América andina, América Central y Brasil (p. 290).",
+   "referencia": "p. 290"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t051",
+   "n_ficha": 51,
+   "grupo": null,
+   "texto": "Evidencias de debilitamiento: descensos absolutos en muchos países y desaceleración prolongada (dos a tres décadas) en otro grupo; las excepciones, \"realmente excepcionales\" (p. 290). Las explicaciones son exploratorias y las conclusiones, provisionales.",
+   "referencia": "p. 290"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t052",
+   "n_ficha": 52,
+   "grupo": null,
+   "texto": "Razón esencial por caso: desindustrialización (Cono Sur y Perú); continuidad industrial con industria básica (Brasil, Venezuela, Colombia); apertura comercial (América Central y México) (p. 291).",
+   "referencia": "p. 291"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t053",
+   "n_ficha": 53,
+   "grupo": null,
+   "texto": "Madurez del sistema urbano (Cono Sur) y dimensión de la primera ciudad (Cono Sur, México y Brasil) empujan el debilitamiento; América Central, pese a su industrialización relativamente joven, por vulnerabilidad y permeabilidad externas (p. 291).",
+   "referencia": "p. 291"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t054",
+   "n_ficha": 54,
+   "grupo": null,
+   "texto": "En la p. 287, \"capítulo IV\" se refiere a un capítulo anterior del libro, no a la semana 4 ni a este capítulo.",
+   "referencia": "p. 287"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-t055",
+   "n_ficha": 55,
+   "grupo": null,
+   "texto": "Tabla 8.2 contra el texto: Costa Rica (el texto dice \"desde 1960-70\") y Chile (el texto dice \"desde 1970-80\") difieren de lo que muestra el CIC; Jamaica y Puerto Rico bajan en la tabla pero no están en la lista de ocho. En el examen vale el texto.",
+   "referencia": null
+  }
+ ],
+ "pares": [
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p001",
+   "par": "Primacía vs concentración",
+   "diferencia": "Primacía: relación de la ciudad mayor con el resto de la malla (se mide con IPT, IPU, ICC, IPRT, CIC). Concentración: distribución general de la población por tamaños de ciudad (se mide con q). La primacía es más inercial; la concentración, más sensible a los cambios económicos"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p002",
+   "par": "Inercial vs insensible",
+   "diferencia": "La primacía es \"menos sensible\" e inercial, no insensible: responde al ritmo del PIB (Colombia, Japón)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p003",
+   "par": "Primacía vs macrocefalia",
+   "diferencia": "Primacía: concepto estadístico sin connotación normativa (doble sentido, histórico y sistémico). Macrocefalia: término de origen médico de la urbanización dependiente (Castells 1970), implica disfuncionalidad propia del capitalismo periférico latinoamericano"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p004",
+   "par": "Ley de Zipf vs ley de rango-tamaño",
+   "diferencia": "Rango-tamaño (Auerbach 1913): LogP = A − q LogR, q general. Zipf (1941): caso particular con q = 1 y lectura normativa. Jefferson (1939) refutó solo q = 1"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p005",
+   "par": "Función diacrónica vs sincrónica",
+   "diferencia": "Diacrónica: trayectoria en el tiempo (año cero = arranque de la industrialización). Sincrónica: nivel y forma en un momento (tamaño del país, integración, madurez urbana, estructura de la red)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p006",
+   "par": "Estructural vs coyuntural",
+   "diferencia": "Estructural: transformaciones persistentes (cuatro estrategias). Coyuntural: ciclo (tres ciclos macro; abundancia y penuria de capital)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p007",
+   "par": "Ciclo comercial vs financiero",
+   "diferencia": "Comercial: sincrónico con el Norte (el crecimiento del Norte sube demanda y precios de exportaciones). Financiero: simétrico o anacrónico (el crecimiento del Norte sube las tasas y encarece el crédito)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p008",
+   "par": "Segmento financiero vs comercial",
+   "diferencia": "Financiero: contracíclico y concentrativo (grandes ciudades). Comercial (exportaciones): procíclico y desconcentrativo (regiones de menor desarrollo relativo). Las importaciones, la banca, lo inmobiliario y los servicios se benefician de la abundancia de capital y favorecen a las grandes ciudades"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p009",
+   "par": "IPT vs IPU",
+   "diferencia": "IPT divide entre la población total del país; IPU, entre la población urbana total. IPU aísla el efecto de la urbanización"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p010",
+   "par": "IPT vs ICC",
+   "diferencia": "IPT: primera ciudad / población nacional. ICC: primera ciudad / suma de las tres siguientes; es el \"índice de cuatro ciudades\""
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p011",
+   "par": "IPRT vs IPT",
+   "diferencia": "IPRT compara con Exp(A), la talla teórica de la primada según la función rango-tamaño; IPT compara con la población nacional"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p012",
+   "par": "q vs IPRT",
+   "diferencia": "q es el único indicador estructural (pendiente de rango-tamaño); IPRT mezcla puntual y estructural"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p013",
+   "par": "A en LogP = A − q LogR",
+   "diferencia": "Intercepto, tamaño teórico (estimado) de la ciudad mayor; no es la pendiente"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p014",
+   "par": "CIC \"coeficiente\" vs \"cociente\"",
+   "diferencia": "Mismo indicador, nombre variable en el libro (pp. 262 y 271 \"coeficiente\"; p. 294 \"cociente\")"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p015",
+   "par": "Disminuye (8) vs se desacelera (6)",
+   "diferencia": "Disminuye: el IPT baja. Se desacelera: el IPT sigue subiendo, más lento"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p016",
+   "par": "Productividad alta (enclave, gran industria, minería) vs agricultura campesina",
+   "diferencia": "Alta productividad: impacto de corto plazo visible, más reversible, cambia la geografía económica sin cambiar la distribución de la población. Agricultura campesina: efecto de largo plazo, más estable, cambia más la distribución de la población"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p017",
+   "par": "Talla del país",
+   "diferencia": "Pequeño = más vulnerable (impacto directo), pero también puede neutralizar el impacto geográfico (la ciudad mayor alcanza todo el espacio)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p018",
+   "par": "Madurez de la urbanización",
+   "diferencia": "Se define como grado de concentración urbana y tamaño de la ciudad mayor; precoz (Cono Sur, México), intermedia (Brasil, Colombia), tardía (América Central, Caribe)"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p019",
+   "par": "Ciudad funcional vs político-administrativa",
+   "diferencia": "El estudio usa la funcional actual (conurbación o región metropolitana); sacrifica precisión histórica"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p020",
+   "par": "Sustitución de importaciones vs substitución de exportaciones",
+   "diferencia": "Distinta estrategia: la primera, años treinta hasta fines de los sesenta y repuntes en los setenta y principios de los noventa; la segunda (impresa \"substitución\"), desde fines de los ochenta, liberalización, Chile"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-p021",
+   "par": "Primacía industrial vs urbana",
+   "diferencia": "La primacía industrial (concentración espacial de la industria) es una de las principales causas de la primacía urbana latinoamericana (p. 276)"
+  }
+ ]
+}
