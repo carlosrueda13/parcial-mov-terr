@@ -92,9 +92,9 @@
    "n_ficha": 10,
    "tipo": "abierta",
    "enunciado": "Enumere las hipótesis a) a g) del modelo de Von Thünen.",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "(a) Llanura homogénea, de igual fertilidad del suelo e infraestructuras de transporte hacia todas las direcciones; (b) un único centro que sirve de mercado para todos los productos, adonde todos deben ser transportados; (c) disponibilidad difusa de todos los factores e insumos de producción, que por eso no deben transportarse; (d) una función de producción específica para cada producto agrícola, con coeficientes fijos y rendimientos de escala constantes, de modo que la cantidad de producto por unidad de tierra y el costo unitario de producción son fijos; (e) el precio de cada producto definido exógenamente, en un mercado más grande que el estudiado; (f) costo de transporte unitario constante, de modo que el costo total varía de forma lineal con el volumen y con la distancia, y puede variar de un bien a otro; (g) demanda ilimitada de los productos, es decir, una lógica globalmente supply-oriented; p. 54.",
+   "referencia": "p. 54",
+   "estado": "completa"
   },
   {
    "id": "s04-camagni-2005-cap2-q011",

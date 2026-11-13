@@ -8,6 +8,7 @@ El formato es selección múltiple más preguntas abiertas, con diferencias suti
 
 | Carpeta | Contenido |
 |---|---|
+| `app/` | Frontend (Vite, React, TypeScript). Lee `content/` directamente |
 | `docs/` | Programa de lecturas, arquitectura y pipeline de contenido |
 | `content/semana-NN/` | Metadatos por lectura y fichas fuente (Markdown) |
 | `content/banco/` | Banco estructurado por lectura (preguntas, trampas, pares), generado de las fichas. No se edita a mano |
@@ -29,8 +30,11 @@ Las lecturas (PDF) tampoco se versionan. Viven en la carpeta local del curso.
 - Semana 6: Contreras y Ruiz 2026 (completo) y SDP 2014 (pp. 73-115) leídos completos, con ficha, lecturas.json y prompts (dos audios cada uno).
 - Semana 7: Avellaneda y Dextre cap. 1, Herce caps. I y II y Transport Access Manual (pp. 16-21 y 45-57) leídos completos, con ficha, lecturas.json y prompts (Herce en tres audios; el Manual en dos).
 - Semana 8: Fernández 2023, caps. 1 y 2 (pp. 5-50), leído completo, con ficha, lecturas.json y prompts (tres audios). Falta Viana Cerqueira et al. (2026): el PDF debe aportarse.
-- Banco estructurado (13-nov): 878 preguntas modelo, 745 trampas y 319 pares extraídos de las 19 fichas, validados contra el esquema. 151 preguntas de las semanas 1 a 4 siguen sin respuesta en la ficha (marcadas `sin_respuesta`); se completarán desde las fichas.
-- Plataforma (backend y frontend): diseño aprobado, código del frontend en curso. Decisiones: VM en OCI, frontend en Cloudflare Pages, videos con Remotion.
+- Banco estructurado (13-nov): 878 preguntas modelo, 745 trampas y 319 pares extraídos de las 19 fichas, validados contra el esquema. Las 878 preguntas tienen respuesta. Las 151 de las semanas 1 a 4 se redactaron desde el cuerpo de cada ficha; donde la ficha solo da el rango de la sección, la página citada es ese rango.
+- El banco no trae opciones de selección múltiple: los distractores se redactarán después a partir de trampas y pares.
+- Frontend local (13-nov): mapa de zonas, lector de fichas, práctica (V/F y abiertas), boletos con repetición espaciada, trampas y pares, y simulacro cronometrado. El progreso se guarda en el navegador (localStorage). Para ejecutarlo: `cd app && npm install && npm run dev`.
+- Aún no implementado: capas de lectura, dos señales, palabra trampa, audio, selección múltiple con opciones y simulacros semanal y acumulado por tipo de trampa. Viana Cerqueira et al. (2026) aparece como PDF pendiente.
+- Despliegue pendiente: frontend en Cloudflare Pages (directorio raíz `app`, comando `npm run build`, salida `dist`) y backend de sincronización en OCI. Decisiones: VM en OCI, frontend en Cloudflare Pages, videos con Remotion.
 
 ## Método de contenido
 

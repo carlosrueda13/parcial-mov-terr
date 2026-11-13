@@ -11,198 +11,198 @@
    "n_ficha": 1,
    "tipo": "abierta",
    "enunciado": "¿Por qué el título del capítulo habla de espacio \"nacional\" y dónde se trata la localización intraurbana?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Porque las teorías se formulan en un espacio abstracto, el plano homogéneo, y sus modelos se aplican sobre todo, de manera implícita, a vastos territorios multirregionales o nacionales. La localización intraurbana se trata en el cap. 10 y la interurbana o interregional en el cap. 9; pp. 279-280.",
+   "referencia": "pp. 279-280",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q002",
    "n_ficha": 2,
    "tipo": "abierta",
    "enunciado": "¿Qué siete postulados define el modelo simple de inspiración weberiana?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "(1) Plano homogéneo sin accidentes geográficos; (2) ubicación conocida de los insumos materiales; (3) lugar del mercado conocido; (4) demanda perfectamente elástica; (5) costos de transporte función lineal de la distancia; (6) costos de mano de obra dados, que no varían de un lugar a otro; (7) tecnologías y función de producción conocidas y fijas; p. 282.",
+   "referencia": "p. 282",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q003",
    "n_ficha": 3,
    "tipo": "abierta",
    "enunciado": "En el ejemplo siderúrgico (1,5 de hierro y 1,2 de carbón por tonelada de acero), ¿dónde se localiza la empresa y por qué?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Se localiza en el punto F, junto a la mina de hierro, a menos que intervengan otros factores. Con t = 0,05 por tonelada-km, transportar el hierro cuesta 0,075 por km (1,5 x 0,05), el carbón 0,06 (1,2 x 0,05) y el producto final 0,05; a la empresa le conviene suprimir primero el costo más elevado, el del hierro, y por eso se acerca a los yacimientos de mineral de hierro; p. 285.",
+   "referencia": "p. 285",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q004",
    "n_ficha": 4,
    "tipo": "abierta",
    "enunciado": "¿Cómo se define el índice material y qué significa un valor mayor o menor que 1?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "I_M = Pi / Pe: el peso total de los insumos materiales localizados dividido por el peso total de las ventas. Mayor que 1 significa pérdida de peso: la industria es orientada a los recursos (siderurgia, papel, enlatados, fundición y refinación). Menor que 1 significa ganancia de peso: la industria tiende a instalarse cerca del mercado; en el ejemplo siderúrgico I_M es 2,7; p. 286.",
+   "referencia": "p. 286",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q005",
    "n_ficha": 5,
    "tipo": "abierta",
    "enunciado": "¿Por qué la industria del aluminio se localiza cerca de la hidroelectricidad y no de la bauxita?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Porque convertir la bauxita en lingotes consume mucha energía eléctrica, y la electricidad, aunque no tiene peso ni entra físicamente en el producto, es cara de transportar (postes y cables de alta tensión con costos fijos elevados que aumentan con la distancia). Es un insumo pesado en el sentido ampliado: con I_M mayor que 1, la industria no se localiza cerca de la materia prima más pesada en sentido estricto sino cerca del insumo más difícil de transportar; pp. 287-288.",
+   "referencia": "pp. 287-288",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q006",
    "n_ficha": 6,
    "tipo": "abierta",
    "enunciado": "¿Por qué las imprentas, panaderías y cerveceras tienden a localizarse cerca del mercado?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Las cerveceras (y las bebidas gaseosas y cementeras) tienen ganancia de peso: su principal insumo, como el agua, es omnipresente y entra físicamente en el producto final, de modo que se ubican cerca del mercado. Las imprentas y las panaderías son atraídas por el mercado porque el producto final cuesta proporcionalmente más de transportar: es más frágil o perecedero, o debe llegar rápido al consumidor; p. 288.",
+   "referencia": "p. 288",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q007",
    "n_ficha": 7,
    "tipo": "abierta",
    "enunciado": "¿Cómo afecta el cambio tecnológico a la atracción de los recursos naturales?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Los métodos más eficientes disminuyen la relación insumos/ventas, lo que baja el índice material y la atracción de los recursos naturales; hay más posibilidades de sustitución (gas natural o hidroelectricidad por carbón o petróleo, aluminio por acero); y la evolución de las tecnologías de transporte modifica los precios relativos de los insumos, de modo que ciertos lugares pierden sus ventajas naturales y otros las ganan. Además, las funciones de producción modernas dependen más de factores intangibles; p. 289.",
+   "referencia": "p. 289",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q008",
    "n_ficha": 8,
    "tipo": "abierta",
    "enunciado": "En el ejemplo de la renta de localización, ¿por qué el productor de X cobra $9,95 y cuánto es la renta?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Porque el precio puesto en el mercado es de 8 pesos para el F de X (6 + 2) y de 10 para el F de Y (5 + 5): X se adueña del mercado, pero como su producto soporta la competencia a cualquier precio inferior a 10, lo vende a un precio ligeramente inferior, digamos 9,95. La renta de localización es la diferencia entre 9,95 y el costo real de 8, es decir 1,95 pesos por unidad; pp. 290-291.",
+   "referencia": "pp. 290-291",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q009",
    "n_ficha": 9,
    "tipo": "abierta",
    "enunciado": "¿Por qué la oferta inelástica es condición del concepto de renta?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Porque las fuentes posibles del insumo son fijas: si la oferta dependiera de la tecnología o de la eficiencia y no de condiciones naturales, otros productores llegarían al mercado al mismo precio básico (8) y, en un mercado competitivo con oferta elástica y sin barreras a la entrada, en principio nadie embolsa rentas. Los ingresos suplementarios no vienen de mayor productividad (la fuente Y es más eficaz en origen) sino de la localización; p. 291.",
+   "referencia": "p. 291",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q010",
    "n_ficha": 10,
    "tipo": "abierta",
    "enunciado": "¿Qué tres localizaciones quedan a la empresa con puntos de ruptura de carga y qué explica sobre las ciudades?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "El mercado, el punto de origen de un insumo y un punto de ruptura de carga obligatorio (la empresa suele evitar localizarse entre dos puntos). Explica en parte por qué las ciudades suelen estar junto a vías fluviales o al borde del mar; p. 293.",
+   "referencia": "p. 293",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q011",
    "n_ficha": 11,
    "tipo": "abierta",
    "enunciado": "¿Cuándo conviene camión, tren y barco según la Fig. 9.3?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "El camión para trayectos cortos (menos de 500 km), el tren para viajes intermedios (hasta 1000 km) y el barco para trayectos más largos. El avión es raramente rentable salvo para productos con mucho valor agregado, transportados sobre grandes distancias y muy sensibles al tiempo de entrega; p. 293.",
+   "referencia": "p. 293",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q012",
    "n_ficha": 12,
    "tipo": "abierta",
    "enunciado": "¿Cuáles son los postulados implícitos del panorama de competencia espacial de la Fig. 9.4 y por qué hexágonos?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Postulados: (a) ausencia de externalidades; (b) distribución uniforme de la demanda; (c) costos de producción comparables para todas las empresas (la línea P1); (d) costos de transporte función lineal de la distancia sobre todo el territorio. El resultado son áreas de mercado idénticas, que por tradición se representan por hexágonos porque cubren todo el territorio sin espacio vacío; p. 297.",
+   "referencia": "p. 297",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q013",
    "n_ficha": 13,
    "tipo": "abierta",
    "enunciado": "¿Qué mide la distancia entre z y w en la Fig. 9.5 y qué renta genera?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Mide el efecto protector de las montañas sobre el mercado de D: sin montañas la división de los mercados estaría en z y con ellas ocurre en w. Los ingresos de ese mercado protegido son una renta de localización para los productores de D; pp. 299-300.",
+   "referencia": "pp. 299-300",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q014",
    "n_ficha": 14,
    "tipo": "abierta",
    "enunciado": "¿Quién gana y quién pierde con una baja generalizada de costos de transporte, con empresas igual de eficaces y con empresas de eficiencia diferente?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Con empresas igual de eficaces, la baja generalizada de costos de transporte (de P1 a P2) no cambia las fronteras de los mercados; no hay perdedores y el gran ganador es el consumidor, que paga menos. Con eficiencia diferente (Pc inferior a Pd), la baja de costos de transporte permite a C entregar en todo el mercado de D a precios inferiores a los de D, y las empresas de D abandonan el mercado; el consumidor gana, pero a costa de la desaparición de empresas en D; pp. 299-302.",
+   "referencia": "pp. 299-302",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q015",
    "n_ficha": 15,
    "tipo": "abierta",
    "enunciado": "¿Cómo se relaciona la teoría de los lugares centrales con la competencia espacial de Lösch y con la observación de Christaller?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "La teoría de lugares centrales es una extensión de los modelos de competencia espacial: pasa de una rama a una economía con gama diversificada de productos. Christaller (Die Zentralen Orte in Süddeutschland, 1935) observó que la distribución de las ciudades en Alemania del sur no era al azar; Lösch, más tarde, dio las bases económicas del modelo deductivo, cuyos postulados (plano homogéneo, entrada libre, ausencia de distorsiones en los costos de producción) son los del modelo puro de competencia espacial; pp. 302-303.",
+   "referencia": "pp. 302-303",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q016",
    "n_ficha": 16,
    "tipo": "abierta",
    "enunciado": "¿Qué cuatro características definen un bien o servicio de rango superior?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "(a) Economías de escala importantes, con nivel elevado de mercado; (b) consumo poco frecuente, a menudo con costo importante frente al ingreso; (c) costos de transporte bajos, pues el bien o servicio no requiere sistemáticamente el desplazamiento del consumidor; (d) voluntad del consumidor de recorrer grandes distancias para adquirirlo. Basta con que se cumpla una o varias de ellas; p. 304.",
+   "referencia": "p. 304",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q017",
    "n_ficha": 17,
    "tipo": "abierta",
    "enunciado": "En la jerarquía de lugares centrales, ¿qué ofrece cada rango y por qué hay más distancia entre ciudades de rango B que de rango D?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Cada lugar central ofrece todos los bienes y servicios de los lugares centrales de nivel inferior más los propios de su rango; el de rango A, en la cima, es el único que ofrece los servicios más especializados. Hay más distancia entre las ciudades de rango B que entre las de rango D porque cuanto más elevado es el rango de los servicios de un lugar central, mayor es la distancia entre lugares centrales de rango análogo; pp. 305-306.",
+   "referencia": "pp. 305-306",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q018",
    "n_ficha": 18,
    "tipo": "abierta",
    "enunciado": "Con s = 6, r = 1000 y k = 0,5, ¿qué poblaciones resultan para los rangos D, C, B y A? Con a = 10 km, ¿cuáles son d_C y d_B?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "C_D = k·r/(1-k) = 1.000 habitantes; C_C = 12.000; C_B = 144.000; la ciudad de rango A tendría 1.728.000 (cada nivel es múltiplo de 12, porque s/(1-k) = 6/0,5). Con a = 10 km: d_C = a·raíz de s = 24,5 km y d_B = d_C·raíz de s = 60 km; pp. 308-309.",
+   "referencia": "pp. 308-309",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q019",
    "n_ficha": 19,
    "tipo": "abierta",
    "enunciado": "¿Qué postula la regla rango-tamaño de Zipf, cómo se grafica y en qué se parece a la teoría de lugares centrales?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Postula una relación estadística entre el número y el tamaño de las ciudades, y por tanto entre rango y población: P_i = P_g / R_i (q), con P_g la población de la ciudad más grande, R_i el rango y q una constante por estimar. Se grafica como una recta en una gráfica de doble eje logarítmico, con las ciudades en orden decreciente de población. Se parece a la teoría de lugares centrales porque afirma que la población de un centro no es independiente de la de los demás y que el número de centros disminuye al subir en la jerarquía; p. 309.",
+   "referencia": "p. 309",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q020",
    "n_ficha": 20,
    "tipo": "abierta",
    "enunciado": "¿Qué características tiene el sistema \"perfecto\" de lugares centrales?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "(a) La ciudad en la cima ofrece la gama completa de actividades posibles, excluyendo las del sector primario o dependientes de él; (b) la población de toda ciudad de rango n+1 es un múltiplo constante de la de rango n; (c) las ciudades del mismo rango tienen el mismo tamaño, ofrecen la misma gama de bienes y servicios, están a intervalos de distancia idénticos y proveen a zonas de influencia del mismo tamaño; p. 311.",
+   "referencia": "p. 311",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q021",
    "n_ficha": 21,
    "tipo": "abierta",
    "enunciado": "¿Cuáles son las causas de desvío respecto del modelo y en qué territorios se cumple mejor?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Desvíos por la geografía del país, los obstáculos institucionales, el poder de compra y las preferencias no homogéneas, la localización de actividades no comerciales, el impacto de las infraestructuras, las economías o deseconomías de aglomeración, y la industria manufacturera (sobre todo con índice material superior a 1,0) y ciertas actividades del terciario moderno. Se cumple mejor en territorios relativamente homogéneos con pocas industrias o accidentes, como los llanos norteamericanos (Iowa, Saskatchewan), las estepas de Ucrania y Rusia y las Pampas de Argentina; pp. 311-312.",
+   "referencia": "pp. 311-312",
+   "estado": "completa"
   },
   {
    "id": "s03-polese-1998-cap9-q022",
    "n_ficha": 22,
    "tipo": "abierta",
    "enunciado": "¿Por qué los servicios de oficina y el terciario superior no siguen bien la lógica de los lugares centrales?",
-   "respuesta": null,
-   "referencia": null,
-   "estado": "sin_respuesta"
+   "respuesta": "Porque los proveedores de servicios superiores no requieren forzosamente el desplazamiento del consumidor, por lo que es difícil fijar límites precisos a sus áreas de mercado. Se destinan en gran parte a otras empresas (servicios a la producción o intermediarios), su producción es exportable y puede provocar un efecto multiplicador local en el sentido del modelo de la base económica; difieren del terciario tradicional, que sí sigue ampliamente la teoría de lugares centrales; p. 313.",
+   "referencia": "p. 313",
+   "estado": "completa"
   }
  ],
  "trampas": [
