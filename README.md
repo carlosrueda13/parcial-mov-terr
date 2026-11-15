@@ -34,7 +34,7 @@ Las lecturas (PDF) tampoco se versionan. Viven en la carpeta local del curso.
 - El banco no trae opciones de selección múltiple: los distractores se redactarán después a partir de trampas y pares.
 - Frontend local (13-nov): mapa de zonas, lector de fichas, práctica (V/F y abiertas), boletos con repetición espaciada, trampas y pares, y simulacro cronometrado. El progreso se guarda en el navegador (localStorage). Para ejecutarlo: `cd app && npm install && npm run dev`. Pruebas de extremo a extremo con Playwright en `app/e2e/` (recorren las 878 preguntas, todas las rutas y botones, escritorio y móvil; ver `app/e2e/README.md`).
 - Aún no implementado: capas de lectura, dos señales, palabra trampa, audio, selección múltiple con opciones y simulacros semanal y acumulado por tipo de trampa. Viana Cerqueira et al. (2026) aparece como PDF pendiente.
-- Despliegue pendiente: frontend en Cloudflare Pages (directorio raíz `app`, comando `npm run build`, salida `dist`) y backend de sincronización en OCI. Decisiones: VM en OCI, frontend en Cloudflare Pages, videos con Remotion.
+- Despliegue pendiente: frontend en Cloudflare Workers con Static Assets (directorio raíz `app`, build `npm run build`, deploy `npx wrangler deploy`; configuración en `app/wrangler.jsonc`) y backend de sincronización en OCI. Decisiones: VM en OCI, frontend en Cloudflare Pages, videos con Remotion.
 
 ## Método de contenido
 

@@ -1,0 +1,9 @@
+{
+  // Sitio estático: Workers sirve el resultado de `npm run build` (carpeta dist).
+  // El nombre debe coincidir con el del Worker creado en el panel de Cloudflare.
+  "name": "movilidad-territorio",
+  "compatibility_date": "2026-11-15",
+  "assets": {
+    "directory": "./dist"
+  }
+}
