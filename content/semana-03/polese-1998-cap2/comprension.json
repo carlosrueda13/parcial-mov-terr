@@ -1,0 +1,313 @@
+[
+  {
+    "enunciado": "En el capítulo 2 de Polèse, ¿qué incluye el concepto general de 'costos de transporte' o 'costos de interacción espacial'?",
+    "opciones": [
+      "Los costos de mover mercancías, de comunicar información y de desplazar personas, e incluye los costos de oportunidad.",
+      "Solo el costo del flete de las mercancías, porque la comunicación y el desplazamiento de personas son otro tema.",
+      "Los costos directos de viaje, pero no el valor del tiempo, que se trata aparte como costo de producción.",
+      "Los costos de producción de la empresa que se instala lejos del mercado, medidos por el costo medio.",
+      "Los costos que cobra el Estado por intervenir el territorio, de sentido jurídico."
+    ],
+    "correcta": 0,
+    "explicacion": "'Costos de transporte' es el concepto general para todos los costos de vencer la distancia (mercancías, información y personas, con costos de oportunidad). 'Interacción espacial' y 'fricción del espacio' describen el mismo conjunto de costos.",
+    "errores": [
+      null,
+      "El libro usa el concepto de forma amplia: comunicación y desplazamiento de personas también cuentan.",
+      "El valor del tiempo es costo de oportunidad y el libro lo incluye en los costos de transporte.",
+      "Los costos de producción no son costos de transporte; el costo medio es otra curva.",
+      "El 'territorio' se usa en sentido jurídico, pero eso no son los costos de transporte."
+    ],
+    "concepto": "Costos de transporte e interacción espacial",
+    "nivel": "contraste",
+    "referencia": "Polèse (1998), cap. 2, pp. 60-61",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "Para el campesino del Altiplano peruano, cuyo mercado queda a dos días a pie, el costo de ir al mercado es casi solo un costo directo. ¿Por qué?",
+    "opciones": [
+      "Porque no tiene un mercado de trabajo donde vender su tiempo, así que su costo de oportunidad es bajo.",
+      "Porque el valor de su tiempo es muy alto y por eso conviene que sea otro quien lleve la mercancía.",
+      "Porque los costos de oportunidad solo existen para quienes viajan en transporte público o en avión.",
+      "Porque las economías de escala en el transporte hacen casi gratis el desplazamiento a pie en grupos.",
+      "Porque el ceteris paribus supone que su tiempo vale igual al de un ejecutivo, y la diferencia se ignora."
+    ],
+    "correcta": 0,
+    "explicacion": "El costo de oportunidad es la ganancia a la que se renuncia por emplear el tiempo de otra forma. Para el ejecutivo japonés que viaja a México es muy alto; para el campesino sin mercado de trabajo cercano es bajo, y el costo se limita casi a los costos directos.",
+    "errores": [
+      null,
+      "El caso es el inverso: su tiempo vale poco porque no tiene otra manera de ganar.",
+      "El costo de oportunidad aplica a cualquier uso alternativo del tiempo, a pie o en avión.",
+      "Las economías de escala del transporte se refieren a la distancia y a la cantidad transportada, no al caso del campesino.",
+      "Ceteris paribus es 'todo lo demás igual'; no iguala el valor del tiempo de las personas."
+    ],
+    "concepto": "Costo de oportunidad",
+    "nivel": "aplicacion",
+    "referencia": "Polèse (1998), cap. 2, pp. 62-64",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "Un horno de pan tiene costo unitario mínimo de 4,75 pesos si produce 100 panes al día, mientras que hacer pan en casa cuesta 5 pesos. El pueblo tiene 25 familias que consumen 50 panes diarios. ¿Por qué la producción no se centraliza en el pueblo?",
+    "opciones": [
+      "Porque con 50 panes diarios el horno no llega a su escala mínima, y producir en casa (5 pesos) sale más barato.",
+      "Porque el costo de 4,75 pesos es mayor que el de 5 pesos, y las familias siempre prefieren pagar el menor costo posible.",
+      "Porque el horno cuesta 50 pesos diarios de alquiler y esa cifra supera el ahorro de todas las familias juntas.",
+      "Porque la ley de rendimientos decrecientes impide que un horno produzca más de 50 panes.",
+      "Porque la competencia pura obliga a cada familia a producir lo mismo que consume, sin comerciar."
+    ],
+    "correcta": 0,
+    "explicacion": "Hay economías de escala: el costo medio baja hasta 4,75 con 100 panes. Pero la demanda del pueblo es de 50, y a ese ritmo producir en casa (5 pesos) sale mejor. Solo con más clientes (por ejemplo, vecinos dispuestos a caminar) la producción centralizada sería rentable.",
+    "errores": [
+      null,
+      "4,75 es menor que 5; el problema es que ese costo solo se logra con 100 panes.",
+      "Los 50 pesos diarios son del ejemplo del alfarero; no es la razón en el caso del pueblo.",
+      "El horno sí puede producir 100; lo que falta es demanda, no una ley de rendimientos.",
+      "La competencia pura habla de empresas que no controlan el precio, no de autoconsumo obligatorio."
+    ],
+    "concepto": "Economías de escala y demanda",
+    "nivel": "aplicacion",
+    "referencia": "Polèse (1998), cap. 2, pp. 68-70",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "En el mismo ejemplo del pan, los vecinos caminarían hasta 15 minutos para comprar en el horno, porque 15 minutos de caminata equivalen a 0,25 pesos. ¿Qué significa ese número para el área de mercado del horno?",
+    "opciones": [
+      "Que 0,25 es el ahorro por pan (5 − 4,75): más allá de 15 minutos, el trayecto cuesta más que ese ahorro y no hay clientes.",
+      "Que 0,25 es la ganancia del panadero por cada pan vendido, y por eso su mercado llega hasta los 15 minutos de camino.",
+      "Que el horno debe ubicarse siempre a 15 minutos de cada familia, sin importar cuántas familias haya en el pueblo.",
+      "Que 15 minutos es el tiempo de cocción del pan y fija la escala del horno en 100 unidades.",
+      "Que el costo de oportunidad del tiempo es cero para los vecinos, porque caminan."
+    ],
+    "correcta": 0,
+    "explicacion": "El área de mercado se fija con un arbitraje: el ahorro por comprar al horno (5 − 4,75 = 0,25 pesos por pan) frente al costo de llegar (15 minutos de caminata = 0,25). Más allá de ese límite no hay clientes. Con 10 familias adicionales (20 panes) la demanda sigue siendo insuficiente.",
+    "errores": [
+      null,
+      "0,25 es el ahorro del cliente frente a producir en casa, no la ganancia del panadero.",
+      "El límite de 15 minutos define hasta dónde llega el mercado; no es una distancia de ubicación obligatoria.",
+      "El 15 es tiempo de caminata; la escala (100 panes) viene de la curva de costos.",
+      "El tiempo de caminata sí tiene costo: justamente se valora en 0,25 pesos."
+    ],
+    "concepto": "Área de mercado y costo de oportunidad",
+    "nivel": "calculo",
+    "referencia": "Polèse (1998), cap. 2, pp. 68-70",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "¿Qué dos fuerzas determinan si la producción se centraliza o se dispersa en el espacio, según Polèse?",
+    "opciones": [
+      "Los costos de transporte y las economías de escala, que pueden ser opuestas.",
+      "La ventaja absoluta y la ventaja comparativa entre las regiones involucradas.",
+      "El costo medio y el costo marginal, que se igualan en el punto de producción óptimo.",
+      "La población y las preferencias de consumo, iguales en todas las direcciones del plano.",
+      "Los mayoristas y los lugares de almacenamiento, que concentran la distribución de bienes."
+    ],
+    "correcta": 0,
+    "explicacion": "Si los rendimientos de escala son importantes y los costos de transporte bajos, hay fuerte concentración; si los costos de transporte son altos, hacen contrapeso. La concentración total en un solo lugar solo ocurriría con costos de transporte iguales a cero.",
+    "errores": [
+      null,
+      "Esas explican el comercio entre regiones, no la centralización dentro de un mercado.",
+      "Describen la curva de costos de la empresa, no la fuerza que centraliza o dispersa.",
+      "Son los postulados de homogeneidad del plano, no las fuerzas del resultado.",
+      "Son parte del comercio interregional, no las dos fuerzas de la centralización."
+    ],
+    "concepto": "Centralización y dispersión",
+    "nivel": "causa",
+    "referencia": "Polèse (1998), cap. 2, pp. 64-68",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "¿Dónde decide producir una empresa en competencia pura, según la curva de costos de una empresa en forma de U?",
+    "opciones": [
+      "Donde el costo medio es igual al costo marginal, que es el punto de menor costo unitario.",
+      "Donde el costo marginal es mayor que el costo medio, para maximizar el margen sobre cada unidad.",
+      "En el punto en que el costo fijo es cero, porque así la empresa no tiene pérdidas.",
+      "Donde el precio que fija la empresa supera el de todos los competidores de la región.",
+      "En el punto de menor producción, porque a menor cantidad menor es el riesgo de pérdida."
+    ],
+    "correcta": 0,
+    "explicacion": "La empresa produce Q2, donde el costo medio iguala al marginal y el costo unitario es el mínimo. En competencia pura no controla el precio: si cobrara más que el correspondiente a Q2, un competidor la reemplazaría.",
+    "errores": [
+      null,
+      "Después de ese punto el costo marginal supera al medio y el costo unitario sube.",
+      "El costo fijo no se anula; lo que importa es el costo unitario mínimo.",
+      "En competencia pura la empresa no controla el precio y sería reemplazada si cobrara más.",
+      "A baja producción el costo unitario es alto (por ejemplo, 9,20 con 25 panes)."
+    ],
+    "concepto": "Costo medio y costo marginal",
+    "nivel": "interpretacion",
+    "referencia": "Polèse (1998), cap. 2, pp. 65-66",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "En el ejemplo del cuadrado de 10 km de lado, con un consumidor en cada vértice y la ciudad i en el centro, ¿qué demuestra la comparación de 28,3 km frente a 41,21 km?",
+    "opciones": [
+      "Que un establecimiento tiende a ubicarse en el centro geográfico de su mercado, porque así minimiza la suma de distancias.",
+      "Que la ciudad debe ubicarse en uno de los vértices, porque allí se reúnen los consumidores más cercanos entre sí.",
+      "Que la diagonal del cuadrado (14,14 km) es la distancia óptima que debe separar a dos ciudades de un sistema urbano.",
+      "Que los costos de transporte son proporcionales al número de consumidores en cada punto, y no a la distancia.",
+      "Que el centro del cuadrado queda a 10 km de cada vértice, igual que los lados."
+    ],
+    "correcta": 0,
+    "explicacion": "Ubicar la ciudad en el centro da una suma de 28,3 km (4 × 7,07) y ubicarla en un vértice, 41,21 km. Muestra que un establecimiento, público o privado, se localiza normalmente en el centro geográfico de su mercado: de ahí la centralidad.",
+    "errores": [
+      null,
+      "Ubicarse en un vértice suma 41,21 km, la peor opción.",
+      "La diagonal es un dato del cálculo, no una distancia óptima.",
+      "El ejemplo suma kilómetros: la distancia es lo que importa.",
+      "El centro queda a 7,07 km de cada vértice (la mitad de la diagonal)."
+    ],
+    "concepto": "Centralidad geográfica",
+    "nivel": "interpretacion",
+    "referencia": "Polèse (1998), cap. 2, pp. 73-74",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "La región A produce 500 de lana o 600 de trigo; la región B, 600 de lana o 1.100 de trigo. B tiene ventaja absoluta en ambos bienes. ¿En cuál tiene ventaja comparativa y por qué?",
+    "opciones": [
+      "En el trigo, porque renuncia a 0,54 de lana por unidad de trigo (6/11), menos que los 0,83 (5/6) de A.",
+      "En la lana, porque produce 600 frente a 500 y esa diferencia absoluta es la que define la ventaja.",
+      "En ambos bienes, porque la ventaja absoluta siempre implica ventaja comparativa en todo.",
+      "En ninguno, porque cuando una región domina en ambos bienes el comercio entre regiones no tiene sentido.",
+      "En el trigo, porque 1.100 es el mayor valor de la tabla y por eso B vende más trigo a A."
+    ],
+    "correcta": 0,
+    "explicacion": "Ventaja comparativa = menor costo de oportunidad. B renuncia a 6/11 ≈ 0,54 de lana por unidad de trigo; A renuncia a 5/6 ≈ 0,83. Por eso B se especializa en trigo y A en lana, y con la tasa de cambio de 3 de trigo por 2 de lana ambas ganan (la producción total sube en 86 unidades de lana).",
+    "errores": [
+      null,
+      "Eso es ventaja absoluta; la comparativa se mide por lo que se renuncia.",
+      "Es imposible tener ventaja comparativa en ambos: lo que se gana en uno es la desventaja relativa en el otro.",
+      "El comercio es provechoso aunque una región tenga ventaja absoluta en ambos bienes.",
+      "El valor mayor de la tabla es ventaja absoluta; la comparativa se calcula con costos de oportunidad."
+    ],
+    "concepto": "Ventaja comparativa y absoluta",
+    "nivel": "calculo",
+    "referencia": "Polèse (1998), cap. 2, pp. 74-77",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "¿Cuáles son las tres condiciones que necesita el comercio interregional?",
+    "opciones": [
+      "Un lugar central de mercado, instalaciones de almacenamiento y distribución, y costos de transporte bajos.",
+      "Ventaja absoluta en ambos bienes, igual dotación de factores y costos de transporte iguales a cero.",
+      "Un puerto o río navegable, un mayorista por región y una moneda común entre todas las regiones que comercian.",
+      "Competencia pura, plano homogéneo y demanda perfectamente elástica en todas las regiones que participan.",
+      "Economías de escala internas, rendimientos decrecientes y ausencia total de costos de oportunidad en el viaje."
+    ],
+    "correcta": 0,
+    "explicacion": "El comercio interregional necesita (1) un lugar central de mercado donde se reúnan compradores y vendedores, (2) instalaciones de almacenamiento y distribución y (3) costos de transporte lo bastante bajos para no anular las ganancias del comercio.",
+    "errores": [
+      null,
+      "Basta con diferencias en la dotación relativa de factores; no se exige igualdad ni transporte gratis.",
+      "Esas no son las tres condiciones del texto.",
+      "Son supuestos de otros modelos, no condiciones del comercio interregional.",
+      "Son conceptos de la teoría de la empresa, no condiciones del comercio."
+    ],
+    "concepto": "Condiciones del comercio interregional",
+    "nivel": "contraste",
+    "referencia": "Polèse (1998), cap. 2, p. 77",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "¿Qué dos economías de escala hay en el transporte, según el capítulo 2?",
+    "opciones": [
+      "El costo unitario crece menos que proporcionalmente con la distancia y con la cantidad transportada.",
+      "El costo crece más que proporcionalmente con la distancia, y el vagón adicional cuesta más que el promedio.",
+      "El costo es constante con la distancia y proporcional a la cantidad, porque el flete se cobra por tonelada.",
+      "El costo baja con la distancia solo para el camión, y para el tren sube con el número de vagones.",
+      "El costo depende de la ventaja comparativa del transportista y de su dotación relativa de factores."
+    ],
+    "correcta": 0,
+    "explicacion": "Hay economías por distancia (con gastos fijos importantes, la curva de costos se aplana a medida que crece la distancia) y por cantidad (un vagón o bodega a medio llenar encarece el costo unitario y el costo marginal de un vagón adicional es menor que el medio).",
+    "errores": [
+      null,
+      "Es lo contrario de una economía de escala: el costo marginal de un vagón adicional es menor que el medio.",
+      "La curva de costos de transporte se aplana con la distancia.",
+      "Las economías valen para el transporte en general: distancia y cantidad.",
+      "Eso corresponde al comercio entre regiones, no a las economías de escala del transporte."
+    ],
+    "concepto": "Economías de escala en el transporte",
+    "nivel": "contraste",
+    "referencia": "Polèse (1998), cap. 2, pp. 77-78",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "¿Qué dos funciones cumplen los mayoristas en el lugar central?",
+    "opciones": [
+      "Reagrupar la recepción y expedición de mercancías, y reducir la incertidumbre y el tiempo de búsqueda de las partes.",
+      "Fijar el precio de los bienes y financiar las economías de escala de los productores de toda la región.",
+      "Producir bienes de rango superior y distribuir los de rango inferior entre los lugares de menor jerarquía.",
+      "Reducir los costos de oportunidad del campesino y garantizar la igualdad de preferencias de consumo.",
+      "Compensar la ventaja comparativa entre regiones con transferencias y evitar el comercio de especialización."
+    ],
+    "correcta": 0,
+    "explicacion": "Los mayoristas reagrupan la recepción y expedición de las mercancías y reducen la incertidumbre y el tiempo de búsqueda en el contacto entre compradores y vendedores, lo que explica en parte el crecimiento urbano.",
+    "errores": [
+      null,
+      "No fijan el precio ni financian la producción; reagrupan y reducen incertidumbre.",
+      "El rango superior e inferior son categorías de la teoría de lugares centrales (cap. 9).",
+      "No cumplen ninguna de las dos funciones.",
+      "Su función es facilitar el comercio, no evitarlo ni compensarlo."
+    ],
+    "concepto": "Funciones de los mayoristas",
+    "nivel": "contraste",
+    "referencia": "Polèse (1998), cap. 2, pp. 79-81",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "Según el capítulo 2, ¿qué basta para que aparezca una ciudad y de qué depende el límite de su región de mercado?",
+    "opciones": [
+      "Basta la distancia (costos) y las economías de escala; el límite depende en buena parte de la tecnología.",
+      "Basta con que haya una ventaja absoluta; el límite lo fijan las fronteras políticas del territorio.",
+      "Basta con la ventaja comparativa; el límite depende de la dotación de recursos naturales de la región.",
+      "Basta con una iglesia o una administración; el límite depende de la población de fieles que atienda.",
+      "Basta con un puerto; el límite depende de la ruptura de carga más cercana a la región de mercado."
+    ],
+    "correcta": 0,
+    "explicacion": "Son dos las condiciones suficientes: la distancia, que implica costos, y las economías de escala. El límite de la región de mercado depende de la tecnología, es decir, de los costos de transporte y de producción.",
+    "errores": [
+      null,
+      "No es ventaja absoluta, y el territorio, en sentido jurídico, no fija el área de mercado.",
+      "La ciudad surge de la distancia y las economías de escala.",
+      "La iglesia se menciona solo como ejemplo de centralidad más allá del comercio.",
+      "La ruptura de carga se trata en el capítulo 9."
+    ],
+    "concepto": "Surgimiento de una ciudad",
+    "nivel": "causa",
+    "referencia": "Polèse (1998), cap. 2, pp. 81-82",
+    "clase": "2026-09-29"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "A partir del capítulo 2 de Polèse (1998), defina si cada una de las siguientes afirmaciones es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "Los costos de transporte, los costos de interacción espacial y la fricción del espacio nombran, en el libro, el mismo conjunto de costos.",
+        "verdadera": true,
+        "explicacion": "El libro usa 'costos de transporte' como concepto general, que incluye los costos de oportunidad."
+      },
+      {
+        "texto": "El costo de oportunidad de un desplazamiento es siempre menor que su costo directo.",
+        "verdadera": false,
+        "explicacion": "Depende del valor del tiempo: es muy alto para el ejecutivo que viaja a México y bajo para el campesino del Altiplano."
+      },
+      {
+        "texto": "En competencia pura, la empresa produce donde el costo medio es igual al costo marginal.",
+        "verdadera": true,
+        "explicacion": "Es el punto Q2, de menor costo unitario."
+      },
+      {
+        "texto": "La concentración de toda la producción en un solo lugar solo ocurriría con costos de transporte iguales a cero.",
+        "verdadera": true,
+        "explicacion": "Mientras haya costos de transporte, hacen contrapeso a las economías de escala."
+      },
+      {
+        "texto": "El comercio entre regiones solo es provechoso cuando una región tiene ventaja absoluta en un bien y la otra en el otro.",
+        "verdadera": false,
+        "explicacion": "Basta con diferencias en la dotación relativa de factores: hay ventaja comparativa aunque una región domine en ambos bienes."
+      }
+    ],
+    "concepto": "Conceptos básicos del capítulo 2",
+    "nivel": "contraste",
+    "referencia": "Polèse (1998), cap. 2",
+    "clase": "2026-09-29"
+  }
+]

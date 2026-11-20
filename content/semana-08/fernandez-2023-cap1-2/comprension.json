@@ -1,0 +1,464 @@
+[
+  {
+    "enunciado": "¿Cuáles son las cuatro funciones básicas de la ciudad cuya accesibilidad evalúa la tesis de Fernández (2023)?",
+    "opciones": [
+      "Trabajo, estudio, salud y recreación y cultura, definidas por los motivos de viaje de la EMB2019.",
+      "Trabajo, estudio, salud y compras, definidas por los motivos de viaje de la EMB2019 en Bogotá.",
+      "Empleo, educación, salud, recreación y redes sociales, que es la lista que cita Lucas (2012).",
+      "Trabajo, estudio, salud y cuidado, porque las actividades de cuidado son la función más vulnerable.",
+      "Trabajo, estudio, vivienda y recreación y cultura, según el derecho a la ciudad de Lefebvre."
+    ],
+    "correcta": 0,
+    "explicacion": "Las cuatro funciones son trabajo, estudio, salud y recreación y cultura. La lista de Lucas (2012) tiene cinco (empleo, educación, salud, recreación y redes sociales) y no coincide con la del estudio.",
+    "errores": [
+      null,
+      "Las compras no son una de las cuatro funciones del estudio.",
+      "Esa es una lista de cinco funciones que no coincide con las cuatro de la tesis.",
+      "Las actividades de cuidado quedan fuera de las cuatro funciones.",
+      "La vivienda no es una de las cuatro funciones analizadas."
+    ],
+    "concepto": "Funciones básicas de la ciudad",
+    "nivel": "contraste",
+    "referencia": "Fernández (2023), pp. 6-7"
+  },
+  {
+    "enunciado": "¿Qué definición de accesibilidad corresponde a Geurs y Van Wee (2004)?",
+    "opciones": [
+      "La medida en que el transporte y el uso de la tierra permiten llegar a destinos, desde la geografía del transporte.",
+      "Un potencial de interacción entre destinos, que fue la primera formulación del concepto en el transporte.",
+      "Los beneficios que da la interacción entre el transporte y el uso de la tierra, desde la economía del transporte.",
+      "El derecho de todos los grupos sociales a disfrutar de las oportunidades que ofrece la ciudad.",
+      "El proceso que impide participar en la vida económica por la reducida accesibilidad a las oportunidades."
+    ],
+    "correcta": 0,
+    "explicacion": "Hansen (1959): potencial de interacción entre destinos. Ben-Akiva (1979): beneficios de la interacción entre transporte y uso de la tierra, desde la economía del transporte. Geurs y Van Wee (2004): medida en que transporte y uso de la tierra permiten llegar a actividades o destinos, desde la geografía del transporte.",
+    "errores": [
+      null,
+      "Ese es el planteamiento de Hansen (1959).",
+      "Esa es la definición de Ben-Akiva (1979).",
+      "Ese es el derecho a la ciudad de Lefebvre, no una definición de accesibilidad.",
+      "Esa es la definición de exclusión de Kenyon et al. (2003)."
+    ],
+    "concepto": "Definiciones de accesibilidad",
+    "nivel": "contraste",
+    "referencia": "Fernández (2023), p. 8"
+  },
+  {
+    "enunciado": "Según Gacitúa y Sojo (2000), citados por la tesis, ¿cómo debe entenderse la exclusión social?",
+    "opciones": [
+      "Como un proceso, no como una categoría o un estatus fijo de las personas.",
+      "Como una categoría que clasifica a los hogares según su ingreso y su ubicación en la ciudad.",
+      "Como un estatus permanente que se hereda entre generaciones dentro de un mismo hogar.",
+      "Como una medida de la distancia entre las personas y los destinos más cercanos.",
+      "Como una dimensión única, la del consumo, que reúne las demás formas de exclusión social."
+    ],
+    "correcta": 0,
+    "explicacion": "Para Gacitúa y Sojo la exclusión no es una categoría ni un estatus, sino un proceso. Kenyon et al. (2003) la ligan a la reducida accesibilidad, que impide participar en la vida económica, política y social.",
+    "errores": [
+      null,
+      "Justamente dicen que no es una categoría.",
+      "Los autores niegan que sea un estatus.",
+      "Esa idea se parece más a la accesibilidad que a la exclusión.",
+      "Delbosc y Currie distinguen cuatro dimensiones, no una sola."
+    ],
+    "concepto": "Exclusión social",
+    "nivel": "interpretacion",
+    "referencia": "Fernández (2023), p. 12"
+  },
+  {
+    "enunciado": "¿Cuáles son las cuatro dimensiones de la exclusión social según Delbosc y Currie (2011)?",
+    "opciones": [
+      "Consumo, producción, compromiso político e interacción social, que son las cuatro dimensiones de la exclusión.",
+      "Desempleo, bajos ingresos, discriminación y crimen, entre otros factores de pobreza.",
+      "Equidad horizontal, vertical por ingresos y vertical por necesidad y habilidad de movilidad.",
+      "Trabajo, estudio, salud y recreación y cultura, que son las funciones básicas del estudio.",
+      "Uso del suelo, tiempo, individuo y sistema de transporte, los cuatro elementos de la accesibilidad."
+    ],
+    "correcta": 0,
+    "explicacion": "Delbosc y Currie: consumo, producción, compromiso político e interacción social. No hay que mezclarlas con los factores de pobreza del Cabinet Office, las dimensiones de equidad de Litman ni los cuatro elementos de Geurs y Wee.",
+    "errores": [
+      null,
+      "Esa es la lista de factores de pobreza del Cabinet Office (2009).",
+      "Esas son las tres dimensiones de equidad de Litman (2005).",
+      "Esas son las funciones básicas de la ciudad que mide la tesis.",
+      "Esos son los cuatro elementos de la accesibilidad de Geurs y Wee (2011)."
+    ],
+    "concepto": "Dimensiones de exclusión",
+    "nivel": "contraste",
+    "referencia": "Fernández (2023), pp. 11-12"
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes NO es una de las tres dimensiones de equidad de Litman (2005)?",
+    "opciones": [
+      "Equidad horizontal, que trata por igual a los grupos con capacidades y necesidades similares.",
+      "Equidad vertical por ingresos y clase social, entre grupos con distinta capacidad económica.",
+      "Equidad vertical por necesidad y habilidad de movilidad, para quienes tienen necesidades especiales.",
+      "Equidad intergeneracional, que compara las oportunidades de generaciones distintas de una ciudad."
+    ],
+    "correcta": 3,
+    "explicacion": "Litman distingue equidad horizontal, vertical por ingresos y clase social, y vertical por necesidad y habilidad de movilidad. La equidad intergeneracional no está entre ellas.",
+    "errores": [
+      "Sí es una de las tres dimensiones.",
+      "Sí es una de las tres dimensiones.",
+      "Sí es una de las tres dimensiones.",
+      null
+    ],
+    "concepto": "Dimensiones de equidad",
+    "nivel": "contraste",
+    "referencia": "Fernández (2023), p. 12"
+  },
+  {
+    "enunciado": "¿Qué sostiene Martens (2012), citado en la tesis, sobre la movilidad?",
+    "opciones": [
+      "Que no es un bien normal, sino un bien social que queda fuera de la esfera del mercado.",
+      "Que es un bien normal cuya demanda aumenta con el ingreso y se regula mejor por el mercado.",
+      "Que es un bien de lujo que solo debe garantizarse a quienes pueden pagar su tarifa completa.",
+      "Que su valor se mide solo por el ahorro de tiempo de viaje que logra cada persona.",
+      "Que es una impedancia que disminuye a medida que mejora el costo generalizado del viaje."
+    ],
+    "correcta": 0,
+    "explicacion": "Martens (2012): la movilidad no es un bien normal, sino un bien social fuera de la esfera del mercado. La planificación tradicional se enfocó en el ahorro de tiempo y pasó por alto tarifas bajas, acceso a servicios y menos soledad y depresión.",
+    "errores": [
+      null,
+      "Martens dice lo contrario: no es un bien normal.",
+      "La idea de bien social va en sentido opuesto.",
+      "La tesis critica ese enfoque tradicional centrado en el ahorro de tiempo.",
+      "No es una impedancia; es un bien social."
+    ],
+    "concepto": "Movilidad como bien social",
+    "nivel": "interpretacion",
+    "referencia": "Fernández (2023), p. 9"
+  },
+  {
+    "enunciado": "En el modelo gravitacional de Hansen que usa la tesis, ¿qué condición debe cumplir la función de impedancia?",
+    "opciones": [
+      "Ser una función decreciente del tiempo, que normalmente toma la forma exponencial negativa.",
+      "Ser una función lineal del tiempo de viaje, con una pendiente igual en todas las zonas.",
+      "Incluir siempre el costo monetario del viaje y el valor del tiempo de cada persona.",
+      "Depender únicamente de la distancia en línea recta entre el origen y el destino.",
+      "Ser una función creciente del tiempo, porque a mayor tiempo mayor es la accesibilidad."
+    ],
+    "correcta": 0,
+    "explicacion": "La única condición para la impedancia es que sea decreciente respecto al tiempo, normalmente exponencial negativa. Incluir más variables describe mejor el fenómeno, pero complica la calibración.",
+    "errores": [
+      null,
+      "No se exige linealidad; basta que sea decreciente.",
+      "Se pueden incluir más variables, pero no es una condición del modelo.",
+      "La tesis usa el tiempo, no la distancia en línea recta.",
+      "Es al revés: a mayor impedancia, menor valor de la oportunidad."
+    ],
+    "concepto": "Función de impedancia de Hansen",
+    "nivel": "interpretacion",
+    "referencia": "Fernández (2023), p. 18"
+  },
+  {
+    "enunciado": "Los coeficientes del tiempo de viaje por UTAM resultaron de magnitud mínima y no siempre negativos. ¿Qué concluye la tesis sobre la accesibilidad al trabajo?",
+    "opciones": [
+      "Que es inelástica al tiempo de viaje: los usuarios cautivos viajan igual aunque el costo en tiempo sea alto.",
+      "Que es muy elástica al tiempo de viaje: los usuarios dejan de viajar apenas el tiempo aumenta un poco.",
+      "Que el modelo de Hansen no sirve para Bogotá, porque ninguna UTAM tiene tiempos de viaje superiores a 90 minutos.",
+      "Que el tiempo de viaje solo importa para los usuarios de altos ingresos con vehículo propio.",
+      "Que la accesibilidad crece en forma proporcional al tiempo de viaje en todas las UTAM."
+    ],
+    "correcta": 0,
+    "explicacion": "Los coeficientes no siempre negativos y de magnitud mínima, sin importar el tiempo de viaje, muestran una accesibilidad inelástica: los usuarios cautivos viajan igual. Por eso el capítulo 2 pasa a un análisis multivariado con la EMB2019 por UTAM.",
+    "errores": [
+      null,
+      "Los coeficientes mínimos indican lo contrario.",
+      "Hay 38 UTAM con tiempo promedio mayor a 90 minutos; la conclusión es la inelasticidad.",
+      "La conclusión se refiere a usuarios cautivos del transporte público.",
+      "Los coeficientes de magnitud mínima no indican una proporcionalidad."
+    ],
+    "concepto": "Inelasticidad de la accesibilidad",
+    "nivel": "interpretacion",
+    "referencia": "Fernández (2023), pp. 21-27"
+  },
+  {
+    "enunciado": "¿Cómo interpreta la tesis un coeficiente positivo en UTAM con tiempos de viaje muy altos?",
+    "opciones": [
+      "Como señal de usuarios cautivos, no de que un mayor tiempo estimule a viajar más.",
+      "Como evidencia de que un mayor tiempo de viaje hace más atractivas las oportunidades de trabajo.",
+      "Como un error de la encuesta EMB2019, que obliga a descartar todas las UTAM con coeficiente positivo.",
+      "Como prueba de que la impedancia exponencial negativa es incorrecta y debe reemplazarse por una lineal.",
+      "Como efecto de las subvenciones del SISBEN, que reducen el costo del pasaje a los hogares más pobres."
+    ],
+    "correcta": 0,
+    "explicacion": "Un coeficiente positivo con tiempos altos (por ejemplo Ciudad Jardín, Comuneros, Ciudad Usme, UTAM 572) significa usuarios cautivos que necesitan viajar, no que el tiempo estimule viajar.",
+    "errores": [
+      null,
+      "La tesis aclara que el tiempo no estimula los viajes.",
+      "No se descartan; se interpretan como usuarios cautivos.",
+      "El texto no cuestiona la forma de la impedancia por este resultado.",
+      "La tesis lo atribuye a usuarios cautivos, no a subsidios."
+    ],
+    "concepto": "Usuarios cautivos",
+    "nivel": "interpretacion",
+    "referencia": "Fernández (2023), p. 25"
+  },
+  {
+    "enunciado": "¿Qué es el costo generalizado de viaje según de Rus et al. (2003), citado en el capítulo 2?",
+    "opciones": [
+      "La suma del valor monetario de sus determinantes: tarifa, tiempo de viaje, espera, acceso y otros.",
+      "La tarifa del modo principal más el sobrecosto de las etapas adicionales del viaje.",
+      "El tiempo total de viaje, expresado en minutos y medido de la puerta de origen al destino.",
+      "El costo que el operador del sistema paga por cada pasajero que transporta en un trayecto.",
+      "El promedio de los gastos de transporte de un hogar durante un mes completo."
+    ],
+    "correcta": 0,
+    "explicacion": "El costo generalizado es la suma del valor monetario de los determinantes del viaje (tarifa, tiempo de viaje, espera, acceso y otros como transferencias y experiencia). Esos determinantes se llaman impedancias; la tarifa es solo uno de ellos.",
+    "errores": [
+      null,
+      "La tarifa es solo uno de los determinantes del costo generalizado.",
+      "El costo generalizado incluye también valores monetarios, no solo tiempo.",
+      "Es un costo del usuario, no del operador.",
+      "Se refiere a un viaje, no al gasto mensual de un hogar."
+    ],
+    "concepto": "Costo generalizado",
+    "nivel": "contraste",
+    "referencia": "Fernández (2023), pp. 28-29"
+  },
+  {
+    "enunciado": "En el capítulo 2, ¿cuál de las siguientes variables NO es una impedancia?",
+    "opciones": [
+      "El tiempo de espera, medido desde que la persona llega a la parada hasta que aborda.",
+      "El número de etapas, definidas como el número de transferencias del viaje.",
+      "El sobrecosto, que es el excedente sobre la tarifa del modo principal.",
+      "La cantidad de viajes, que se suma por UTAM de origen con los factores de expansión.",
+      "La experiencia negativa de viaje, que es el complemento de la calificación promedio."
+    ],
+    "correcta": 3,
+    "explicacion": "De las ocho variables de movilidad que revisa el capítulo 2, la cantidad de viajes no es una impedancia. Las demás sí: tiempo de viaje, espera, acceso, etapas, sobrecosto, probabilidad de pago adicional y experiencia de viaje.",
+    "errores": [
+      "Sí es una impedancia.",
+      "Sí es una impedancia.",
+      "Sí es una impedancia.",
+      null,
+      "Sí es una impedancia."
+    ],
+    "concepto": "Variables de movilidad",
+    "nivel": "contraste",
+    "referencia": "Fernández (2023), pp. 28-31"
+  },
+  {
+    "enunciado": "Una persona camina 8 minutos hasta el paradero, espera 12 minutos el bus y viaja 40 minutos hasta su destino. ¿Cuáles son sus tiempos de acceso y de espera según la tesis?",
+    "opciones": [
+      "Acceso de 8 minutos (recorrido previo al paradero) y espera de 12 minutos (hasta abordar).",
+      "Acceso de 12 minutos y espera de 8 minutos, porque la espera es el recorrido caminando.",
+      "Acceso de 20 minutos y espera de 40 minutos, porque el viaje en bus también es espera.",
+      "Acceso de 8 minutos y espera de 52 minutos, que suma la espera y el tiempo dentro del bus.",
+      "Acceso de 0 minutos y espera de 20 minutos, porque la caminata hace parte de la espera."
+    ],
+    "correcta": 0,
+    "explicacion": "Tiempo de acceso o caminata: el recorrido previo a llegar al paradero (8 min). Tiempo de espera: desde que llega a la parada hasta que aborda (12 min). Tiempo de viaje: la duración reportada, de la hora de inicio a la de fin.",
+    "errores": [
+      null,
+      "Están invertidos: el acceso es la caminata previa y la espera es en el paradero.",
+      "El tiempo dentro del bus es el tiempo de viaje, no de espera.",
+      "La espera termina cuando el pasajero aborda.",
+      "La caminata previa al paradero se mide como tiempo de acceso."
+    ],
+    "concepto": "Tiempos de viaje, espera y acceso",
+    "nivel": "calculo",
+    "referencia": "Fernández (2023), pp. 32-36"
+  },
+  {
+    "enunciado": "¿Cómo se define la probabilidad de pago adicional en el capítulo 2?",
+    "opciones": [
+      "Como el porcentaje de viajes con sobrecosto mayor a cero sobre el total de viajes del motivo.",
+      "Como el promedio, en pesos, del excedente que se paga sobre la tarifa del modo principal.",
+      "Como la proporción del ingreso mensual del hogar que se destina a pagar el transporte público.",
+      "Como la probabilidad de que un usuario elija un modo de transporte distinto al transporte público.",
+      "Como el porcentaje de viajes que usan más de una etapa en la UTAM de origen del viaje."
+    ],
+    "correcta": 0,
+    "explicacion": "Sobrecosto: promedio por UTAM del excedente sobre la tarifa del modo principal. Probabilidad de pago adicional: porcentaje de viajes con sobrecosto mayor a cero sobre los viajes totales del motivo.",
+    "errores": [
+      null,
+      "Eso describe el sobrecosto, no la probabilidad.",
+      "No se mide como proporción del ingreso.",
+      "Se refiere a viajes con pago adicional, no a la elección de modo.",
+      "Eso se parece al número de etapas, no al pago adicional."
+    ],
+    "concepto": "Sobrecosto y probabilidad de pago adicional",
+    "nivel": "contraste",
+    "referencia": "Fernández (2023), pp. 38-42"
+  },
+  {
+    "enunciado": "Para representar los ingresos de cada UTAM, la tesis usa la moda de los salarios mínimos mensuales y no el promedio. ¿Por qué?",
+    "opciones": [
+      "Porque el promedio sobrestimaría los ingresos de la mayoría de los habitantes de la UTAM.",
+      "Porque la moda es la única medida que la EMB2019 permite calcular con los datos de los hogares.",
+      "Porque el promedio subestimaría los ingresos de la mayoría de los hogares de la UTAM.",
+      "Porque la moda elimina el efecto del factor de expansión de la encuesta sobre cada UTAM.",
+      "Porque el salario mínimo de 2019 era igual para todos los hogares de Bogotá y de Soacha."
+    ],
+    "correcta": 0,
+    "explicacion": "Se usa la moda de los salarios mínimos mensuales (rango de 1 a 10) porque el promedio sobrestimaría los ingresos de la mayoría de la UTAM. La moda es 1 en Usme, Ciudad Bolívar y Kennedy.",
+    "errores": [
+      null,
+      "El texto no dice que el promedio no pueda calcularse.",
+      "Es al contrario: el promedio los sobrestimaría.",
+      "No es una razón que el texto ofrezca.",
+      "El salario mínimo es una unidad de medida, no una razón para usar la moda."
+    ],
+    "concepto": "Ingresos por UTAM",
+    "nivel": "causa",
+    "referencia": "Fernández (2023), pp. 44-45"
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes emparejamientos sobre los subsidios al transporte público es correcto?",
+    "opciones": [
+      "SISBEN: puntaje de 40 o menos, 40% de descuento y hasta 30 pasajes al mes.",
+      "Adultos mayores: más de 62 años, 40% de descuento y hasta 30 pasajes al mes.",
+      "Discapacidad: 40% de descuento sobre la tarifa, para quienes tengan vehículo propio.",
+      "SISBEN: puntaje de 62 o más, 12% de descuento y pasajes ilimitados al mes.",
+      "Adultos mayores: más de 40 años, 12% de descuento y pasajes ilimitados al mes."
+    ],
+    "correcta": 0,
+    "explicacion": "SISBEN: puntaje igual o inferior a 40, 40% de descuento, hasta 30 pasajes al mes. Adultos mayores: más de 62 años, cerca de 12% de descuento, máximo 30 pasajes al mes. Discapacidad: recarga mensual con tarifa diferencial, sin vehículo propio.",
+    "errores": [
+      null,
+      "El descuento a adultos mayores es de cerca de 12%.",
+      "El subsidio de discapacidad es para quienes no tienen vehículo propio, con recarga mensual.",
+      "Los datos corresponden a otros subsidios, y el SISBEN tiene tope de pasajes.",
+      "La edad es de más de 62 años y el máximo son 30 pasajes al mes."
+    ],
+    "concepto": "Subsidios",
+    "nivel": "contraste",
+    "referencia": "Fernández (2023), pp. 47-48"
+  },
+  {
+    "enunciado": "El mapa de tiempos de viaje al trabajo muestra UTAM con más de 120 minutos por trayecto. Si la jornada laboral es de 8 horas, ¿qué parte de esa jornada ocupan los traslados de ida y vuelta?",
+    "opciones": [
+      "Cuatro horas diarias, el 50% de una jornada de 8 horas.",
+      "Tres horas diarias, el 37,5% de una jornada de 8 horas.",
+      "Dos horas diarias, el 25% de una jornada de 8 horas.",
+      "Cinco horas diarias, el 62,5% de una jornada de 8 horas.",
+      "Seis horas diarias, el 75% de una jornada de 8 horas."
+    ],
+    "correcta": 0,
+    "explicacion": "Más de 120 minutos por trayecto, ida y vuelta, son 240 minutos, es decir, 4 horas: el 50% de una jornada de 8 horas. Con 90 minutos por trayecto son 3 horas diarias.",
+    "errores": [
+      null,
+      "Tres horas corresponden a 90 minutos por trayecto, no a más de 120.",
+      "Dos horas serían 60 minutos por trayecto.",
+      "Más de 120 minutos por trayecto equivalen a 4 horas diarias, no a 5.",
+      "Corresponde a 180 minutos por trayecto, mucho más de lo que reporta la tesis."
+    ],
+    "concepto": "Tiempo de viaje y jornada",
+    "nivel": "calculo",
+    "referencia": "Fernández (2023), p. 33"
+  },
+  {
+    "enunciado": "¿Qué relación muestra la tesis entre las dificultades de comunicación y de movilidad por UTAM?",
+    "opciones": [
+      "Las de comunicación duplican a las de movilidad, y ambas se acumulan en la periferia sur y occidental.",
+      "Las de movilidad duplican a las de comunicación, y ambas se concentran en el centro ampliado.",
+      "Ambas tienen el mismo número de casos por UTAM y se reparten de manera uniforme en la ciudad.",
+      "Las de comunicación solo existen en Soacha, mientras que las de movilidad solo se dan en Bogotá.",
+      "Ninguna se concentra en un lugar, porque dependen solo del estrato de la vivienda."
+    ],
+    "correcta": 0,
+    "explicacion": "La dificultad de comunicación duplica a la de movilidad (35 159 frente a 17 646 en las leyendas de la Fig. 2-12), y ambas se acumulan en la periferia sur y occidental. Bosa Central tiene ambas en mayor cantidad.",
+    "errores": [
+      null,
+      "Es al revés, y se concentran en la periferia.",
+      "Las dos escalas son distintas y no se reparten uniformemente.",
+      "No se separan por municipio.",
+      "El texto sí identifica concentración en la periferia sur y occidental."
+    ],
+    "concepto": "Limitaciones de movilidad",
+    "nivel": "interpretacion",
+    "referencia": "Fernández (2023), pp. 48-49"
+  },
+  {
+    "enunciado": "¿Por qué la tesis advierte que el estrato no necesariamente refleja la vulnerabilidad de una UTAM?",
+    "opciones": [
+      "Porque influyen factores arquitectónicos y espaciales, y el estrato 3 es muy variado.",
+      "Porque el estrato 6 es siempre el más vulnerable, y el estrato 1 es el menos vulnerable de todos.",
+      "Porque el estrato se calcula con el puntaje del SISBEN de cada hogar de la UTAM.",
+      "Porque solo se asigna a las viviendas de Soacha y no a las de las UTAM de Bogotá.",
+      "Porque el estrato predominante se calcula con el promedio de ingresos de cada UTAM."
+    ],
+    "correcta": 0,
+    "explicacion": "Se usa el estrato predominante por UTAM, pero no siempre refleja vulnerabilidad por factores arquitectónicos y espaciales. Los estratos 1 y 2 son los más vulnerables, el 3 es muy variado y, a mayor estrato, menor vulnerabilidad.",
+    "errores": [
+      null,
+      "A mayor estrato, menor vulnerabilidad; los más vulnerables son el 1 y el 2.",
+      "El estrato proviene de los archivos geográficos de la EMB2019, no del SISBEN.",
+      "Se asigna a las UTAM de Bogotá y de Soacha.",
+      "Se usa el estrato predominante, no un promedio de ingresos."
+    ],
+    "concepto": "Estrato y vulnerabilidad",
+    "nivel": "causa",
+    "referencia": "Fernández (2023), p. 50"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "A partir del capítulo 1 de Fernández (2023), defina si cada una de las siguientes afirmaciones es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "La tesis aplica el modelo de Hansen con solo el tiempo de viaje de los viajes de trabajo.",
+        "verdadera": true,
+        "explicacion": "Es la aplicación del capítulo 1; el capítulo 2 amplía el análisis a varias impedancias."
+      },
+      {
+        "texto": "Los coeficientes del tiempo de viaje resultaron todos negativos y de gran magnitud.",
+        "verdadera": false,
+        "explicacion": "Resultaron de magnitud mínima y no siempre negativos."
+      },
+      {
+        "texto": "La UTAM 63 quedó en blanco porque la EMB2019 no tiene datos asociados a ella.",
+        "verdadera": true,
+        "explicacion": "No se imputaron valores de las UTAM cercanas, porque asumir su comportamiento sería arbitrario."
+      },
+      {
+        "texto": "Los seis modos del estudio incluyen toda la oferta de transporte público del Grupo A de la EMB2019.",
+        "verdadera": false,
+        "explicacion": "El Grupo A es más amplio: el estudio se limita a TransMilenio, SITP, SITP provisional, alimentador, taxi y bicitaxi."
+      },
+      {
+        "texto": "Geurs y Van Wee (2004) definen la accesibilidad como un potencial de interacción entre destinos.",
+        "verdadera": false,
+        "explicacion": "Ese es el planteamiento de Hansen (1959); Geurs y Van Wee hablan de la medida en que transporte y uso de la tierra permiten llegar a destinos."
+      }
+    ],
+    "concepto": "Modelo de Hansen y definiciones",
+    "nivel": "contraste",
+    "referencia": "Fernández (2023), cap. 1"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "A partir del capítulo 2 de Fernández (2023), defina si cada una de las siguientes afirmaciones es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "Todas las variables del capítulo 2 salen de la EMB2019 y se agregan por UTAM.",
+        "verdadera": true,
+        "explicacion": "Las de movilidad se calculan solo para viajes en transporte público y por UTAM de origen."
+      },
+      {
+        "texto": "La cantidad de viajes es una de las impedancias del costo generalizado.",
+        "verdadera": false,
+        "explicacion": "La cantidad de viajes no es una impedancia."
+      },
+      {
+        "texto": "El ingreso de cada UTAM se representa con la moda de los salarios mínimos mensuales.",
+        "verdadera": true,
+        "explicacion": "El promedio sobrestimaría los ingresos de la mayoría."
+      },
+      {
+        "texto": "La dificultad de movilidad duplica a la de comunicación en las UTAM de la periferia.",
+        "verdadera": false,
+        "explicacion": "Es la de comunicación la que duplica a la de movilidad."
+      },
+      {
+        "texto": "Los estratos 1 y 2 son los más vulnerables, pero el estrato no necesariamente refleja vulnerabilidad.",
+        "verdadera": true,
+        "explicacion": "El estrato 3 es muy variado y a mayor estrato menor vulnerabilidad, con factores arquitectónicos y espaciales de por medio."
+      }
+    ],
+    "concepto": "Variables multidimensionales por UTAM",
+    "nivel": "contraste",
+    "referencia": "Fernández (2023), cap. 2"
+  }
+]

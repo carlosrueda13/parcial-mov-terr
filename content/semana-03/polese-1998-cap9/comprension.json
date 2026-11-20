@@ -1,0 +1,394 @@
+[
+  {
+    "enunciado": "Una industria usa 3 toneladas de insumos localizados y 2 toneladas de agua (insumo omnipresente) por cada 2 toneladas de producto vendido. ¿Cuál es su índice material y hacia dónde tiende a localizarse?",
+    "opciones": [
+      "I_M = 1,5: hay pérdida de peso y tiende a localizarse cerca de los recursos.",
+      "I_M = 2,5: hay pérdida de peso, porque el agua también cuenta como insumo localizado.",
+      "I_M = 0,67: hay ganancia de peso, porque se divide el producto entre los insumos.",
+      "I_M = 1,5: hay ganancia de peso y tiende a localizarse cerca del mercado.",
+      "I_M = 1,0: no hay orientación definida, porque el agua compensa los insumos localizados."
+    ],
+    "correcta": 0,
+    "explicacion": "I_M = peso de los insumos localizados / peso de las ventas = 3/2 = 1,5. Mayor que 1 significa pérdida de peso en el proceso y orientación a los recursos; menor que 1, ganancia de peso y orientación al mercado. Los insumos omnipresentes no cuentan.",
+    "errores": [
+      null,
+      "Los insumos omnipresentes (agua, piedra, tierra) no localizan la industria y no entran en el índice.",
+      "El índice es insumos localizados sobre ventas (Pi/Pe), no al revés.",
+      "Mayor que 1 es pérdida de peso: la industria se orienta a los recursos, no al mercado.",
+      "El agua no compensa nada: no entra en el índice, que aquí vale 3/2."
+    ],
+    "concepto": "Índice material",
+    "nivel": "calculo",
+    "referencia": "Polèse (1998), cap. 9, p. 286",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "En el ejemplo siderúrgico (1,5 t de hierro y 1,2 t de carbón por tonelada de acero; t = 0,05 por tonelada-km), el hierro y el carbón pesan más que el acero, y aun así la empresa se localiza en la mina de hierro. ¿Por qué?",
+    "opciones": [
+      "Porque el hierro es el más costoso de transportar (0,075 por km, frente a 0,06 del carbón y 0,05 del producto).",
+      "Porque el hierro pesa más que el carbón y el producto final, y el modelo siempre ubica la empresa donde está el insumo más pesado.",
+      "Porque el índice material (2,7) indica que la empresa debe ubicarse en el mercado, donde se vende el producto.",
+      "Porque el carbón es un insumo omnipresente y no puede localizar la empresa, así que solo queda el hierro como opción.",
+      "Porque hay una ruptura de carga obligatoria en la mina de hierro, que fija allí la localización de la empresa."
+    ],
+    "correcta": 0,
+    "explicacion": "Cada tonelada de acero exige 1,5 t de hierro (0,075 por km), 1,2 t de carbón (0,06 por km) y se vende 1 t de producto (0,05 por km). A la empresa le conviene eliminar el costo mayor: se acerca al hierro. Importa el peso y el costo de transporte a la vez: si t fuera tres veces mayor para el producto final, el resultado cambiaría.",
+    "errores": [
+      null,
+      "En este caso el hierro es el más costoso, pero el criterio no es el peso solo: es el costo de transporte por tonelada-km.",
+      "Un índice mayor que 1 orienta a los recursos, no al mercado.",
+      "El carbón es un insumo localizado: tiene costo de transporte y se compara con el hierro.",
+      "El ejemplo no incluye ninguna ruptura de carga; la decisión sale solo de los costos de transporte."
+    ],
+    "concepto": "Criterio del costo de transporte en el modelo weberiano",
+    "nivel": "aplicacion",
+    "referencia": "Polèse (1998), cap. 9, p. 285",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "¿Por qué la industria del aluminio se localiza cerca de la hidroelectricidad y no de la bauxita, que es el insumo más pesado en sentido físico?",
+    "opciones": [
+      "Porque el proceso consume mucha electricidad, cara de transportar: es un insumo 'pesado' en sentido ampliado.",
+      "Porque la electricidad pesa más que la bauxita por tonelada de aluminio y por eso su costo de transporte resulta mayor.",
+      "Porque la bauxita es un insumo omnipresente y, por definición, no puede localizar a la industria del aluminio.",
+      "Porque el aluminio tiene ganancia de peso y por eso se orienta al mercado, donde está la energía disponible.",
+      "Porque la hidroelectricidad es un bien de rango superior y se concentra solo en los lugares centrales de mayor jerarquía."
+    ],
+    "correcta": 0,
+    "explicacion": "El 'peso' que cuenta es el ampliado: lo que eleva el costo de transporte (fragilidad, volumen, o en el caso de la electricidad, postes y cables de alta tensión con costos fijos). El aluminio sigue a la electricidad; por eso, si baja 80 % el costo de transportarla (el ejemplo del Paraná), pierde ventajas la localización junto a las hidroeléctricas.",
+    "errores": [
+      null,
+      "La electricidad no tiene peso ni entra físicamente al producto; su dificultad es el costo fijo de transportarla.",
+      "La bauxita es un insumo localizado; lo que pasa es que otro insumo, la electricidad, pesa más en el costo.",
+      "Con I_M mayor que 1 hay pérdida de peso y orientación a los recursos; la energía es el recurso decisivo.",
+      "El rango superior es una idea de la teoría de lugares centrales y no explica la localización del aluminio."
+    ],
+    "concepto": "Peso ampliado y orientación a los recursos",
+    "nivel": "causa",
+    "referencia": "Polèse (1998), cap. 9, pp. 287-288",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "El costo puesto en el mercado del productor X es 9 y el del productor Y es 12. X vende a 11,95 (apenas por debajo del costo de Y). ¿Cuál es la renta de localización de X por unidad y de qué depende que exista?",
+    "opciones": [
+      "2,95 por unidad; depende de que la oferta de la fuente de X sea inelástica (limitada), no de que X sea más productivo.",
+      "2,95 por unidad; depende de que X sea más eficiente en la producción que Y, de ahí su menor costo.",
+      "3 por unidad, que es la diferencia entre el costo de Y y el de X; no depende de ninguna condición adicional.",
+      "11,95 por unidad, que es el precio de venta de X en el mercado.",
+      "0,05 por unidad, que es lo que X deja de ganar al vender justo por debajo de Y."
+    ],
+    "correcta": 0,
+    "explicacion": "Renta = precio − costo real = 11,95 − 9 = 2,95 por unidad. Existe porque la ventaja de localización está en una fuente de oferta inelástica: si la oferta fuera elástica, otros productores llegarían al mercado al mismo costo básico y nadie embolsaría rentas.",
+    "errores": [
+      null,
+      "La renta no viene de productividad (Y puede ser más eficaz en origen): viene de la localización y de una oferta fija.",
+      "La renta es 11,95 − 9 = 2,95, y sí exige oferta inelástica: con oferta elástica entrarían otros productores.",
+      "La renta es la diferencia entre el precio y el costo real, no el precio.",
+      "Esos 0,05 son el descuento para quitarle el mercado a Y, no la renta."
+    ],
+    "concepto": "Renta de localización",
+    "nivel": "calculo",
+    "referencia": "Polèse (1998), cap. 9, pp. 290-291",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "Según el análisis de las rupturas de carga, ¿qué ayuda a explicar este concepto?",
+    "opciones": [
+      "Que las ciudades surjan junto a ríos y al borde del mar, donde se transborda de un modo de transporte a otro.",
+      "Que las industrias con ganancia de peso se instalen en el centro del mercado, lejos de los recursos.",
+      "Que los precios del suelo suban hacia el centro de la ciudad, por la competencia entre usos.",
+      "Que las regiones del interior continental sean las más industrializadas, por la protección del espacio.",
+      "Que los hexágonos cubran todo el territorio sin dejar espacios vacíos en el modelo de Christaller."
+    ],
+    "correcta": 0,
+    "explicacion": "Con ruptura de carga las opciones de localización son tres: el mercado, el origen de un insumo o un punto de ruptura de carga obligatorio. Esto explica en parte por qué muchas ciudades están junto a ríos o al mar. Hay excepciones (Bogotá, Johanesburgo, Madrid, México).",
+    "errores": [
+      null,
+      "Eso lo explica el índice material menor que 1, no la ruptura de carga.",
+      "Es la renta del suelo del capítulo 10, no la ruptura de carga.",
+      "Al contrario: las regiones interiores (Saskatchewan, Chihuahua, Dakota, Montana) están poco industrializadas.",
+      "Eso es la forma de las áreas de mercado en la competencia espacial."
+    ],
+    "concepto": "Ruptura de carga",
+    "nivel": "causa",
+    "referencia": "Polèse (1998), cap. 9, p. 293",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "Al comparar los modos de transporte (camión, tren, barco, avión) según sus costos fijos y su pendiente por kilómetro, ¿cuál afirmación se ajusta al análisis?",
+    "opciones": [
+      "El camión conviene a menos de 500 km, el tren hasta unos 1000 km y el barco en trayectos más largos.",
+      "El barco conviene en trayectos cortos, por su bajo costo fijo, y el camión en trayectos largos, por su pendiente baja.",
+      "El avión es el modo más rentable para bienes de bajo valor, porque su pendiente por kilómetro es la menor.",
+      "El tren no es competitivo en ningún tramo: el camión cubre las distancias cortas y el barco todas las demás.",
+      "El camión tiene el costo fijo más alto y la pendiente más baja, y por eso domina en trayectos largos."
+    ],
+    "correcta": 0,
+    "explicacion": "Cada modo tiene un costo fijo (terminales, equipo) y una pendiente (costo por tonelada-km). El camión: costo fijo bajo y pendiente alta, para distancias cortas; el tren, intermedio; el barco: pendiente baja, para distancias largas; el avión, costos fijos altos y solo con productos de gran valor agregado y sensibles al tiempo.",
+    "errores": [
+      null,
+      "Está invertido: el barco tiene pendiente baja (eficiencia energética) y conviene a largas distancias.",
+      "El avión solo es rentable para bienes de alto valor agregado y muy sensibles al tiempo de entrega.",
+      "El tren tiene su tramo intermedio, hasta unos 1000 km.",
+      "El camión tiene el costo fijo más bajo y la pendiente más alta."
+    ],
+    "concepto": "Modos de transporte y distancia",
+    "nivel": "grafica",
+    "referencia": "Polèse (1998), cap. 9, p. 293",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "En la competencia espacial de Lösch y en el modelo de Christaller, las áreas de mercado se representan con hexágonos. ¿Por qué?",
+    "opciones": [
+      "Porque cubren todo el territorio sin dejar espacios vacíos y se acercan al círculo, la mejor relación entre área y perímetro.",
+      "Porque los círculos dejan zonas sin servicio o superpuestas, y el hexágono es el único polígono que evita las dos cosas.",
+      "Porque los costos de transporte caen en seis direcciones fijas, que corresponden a los seis lados de cada área.",
+      "Porque cada empresa tiene exactamente seis competidoras vecinas, sin importar su tamaño ni su costo.",
+      "Porque la demanda se distribuye de forma desigual y los hexágonos permiten concentrarla en el centro."
+    ],
+    "correcta": 0,
+    "explicacion": "En el plano homogéneo con demanda uniforme y costos de transporte lineales, las áreas de mercado idénticas que cubren todo el territorio sin dejar vacíos se representan por hexágonos: la forma que más se aproxima al círculo (una buena relación área/perímetro: 'la imagen de las abejas') sin dejar espacios sin atender.",
+    "errores": [
+      null,
+      "El cuadrado y el triángulo también cubren sin vacíos; el hexágono se elige por su cercanía al círculo.",
+      "Los costos son función lineal de la distancia en todas direcciones; los seis lados no vienen de seis direcciones de costo.",
+      "Seis vecinas es consecuencia de la forma, no su razón.",
+      "El modelo supone demanda uniforme; los hexágonos no corrigen ninguna desigualdad."
+    ],
+    "concepto": "Hexágonos de las áreas de mercado",
+    "nivel": "causa",
+    "referencia": "Polèse (1998), cap. 9, p. 297",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "En el modelo de competencia espacial, la empresa C es más eficaz que la empresa D (menor costo de producción). Se construye una autopista que baja los costos de transporte (de T a T'). ¿Qué ocurre?",
+    "opciones": [
+      "La frontera de C se desplaza más allá de D (de m a m'): las empresas de D pueden desaparecer y el consumidor paga menos.",
+      "Las fronteras de los mercados no cambian, porque una baja de costos de transporte afecta por igual a C y a D.",
+      "D gana mercado, porque la autopista lo acerca a los consumidores de C y compensa su mayor costo de producción.",
+      "Ambas empresas desaparecen, porque sin costos de transporte el mercado queda vacío de protección.",
+      "D conserva todo su mercado y además obtiene una renta de localización por la autopista."
+    ],
+    "correcta": 0,
+    "explicacion": "El espacio protege a las empresas: los costos de interacción espacial actúan como aranceles. Si baja el costo de transportar y C es más eficaz, C entrega en el mercado de D a precios menores y las empresas de D abandonan. El consumidor gana, a costa de costos sociales (cierre de fábricas, migración de mano de obra). Solo si las empresas son igual de eficaces las fronteras no cambian.",
+    "errores": [
+      null,
+      "Eso ocurre solo si las empresas son igual de eficaces; con distinta eficiencia, la baja favorece a la más eficaz.",
+      "La autopista también acerca a los consumidores de D a C, que vende más barato.",
+      "Desaparece la protección de D, no el mercado: C lo abastece.",
+      "La renta de D venía del efecto protector del espacio, que la autopista reduce."
+    ],
+    "concepto": "Efecto protector del espacio",
+    "nivel": "aplicacion",
+    "referencia": "Polèse (1998), cap. 9, pp. 299-302",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "¿Cuál afirmación describe bien la relación entre la teoría de los lugares centrales y la competencia espacial de Lösch?",
+    "opciones": [
+      "Extienden la competencia espacial: pasan de una rama a una gama diversificada de bienes y generan jerarquía de ciudades.",
+      "Los lugares centrales reemplazan a la competencia espacial, porque rechazan el supuesto de plano homogéneo.",
+      "La competencia espacial estudia varias ramas a la vez y los lugares centrales solo una; por eso la jerarquía aparece en la primera.",
+      "Los lugares centrales explican la localización industrial por el índice material, y la competencia espacial el terciario.",
+      "Christaller dio las bases económicas deductivas y Lösch observó la distribución de ciudades en Alemania del sur."
+    ],
+    "correcta": 0,
+    "explicacion": "Christaller (1935) observó que las ciudades del sur de Alemania no se distribuían al azar; Lösch dio después las bases económicas del modelo, cuyos postulados son los de la competencia espacial. La teoría de lugares centrales extiende esos modelos de una rama a una economía con gama diversificada de productos.",
+    "errores": [
+      null,
+      "Ambas parten del plano homogéneo; una es extensión de la otra.",
+      "Está invertido: la competencia espacial toma una sola rama.",
+      "El índice material pertenece al modelo weberiano, no a los lugares centrales.",
+      "Es al revés: Christaller observó (1935); Lösch dio las bases económicas (1944)."
+    ],
+    "concepto": "Lugares centrales y competencia espacial",
+    "nivel": "contraste",
+    "referencia": "Polèse (1998), cap. 9, pp. 302-303",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "Un bien o servicio de rango superior se define por varias características. ¿Cuál de las siguientes NO es una de ellas?",
+    "opciones": [
+      "Se consume con frecuencia, y por eso el consumidor soporta costos de transporte elevados.",
+      "Presenta economías de escala importantes, con un nivel de mercado elevado.",
+      "Se consume poco, a menudo con un costo importante frente al ingreso del consumidor.",
+      "Tiene costos de transporte bajos, porque no requiere el desplazamiento sistemático del consumidor.",
+      "Hay voluntad del consumidor de recorrer grandes distancias para adquirirlo."
+    ],
+    "correcta": 0,
+    "explicacion": "Rango superior: economías de escala, consumo poco frecuente, costos de transporte bajos y disposición a desplazarse lejos (basta con una o varias). Lo contrario describe el rango inferior (pan, zapatero): consumo frecuente, que implica que el consumidor no está dispuesto a recorrer grandes distancias.",
+    "errores": [
+      null,
+      "Sí lo es: la actividad necesita un mercado grande para ser rentable.",
+      "Sí lo es: consumo poco frecuente.",
+      "Sí lo es: el costo de transporte por consumidor es bajo.",
+      "Sí lo es: el consumidor está dispuesto a ir lejos."
+    ],
+    "concepto": "Bienes de rango superior e inferior",
+    "nivel": "contraste",
+    "referencia": "Polèse (1998), cap. 9, p. 304",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "En el sistema de lugares centrales con s = 4 lugares de rango inferior por lugar central, k = 0,5 y población rural del lugar más pequeño r = 3000, la población del lugar central de rango D es k·r/(1−k) y cada rango superior es s/(1−k) veces el rango inmediato inferior. ¿Cuál es la población del lugar de rango C?",
+    "opciones": [
+      "24 000 habitantes.",
+      "12 000 habitantes.",
+      "6 000 habitantes.",
+      "48 000 habitantes.",
+      "96 000 habitantes."
+    ],
+    "correcta": 0,
+    "explicacion": "C_D = k·r/(1−k) = 0,5·3000/0,5 = 3000. Cada rango superior = s/(1−k) = 4/0,5 = 8 veces el inferior, así que C_C = 24 000 (y C_B = 192 000). Con s = 6 y k = 0,5 el factor es 12 (1000, 12 000, 144 000, 1 728 000).",
+    "errores": [
+      null,
+      "Es el resultado de multiplicar 3000 por s = 4 sin dividir entre (1−k); falta el factor 1/0,5.",
+      "Es solo el doble de D (3000); falta el factor s/(1−k) = 8.",
+      "Se duplicó de más: s/(1−k) = 4/0,5 = 8, no 16.",
+      "No corresponde a ningún rango del sistema: C vale 24 000 y B vale 192 000."
+    ],
+    "concepto": "Fórmulas de lugares centrales",
+    "nivel": "calculo",
+    "referencia": "Polèse (1998), cap. 9, pp. 308-309",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "Según la regla rango-tamaño P_i = P_g / R_i^q, con q = 1, la ciudad más grande tiene 12 millones de habitantes. ¿Qué población se espera para la cuarta ciudad?",
+    "opciones": [
+      "3 millones de habitantes.",
+      "4 millones de habitantes.",
+      "2 millones de habitantes.",
+      "48 millones de habitantes.",
+      "6 millones de habitantes."
+    ],
+    "correcta": 0,
+    "explicacion": "P_4 = 12 / 4 = 3 millones. La regla postula una relación entre rango y tamaño que se grafica como una recta en doble escala logarítmica; los saltos o niveles en la recta indican categorías de ciudades (lugares centrales).",
+    "errores": [
+      null,
+      "Es la población de la tercera ciudad (12/3), no de la cuarta.",
+      "Es la de la sexta ciudad (12/6).",
+      "Se multiplicó en vez de dividir por el rango.",
+      "Es la de la segunda ciudad (12/2)."
+    ],
+    "concepto": "Regla rango-tamaño",
+    "nivel": "calculo",
+    "referencia": "Polèse (1998), cap. 9, p. 309",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "¿En cuál de los siguientes territorios y actividades la teoría de los lugares centrales tiende a cumplirse mejor?",
+    "opciones": [
+      "En regiones agrícolas homogéneas y con pocas industrias, como las Pampas argentinas o Iowa y Saskatchewan.",
+      "En regiones con manufactura de índice material mayor que 1, porque la industria sigue la jerarquía de ciudades.",
+      "En los servicios de oficina del terciario superior, porque los clientes se desplazan a los centros más altos.",
+      "En países con fuertes obstáculos institucionales y mucha geografía accidentada, que fijan la jerarquía.",
+      "En productos exportables a escala mundial, porque su mercado no tiene límites geográficos."
+    ],
+    "correcta": 0,
+    "explicacion": "El modelo es de sistemas urbanos preindustriales y se ajusta mejor donde el territorio es homogéneo y la actividad es terciaria tradicional. Se desvía por geografía, obstáculos institucionales, poder de compra y preferencias, infraestructuras, economías o deseconomías de aglomeración, manufactura con I_M mayor que 1 y terciario moderno.",
+    "errores": [
+      null,
+      "Esas industrias son una causa de desvío respecto del modelo.",
+      "Esos servicios no requieren el desplazamiento del consumidor y se destinan a otras empresas.",
+      "Ambos son causas de desvío, no condiciones de ajuste.",
+      "La teoría no se aplica a productos exportables a escala mundial."
+    ],
+    "concepto": "Límites de la teoría de lugares centrales",
+    "nivel": "interpretacion",
+    "referencia": "Polèse (1998), cap. 9, pp. 311-313",
+    "clase": "2026-09-29"
+  },
+  {
+    "enunciado": "¿Por qué los servicios de oficina del terciario superior siguen mal la lógica de los lugares centrales?",
+    "opciones": [
+      "Porque no requieren que el consumidor se desplace, se destinan a otras empresas y son exportables.",
+      "Porque siempre se localizan en la ciudad de menor rango, donde los costos de suelo son más bajos para las empresas.",
+      "Porque su demanda es perfectamente elástica y el precio no cambia con la distancia al consumidor.",
+      "Porque son bienes de rango inferior, de consumo frecuente, que se ofrecen en cualquier lugar central.",
+      "Porque dependen del índice material mayor que 1 y se orientan a los recursos naturales de cada región."
+    ],
+    "correcta": 0,
+    "explicacion": "A diferencia del terciario tradicional, los servicios superiores o a la producción no requieren forzosamente que el consumidor se desplace, por eso sus límites de mercado son imprecisos; se destinan a otras empresas, se exportan y provocan efecto multiplicador local (base económica).",
+    "errores": [
+      null,
+      "No hay tal regla; su problema es que sus mercados no tienen límites precisos.",
+      "La elasticidad de la demanda no es el argumento del texto.",
+      "Son de rango superior por naturaleza; el problema es que no obedecen a la lógica de desplazamiento del consumidor.",
+      "Su insumo es la información y la 'materia gris', no recursos naturales pesados."
+    ],
+    "concepto": "Terciario motor frente a terciario tradicional",
+    "nivel": "contraste",
+    "referencia": "Polèse (1998), cap. 9, p. 313",
+    "clase": "2026-09-29"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "A partir del capítulo 9 de Polèse (1998), defina si cada una de las siguientes afirmaciones sobre el modelo de Weber y la renta de localización es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "Un índice material mayor que 1 indica pérdida de peso en el proceso y una industria orientada a los recursos.",
+        "verdadera": true,
+        "explicacion": "I_M = peso de insumos localizados / peso de ventas; mayor que 1: pérdida de peso, orientada a recursos."
+      },
+      {
+        "texto": "Los insumos omnipresentes, como el agua o la piedra, se suman al peso de los insumos localizados en el índice material.",
+        "verdadera": false,
+        "explicacion": "Los omnipresentes no tienen costo de transporte, no localizan la industria y no entran al índice."
+      },
+      {
+        "texto": "La industria del aluminio se localiza cerca de la bauxita porque es el insumo más pesado en sentido físico.",
+        "verdadera": false,
+        "explicacion": "Se localiza cerca de la electricidad: es un insumo 'pesado' en sentido ampliado por lo caro de transportarla."
+      },
+      {
+        "texto": "En el modelo básico, el costo de transporte es una función lineal de la distancia.",
+        "verdadera": true,
+        "explicacion": "Es uno de los siete postulados del modelo básico."
+      },
+      {
+        "texto": "La renta de localización exige que la oferta de la fuente que da la ventaja sea inelástica.",
+        "verdadera": true,
+        "explicacion": "Con oferta elástica, otros productores llegarían al mismo costo básico y nadie embolsaría rentas."
+      }
+    ],
+    "concepto": "Modelo weberiano y renta de localización",
+    "nivel": "contraste",
+    "referencia": "Polèse (1998), cap. 9, pp. 281-292",
+    "clase": "2026-09-29"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "A partir del capítulo 9 de Polèse (1998), defina si cada afirmación sobre la competencia espacial, los lugares centrales y la regla rango-tamaño es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "La teoría de los lugares centrales extiende la competencia espacial de una sola rama a una gama diversificada de bienes y servicios.",
+        "verdadera": true,
+        "explicacion": "Es una extensión de los modelos de competencia espacial."
+      },
+      {
+        "texto": "Los bienes de rango inferior se consumen con poca frecuencia y justifican grandes desplazamientos del consumidor.",
+        "verdadera": false,
+        "explicacion": "Eso describe el rango superior; los de rango inferior (pan, zapatero) se consumen con frecuencia y el consumidor no se desplaza lejos."
+      },
+      {
+        "texto": "Cada lugar central ofrece los bienes y servicios de su rango y los de todos los rangos inferiores.",
+        "verdadera": true,
+        "explicacion": "Solo el lugar de rango A ofrece los servicios de rango superior."
+      },
+      {
+        "texto": "En el sistema perfecto, las ciudades del mismo rango tienen el mismo tamaño, las mismas funciones y zonas de influencia iguales.",
+        "verdadera": true,
+        "explicacion": "Además, la población de rango n+1 es un múltiplo constante de la de rango n."
+      },
+      {
+        "texto": "La teoría de los lugares centrales se cumple mejor en regiones con mucha manufactura de índice material mayor que 1.",
+        "verdadera": false,
+        "explicacion": "Esa manufactura es una causa de desvío; se cumple mejor en regiones agrícolas homogéneas."
+      }
+    ],
+    "concepto": "Lugares centrales, jerarquía y límites",
+    "nivel": "contraste",
+    "referencia": "Polèse (1998), cap. 9, pp. 302-313",
+    "clase": "2026-09-29"
+  }
+]

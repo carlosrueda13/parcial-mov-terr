@@ -1047,6 +1047,558 @@
    "respuesta": "La ecuación pide Σ ≥ Ω; el diagrama sigue mientras ω_i + O_k ≤ Ω; pp. 54-55.",
    "referencia": "pp. 54-55",
    "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m001",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según el Manual, ¿cómo se comparan Midtown Manhattan y Laramie en acceso y movilidad?",
+   "opciones": [
+    "Midtown tiene alto acceso y baja movilidad; Laramie recorre mucha distancia pero alcanza pocos destinos.",
+    "Midtown tiene alta movilidad y bajo acceso; Laramie alcanza muchos destinos con poca distancia recorrida.",
+    "Midtown y Laramie tienen alta movilidad y alto acceso, porque ambas ciudades tienen buena infraestructura vial.",
+    "Midtown tiene bajo acceso y baja movilidad por la congestión; Laramie tiene alto acceso y alta movilidad.",
+    "Ambas tienen el mismo acceso, y solo difieren en la velocidad media de los vehículos que circulan."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Están invertidos: Midtown tiene más de 350 pizzerías y velocidades menores a 8 km/h.",
+    "El contraste de los ejemplos es que la movilidad y el acceso no van siempre juntos.",
+    "Midtown tiene alto acceso aunque la movilidad sea baja.",
+    "El acceso es muy distinto: más de 350 pizzerías frente a menos de una docena."
+   ],
+   "respuesta": "Midtown tiene alto acceso y baja movilidad; Laramie recorre mucha distancia pero alcanza pocos destinos.",
+   "explicacion": "Mobility es cuánto puede recorrer alguien en un tiempo dado; access es qué lugares puede alcanzar. En Midtown Manhattan (menos de 8 km/h) hay alto acceso y baja movilidad; en Laramie se cubre mucha distancia, pero se alcanzan pocos destinos (menos de una docena de pizzerías frente a más de 350 en Nueva York).",
+   "concepto": "Acceso y movilidad",
+   "nivel": "contraste",
+   "referencia": "Transport Access Manual (2020), p. 17",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m002",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál de las siguientes preguntas NO es una pregunta de acceso en el sentido del Manual?",
+   "opciones": [
+    "¿Qué grupos de población tienen un acceso por encima o por debajo del promedio de la ciudad?",
+    "¿Cuántos empleos puede alcanzar la gente que se desplaza en transporte público?",
+    "¿Qué proporción de los residentes llega a un hospital en 30 minutos en ambulancia?",
+    "¿Cuántas personas viven a menos de 10 minutos de una parada de bus del sistema?",
+    "¿Cuántos estudiantes pueden llegar a su escuela caminando o en bicicleta en un tiempo dado?"
+   ],
+   "correcta": 3,
+   "errores": [
+    "Sí es una de las preguntas de acceso del Manual.",
+    "Sí es una de las preguntas de acceso del Manual.",
+    "Sí es una de las preguntas de acceso del Manual.",
+    null,
+    "Sí es una de las preguntas de acceso del Manual."
+   ],
+   "respuesta": "¿Cuántas personas viven a menos de 10 minutos de una parada de bus del sistema?",
+   "explicacion": "El Manual mide llegar a lugares de interés (empleos, hospitales, escuelas), no el acceso a partes del sistema de transporte como una parada o estación. La pregunta de las paradas es acceso al sistema de transporte.",
+   "concepto": "Qué mide el acceso",
+   "nivel": "contraste",
+   "referencia": "Transport Access Manual (2020), pp. 16-17",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m003",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la clasificación funcional de AASHTO que cita el Manual, ¿qué funciones tiene una vía y cómo se comportan las arterias frente a las calles locales?",
+   "opciones": [
+    "Movilidad y acceso; las arterias dan alta movilidad y bajo acceso, y las calles locales, baja movilidad y alto acceso.",
+    "Movilidad y acceso; las arterias dan baja movilidad y alto acceso, y las calles locales, alta movilidad y bajo acceso.",
+    "Capacidad y seguridad; las arterias maximizan la capacidad vial y las calles locales maximizan la seguridad vial.",
+    "Acceso y lugar; las arterias priorizan el lugar y las calles locales priorizan el acceso al sistema.",
+    "Movilidad y acceso; todas las vías combinan ambas funciones en la misma proporción, sin diferenciarse entre sí."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Están invertidas las funciones de arterias y calles locales.",
+    "Las dos funciones de la vía para AASHTO son movilidad y acceso.",
+    "Movimiento y lugar es el marco de la Figura 1.2 del Manual, no la clasificación de AASHTO.",
+    "La clasificación funcional distingue precisamente cuánto da cada tipo de vía de cada función."
+   ],
+   "respuesta": "Movilidad y acceso; las arterias dan alta movilidad y bajo acceso, y las calles locales, baja movilidad y alto acceso.",
+   "explicacion": "Para AASHTO la vía tiene dos funciones, movilidad y acceso (al suelo adyacente, sin importar el uso del suelo). Las arterias son de alta movilidad y bajo acceso; las locales, de baja movilidad y alto acceso. El Manual usa 'access' con otro sentido: el de diferentes personas a una diversidad de lugares.",
+   "concepto": "Access en AASHTO y en el Manual",
+   "nivel": "contraste",
+   "referencia": "Transport Access Manual (2020), p. 17",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m004",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál de las siguientes flechas de la Figura 1.1 (acceso, actividad, dinero y velocidad) NO es una relación positiva?",
+   "opciones": [
+    "De velocidad a acceso: a más velocidad, más lugares se alcanzan en un tiempo dado.",
+    "De acceso a actividad: un lugar con más acceso atrae más actividad económica y social.",
+    "De actividad a dinero: más actividad en un lugar genera más ingreso y valor económico.",
+    "De actividad a velocidad: más actividad aglomera personas y vehículos y reduce la velocidad.",
+    "De dinero a velocidad: más recursos permiten mejores vías y vehículos, y se viaja más rápido."
+   ],
+   "correcta": 3,
+   "errores": [
+    "Es una relación positiva del lazo exterior.",
+    "Es una relación positiva del lazo exterior.",
+    "Es una relación positiva del lazo exterior.",
+    null,
+    "Es una relación positiva del lazo exterior."
+   ],
+   "respuesta": "De actividad a velocidad: más actividad aglomera personas y vehículos y reduce la velocidad.",
+   "explicacion": "El lazo exterior (velocidad, acceso, actividad, dinero, velocidad) es positivo. Entre las conexiones interiores hay tres positivas (acceso a dinero, actividad a acceso, velocidad a dinero) y tres negativas (actividad a velocidad por congestión, dinero a actividad y acceso a velocidad).",
+   "concepto": "Modelo fundamental de acceso (Fig. 1.1)",
+   "nivel": "grafica",
+   "referencia": "Transport Access Manual (2020), p. 18",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m005",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la Figura 1.1, la flecha de acceso a velocidad es negativa. ¿Por qué?",
+   "opciones": [
+    "Por las fricciones de ubicarse en un lugar con acceso, como semáforos en cada cuadra, y no por aglomeración.",
+    "Por la congestión y la aglomeración de personas, que es la razón de la flecha de actividad a velocidad.",
+    "Porque los lugares con más acceso son más caros y la gente los consume menos, como dice la flecha de dinero a actividad.",
+    "Porque la velocidad máxima de una vía siempre se reduce cuando aumenta el número de destinos alcanzables en el barrio.",
+    "Porque el acceso mejora la captura de valor del suelo y eso reduce la inversión en velocidad de la red."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Esa es la explicación de la flecha de actividad a velocidad.",
+    "Esa lógica corresponde a otra flecha negativa.",
+    "El texto da una explicación de fricciones concretas, no una ley general de reducción.",
+    "Esa es la conexión positiva de acceso a dinero."
+   ],
+   "respuesta": "Por las fricciones de ubicarse en un lugar con acceso, como semáforos en cada cuadra, y no por aglomeración.",
+   "explicacion": "Hay tres flechas negativas: actividad a velocidad (aglomeración y congestión), dinero a actividad (lo caro se consume menos) y acceso a velocidad (fricciones de ubicarse en lugares con acceso: una autopista urbana es menos congestionada pero más lenta que una rural).",
+   "concepto": "Flechas negativas de la Fig. 1.1",
+   "nivel": "causa",
+   "referencia": "Transport Access Manual (2020), p. 19",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m006",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En el esquema de movimiento y lugar (Fig. 1.2), ¿cuál de los siguientes factores pertenece a 'place' y no a 'movement'?",
+   "opciones": [
+    "El tipo y la intensidad de las actividades y usos del suelo de cada lugar.",
+    "La velocidad a la que se mueve cada modo, que depende del diseño de la vía y del tráfico.",
+    "La directness o circuity del recorrido entre el origen y el destino que se quiere alcanzar.",
+    "El costo del viaje en relación con el ingreso de las personas que usan el modo.",
+    "La información y la percepción que tienen las personas sobre las opciones de viaje."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La velocidad es un factor de movement.",
+    "La circuity es un factor de movement.",
+    "El costo del viaje es un factor de movement.",
+    "La información y la percepción son factores de movement."
+   ],
+   "respuesta": "El tipo y la intensidad de las actividades y usos del suelo de cada lugar.",
+   "explicacion": "Movement es la capacidad de moverse en el espacio (modo, velocidad, circuity, costo, información). Place es la ubicación, el tipo y la intensidad de las actividades (uso del suelo y destinos). El acceso depende de ambos.",
+   "concepto": "Movimiento y lugar",
+   "nivel": "contraste",
+   "referencia": "Transport Access Manual (2020), pp. 20-21",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m007",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué distingue una medida primal de una dual en el capítulo 3 del Manual?",
+   "opciones": [
+    "La primal cuenta oportunidades alcanzables en un tiempo o costo dado; la dual mide el tiempo o costo para alcanzar un número dado de oportunidades.",
+    "La primal mide el tiempo para alcanzar un número dado de oportunidades; la dual cuenta las oportunidades alcanzables en un tiempo dado.",
+    "La primal solo se usa para empleos y la dual solo para servicios de salud, porque las unidades de medida difieren.",
+    "La primal incluye la competencia por las oportunidades y la dual no la incluye, sin importar el tiempo de viaje.",
+    "La primal usa solo datos observados de viajes y la dual usa solo datos de un modelo de planificación estratégica."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Están invertidas.",
+    "No se distinguen por tipo de oportunidad.",
+    "La competencia es solo una de las tres medidas primales.",
+    "Ambas pueden calcularse con distintos datos."
+   ],
+   "respuesta": "La primal cuenta oportunidades alcanzables en un tiempo o costo dado; la dual mide el tiempo o costo para alcanzar un número dado de oportunidades.",
+   "explicacion": "Primal: opportunity-denominated; mide amplitud de oportunidades en un tiempo o costo fijo. Dual: time- o cost-denominated; mide el costo de llegar a un conjunto específico. Breheny (1978): A oportunidades en t minutos corresponde a t minutos para A oportunidades.",
+   "concepto": "Medidas primales y duales",
+   "nivel": "contraste",
+   "referencia": "Transport Access Manual (2020), p. 45",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m008",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la ecuación de Hansen A_i = Σ O_j f(C_ij), ¿qué representa f(C_ij)?",
+   "opciones": [
+    "La función de impedancia, que pondera las oportunidades según el costo de viajar de i a j.",
+    "El número de oportunidades que hay en el destino j, como los empleos o los servicios disponibles.",
+    "El acceso total desde el origen i hacia todos los destinos del sistema de transporte analizado.",
+    "El costo de viajar de i a j, medido en tiempo, distancia o dinero según el caso de estudio.",
+    "La demanda de oportunidades que tienen los residentes del origen i en el sistema analizado."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Esas son las oportunidades O_j.",
+    "Ese es A_i, el resultado de la suma.",
+    "Ese es C_ij; f es una función de ese costo.",
+    "La demanda aparece en la medida competitiva, no en la ecuación general."
+   ],
+   "respuesta": "La función de impedancia, que pondera las oportunidades según el costo de viajar de i a j.",
+   "explicacion": "En A_i = Σ_j O_j f(C_ij): A_i es el acceso desde i, O_j las oportunidades del destino j, C_ij el costo de viajar de i a j y f(C_ij) la función de impedancia. Cada medida primal es un caso según la forma de f.",
+   "concepto": "Ecuación de Hansen",
+   "nivel": "interpretacion",
+   "referencia": "Transport Access Manual (2020), p. 46",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m009",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Con un corte de 45 minutos, el barrio A alcanza un gran centro de empleo a 44 minutos y el barrio B lo alcanza a 46 minutos. ¿Qué problema de la medida acumulada ilustra este caso?",
+   "opciones": [
+    "El edge effect: una diferencia mínima de tiempo cambia de forma brusca la medida de acceso.",
+    "La falta de datos, porque la medida acumulada exige una matriz origen-destino completa y detallada.",
+    "La competencia por las oportunidades, que reduce el acceso real de los barrios más cercanos.",
+    "La falta de interpretación, porque una medida binaria es difícil de explicar a públicos no expertos.",
+    "La necesidad de calibrar un parámetro β, que cambia entre ciudades y a lo largo de los años."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La medida acumulada exige pocos datos.",
+    "La competencia se trata en la medida competitiva.",
+    "Una de sus ventajas es que es comprensible para juntas no expertas.",
+    "La calibración de β es un problema de la medida ponderada."
+   ],
+   "respuesta": "El edge effect: una diferencia mínima de tiempo cambia de forma brusca la medida de acceso.",
+   "explicacion": "Con impedancia binaria (1 si C_ij ≤ t, si no 0), un gran grupo de destinos justo después del corte (44 frente a 46 minutos) produce un salto en la medida: edge effect. Además, el corte elegido puede cambiar el ranking de lugares. En la práctica se mitiga con varios umbrales.",
+   "concepto": "Edge effect",
+   "nivel": "aplicacion",
+   "referencia": "Transport Access Manual (2020), pp. 47-48",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m010",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Un origen tiene cuatro zonas de destino con oportunidades O = (100, 200, 300, 400) a tiempos de viaje C = (5, 10, 15, 20) minutos. Con la medida acumulada y un corte de t = 15 minutos, ¿cuál es el acceso A_i?",
+   "opciones": [
+    "600 oportunidades, la suma de las tres primeras zonas (100 + 200 + 300).",
+    "300 oportunidades, la suma de las dos primeras zonas, porque 15 minutos no se incluye.",
+    "1.000 oportunidades, la suma de todas las zonas, porque el corte solo descarta los destinos a más de 30 minutos.",
+    "462 oportunidades, el valor que resulta de ponderarlas con una exponencial negativa.",
+    "100 oportunidades, que son solo las de la zona más cercana al origen."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El corte es C_ij ≤ t, así que la zona a 15 minutos sí cuenta.",
+    "La zona a 20 minutos queda fuera del corte de 15.",
+    "Ese es el valor de la medida ponderada, no el de la acumulada.",
+    "La medida cuenta todas las zonas dentro del corte, no solo la más cercana."
+   ],
+   "respuesta": "600 oportunidades, la suma de las tres primeras zonas (100 + 200 + 300).",
+   "explicacion": "La acumulada usa f(C_ij) = 1 si C_ij ≤ t y 0 si no. Con t = 15 entran las zonas a 5, 10 y 15 minutos: 100 + 200 + 300 = 600. Con t = 14 entrarían solo 300: un minuto de diferencia reduce a la mitad el acceso, que es el edge effect.",
+   "concepto": "Medida acumulada",
+   "nivel": "calculo",
+   "referencia": "Transport Access Manual (2020), pp. 46-47",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m011",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál de las siguientes NO es una desventaja de la medida ponderada (weighted cumulative)?",
+   "opciones": [
+    "Hay que elegir una función de impedancia y calibrar sus parámetros, como β, que varían entre contextos.",
+    "Es menos interpretable que la acumulada para públicos que no son expertos en el tema.",
+    "Sus parámetros no son fácilmente transferibles entre ciudades ni entre años distintos.",
+    "Sufre de edge effects marcados, porque todo destino justo después del corte recibe peso cero."
+   ],
+   "correcta": 3,
+   "errores": [
+    "Sí es una desventaja señalada.",
+    "Sí es una desventaja señalada.",
+    "Sí es una desventaja señalada.",
+    null
+   ],
+   "respuesta": "Sufre de edge effects marcados, porque todo destino justo después del corte recibe peso cero.",
+   "explicacion": "La ponderada descuenta de modo gradual: 31 minutos se valora más que 59, y 61 es solo marginalmente peor que 59. Esa es su ventaja frente al edge effect de la acumulada. Sus desventajas son elegir la función y los parámetros, ser menos interpretable y no ser transferible.",
+   "concepto": "Medida ponderada",
+   "nivel": "contraste",
+   "referencia": "Transport Access Manual (2020), pp. 48-50",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m012",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la medida ponderada con impedancia exponencial negativa, f(C) = e^(βC) con β < 0, ¿qué peso recibe una oportunidad a tiempo cero y cómo se llaman las oportunidades así ponderadas?",
+   "opciones": [
+    "Peso 1, y se llaman oportunidades efectivas (effective opportunities).",
+    "Peso 0, y se llaman oportunidades marginales porque nadie viaja un tiempo nulo.",
+    "Peso 0,5, y se llaman oportunidades rivales por ser las más cercanas al origen.",
+    "Peso 1, y se llaman oportunidades acumuladas porque se suman dentro de un corte binario.",
+    "Peso igual a β, y se llaman oportunidades duales porque se miden en minutos de viaje."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "A tiempo cero e^0 = 1, no 0.",
+    "El peso de 0,5 no corresponde a C = 0.",
+    "Son oportunidades efectivas; las acumuladas usan corte binario.",
+    "El peso a tiempo cero es 1, no β."
+   ],
+   "respuesta": "Peso 1, y se llaman oportunidades efectivas (effective opportunities).",
+   "explicacion": "Con f(C) = e^(βC), a tiempo cero el peso es 1: una oportunidad junto a la puerta vale una oportunidad efectiva. El peso decrece con el tiempo (por ejemplo, con β = −0,054 vale 0,58 a 10 minutos y 0,2 a 30). Conviene reescalar a 0-100 para comparar.",
+   "concepto": "Oportunidades efectivas",
+   "nivel": "interpretacion",
+   "referencia": "Transport Access Manual (2020), pp. 48-50",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m013",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿En qué caso se justifica usar una medida de acceso competitiva en lugar de una acumulada o ponderada simple?",
+   "opciones": [
+    "Cuando las oportunidades son rivales, como empleos o camas de hospital, y la demanda las agota.",
+    "Cuando las oportunidades son no rivales, como los parques, que rara vez están llenos de gente.",
+    "Cuando solo se quiere medir el tiempo hasta la oportunidad más cercana a cada origen del área.",
+    "Cuando no se tienen datos de demanda y se busca la medida que menos datos exige de todas.",
+    "Cuando se quiere evitar calibrar una función de impedancia con un parámetro de decaimiento."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Para parques rara vez llenos no hace falta una medida competitiva.",
+    "Eso corresponde a una medida dual de una sola oportunidad.",
+    "La competitiva exige más datos: necesita la demanda.",
+    "La competitiva también usa una función de impedancia f."
+   ],
+   "respuesta": "Cuando las oportunidades son rivales, como empleos o camas de hospital, y la demanda las agota.",
+   "explicacion": "Se usa cuando las oportunidades son rivales (empleos, camas de hospital). Tiene tres pasos: acceso de cada destino a la demanda (Ec. 3.4), razón oferta/acceso g(O_j) = O_j / A_j (Ec. 3.5) y suma ponderada A_i^g (Ec. 3.6). Si las medidas simples dan la misma orientación de política, conviene preferirlas.",
+   "concepto": "Medida competitiva",
+   "nivel": "aplicacion",
+   "referencia": "Transport Access Manual (2020), pp. 51-52",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m014",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En una medida competitiva, si la oferta total de oportunidades es igual a la demanda total, ¿cuál es el valor promedio del acceso A_i^g y cómo se lee un valor mayor a ese?",
+   "opciones": [
+    "El promedio es exactamente 1,0; un valor mayor a 1,0 indica un acceso superior al balanceado.",
+    "El promedio es 0; un valor mayor a 0 indica que hay más oportunidades que personas en el origen.",
+    "El promedio es 0,5; un valor mayor a 0,5 indica un acceso superior en cada zona.",
+    "El promedio es 100; un valor mayor a 100 indica que hay oportunidades sin demanda alguna.",
+    "El promedio es 1,0; un valor mayor a 1,0 indica un acceso inferior al balanceado."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Con oferta igual a demanda el promedio es 1,0.",
+    "El valor de referencia del balance es 1,0.",
+    "La escala de referencia no es 100.",
+    "Mayor que 1,0 es un acceso superior, y menor que 1,0, inferior."
+   ],
+   "respuesta": "El promedio es exactamente 1,0; un valor mayor a 1,0 indica un acceso superior al balanceado.",
+   "explicacion": "Con oferta y demanda balanceadas el promedio es 1,0. Mayor que 1,0 indica acceso superior al promedio y menor que 1,0, inferior (Allen y Farber, 2017). Ejemplo: D = (600, 400), O = (300, 700), f = 1: A_i^g = 1,0 en cada origen.",
+   "concepto": "Valor de referencia de la medida competitiva",
+   "nivel": "interpretacion",
+   "referencia": "Transport Access Manual (2020), p. 52",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m015",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En el 'pint-of-milk test' de las medidas duales, ¿qué se mide?",
+   "opciones": [
+    "El tiempo hasta la tienda más cercana (umbral de una oportunidad), aprobado si es menor a 10 minutos.",
+    "El número de tiendas que se alcanzan en 10 minutos a pie, que es una medida de tipo primal.",
+    "La razón entre la oferta de tiendas y la demanda de los hogares que las pueden alcanzar a pie.",
+    "El tiempo necesario para alcanzar un número elevado de tiendas, con un umbral mayor que uno.",
+    "El peso medio que recibe cada tienda según una función de impedancia exponencial negativa."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Eso es una medida primal: cuenta oportunidades en un tiempo fijo.",
+    "Esa es la lógica de la medida competitiva.",
+    "Eso sería la dual de múltiples oportunidades.",
+    "Eso es una medida ponderada, no la dual de una oportunidad."
+   ],
+   "respuesta": "El tiempo hasta la tienda más cercana (umbral de una oportunidad), aprobado si es menor a 10 minutos.",
+   "explicacion": "El pint-of-milk test es la dual de una sola oportunidad (Ec. 3.7): el mínimo de C_ij entre destinos con O_j > 0. En la dual de múltiples oportunidades la isocrona se expande hasta cubrir un número Ω de oportunidades y el tiempo de esa isocrona es la medida.",
+   "concepto": "Medidas duales",
+   "nivel": "interpretacion",
+   "referencia": "Transport Access Manual (2020), pp. 53-54",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m016",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Un origen tiene O = (100, 200, 300, 400) oportunidades a C = (5, 10, 15, 20) minutos. Con la dual de múltiples oportunidades y Ω = 500, según la condición Σ O_j Q_ij ≥ Ω de la Ec. 3.10, ¿cuál es el tiempo A'_i?",
+   "opciones": [
+    "15 minutos, porque con las zonas a 5, 10 y 15 minutos se suman 600 oportunidades, que ya cubren las 500.",
+    "10 minutos, porque con las zonas a 5 y 10 minutos se suman 300 oportunidades, que ya cubren las 500.",
+    "5 minutos, porque la zona más cercana basta para comenzar a expandir la isocrona hasta Ω.",
+    "20 minutos, porque es necesario llegar a todas las zonas del sistema para cubrir las 500.",
+    "500 minutos, porque Ω es la cantidad de oportunidades y también el tiempo de viaje buscado."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "300 oportunidades no alcanzan las 500 que exige Ω.",
+    "Con 100 oportunidades no se cubre Ω = 500.",
+    "Con 600 oportunidades a 15 minutos ya se cubre Ω; no hace falta llegar a 20.",
+    "Ω es un número de oportunidades; el resultado es un tiempo."
+   ],
+   "respuesta": "15 minutos, porque con las zonas a 5, 10 y 15 minutos se suman 600 oportunidades, que ya cubren las 500.",
+   "explicacion": "La isocrona se expande desde las zonas más cercanas hasta que la suma de oportunidades cubre Ω: 100 (5 min), 300 (10 min) y 600 (15 min). El tiempo de la isocrona que cubre 500 es 15 minutos. El diagrama de la Fig. 3.2 usa una comparación distinta (≤ Ω) que la Ec. 3.10 (≥ Ω).",
+   "concepto": "Dual de múltiples oportunidades",
+   "nivel": "calculo",
+   "referencia": "Transport Access Manual (2020), pp. 53-56",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-m017",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué es un travelshed, según el Manual?",
+   "opciones": [
+    "El área cuyo límite es un tiempo de viaje dado desde el origen, equivalente a una isocrona.",
+    "La zona donde se concentran las oportunidades rivales que compiten por la misma demanda.",
+    "El conjunto de vías que cumplen la función de movilidad y no la de acceso en la clasificación de AASHTO.",
+    "El peso que se asigna a una oportunidad según la distancia a la que se encuentra del origen.",
+    "La red de paradas y estaciones desde las cuales se puede iniciar un viaje en transporte público."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "No se define por la competencia.",
+    "Esa es una idea de la clasificación funcional, no del travelshed.",
+    "Eso es la función de impedancia.",
+    "El Manual mide llegar a lugares, no a partes del sistema."
+   ],
+   "respuesta": "El área cuyo límite es un tiempo de viaje dado desde el origen, equivalente a una isocrona.",
+   "explicacion": "Travelshed e isochrone son equivalentes (nota 10): el área cuyo límite es un tiempo de viaje dado desde el origen. La Fig. 3.3 muestra travelsheds de transporte público a las 8 AM, de 10 a 60 minutos, en Minneapolis-St. Paul.",
+   "concepto": "Travelshed e isocrona",
+   "nivel": "contraste",
+   "referencia": "Transport Access Manual (2020), pp. 56-57",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-b001",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Based on chapter 1 of the Transport Access Manual (2020), indicate whether each statement is true or false:",
+   "afirmaciones": [
+    {
+     "texto": "Access is the number of places that can be reached within a given time, whereas mobility is how far or how fast one can travel.",
+     "verdadera": true,
+     "explicacion": "Es la distinción central de la sección 1.1."
+    },
+    {
+     "texto": "The Manual focuses mainly on how many people live within 10 minutes of a bus stop.",
+     "verdadera": false,
+     "explicacion": "El Manual mide llegar a lugares de interés, no a partes del sistema de transporte."
+    },
+    {
+     "texto": "In Figure 1.1, the arrow from Activity to Speed is negative.",
+     "verdadera": true,
+     "explicacion": "Representa la aglomeración y la congestión."
+    },
+    {
+     "texto": "According to AASHTO, arterials provide low mobility and high access.",
+     "verdadera": false,
+     "explicacion": "Las arterias dan alta movilidad y bajo acceso; las calles locales, lo contrario."
+    },
+    {
+     "texto": "Midtown Manhattan has high access and low mobility.",
+     "verdadera": true,
+     "explicacion": "Allí la velocidad es menor a 8 km/h, pero hay más de 350 pizzerías al alcance."
+    }
+   ],
+   "respuesta": "V · F · V · F · V",
+   "concepto": "Acceso, movilidad y la Figura 1.1",
+   "nivel": "contraste",
+   "referencia": "Transport Access Manual (2020), cap. 1",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-transport-access-manual-2020-b002",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Based on chapter 3 of the Transport Access Manual (2020), indicate whether each statement is true or false:",
+   "afirmaciones": [
+    {
+     "texto": "Primal measures are opportunity-denominated, while dual measures are time- or cost-denominated.",
+     "verdadera": true,
+     "explicacion": "Primal: cuántas oportunidades se alcanzan; dual: cuánto cuesta alcanzar un número dado."
+    },
+    {
+     "texto": "The cumulative opportunities measure uses a binary impedance function: 1 if C_ij ≤ t, otherwise 0.",
+     "verdadera": true,
+     "explicacion": "Es la Ec. 3.2."
+    },
+    {
+     "texto": "The weighted cumulative measure avoids the problem of choosing a function and its parameters.",
+     "verdadera": false,
+     "explicacion": "Debe elegirse la función y calibrar parámetros como β; eso es una de sus desventajas."
+    },
+    {
+     "texto": "Competitive access measures are appropriate when opportunities are rival, such as jobs or hospital beds.",
+     "verdadera": true,
+     "explicacion": "Para opportunities no rivales, como parques rara vez llenos, no hace falta."
+    },
+    {
+     "texto": "The pint-of-milk test is a primal measure that counts the stores reachable within 10 minutes.",
+     "verdadera": false,
+     "explicacion": "Es una medida dual de una oportunidad: el tiempo hasta la tienda más cercana."
+    }
+   ],
+   "respuesta": "V · V · F · V · F",
+   "concepto": "Medidas primales y duales",
+   "nivel": "contraste",
+   "referencia": "Transport Access Manual (2020), cap. 3",
+   "clase": null,
+   "estado": "completa"
   }
  ],
  "trampas": [
