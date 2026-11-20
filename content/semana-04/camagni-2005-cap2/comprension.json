@@ -1,0 +1,372 @@
+[
+  {
+    "enunciado": "Dos cultivos compiten por el suelo alrededor de un mismo mercado central. El cultivo A tiene p = 100, c = 40, x = 2 y τ = 5; el cultivo B tiene p = 80, c = 50, x = 1 y τ = 1. Según [2.1], ¿cómo queda distribuido el suelo?",
+    "opciones": [
+      "A ocupa desde el centro hasta δ = 10 y B desde ahí hasta δ = 30; A no alcanza su δmax = 12 porque B ofrece más renta antes.",
+      "A ocupa desde el centro hasta su δmax = 12 y B desde δ = 12 hasta δ = 30, porque cada cultivo se extiende hasta que su renta se anula.",
+      "B ocupa el centro y A la periferia, porque B tiene el mayor δmax y por eso es el cultivo que llega más lejos desde el mercado.",
+      "A y B comparten el suelo hasta δ = 10, porque ofrecen la misma renta en ese punto y la superficie se reparte entre ambos."
+    ],
+    "correcta": 0,
+    "explicacion": "r_A(δ) = 120 − 10δ y r_B(δ) = 30 − δ. Se cruzan en δ = 10, donde ambas valen 20. Antes de 10 manda A (mayor ordenada, pendiente más fuerte); después manda B. La renta efectiva es la envolvente superior, así que A nunca llega a su δmax = 12. Los valores numéricos son un ejemplo propio de la ficha, no del libro; la mecánica es la de [2.1] y la Fig. 2.1.",
+    "errores": [
+      null,
+      "Confunde δmax con la frontera efectiva. En δ = 11, A ofrece 10 y B ofrece 19: B ya gana el suelo. El límite lo marca el cruce de las rentas, no el punto donde A se anula.",
+      "Un δmax mayor no da el centro. El centro lo ocupa quien tiene la mayor ordenada en el origen, (p − c)x: 120 en A frente a 30 en B.",
+      "El cruce en δ = 10 es un punto, no una franja. Cada unidad de suelo va al cultivo que ofrece más renta a esa distancia: A antes de 10 y B después."
+    ],
+    "concepto": "Envolvente superior y competencia intersectorial",
+    "nivel": "calculo",
+    "referencia": "Camagni, cap. 2, pp. 54-55 (ecuación [2.1] y Fig. 2.1)",
+    "clase": "2026-10-02"
+  },
+  {
+    "enunciado": "En el modelo de Von Thünen la renta que cada cultivo puede ofrecer es máxima en el centro. Aun así, el cultivo de menor ordenada en el origen no se produce allí. ¿Por qué?",
+    "opciones": [
+      "Porque ese cultivo prefiere alejarse del mercado para ahorrar renta, ya que su costo de transporte es menor que el de los demás cultivos.",
+      "Porque cada superficie va al uso que ofrece más renta a esa distancia y el otro cultivo es desplazado por la competencia.",
+      "Porque el suelo central es escaso y se reserva a los cultivos de mayor producto por unidad de superficie mediante una regla de asignación.",
+      "Porque su renta ofrecida deja de ser positiva en el centro, ya que allí el costo de producción c es mayor que en la periferia."
+    ],
+    "correcta": 1,
+    "explicacion": "La ordenada (p − c)x es positiva para todo cultivo viable, así que en el centro todos ofrecerían renta. Pero cada unidad de superficie se asigna al uso que ofrece la renta más alta; la renta efectiva es la envolvente superior de las curvas. De ahí los anillos concéntricos de la Fig. 2.1, y de ahí que un cultivo cuya renta ofrecida es siempre inferior no obtenga superficie.",
+    "errores": [
+      "Invierte la causalidad: el cultivo no elige la periferia, es desplazado por otro que ofrece más renta. El mecanismo es la competencia, no la preferencia.",
+      null,
+      "El modelo no incluye ninguna autoridad ni reserva de suelo. La asignación sale de la competencia: gana quien ofrece la renta más alta a cada distancia.",
+      "En δ = 0 la renta es (p − c)x, positiva para cualquier cultivo viable. En [2.1] c es fijo y no cambia con la distancia (hipótesis d)."
+    ],
+    "concepto": "Competencia intersectorial por el suelo",
+    "nivel": "causa",
+    "referencia": "pp. 54-55, Fig. 2.1",
+    "clase": "2026-10-02"
+  },
+  {
+    "enunciado": "Para un cultivo con p, c y x fijos, el costo de transporte unitario τ baja. ¿Qué cambia en su recta de renta ofrecida r(δ) = (p − c − τδ)x?",
+    "opciones": [
+      "La ordenada en el origen aumenta, la pendiente no cambia y δmax aumenta en la misma proporción que la ordenada.",
+      "La pendiente se mantiene, porque depende solo de x, y únicamente δmax aumenta al abaratarse el transporte.",
+      "La ordenada en el origen se mantiene, la pendiente −τx se aplana y δmax = (p − c)/τ aumenta.",
+      "La ordenada y la pendiente se mantienen, y δmax solo cambia si se modifica el precio p del cultivo."
+    ],
+    "correcta": 2,
+    "explicacion": "En [2.1] τ solo multiplica a δ. La ordenada (p − c)x no cambia; la pendiente −τx es menor en valor absoluto y la recta corta el eje en (p − c)/τ, más lejos. El cultivo gana alcance y puede disputar suelo a mayor distancia. A la inversa, el cultivo más sensible al transporte (mayor τ) tiene la recta más empinada y pierde ventaja más rápido al alejarse.",
+    "errores": [
+      "La ordenada es (p − c)x y no contiene τ: en δ = 0 no hay transporte que pagar. Lo que cambia es la pendiente.",
+      "La pendiente es −τx: depende de τ y de x. Si τ baja, la recta se aplana. δmax aumenta justamente por eso.",
+      null,
+      "δmax = (p − c)/τ depende de τ: con τ menor la renta se anula más lejos. Y la pendiente también cambia."
+    ],
+    "concepto": "Ordenada, pendiente y δmax de la renta ofrecida",
+    "nivel": "interpretacion",
+    "referencia": "p. 54, ecuación [2.1]",
+    "clase": "2026-10-02"
+  },
+  {
+    "enunciado": "Dos cultivos tienen igual precio p, igual costo c e igual costo de transporte τ, pero A produce más por unidad de suelo que B (x_A > x_B). Según [2.1], ¿qué pasa con B?",
+    "opciones": [
+      "B no obtiene superficie: A ofrece más renta en todo el tramo, porque ambas rectas se anulan en el mismo δmax.",
+      "B ocupa la periferia: su pendiente es menor, así que su renta cae más despacio y supera a la de A a partir de cierta distancia.",
+      "B ocupa la periferia: su δmax es mayor porque produce menos y por eso soporta un costo total de transporte menor.",
+      "A y B se reparten el suelo en anillos concéntricos, porque ambos ofrecen renta positiva desde el centro hasta el mismo δmax."
+    ],
+    "correcta": 0,
+    "explicacion": "r = (p − c − τδ)x. Con p, c y τ iguales, ambas rectas se anulan en δmax = (p − c)/τ, que no depende de x. Entre 0 y δmax, la de mayor x queda siempre por encima. Es el caso de la Fig. 2.1 en que una renta ofrecida siempre inferior deja al cultivo sin superficie.",
+    "errores": [
+      null,
+      "Menor pendiente no basta. B también parte de una ordenada menor y ambas rectas llegan a cero en el mismo δmax; B nunca queda por encima de A, así que no hay cruce.",
+      "δmax = (p − c)/τ no depende de x. Producir menos no alarga el alcance; solo reduce la renta ofrecida en todos los puntos.",
+      "Los anillos exigen que las rectas se crucen. Aquí A queda por encima en toda la distancia, así que B no recibe ningún anillo."
+    ],
+    "concepto": "δmax no depende de x; cultivo sin superficie",
+    "nivel": "aplicacion",
+    "referencia": "pp. 54-55, [2.1] y Fig. 2.1",
+    "clase": "2026-10-02"
+  },
+  {
+    "enunciado": "En el modelo de Von Thünen, dos terrenos de igual fertilidad se destinan al mismo cultivo y al mismo precio; uno está cerca del mercado y el otro lejos. ¿Por qué el cercano puede pagar más renta?",
+    "opciones": [
+      "Porque el suelo cercano al mercado es más fértil, y la mayor fertilidad permite al propietario cobrar una renta más alta.",
+      "Porque el productor cercano ahorra transporte, y ese ahorro es el excedente que queda tras cubrir los demás costos.",
+      "Porque la demanda del producto es mayor cerca del mercado, lo que eleva el precio p que recibe el productor cercano.",
+      "Porque el productor cercano tiene un costo de producción c menor, ya que los insumos le llegan sin necesidad de transportarse."
+    ],
+    "correcta": 1,
+    "explicacion": "La renta es un residuo: ingreso total menos todos los costos, incluidos el beneficio normal y el transporte. Con p, c y x fijos, lo único que varía con la ubicación es el costo de transporte τδ. Por eso la renta nace del ahorro del productor más cercano al mercado central.",
+    "errores": [
+      "La hipótesis a) supone igual fertilidad. La renta de Camagni es independiente de la fertilidad: nace de la ubicación y de la demanda de accesibilidad.",
+      null,
+      "El precio p es exógeno (hipótesis e): lo fija un mercado más grande que el estudiado y es el mismo en todo el territorio.",
+      "Por la hipótesis c) los insumos están disponibles de forma difusa para todos y no se transportan; c es fijo. Solo el transporte del producto cambia con la distancia."
+    ],
+    "concepto": "La renta como residuo; origen en el ahorro de transporte",
+    "nivel": "causa",
+    "referencia": "pp. 53-54 (hipótesis a-g y definición de renta)",
+    "clase": "2026-10-02"
+  },
+  {
+    "enunciado": "Al derivar r(δ) = (p − c − τδ)x respecto de δ, ¿qué se obtiene y cómo se interpreta?",
+    "opciones": [
+      "−δx, una pendiente que crece con la distancia, por lo que la curva de renta ofrecida resulta convexa y más empinada hacia afuera.",
+      "−τδ, el costo de transporte de una unidad de producto, que crece con la distancia y reduce la renta por unidad de suelo.",
+      "(p − c)x, la ordenada en el origen, que no cambia con δ y mide la renta máxima que el cultivo puede ofrecer.",
+      "−τx, constante: el costo de transporte por unidad de distancia sobre la producción de la unidad de suelo; por eso es una recta."
+    ],
+    "correcta": 3,
+    "explicacion": "[2.1] es lineal en δ, así que su derivada es constante: dr/dδ = −τx. Cada unidad de distancia cuesta τ por unidad de producto, y hay x unidades por unidad de suelo. El libro imprime −δx en la p. 54: es una errata; la pendiente correcta es −τx.",
+    "errores": [
+      "Es la errata del libro (la p. 54 imprime −δx). Con [2.1] la pendiente es −τx y no depende de δ: la curva es una recta. Se usa −τx.",
+      "−τδ es el costo de transporte por unidad de producto, no la derivada. La derivada de −τδx respecto de δ es −τx.",
+      "(p − c)x es r(0), la ordenada en el origen. Esa constante desaparece al derivar; no es la pendiente.",
+      null
+    ],
+    "concepto": "Pendiente −τx y errata de la p. 54",
+    "nivel": "interpretacion",
+    "referencia": "p. 54, ecuación [2.1] (errata del original)",
+    "clase": "2026-10-02"
+  },
+  {
+    "enunciado": "Una empresa enfrenta la curva de renta efectiva rr, dada, y una familia de curvas de renta ofertada, una por cada nivel de beneficio. En equilibrio parcial, ¿qué curva ofertada le conviene tocar?",
+    "opciones": [
+      "La más baja que alcance a tocar rr en un punto de tangencia, porque una curva más baja es un beneficio mayor.",
+      "La más alta, porque ofrecer más renta al propietario le asegura la localización y eso le da el mayor beneficio.",
+      "La que corta a rr en dos puntos, porque así dispone de un rango de localizaciones equivalentes entre las cuales elegir.",
+      "La más pendiente, porque indica que la empresa valora más el centro y eso le da el mayor beneficio unitario."
+    ],
+    "correcta": 0,
+    "explicacion": "En [2.2], r(δ) = [p − z − c(δ)]x(δ) decrece con z: variar z da curvas paralelas y cada una es un nivel de beneficio (indiferencia localizativa). Una curva más baja es un z mayor. En equilibrio parcial la empresa toma el punto de tangencia de rr con la curva ofertada más baja que la toca. Para un individuo vale lo mismo con la utilidad: curva más baja, más utilidad.",
+    "errores": [
+      null,
+      "Una curva más alta es una empresa dispuesta a pagar más renta por el mismo margen, es decir, con menos beneficio. En [2.2], r baja cuando z (el margen de beneficio) sube.",
+      "El óptimo es un punto de tangencia, no un tramo de cruce. Una curva que corta a rr dos veces no es la más baja que la toca, así que no maximiza el beneficio.",
+      "La pendiente mide cuánto valora el centro (el terciario es más empinado), no el nivel de beneficio. El beneficio lo da qué tan baja es la curva."
+    ],
+    "concepto": "Renta ofertada: curva más baja, mayor beneficio o utilidad",
+    "nivel": "contraste",
+    "referencia": "p. 56 ([2.2]) y p. 64 (Fig. 2.4); la tangencia de la Fig. 2.2c (p. 58) es contexto no exigido"
+  },
+  {
+    "enunciado": "Un analista toma la curva de renta efectiva observada en el mercado de suelo de una ciudad y calcula en qué punto de ella se ubicaría una empresa nueva. ¿Qué tipo de modelo está aplicando?",
+    "opciones": [
+      "Equilibrio general: usa la curva de renta efectiva para calcular a la vez la localización de todos los sujetos y de cada sector.",
+      "Equilibrio parcial: considera una sola ciudad, mientras que el equilibrio general exige un sistema de varias ciudades.",
+      "Equilibrio parcial: la curva de renta efectiva es un dato exógeno y se supone que los demás sujetos ya encontraron su localización.",
+      "Equilibrio general: la renta determina dónde se ubica la empresa, y esa relación entre renta y localización define al modelo general."
+    ],
+    "correcta": 2,
+    "explicacion": "En las secciones 2.3 y 2.4 el modelo define la decisión óptima de un sujeto suponiendo que los demás ya se ubicaron y no piensan cambiar; por eso la curva de renta efectiva (rr) es exógena. En equilibrio general (2.5) esa curva se construye desde el propio modelo: sujetos iguales se ubican a lo largo de la misma curva (indiferentes) y sectores o ingresos distintos, sobre la envolvente superior.",
+    "errores": [
+      "En el equilibrio general la curva de renta efectiva no se toma como dato: sale del propio modelo con todos los sujetos decidiendo a la vez. Aquí se usa como dato dado.",
+      "La diferencia no es el número de ciudades. Parcial y general se distinguen por si la curva de renta efectiva es dada o se deduce del modelo.",
+      null,
+      "Que la renta ordene la localización ocurre en ambos modelos. Lo que define al general es que la curva de renta se deduce del modelo."
+    ],
+    "concepto": "Equilibrio parcial frente a general",
+    "nivel": "aplicacion",
+    "referencia": "pp. 64-65 (inicio de 2.5)",
+    "clase": "2026-10-02"
+  },
+  {
+    "enunciado": "En un modelo de ciudad cerrada, con población dada y renta en el margen igual a la renta agrícola, ¿qué variable que en la ciudad abierta es un dato pasa a ser resultado del modelo?",
+    "opciones": [
+      "El nivel de utilidad de los residentes, que deja de ser el nacional y se determina dentro del modelo.",
+      "La renta agrícola, que deja de ser constante a cualquier distancia y pasa a depender del tamaño de la ciudad.",
+      "La población de la ciudad, que deja de ser dada y se ajusta por inmigración hasta igualar las utilidades.",
+      "El ingreso per cápita Y, que se ajusta hasta que la renta en el margen iguale a la renta agrícola."
+    ],
+    "correcta": 0,
+    "explicacion": "Ciudad abierta: la utilidad es la nacional (exógena); el modelo entrega el tamaño físico y la población. Ciudad cerrada: la población es dato y se impone que la renta en el margen iguale a la agraria; la curva de renta efectiva coincide con la ofertada que cumple esa condición, y la utilidad queda endógena.",
+    "errores": [
+      null,
+      "La renta agrícola es exógena en ambos modelos (nota 11: constante a cualquier distancia). Es la condición que cierra el modelo, no su resultado.",
+      "Eso describe a la ciudad abierta, donde la población es la incógnita. En la cerrada la población es el dato.",
+      "El ingreso es un parámetro de los individuos en ambos casos. Lo que se endogeniza al cerrar el modelo es el nivel de utilidad."
+    ],
+    "concepto": "Ciudad abierta frente a ciudad cerrada",
+    "nivel": "contraste",
+    "referencia": "pp. 67-69, notas 11 y 12"
+  },
+  {
+    "enunciado": "En una ciudad abierta, los individuos eligieron un nivel de utilidad demasiado alto y por eso ofrecen una renta baja. Según la dinámica de la Fig. 2.7, ¿cómo se restablece el equilibrio?",
+    "opciones": [
+      "La población resulta excesiva frente a la demanda de trabajo, hay emigración, baja la renta ofrecida y la ciudad se contrae hasta equilibrar.",
+      "La población resulta escasa frente a la demanda de trabajo, llega inmigración, sube la renta, la ciudad se expande y la utilidad baja.",
+      "Las empresas suben los salarios para atraer trabajadores, sin que cambie la renta, y la ciudad mantiene su tamaño con la misma utilidad.",
+      "La población escasea, llega inmigración, sube la renta y la ciudad se expande, pero la utilidad individual aumenta por haber más empleos."
+    ],
+    "correcta": 1,
+    "explicacion": "Utilidad elegida demasiado alta implica renta ofrecida demasiado baja (r'). La población del intervalo δ'–δ'max es escasa frente a la demanda de trabajo, entra inmigración que presiona al alza la oferta de renta (r''), la ciudad se expande hasta δ''max y el mercado de trabajo se equilibra con un nivel total de utilidad inferior.",
+    "errores": [
+      "Invierte la dinámica: con renta baja y utilidad alta, la población localizada es escasa frente a la demanda de trabajo. Hay inmigración, no emigración.",
+      null,
+      "El ajuste del modelo pasa por la renta y el tamaño de la ciudad, no por salarios. Y el equilibrio exige un nivel de utilidad menor, no el mismo.",
+      "El final es el opuesto: más población compite por el suelo, la renta sube (r'') y la utilidad total resulta menor que la elegida al principio."
+    ],
+    "concepto": "Ajuste dinámico de la ciudad abierta (Fig. 2.7)",
+    "nivel": "causa",
+    "referencia": "pp. 69-70, Fig. 2.7"
+  },
+  {
+    "enunciado": "En la derivación geométrica de la Fig. 2.6, un residente del centro y uno de la periferia alcanzan la misma utilidad U. ¿Cómo difieren sus canastas de equilibrio?",
+    "opciones": [
+      "El central consume más suelo y menos del bien compuesto B, porque al vivir en el centro puede permitirse una vivienda mayor y gasta menos en desplazarse.",
+      "Ambos consumen la misma canasta, porque a igual utilidad U el equilibrio es el mismo punto de la curva de indiferencia a cualquier distancia.",
+      "El central consume menos suelo (A⁰ < A') y más del bien compuesto B: paga una renta más alta y su recta de balance parte de un intercepto Y − τδ mayor.",
+      "El periférico consume menos suelo y menos del bien compuesto B, porque el costo de transporte le reduce el ingreso disponible para ambos bienes."
+    ],
+    "correcta": 2,
+    "explicacion": "La recta de balance es Y − τδ = B·1 + A·r; su intercepto Y − τδ es mayor en el centro y su pendiente r (la renta) también. La tangencia con la curva U da, en el centro, a(A⁰, B⁰) con menos suelo y más B; en la periferia, b(A', B') con A⁰ < A' y B⁰ > B'. Misma utilidad, canastas distintas.",
+    "errores": [
+      "Con la renta más alta del centro el suelo es más caro y se consume menos. En la Fig. 2.6 el equilibrio central tiene A⁰ < A'.",
+      "Igual utilidad no implica igual canasta. Las rectas de balance difieren (otro intercepto y otra pendiente r), así que la tangencia cae en otro punto de la misma curva U.",
+      null,
+      "El periférico paga una renta menor y por eso consume más suelo (A' > A⁰). Su menor B sí refleja el mayor gasto en transporte, pero no consume menos suelo."
+    ],
+    "concepto": "Sustitución suelo-bienes según la distancia (Fig. 2.6)",
+    "nivel": "interpretacion",
+    "referencia": "p. 68, Fig. 2.6"
+  },
+  {
+    "enunciado": "Dos clases sociales con ingresos distintos tienen curvas de renta ofertada de equilibrio de distinta pendiente. ¿Cómo se asigna el suelo entre ellas y qué patrón resulta?",
+    "opciones": [
+      "Cada distancia va a la clase que ofrece la renta más alta allí; la renta efectiva es la envolvente y resultan anillos concéntricos.",
+      "Todo el suelo va a la clase de mayor ingreso, porque puede pagar más renta a cualquier distancia, y la otra queda fuera de la ciudad.",
+      "El suelo se reparte en sectores o cuñas según la clase, porque cada una prefiere una dirección distinta a partir del centro.",
+      "Cada clase elige libremente su anillo, sin competir, porque en indiferencia localizativa todas las distancias le resultan equivalentes."
+    ],
+    "correcta": 0,
+    "explicacion": "Con varias clases, cada una tiene una curva de renta ofertada de equilibrio de distinta pendiente. El suelo va, a cada distancia, a la clase que hace la mayor oferta; la renta efectiva es la envolvente superior y la ciudad queda en anillos concéntricos donde cada clase reside en indiferencia localizativa. Si se admiten también empresas, el resultado no cambia: gana quien ofrece la renta más alta.",
+    "errores": [
+      null,
+      "Tener más ingreso no garantiza ofrecer más renta a toda distancia: las curvas tienen pendientes distintas y se cruzan, de modo que cada clase gana en algún anillo.",
+      "La estructura por sectores (Fig. 2.9) pertenece a la sección 2.6, que no es exigida. El patrón que emerge del modelo es siempre el de círculos concéntricos.",
+      "La indiferencia localizativa vale dentro del anillo que la clase ganó, no antes. Una clase solo entra a una distancia si allí ofrece más renta que las demás."
+    ],
+    "concepto": "Varias clases sociales: envolvente y anillos",
+    "nivel": "aplicacion",
+    "referencia": "p. 69"
+  },
+  {
+    "enunciado": "El modelo residencial supone que todos los empleos están en el distrito central de negocios. Si algunas empresas se ubican en un punto E a distancia e del centro, ¿por qué se puede mantener el modelo monocéntrico?",
+    "opciones": [
+      "Porque las empresas en E atraen a los trabajadores con salarios mayores que los del centro, lo que compensa la distancia y deja intacta la renta.",
+      "Porque aparece un gradiente de salario de pendiente −τ: en E se paga eτ menos y el trabajador queda indiferente, sin alterar su equilibrio.",
+      "Porque los trabajadores que viven más allá de E dejan de pagar transporte, y esa reducción de costos baja la renta residencial en todo el espacio.",
+      "Porque las empresas descentradas pagan la misma renta que las centrales, y por eso el gradiente de renta no se altera."
+    ],
+    "correcta": 1,
+    "explicacion": "Una empresa en E puede pagar un salario inferior al del distrito central en eτ, su equivalente en ahorro de transporte para los trabajadores que viven más allá de E; a ellos les es indiferente. Dentro del modelo se forma, junto al gradiente de renta, un gradiente de salario urbano de pendiente −τ, y el equilibrio individual de localización residencial queda sin cambios.",
+    "errores": [
+      "El salario en E es menor, no mayor: el trabajador acepta menos porque ahorra transporte. Esa diferencia es el gradiente de salario.",
+      null,
+      "El equilibrio residencial no cambia: el menor costo de transporte se compensa con un menor salario, de modo que no queda un ahorro neto que baje la renta residencial.",
+      "Las empresas descentradas pagan la renta efectiva del anillo donde se ubican. Lo que sostiene el modelo es el gradiente de salario −τ, no una renta igual."
+    ],
+    "concepto": "Gradiente de salario −τ y coherencia del modelo monocéntrico",
+    "nivel": "causa",
+    "referencia": "p. 70"
+  },
+  {
+    "enunciado": "Con τ = 4 por unidad de distancia, una empresa se ubica en E, a e = 5 del centro. ¿Cuánto menos que en el distrito central puede pagar de salario a los trabajadores que viven más allá de E, y por qué?",
+    "opciones": [
+      "20 menos, que es eτ: lo que la empresa ahorra al llevar sus productos hasta el mercado desde E en lugar de hacerlo desde el centro.",
+      "9 menos, que es e + τ: la suma de la distancia y el costo unitario, que mide la desventaja total de ubicarse fuera del centro.",
+      "4 menos, que es τ: el costo unitario no depende de la distancia, de modo que toda empresa fuera del centro descuenta lo mismo.",
+      "20 menos, que es eτ: lo que esos trabajadores ahorran en transporte al emplearse en E y no en el centro; por eso les es indiferente."
+    ],
+    "correcta": 3,
+    "explicacion": "El ahorro es e·τ = 5 × 4 = 20. Para el trabajador es indiferente emplearse en el centro con el salario completo o en E con 20 menos y un trayecto más corto. Si la empresa estuviera a e = 10, el descuento sería 40: de ahí la pendiente −τ del gradiente de salario. El valor numérico es un ejemplo propio de la ficha.",
+    "errores": [
+      "El eτ es el ahorro de transporte de los trabajadores, no de la empresa. Es lo que ellos aceptan perder en salario porque su desplazamiento al empleo es más corto.",
+      "Una distancia y un costo por unidad de distancia no se suman. El ahorro es el producto eτ.",
+      "τ es el costo por unidad de distancia; el ahorro total depende de cuántas unidades se ahorran (e). Por eso el gradiente tiene pendiente −τ por unidad de distancia, no un monto fijo.",
+      null
+    ],
+    "concepto": "Cálculo del ahorro eτ y gradiente de salario",
+    "nivel": "calculo",
+    "referencia": "p. 70"
+  },
+  {
+    "enunciado": "Los datos de la Fig. 2.5 muestran que la densidad residencial y el valor del suelo crecen cada vez más rápido al acercarse al centro, con un perfil vertical de la ciudad. ¿Qué elemento del modelo explica ese perfil convexo?",
+    "opciones": [
+      "La sustitución de tierra por capital: al encarecerse el suelo hacia el centro se construye hacia arriba y la renta crece más que proporcionalmente.",
+      "Los coeficientes fijos de producción: al no poder variar los factores, la renta aumenta de forma lineal pero la densidad se concentra en el centro.",
+      "El costo de transporte constante: como τ no cambia con la distancia, la renta cae de forma uniforme y la densidad sigue el mismo patrón.",
+      "Las economías de aglomeración: el principio de aglomeración eleva el valor del suelo central más de lo que explicaría la accesibilidad."
+    ],
+    "correcta": 0,
+    "explicacion": "Con función de producción neoclásica, al acercarse al centro la empresa sustituye el factor que más se encarece, la tierra, por capital, y construye hacia arriba; así ofrece una renta unitaria que crece más que proporcionalmente al reducirse la distancia. Lo mismo ocurre con la vivienda. La renta efectiva resulta convexa, coherente con el gradiente hiperbólico, la densidad creciente al centro y el perfil vertical de la Fig. 2.5.",
+    "errores": [
+      null,
+      "Los coeficientes fijos dan rectas (el modelo básico de Von Thünen). La convexidad aparece al relajarlos: permitir variar la intensidad de los factores.",
+      "Con τ constante y coeficientes fijos la renta sería una recta. El perfil convexo requiere que ingresos y costos dependan de la distancia y que los factores sean sustituibles.",
+      "Las economías de aglomeración pertenecen al primer principio (cap. 1). La explicación del perfil que da Camagni usa accesibilidad y sustitución de factores."
+    ],
+    "concepto": "Convexidad de la renta efectiva y evidencia empírica",
+    "nivel": "interpretacion",
+    "referencia": "pp. 65-66, Fig. 2.5"
+  },
+  {
+    "enunciado": "¿Qué distingue el enfoque de renta ofertada (bid rent) de Alonso del razonamiento original de Von Thünen?",
+    "opciones": [
+      "En Von Thünen el suelo se asigna por la demanda de los hogares; en Alonso lo asigna el propietario, que fija una renta y espera que alguien la pague.",
+      "En Von Thünen la renta es el residuo de un productor-propietario; en Alonso cada hogar o empresa ofrece un valor por la tierra.",
+      "Von Thünen trata la renta como un flujo y Alonso como el precio de capitalización del suelo, por lo que los dos modelos usan unidades distintas.",
+      "Von Thünen estudia suelo urbano con costos de transporte lineales, y Alonso suelo agrícola con costos de transporte decrecientes en la distancia."
+    ],
+    "correcta": 1,
+    "explicacion": "Von Thünen razona desde quien produce y es propietario: la renta es el residuo de cada cultivo. Alonso invierte el punto de vista: la renta ofertada es lo que cada hogar o empresa ofrece a cada distancia, y el propietario ajusta su renta a esa oferta. Aunque parezcamos demanda, somos quienes ofrecemos renta. Alonso, con Muth y Mills, funda la nueva economía urbana.",
+    "errores": [
+      "Está invertido: en Alonso quien ofrece es el hogar o la empresa, y el propietario ajusta su renta a la mejor oferta que recibe.",
+      null,
+      "Ambos manejan renta, un flujo. La relación renta-precio (precio = renta / tasa) es otra distinción y no separa a Alonso de Von Thünen.",
+      "Von Thünen es el modelo agrícola; Alonso (1960, 1964) y Muth (1969) lo trasladan a usos urbanos. El costo de transporte decreciente es una relajación del modelo, no la diferencia."
+    ],
+    "concepto": "Renta ofertada de Alonso frente a la renta de Von Thünen",
+    "nivel": "contraste",
+    "referencia": "p. 53 (orden del capítulo: Alonso 1960 y 1964; Muth 1969); la formulación como oferta de hogares y empresas viene de la clase",
+    "clase": "2026-10-09"
+  },
+  {
+    "enunciado": "Un lote genera la misma renta anual, pero sube la tasa de rentabilidad que el mercado exige a la inversión en suelo. ¿Qué ocurre con el precio del lote y por qué?",
+    "opciones": [
+      "Sube, porque una tasa de rentabilidad mayor indica que el suelo es más rentable y los compradores pagan más por él.",
+      "No cambia, porque renta y precio son sinónimos y una renta constante implica un precio constante.",
+      "Baja, porque el precio es la renta capitalizada (precio = renta / tasa) y una tasa mayor reduce el valor de esa renta.",
+      "El precio no cambia, pero la renta baja, porque la tasa mayor la reduce para compensar el rendimiento exigido."
+    ],
+    "correcta": 2,
+    "explicacion": "Precio = renta / tasa de rentabilidad (la analogía del profesor: un CDT, capital por tasa igual a ingreso). Con la renta fija, una tasa mayor da un precio menor. Por eso lugares con igual renta pueden valer distinto si se valorizan a distinta tasa. La renta es el flujo; el precio, el valor del suelo.",
+    "errores": [
+      "Un mayor rendimiento exigido reduce lo que se paga por el mismo flujo de renta. Con la renta fija y la tasa mayor, el precio baja.",
+      "Son dos caras de la misma moneda, pero no sinónimos: la renta es el flujo y el precio es el valor del suelo (capital). Los conecta la tasa.",
+      null,
+      "La renta es el excedente (residuo) y no depende de la tasa exigida al comprador. Lo que se ajusta con la tasa es el precio."
+    ],
+    "concepto": "Renta frente a precio del suelo (capitalización)",
+    "nivel": "aplicacion",
+    "referencia": "Clase del 2 de octubre; no figura en la ficha de Camagni",
+    "clase": "2026-10-02"
+  },
+  {
+    "enunciado": "En una ciudad con dos centralidades, los gradientes de renta de cada una se superponen en la franja intermedia. ¿Qué cabe esperar del uso del suelo allí?",
+    "opciones": [
+      "Mezcla de usos, porque varios usos pueden pagar rentas similares allí y ninguno desplaza claramente a los demás.",
+      "Un único uso especializado, porque en la superposición la renta es máxima y ese uso desplaza a todos los demás.",
+      "Suelo vacante, porque en la franja entre ambas centralidades la renta efectiva se anula y ningún uso puede pagarla.",
+      "Solo usos residenciales, porque la accesibilidad a ambas centralidades vuelve esa franja la preferida por los hogares."
+    ],
+    "correcta": 0,
+    "explicacion": "Con varias centralidades los gradientes de renta se intersectan o se superponen. En esas zonas varios usos son rentables al mismo tiempo, y de ahí la mezcla de usos; en las zonas donde domina un solo gradiente hay un uso rentable (zonas monorrentables). Una nueva oferta de servicios puede incluso formar una centralidad nueva. Aplica a escala urbana y regional.",
+    "errores": [
+      null,
+      "Al contrario: donde los gradientes se superponen varios usos son rentables a la vez. El uso único corresponde a zonas monorrentables, donde domina un solo gradiente.",
+      "La renta no se anula en la superposición; allí varios usos pueden pagarla, y eso es lo que genera la mezcla.",
+      "El modelo no reserva la franja a un tipo de usuario. El resultado de la superposición es la compatibilidad de varios usos desde el punto de vista de la renta."
+    ],
+    "concepto": "Policentrismo, superposición de rentas y mezcla de usos",
+    "nivel": "interpretacion",
+    "referencia": "Clases del 2 y 9 de octubre; no figura en la ficha de Camagni",
+    "clase": "2026-10-09"
+  }
+]

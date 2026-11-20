@@ -6,7 +6,8 @@ import { fileURLToPath } from 'url';
 import path from 'path';
 const { chromium } = await import(process.env.PLAYWRIGHT_PATH || 'playwright');
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
-export const BASE = 'http://127.0.0.1:4173/#';
+// BASE_URL permite apuntar a otro destino, p. ej. la versión de un solo archivo: file:///ruta/index.html#
+export const BASE = process.env.BASE_URL || 'http://127.0.0.1:4173/#';
 export const indice = JSON.parse(fs.readFileSync(`${ROOT}/content/banco/index.json`, 'utf8'));
 export function banco(f) {
   return JSON.parse(fs.readFileSync(`${ROOT}/content/banco/semana-${String(f.semana).padStart(2, '0')}/${f.lectura}.json`, 'utf8'));

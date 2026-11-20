@@ -1,18 +1,22 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
-import { Barra, Chips, Cargando, OpcionesPregunta } from '../components/ui';
-import { INDICE, Item, SEMANAS, TIPO_PREGUNTA, etiqueta } from '../lib/data';
+import { BloqueVF, bloqueAciertos, bloqueCompleto } from '../components/BloqueVF';
+import { Opciones, ordenInicial } from '../components/Opciones';
+import { Barra, Chips, Cargando } from '../components/ui';
+import { INDICE, Item, NOMBRE_NIVEL, SEMANAS, TIPO_PREGUNTA, etiqueta } from '../lib/data';
 import { useContenido } from '../lib/hooks';
 import { REPASO, muestraRepaso } from '../lib/repaso';
 import { QStat, fallada, registrarRespuesta, usarProg } from '../lib/store';
 import { barajar, plural } from '../lib/util';
 
 type Modo = 'todas' | 'fallas' | 'nuevas';
-type Tipo = 'todas' | Item['tipo'];
+type Tipo = 'todas' | 'comprension' | Item['tipo'];
+const esComprension = (i: Item) => i.tipo === 'opcion' || i.tipo === 'vfbloque';
 
 function armar(items: Item[], q: Record<string, QStat>, modo: Modo, tipo: Tipo): Item[] {
   let r = items;
-  if (tipo !== 'todas') r = r.filter((i) => i.tipo === tipo);
+  if (tipo === 'comprension') r = r.filter(esComprension);
+  else if (tipo !== 'todas') r = r.filter((i) => i.tipo === tipo);
   if (modo === 'fallas') r = r.filter((i) => fallada(q[i.id]));
   if (modo === 'nuevas') r = r.filter((i) => !q[i.id]);
   return r;
@@ -25,7 +29,7 @@ export default function Practicar() {
   const lectura = sp.get('lectura') || '';
   const esRepaso = sp.get('banco') === 'parcial';
   const modo = (sp.get('modo') || 'todas') as Modo;
-  const tipo = (sp.get('tipo') || 'todas') as Tipo;
+  const tipoUrl = sp.get('tipo') as Tipo | null;
   const n = sp.get('n') || '10';
 
   const filas = useMemo(
@@ -36,6 +40,9 @@ export default function Practicar() {
   const items = useMemo(() => esRepaso
     ? REPASO.filter((i) => (!semana || i.semana === semana) && (!lectura || i.lectura === lectura))
     : contenido?.items ?? null, [esRepaso, semana, lectura, contenido]);
+
+  // Si las lecturas elegidas tienen preguntas de comprensión (estilo del control), esas son las que se muestran primero.
+  const tipo: Tipo = tipoUrl ?? (!esRepaso && items?.some(esComprension) ? 'comprension' : 'todas');
 
   const poner = (k: string, v: string, def = '') => {
     const nuevo = new URLSearchParams(sp);
@@ -55,6 +62,9 @@ export default function Practicar() {
   const [cola, setCola] = useState<Item[] | null>(null);
   const [idx, setIdx] = useState(0);
   const [eleccion, setEleccion] = useState<boolean | number | null>(null);
+  const [orden, setOrden] = useState<number[]>([]);
+  const [bloque, setBloque] = useState<(boolean | undefined)[]>([]);
+  const [bloqueRevelado, setBloqueRevelado] = useState(false);
   const [revelada, setRevelada] = useState(false);
   const [calificada, setCalificada] = useState<boolean | null>(null);
   const [aciertos, setAciertos] = useState(0);
@@ -71,6 +81,9 @@ export default function Practicar() {
     setCalificada(null);
     setAciertos(0);
     setFalladas([]);
+    setBloque([]);
+    setBloqueRevelado(false);
+    setOrden(lista[0]?.tipo === 'opcion' ? barajar(ordenInicial(lista[0].opciones.length)) : []);
   };
   const iniciar = () => {
     const cantidad = n === 'todas' ? disponibles.length : Number(n);
@@ -95,8 +108,10 @@ export default function Practicar() {
     (s) => s.lecturas.filter((l) => esRepaso ? REPASO.some((i) => i.lectura === l.id) : INDICE.lecturas.some((f) => f.lectura === l.id))
       .map((l) => ({ semana: s.semana, lectura: l.id })),
   );
-  const tipos = [{ v: 'todas', t: 'Todas' }, { v: 'vf', t: 'Verdadero o falso' }, { v: 'abierta', t: 'Abiertas' }];
-  if (esRepaso) tipos.push({ v: 'opcion', t: TIPO_PREGUNTA.opcion });
+  const tipos: { v: Tipo; t: string }[] = [{ v: 'todas', t: 'Todas' }, { v: 'vf', t: 'Verdadero o falso' }, { v: 'abierta', t: 'Abiertas' }];
+  if (!esRepaso && items?.some(esComprension)) {
+    tipos.unshift({ v: 'comprension', t: 'Comprensión (estilo del control)' });
+  }
 
   // ---- Pantalla de configuración ----
   if (!cola) {
@@ -124,7 +139,7 @@ export default function Practicar() {
               </select>
             </label>
           </div>
-          <div className="col g8"><b>Tipo</b><Chips etiqueta="Tipo de pregunta" valor={tipo} onChange={(v) => poner('tipo', v, 'todas')} opciones={tipos} /></div>
+          <div className="col g8"><b>Tipo</b><Chips<Tipo> etiqueta="Tipo de pregunta" valor={tipo} onChange={(v) => poner('tipo', v, '__')} opciones={tipos} /></div>
           <div className="col g8"><b>Cuáles</b><Chips etiqueta="Selección" valor={modo} onChange={(v) => poner('modo', v, 'todas')} opciones={[{ v: 'todas', t: 'Todas' }, { v: 'fallas', t: 'Las que fallé' }, { v: 'nuevas', t: 'Sin responder' }]} /></div>
           <div className="col g8"><b>Cantidad</b><Chips etiqueta="Cantidad" valor={n} onChange={(v) => poner('n', v, '10')} opciones={[{ v: '10', t: '10' }, { v: '20', t: '20' }, { v: 'todas', t: 'Todas' }]} /></div>
           {!items ? (
@@ -166,14 +181,23 @@ export default function Practicar() {
   // ---- Pregunta ----
   const it = cola[idx];
   const esAbierta = it.tipo === 'abierta';
+  const esBloque = it.tipo === 'vfbloque';
   const solucion = it.tipo === 'opcion' ? it.correcta : it.tipo === 'vf' ? it.verdadera : null;
-  const respondida = esAbierta ? calificada !== null : eleccion !== null;
-  const correcta = esAbierta ? calificada === true : eleccion === solucion;
+  const respondida = esAbierta ? calificada !== null : esBloque ? bloqueRevelado : eleccion !== null;
+  const correcta = esAbierta ? calificada === true : esBloque ? it.afirmaciones.every((a, i) => bloque[i] === a.verdadera) : eleccion === solucion;
 
   const elegir = (v: boolean | number) => {
     if (eleccion !== null) return;
     setEleccion(v);
     const ok = v === solucion;
+    registrarRespuesta(it.id, ok);
+    if (ok) setAciertos((a) => a + 1);
+    else setFalladas((f) => [...f, it]);
+  };
+  const comprobarBloque = () => {
+    if (it.tipo !== 'vfbloque' || bloqueRevelado || !bloqueCompleto(it, bloque)) return;
+    setBloqueRevelado(true);
+    const ok = bloqueAciertos(it, bloque) === it.afirmaciones.length;
     registrarRespuesta(it.id, ok);
     if (ok) setAciertos((a) => a + 1);
     else setFalladas((f) => [...f, it]);
@@ -186,10 +210,14 @@ export default function Practicar() {
     else setFalladas((f) => [...f, it]);
   };
   const siguiente = () => {
+    const sig = cola[idx + 1];
     setIdx((i) => i + 1);
     setEleccion(null);
     setRevelada(false);
     setCalificada(null);
+    setBloque([]);
+    setBloqueRevelado(false);
+    setOrden(sig?.tipo === 'opcion' ? barajar(ordenInicial(sig.opciones.length)) : []);
   };
 
   return (
@@ -203,6 +231,7 @@ export default function Practicar() {
         <div className="row g8">
           <span className="tag">S{it.semana}: {etiqueta(it.lectura)}</span>
           <span className="tag">{TIPO_PREGUNTA[it.tipo]}</span>
+          {it.nivel && <span className="tag">{NOMBRE_NIVEL[it.nivel]}</span>}
         </div>
         <p className="texto d">{it.enunciado}</p>
 
@@ -213,7 +242,18 @@ export default function Practicar() {
           </div>
         )}
         {it.tipo === 'opcion' && (
-          <OpcionesPregunta opciones={it.opciones} elegida={typeof eleccion === 'number' ? eleccion : undefined} elegir={elegir} bloqueadas={respondida} />
+          <Opciones item={it} orden={orden.length ? orden : ordenInicial(it.opciones.length)} elegida={typeof eleccion === 'number' ? eleccion : undefined} onElegir={elegir} revelar={respondida} bloqueada={respondida} />
+        )}
+        {it.tipo === 'vfbloque' && (
+          <>
+            <BloqueVF item={it} respuestas={bloque} revelar={bloqueRevelado} onResponder={(i, v) => setBloque((b) => { const c = [...b]; c[i] = v; return c; })} />
+            {!bloqueRevelado && (
+              <div className="row g16">
+                <button type="button" className="press btn blue sign" disabled={!bloqueCompleto(it, bloque)} onClick={comprobarBloque}>Comprobar</button>
+                <span className="muted" style={{ alignSelf: 'center' }}>Marca las {it.afirmaciones.length} afirmaciones.</span>
+              </div>
+            )}
+          </>
         )}
         {it.tipo === 'abierta' && !revelada && (
           <div className="row g16">
@@ -224,9 +264,11 @@ export default function Practicar() {
 
         {(esAbierta ? revelada : respondida) && (
           <div className={`respuesta ${esAbierta ? 'neutral' : correcta ? 'ok' : 'mal'}`} role="status">
-            {!esAbierta && <p className="d" style={{ fontSize: 24, fontWeight: 900 }}>{correcta ? 'Correcto' : 'Incorrecto'}</p>}
-            {it.tipo === 'opcion' && <p><b>Respuesta correcta</b> · {it.opciones[it.correcta]}</p>}
-            <p className="t">{it.respuesta}</p>
+            {!esAbierta && <p className="d" style={{ fontSize: 24, fontWeight: 900 }}>{it.tipo === 'vfbloque' ? `${bloqueAciertos(it, bloque)} de ${it.afirmaciones.length} afirmaciones bien` : correcta ? 'Correcto' : 'Incorrecto'}</p>}
+            {it.tipo === 'opcion' && !it.explicacion && <p><b>Respuesta correcta</b> · {it.opciones[it.correcta]}</p>}
+            {it.tipo !== 'vfbloque' && <p className="t">{it.tipo === 'opcion' ? it.explicacion ?? it.respuesta : it.respuesta}</p>}
+            {it.concepto && <p className="muted" style={{ fontSize: 16 }}><b>Concepto:</b> {it.concepto}</p>}
+            {it.clase && <p><span className="pill blue">Clase {it.clase}</span></p>}
             {it.referencia && <p><span className="pill">{it.referencia}</span></p>}
           </div>
         )}

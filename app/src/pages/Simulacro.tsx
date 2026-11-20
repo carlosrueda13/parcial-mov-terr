@@ -1,25 +1,42 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
-import { Barra, Cargando, Chips, OpcionesPregunta } from '../components/ui';
+import { BloqueVF, bloqueAciertos, bloqueCompleto } from '../components/BloqueVF';
+import { Opciones, ordenInicial } from '../components/Opciones';
+import { Barra, Cargando, Chips } from '../components/ui';
 import { INDICE, Item, TIPO_PREGUNTA, etiqueta } from '../lib/data';
 import { useContenido } from '../lib/hooks';
 import { REPASO, muestraRepaso } from '../lib/repaso';
 import { guardarSim, registrarRespuesta, usarProg } from '../lib/store';
 import { barajar, pct, plural, reloj } from '../lib/util';
 
-type Tipo = 'completo' | 'semana' | 'vf' | 'abiertas' | 'repaso';
+type Tipo = 'completo' | 'semana' | 'comprension' | 'vf' | 'abiertas' | 'repaso';
 type Fase = 'config' | 'run' | 'grade' | 'result';
-type Resp = boolean | number | string | undefined;
+type Resp = boolean | number | string | (boolean | undefined)[] | undefined;
+const esComprension = (i: Item) => i.tipo === 'opcion' || i.tipo === 'vfbloque';
+// Una respuesta cuenta como dada si es distinta de vacío; un bloque V/F, si tiene todas sus afirmaciones marcadas.
+const hecha = (p: Item, r: Resp) => p.tipo === 'vfbloque' ? bloqueCompleto(p, r as (boolean | undefined)[] | undefined) : r !== undefined && r !== '';
 
 const TIPOS: { v: Tipo; t: string }[] = [
   { v: 'completo', t: 'Completo' },
   { v: 'semana', t: 'Por semana' },
+  { v: 'comprension', t: 'Estilo del control' },
   { v: 'vf', t: 'Solo verdadero o falso' },
   { v: 'abiertas', t: 'Solo abiertas' },
   { v: 'repaso', t: 'Repaso del parcial' },
 ];
-const NOMBRE_TIPO: Record<Tipo, string> = { completo: 'completo', semana: 'por semana', vf: 'verdadero o falso', abiertas: 'abiertas', repaso: 'de repaso del parcial' };
+const NOMBRE_TIPO: Record<Tipo, string> = { completo: 'completo', semana: 'por semana', comprension: 'estilo del control', vf: 'verdadero o falso', abiertas: 'abiertas', repaso: 'de repaso del parcial' };
 const SEG_POR_PREGUNTA = 60;
+const segDe = (p: Item) => (p.tipo === 'vfbloque' ? SEG_POR_PREGUNTA * 2 : SEG_POR_PREGUNTA);
+
+// En 'completo' y 'por semana', la mayor parte del examen son preguntas de comprensión (como en el control), si las hay.
+function mezclar(lista: Item[], cantidad: number): Item[] {
+  const comp = barajar(lista.filter(esComprension));
+  const resto = barajar(lista.filter((i) => !esComprension(i)));
+  const nComp = Math.min(comp.length, Math.round(cantidad * 0.7));
+  const tomadas = [...comp.slice(0, nComp), ...resto.slice(0, cantidad - nComp)];
+  const sobran = [...comp.slice(nComp), ...resto.slice(cantidad - nComp)];
+  return barajar([...tomadas, ...sobran].slice(0, cantidad));
+}
 
 function Medidor({ valor }: { valor: number }) {
   const grados = (Math.max(0, Math.min(100, valor)) * 180) / 100 - 90;
@@ -44,7 +61,7 @@ export default function Simulacro() {
   const [semana, setSemana] = useState(1);
   const [cantidad, setCantidad] = useState<number>(20);
   const [soloCerradas, setSoloCerradas] = useState(false);
-  const permiteElegirFormato = tipo !== 'vf' && tipo !== 'abiertas';
+  const permiteElegirFormato = tipo !== 'vf' && tipo !== 'abiertas' && tipo !== 'comprension';
   const cerradas = permiteElegirFormato && soloCerradas;
   const equilibrarPorSemana = tipo === 'repaso' || cerradas;
 
@@ -60,6 +77,7 @@ export default function Simulacro() {
   const [total, setTotal] = useState(0);
   const [confirmar, setConfirmar] = useState(false);
   const [notas, setNotas] = useState<Record<string, boolean>>({});
+  const [ordenes, setOrdenes] = useState<Record<string, number[]>>({});
   const [soloFalladas, setSoloFalladas] = useState(false);
   const [usados, setUsados] = useState(0);
   const fin = useRef(0);
@@ -71,21 +89,25 @@ export default function Simulacro() {
       const repasoAdicional = tipo === 'repaso' ? [] : REPASO.filter((i) => tipo !== 'semana' || i.semana === semana);
       return [...banco, ...repasoAdicional].filter((i) => i.tipo !== 'abierta');
     }
+    if (tipo === 'comprension') return banco.filter(esComprension);
     if (tipo === 'vf') return banco.filter((i) => i.tipo === 'vf');
     if (tipo === 'abiertas') return banco.filter((i) => i.tipo === 'abierta');
     return banco;
   }, [cerradas, contenido, semana, tipo]);
 
   const iniciar = () => {
-    const lista = equilibrarPorSemana ? muestraRepaso(disponibles, cantidad) : barajar(disponibles).slice(0, cantidad);
+    const lista = equilibrarPorSemana ? muestraRepaso(disponibles, cantidad)
+      : tipo === 'completo' || tipo === 'semana' ? mezclar(disponibles, cantidad)
+      : barajar(disponibles).slice(0, cantidad);
     setPreg(lista);
+    setOrdenes(Object.fromEntries(lista.flatMap((p) => p.tipo === 'opcion' ? [[p.id, barajar(ordenInicial(p.opciones.length))]] : [])));
     setResp({});
     setMarcadas({});
     setNotas({});
     setIdx(0);
     setConfirmar(false);
     setSoloFalladas(false);
-    const seg = lista.length * SEG_POR_PREGUNTA;
+    const seg = lista.reduce((t, p) => t + segDe(p), 0);
     setTotal(seg);
     setRestante(seg);
     fin.current = Date.now() + seg * 1000;
@@ -112,6 +134,7 @@ export default function Simulacro() {
 
   const acierta = (p: Item): boolean => {
     if (p.tipo === 'abierta') return !!notas[p.id];
+    if (p.tipo === 'vfbloque') return bloqueAciertos(p, resp[p.id] as (boolean | undefined)[] | undefined) === p.afirmaciones.length;
     return resp[p.id] === (p.tipo === 'opcion' ? p.correcta : p.verdadera);
   };
   const ok = preg.filter(acierta).length;
@@ -139,12 +162,13 @@ export default function Simulacro() {
     const cantidades = [10, 20, 30].map((v) => ({ v, t: String(v) }));
     if (tipo === 'repaso') cantidades.push({ v: REPASO.length, t: String(disponibles.length) });
     const cantidadReal = Math.min(cantidad, disponibles.length);
+    const minutos = Math.round(cantidadReal * SEG_POR_PREGUNTA / 60);
     return (
       <div className="page narrow">
         <div className="col g8" style={{ maxWidth: 860 }}>
           <h1 className="h1 m d">Hora pico</h1>
           <p className="lead">
-            {cerradas ? 'Selección única y verdadero o falso. La nota se calcula automáticamente al entregar.' : 'Simulacro con cronómetro. Revisa las respuestas al entregar.'}
+            {cerradas || tipo === 'comprension' ? 'Selección múltiple y bloques de verdadero o falso. La nota se calcula automáticamente al entregar.' : 'Simulacro con cronómetro. Revisa las respuestas al entregar.'}
           </p>
         </div>
         <section className="card col g20" aria-label="Configurar simulacro">
@@ -175,7 +199,7 @@ export default function Simulacro() {
             <div className="row center g16">
               <button type="button" className="press btn blue sign" disabled={disponibles.length === 0} onClick={iniciar}>Empezar el simulacro</button>
               <span className="muted">
-                {cantidadReal ? `${cantidadReal} preguntas, ${cantidadReal} minutos (1 por pregunta)` : 'No hay preguntas con esta selección'}
+                {cantidadReal ? `${cantidadReal} preguntas, unos ${minutos} minutos (1 por pregunta; 2 por bloque V/F)` : 'No hay preguntas con esta selección'}
               </span>
             </div>
           )}
@@ -202,7 +226,7 @@ export default function Simulacro() {
   if (fase === 'run') {
     const p = preg[idx];
     const elegida = resp[p.id];
-    const respondidas = preg.filter((x) => resp[x.id] !== undefined && resp[x.id] !== '').length;
+    const respondidas = preg.filter((x) => hecha(x, resp[x.id])).length;
     const sin = preg.length - respondidas;
     return (
       <div className="page narrow">
@@ -220,8 +244,12 @@ export default function Simulacro() {
             </div>
             <p className="texto d">{p.enunciado}</p>
             {p.tipo === 'opcion' && (
-              <OpcionesPregunta opciones={p.opciones} elegida={typeof elegida === 'number' ? elegida : undefined}
-                elegir={(v) => setResp((r) => ({ ...r, [p.id]: r[p.id] === v ? undefined : v }))} />
+              <Opciones item={p} orden={ordenes[p.id] ?? ordenInicial(p.opciones.length)} elegida={typeof elegida === 'number' ? elegida : undefined}
+                onElegir={(v) => setResp((r) => ({ ...r, [p.id]: r[p.id] === v ? undefined : v }))} />
+            )}
+            {p.tipo === 'vfbloque' && (
+              <BloqueVF item={p} respuestas={(elegida as (boolean | undefined)[] | undefined) ?? []}
+                onResponder={(i, v) => setResp((r) => { const c = [...((r[p.id] as (boolean | undefined)[] | undefined) ?? [])]; c[i] = c[i] === v ? undefined : v; return { ...r, [p.id]: c }; })} />
             )}
             {p.tipo === 'vf' && (
               <div className="col g12" style={{ maxWidth: 760 }}>
@@ -263,16 +291,16 @@ export default function Simulacro() {
               <b>Mapa de preguntas</b>
               <div className="navgrid">
                 {preg.map((x, i) => {
-                  const hecha = resp[x.id] !== undefined && resp[x.id] !== '';
+                  const hechaX = hecha(x, resp[x.id]);
                   const actual = i === idx;
                   return (
                     <button
                       key={x.id}
                       type="button"
-                      aria-label={`Pregunta ${i + 1}${hecha ? ', respondida' : ''}${marcadas[x.id] ? ', marcada' : ''}`}
+                      aria-label={`Pregunta ${i + 1}${hechaX ? ', respondida' : ''}${marcadas[x.id] ? ', marcada' : ''}`}
                       aria-current={actual ? 'step' : undefined}
                       onClick={() => setIdx(i)}
-                      style={{ background: actual ? 'var(--yellow)' : hecha ? 'var(--blue)' : '#fff', color: hecha && !actual ? '#fff' : 'var(--ink)', border: '3px solid var(--ink)' }}
+                      style={{ background: actual ? 'var(--yellow)' : hechaX ? 'var(--blue)' : '#fff', color: hechaX && !actual ? '#fff' : 'var(--ink)', border: '3px solid var(--ink)' }}
                     >
                       {i + 1}
                       {marcadas[x.id] && <span className="flagdot" />}
@@ -392,8 +420,10 @@ export default function Simulacro() {
                 {p.tipo === 'opcion' && <>
                   <span className="muted">Tu respuesta: {typeof elegida === 'number' ? p.opciones[elegida] : 'sin responder'}</span>
                   <span><b>Respuesta correcta</b> · {p.opciones[p.correcta]}</span>
+                  {typeof elegida === 'number' && elegida !== p.correcta && p.errores?.[elegida] && <span><b>Por qué falla la que elegiste.</b> {p.errores[elegida]}</span>}
                 </>}
-                <span>{p.respuesta}</span>
+                {p.tipo === 'vfbloque' && <BloqueVF item={p} respuestas={(elegida as (boolean | undefined)[] | undefined) ?? []} revelar />}
+                {p.tipo !== 'vfbloque' && <span>{p.tipo === 'opcion' ? p.explicacion ?? p.respuesta : p.respuesta}</span>}
               </li>
             );
           })}

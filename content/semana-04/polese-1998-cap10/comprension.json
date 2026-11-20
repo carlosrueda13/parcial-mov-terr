@@ -1,0 +1,407 @@
+[
+  {
+    "enunciado": "En el ejemplo de Polèse, el trigo (rendimiento 100, costo 50, transporte 5 por km) y los guisantes (rendimiento 150, costo 75, transporte 10 por km) compiten por el suelo alrededor del mercado. Para un terreno a 3 km y otro a 8 km, ¿qué cultivo lo ocupa y qué renta paga?",
+    "opciones": [
+      "A 3 km, trigo con renta 35; a 8 km, trigo con renta 10: el trigo, de menor pendiente, gana en todos los puntos del plano.",
+      "A 3 km, guisantes con renta 45; a 8 km, trigo con renta 10: en cada punto gana el cultivo que ofrece más renta.",
+      "A 3 km, guisantes con renta 75; a 8 km, trigo con renta 50: cada cultivo paga su renta máxima, la del mercado.",
+      "A 3 km, guisantes con renta 45; a 8 km, guisantes con renta −5, porque ofrecen más en el mercado y por eso ganan en todo punto."
+    ],
+    "correcta": 1,
+    "explicacion": "R_trigo(k) = 50 − 5k y R_guisantes(k) = 75 − 10k. A 3 km: 35 frente a 45, ganan los guisantes. A 8 km: el trigo ofrece 10 y los guisantes ya pasaron su renta cero (7,5 km). Las curvas se cruzan a 5 km, donde ambos ofrecen 25: antes de 5 km manda el cultivo de curva más empinada, después el más plano.",
+    "errores": [
+      "A 3 km los guisantes ofrecen 75 − 30 = 45 frente a 50 − 15 = 35 del trigo, así que ganan. El trigo solo gana más allá de 5 km, donde las curvas se cruzan.",
+      null,
+      "75 y 50 son las rentas en el mercado (k = 0). A 3 km los guisantes pagan 75 − 3 × 10 = 45, y a 8 km el trigo paga 50 − 8 × 5 = 10.",
+      "Los guisantes llegan a renta cero a 7,5 km: a 8 km su oferta sería negativa y nadie la paga. Allí el trigo, con 10, es el único que ofrece renta positiva."
+    ],
+    "concepto": "Competencia por el suelo y cruce de curvas de renta",
+    "nivel": "calculo",
+    "referencia": "Polèse, cap. 10, pp. 326-329 (Figs. 10.1 y 10.2A)",
+    "clase": "2026-10-02"
+  },
+  {
+    "enunciado": "En ese mismo ejemplo el precio de mercado del trigo sube de 100 a 120, con igual costo de producción y de transporte. ¿Qué pasa con su curva de renta y con la distribución de los cultivos?",
+    "opciones": [
+      "La renta en el mercado sube a 70 y la pendiente (5 por km) no cambia; el trigo avanza sobre los guisantes hacia el centro y sobre el pastoreo hacia afuera.",
+      "La pendiente aumenta porque el trigo vale más y es más sensible al transporte; el trigo se queda con el centro y desplaza a los guisantes.",
+      "La renta en el mercado sube a 70, pero el trigo solo avanza hacia afuera, porque cerca del centro siguen mandando los guisantes.",
+      "Las zonas no cambian, porque el precio es exógeno y la ubicación de cada cultivo solo depende de las pendientes de sus curvas."
+    ],
+    "correcta": 0,
+    "explicacion": "R = E(p − a) − Efk: el precio p solo mueve la ordenada. Con p = 120 queda 70 − 5k, que se anula a 14 km. Cruza a los guisantes en k = 1 (70 − 5k = 75 − 10k; cálculo propio): el trigo ocupa desde 1 km y también más lejos, sobre el pastoreo. El texto lo resume así: desborda hacia el centro y hacia afuera.",
+    "errores": [
+      null,
+      "El precio no entra en la pendiente: es Ef, que sigue siendo 5 por km. Sube toda la curva en paralelo; no se vuelve más empinada.",
+      "Con la curva 70 − 5k, el trigo supera a los guisantes (75 − 10k) desde k = 1 km. Desborda también hacia el centro.",
+      "Que el precio sea dato no lo vuelve irrelevante: cambia la ordenada y, con ella, los cruces entre curvas. Las zonas se redistribuyen."
+    ],
+    "concepto": "Efecto del precio sobre la ordenada y los cruces",
+    "nivel": "aplicacion",
+    "referencia": "p. 329 (Fig. 10.2A, línea punteada)",
+    "clase": "2026-10-02"
+  },
+  {
+    "enunciado": "En la ecuación (1), R = E(p − a) − Efk, un comerciante con clientes diarios del centro se queda allí, mientras un fabricante de aparatos de radio, que va al banco una o dos veces al mes, se instala en las afueras. ¿Qué parámetro explica la diferencia?",
+    "opciones": [
+      "a: el comerciante tiene un costo unitario de producción menor, y por eso su margen le permite pagar la renta del centro.",
+      "k: el comerciante opera a mayor distancia del mercado y por eso su renta resulta más alta que la del fabricante.",
+      "f: el comerciante es mucho más sensible al costo de interacción espacial; su curva es más empinada y paga más cerca del centro.",
+      "p: el comerciante vende a un precio mayor que el fabricante, y ese precio fija la inclinación de su curva de renta."
+    ],
+    "correcta": 2,
+    "explicacion": "En el espacio urbano f es un costo de interacción espacial: comunicaciones interpersonales, desplazamientos diarios, costos de transacción y costo de oportunidad del tiempo. Al comerciante con clientes cotidianos le conviene el centro (a más de un kilómetro arriesgaría perderlos); al fabricante de radios, que casi no necesita ir, no. Mayor f, curva más empinada, mayor renta ofrecida cerca del centro y menor lejos.",
+    "errores": [
+      "a es el costo unitario de producción y no mide la sensibilidad a la distancia. Lo que separa a ambos es f, el costo de interacción espacial.",
+      "k es la distancia del terreno al punto central: es la variable del eje, no una característica de la actividad. Lo que cambia entre actividades es f (y E).",
+      null,
+      "El precio p entra en la ordenada, no en la pendiente. La pendiente es Ef; la diferencia entre ambos es qué tan sensibles son a la interacción espacial."
+    ],
+    "concepto": "f como costo de interacción espacial y pendiente de la renta",
+    "nivel": "interpretacion",
+    "referencia": "pp. 333-334",
+    "clase": "2026-10-02"
+  },
+  {
+    "enunciado": "Una actividad mejora su tecnología y duplica el rendimiento por hectárea E, con p, a y f constantes y un margen p − a positivo. Según R = E(p − a) − Efk, ¿qué ocurre con su curva de renta?",
+    "opciones": [
+      "Solo se duplica la renta en el centro; la pendiente depende de f y no cambia, así que la renta se anula al doble de distancia.",
+      "La pendiente se duplica, pero la renta en el centro no cambia, porque E solo multiplica al costo de transporte.",
+      "La renta en el centro y la distancia de renta cero se duplican, y la pendiente se mantiene en Ef.",
+      "La renta en el centro y la pendiente se duplican, y la distancia a la que la renta se anula no cambia."
+    ],
+    "correcta": 3,
+    "explicacion": "R = E[(p − a) − fk]: E multiplica toda la expresión. La ordenada E(p − a) y la pendiente Ef se duplican, y R = 0 sigue en k = (p − a)/f. Es un desarrollo propio a partir de la ecuación (1): la renta se duplica a cualquier distancia dentro del alcance de la actividad y la curva se vuelve más empinada. Por eso quien obtiene más por hectárea (E alto) paga más cerca del centro.",
+    "errores": [
+      "La pendiente es Ef, no f: al duplicar E también se duplica la pendiente. Por eso la distancia de renta cero, (p − a)/f, no cambia.",
+      "E multiplica a los dos términos: E(p − a), la ordenada, y Ef, la pendiente. La renta en el centro sí se duplica.",
+      "Con E duplicado la pendiente es 2Ef, no Ef. Y la distancia de renta cero, (p − a)/f, no depende de E.",
+      null
+    ],
+    "concepto": "E multiplica la ordenada y la pendiente",
+    "nivel": "calculo",
+    "referencia": "pp. 332-333, ecuación (1)"
+  },
+  {
+    "enunciado": "En el ejemplo del trigo, el agricultor obtiene una ganancia adicional que crece al acercarse al mercado. ¿Por qué Polèse la llama renta y no beneficio del productor?",
+    "opciones": [
+      "Porque supera el beneficio normal gracias a la mayor eficiencia del productor, que administra mejor su explotación.",
+      "Porque ese ingreso adicional no se debe a mayor esfuerzo del productor, sino únicamente al terreno y a su localización.",
+      "Porque la fertilidad superior del terreno cercano al mercado permite obtener más producto por hectárea.",
+      "Porque se calcula sumando el costo de producción y el de transporte, que el propietario traslada al comprador."
+    ],
+    "correcta": 1,
+    "explicacion": "El costo de producción de 50 por hectárea ya incluye la remuneración normal del productor. Lo que sobra en el mercado (100 − 50 = 50) no se debe a un mayor esfuerzo sino al terreno. Los utilizadores pagan el precio completo de la curva y quienes lo cobran son los propietarios. En la nota de la Fig. 10.1, renta y ganancia adicional son sinónimos.",
+    "errores": [
+      "Es lo contrario: la renta no se debe al esfuerzo ni a la eficiencia del productor sino al terreno. El beneficio normal ya está dentro del costo de producción.",
+      null,
+      "El postulado 2 supone fertilidad igual en todo el plano. La diferencia nace de la localización y del ahorro de transporte.",
+      "La renta es el residuo: lo que queda del ingreso después de restar el costo de producción (con la ganancia normal) y el transporte. No es una suma de costos."
+    ],
+    "concepto": "Origen de la renta y diferencia con la ganancia normal",
+    "nivel": "causa",
+    "referencia": "pp. 326-328",
+    "clase": "2026-10-02"
+  },
+  {
+    "enunciado": "Polèse sostiene que el suelo tiene una demanda derivada. Si sube el ingreso y la demanda final se traslada de productos agrícolas a productos y servicios urbanos, ¿qué cabe esperar del valor del suelo urbano?",
+    "opciones": [
+      "Que suba en parte: el suelo es un insumo intermedio y su valor sigue a la demanda de los bienes que ayuda a producir.",
+      "Que no cambie, porque el suelo no tiene demanda propia y su precio lo fija solo la oferta, que es fija en el corto plazo.",
+      "Que baje, porque la demanda agrícola disminuye y el suelo pierde valor en todos sus usos al mismo tiempo.",
+      "Que suba porque el suelo urbano adquiere demanda final propia al crecer el ingreso de los hogares urbanos."
+    ],
+    "correcta": 0,
+    "explicacion": "Los terrenos no se demandan por sí mismos: valen porque son insumo de bienes de consumo final. La composición de la demanda final fija indirectamente los precios del suelo. El alza de valores del suelo en la ciudad resulta en parte del traslado de la demanda de productos agrícolas a productos urbanos al subir el ingreso (cap. 1, retomado en la p. 329).",
+    "errores": [
+      null,
+      "La oferta fija crea la renta, pero el nivel lo fija la demanda. El suelo no tiene demanda final, pero sí derivada: cambia cuando cambia la demanda de los bienes que lo usan.",
+      "Pierde demanda el suelo agrícola, no el urbano. El traslado de la demanda final hacia productos urbanos eleva el valor del suelo en la ciudad.",
+      "El suelo nunca tiene demanda final por sí mismo: es un insumo intermedio de bienes finales (guisantes, pan, carne, servicios). Su valor sube por la demanda derivada."
+    ],
+    "concepto": "Demanda derivada del suelo",
+    "nivel": "interpretacion",
+    "referencia": "p. 329"
+  },
+  {
+    "enunciado": "Polèse distingue el papel de los valores del suelo en las decisiones de localización intraurbanas y en las interurbanas. ¿Cuál afirmación lo refleja?",
+    "opciones": [
+      "Entre ciudades el precio influye más, porque las diferencias de valor entre Ciudad de México y Puebla son mayores que las que hay entre barrios.",
+      "Dentro de la ciudad el precio relativo del terreno influye, sobre todo entre lugares comparables; entre ciudades no, porque el suelo no se transporta.",
+      "El precio del suelo influye por igual a cualquier escala, porque en todas ellas el suelo es un insumo de producción.",
+      "Dentro de la ciudad el precio no influye, porque la localización la fija solo la accesibilidad al centro."
+    ],
+    "correcta": 1,
+    "explicacion": "Una empresa que busca terreno en la Ciudad de México no puede sustituirlo por uno en Puebla, porque el suelo no se transporta: aunque los promotores de otras ciudades ofrezcan precios más bajos, su decisión no cambia. En el cap. 9 el precio del terreno no era variable de los modelos a escala nacional. Dentro del Distrito Federal, en cambio, los precios relativos influyen, sobre todo entre lugares comparables de un barrio. El impacto es mayor cuanto más limitadas las dimensiones del espacio.",
+    "errores": [
+      "Una empresa que debe estar en la capital no sustituye ese terreno por uno en Puebla, aunque sea más barato. El impacto es mayor cuanto más limitado es el espacio considerado.",
+      null,
+      "No por igual: a escala interurbana (cap. 9) el precio del terreno no figuraba como variable; a escala intraurbana sí.",
+      "Dentro de la ciudad los precios relativos sí influyen. Renta y localización son las dos caras de la misma realidad."
+    ],
+    "concepto": "Valores del suelo según la escala de decisión",
+    "nivel": "contraste",
+    "referencia": "p. 332"
+  },
+  {
+    "enunciado": "En una gran ciudad, una casa editorial de periódicos y un taller de moda se mantienen en el centro, mientras una fábrica de autopartes se traslada a la periferia. ¿Qué lo explica, según Polèse?",
+    "opciones": [
+      "La fábrica de autopartes paga rentas menores porque sus costos de producción son más altos que los de editoriales y talleres de moda.",
+      "El municipio subsidia a las industrias ligeras y a las editoriales para conservar el empleo en el centro histórico.",
+      "El camión redujo la movilidad de las fábricas grandes y las dejó atadas a sus puntos de acceso tradicionales, como el puerto.",
+      "La editorial y el taller de moda sufren altos costos de interacción; la fábrica consume mucho suelo y depende de vías de carga."
+    ],
+    "correcta": 3,
+    "explicacion": "Las manufacturas no suelen buscar el centro por tres razones: usan mucho espacio (fábrica, almacenamiento, estacionamiento, camiones), son sensibles a las vías de transporte de carga (la congestión las repele) y necesitan menos el centro (exportan fuera de la región y venden a demanda intermedia). Solo las de uso intensivo del espacio o de altos costos de interacción pueden pagarlo: talleres de moda y casas editoriales. La tendencia general es la expulsión, en beneficio de oficinas y terciario superior.",
+    "errores": [
+      "No decide el costo de producción sino cuánto espacio usa y qué tan sensible es a la interacción espacial. La manufactura pesada usa mucho suelo por empleado.",
+      "El texto explica la permanencia por la lógica de la renta (uso intensivo del espacio y alta interacción), no por subsidios.",
+      "El camión, de costos fijos poco elevados, dio más movilidad a las manufacturas dentro de la ciudad. Antes sí se ubicaban en accesos de vías navegables y ferrocarril.",
+      null
+    ],
+    "concepto": "Expulsión de la industria y excepciones del centro",
+    "nivel": "aplicacion",
+    "referencia": "pp. 338-339",
+    "clase": "2026-10-09"
+  },
+  {
+    "enunciado": "En la Fig. 10.8 (Ciudad de México, 1985) los servicios al consumidor, sobre todo comercios, muestran un patrón bipolar entre los anillos. ¿Qué indica ese patrón?",
+    "opciones": [
+      "Una fuerte competencia comercial entre el centro y los grandes centros comerciales de las afueras.",
+      "Que los comercios abandonaron el centro y se concentran solo en la periferia, igual que la industria.",
+      "Que el comercio sigue el mismo patrón que los servicios a las empresas, concentrado en el núcleo central.",
+      "Que el comercio es indiferente a la distancia, porque se reparte de forma pareja entre los cuatro anillos."
+    ],
+    "correcta": 0,
+    "explicacion": "En la Fig. 10.8 los servicios al productor se concentran en el centro, los servicios al consumidor siguen un patrón bipolar (señal de fuerte competencia comercial entre el centro y los grandes centros comerciales de las afueras) y la industria se concentra en los anillos alejados. Los resultados coinciden con el modelo.",
+    "errores": [
+      null,
+      "Bipolar significa concentración en dos polos, el centro y las afueras, no solo en la periferia. La industria sí se concentra en los anillos alejados; el comercio mantiene el centro.",
+      "Los servicios a las empresas se concentran en el centro; el comercio muestra dos polos.",
+      "Un reparto parejo no sería bipolar. El patrón muestra dos picos y refleja competencia entre centro y subcentros comerciales."
+    ],
+    "concepto": "Lectura de la concentración del empleo por anillos",
+    "nivel": "grafica",
+    "referencia": "pp. 340-341, Fig. 10.8"
+  },
+  {
+    "enunciado": "En la misma Fig. 10.8, la industria se concentra en los anillos alejados, pero el empleo manufacturero pesa bastante en el anillo intermedio. ¿Cómo lo lee Polèse?",
+    "opciones": [
+      "Como evidencia de que la industria prefiere el anillo intermedio y no se localiza según la renta del suelo.",
+      "Como un error de medición, porque las oficinas de empresas industriales se cuentan como empleo manufacturero.",
+      "Como señal de que la expulsión del empleo industrial hacia afuera todavía no ha concluido.",
+      "Como prueba de que el centro ya perdió toda su base industrial y ahora la sustituye el comercio."
+    ],
+    "correcta": 2,
+    "explicacion": "La expulsión de la industria hacia las afueras es un proceso: en el anillo intermedio todavía hay un peso apreciable de empleo manufacturero. La Fig. 10.8 muestra la industria en los anillos alejados, y lo del anillo intermedio indica que el desplazamiento sigue en curso (el texto remite a Garza, 1987a).",
+    "errores": [
+      "El patrón confirma el modelo: la industria se concentra en los anillos alejados. El anillo intermedio es una etapa del desplazamiento.",
+      "Esa salvedad pertenece al Cuadro 10.1 (Montréal), no a la Fig. 10.8. Aquí la lectura es la del proceso de expulsión-sucesión.",
+      null,
+      "El texto no habla de pérdida total sino de expulsión no concluida. Además, el anillo intermedio no es el centro."
+    ],
+    "concepto": "Expulsión-sucesión leída en la Fig. 10.8",
+    "nivel": "grafica",
+    "referencia": "p. 341, Fig. 10.8"
+  },
+  {
+    "enunciado": "El Cuadro 10.1 muestra que el empleo manufacturero del centro de Montréal es 8,2% del total. ¿Qué advertencia hace Polèse sobre esa cifra?",
+    "opciones": [
+      "Que sobreestima el empleo industrial, porque incluye oficinas de empresas industriales cuyo mando está en el centro.",
+      "Que lo subestima, porque no cuenta los talleres informales que operan en el centro y no figuran en las estadísticas.",
+      "Que es exacta, y por eso Montréal muestra una expulsión industrial menos avanzada que París o Bruselas, según el autor.",
+      "Que está concentrado en el centro, porque su cociente de localización de 0,39 es superior al de las oficinas."
+    ],
+    "correcta": 0,
+    "explicacion": "El 8,2% de manufactura incluye empleos de oficina de sociedades industriales con centros de mando en el centro; el empleo industrial en sentido estricto es quizás 5%, similar al de barrios centrales de París, Bruselas y Nueva York. En el centro de grandes ciudades latinoamericanas, donde la expulsión está menos avanzada, probablemente entre 10% y 20%.",
+    "errores": [
+      null,
+      "El texto no habla de informales en Montréal. La salvedad va en sentido contrario: la cifra incluye empleos de oficina de empresas industriales.",
+      "El empleo industrial propiamente dicho es quizás 5%, un porcentaje análogo al de París, Bruselas y Nueva York. La expulsión menos avanzada es la de América Latina, con 10% a 20%.",
+      "Un cociente de 0,39 está muy por debajo de 1: la manufactura está subrepresentada en el centro frente a la región."
+    ],
+    "concepto": "Interpretación de cifras de empleo del centro",
+    "nivel": "interpretacion",
+    "referencia": "pp. 341-343, Cuadro 10.1"
+  },
+  {
+    "enunciado": "En el Cuadro 10.1, las instituciones financieras del centro de Montréal tienen un cociente de localización de 2,25 y el comercio de detalle de 0,46, con la región metropolitana como referencia. ¿Cómo se leen?",
+    "opciones": [
+      "Las financieras pesan más del doble en el empleo del centro que en la región; el comercio de detalle pesa menos de la mitad.",
+      "El centro concentra 2,25 veces más instituciones financieras que el resto del país y el 46% del comercio de detalle de la región.",
+      "Las financieras emplean 2,25% y el comercio de detalle 0,46% del empleo del centro de Montréal.",
+      "El comercio de detalle crece 46% en el centro y las financieras 125%, por encima del promedio regional."
+    ],
+    "correcta": 0,
+    "explicacion": "Cociente de localización = participación de la actividad en el empleo del centro dividida por su participación en la región. Mayor que 1, la actividad está sobrerrepresentada (financieras 2,25; servicios a las empresas 1,96); menor que 1, subrepresentada (comercio de detalle 0,46; manufactura 0,39). Las funciones centrales, privadas o públicas, son la mayoría del empleo del centro, y el comercio común depende de ellas.",
+    "errores": [
+      null,
+      "El cociente compara pesos relativos (participación en el empleo del centro frente a la región), no cuántos establecimientos tiene el centro. El 0,46 no es un porcentaje del comercio regional.",
+      "Los porcentajes de empleo son 17,4% (financieras) y 8,7% (comercio de detalle). Los cocientes son 2,25 y 0,46.",
+      "Los cocientes de localización no miden crecimiento: miden concentración relativa en un momento."
+    ],
+    "concepto": "Cociente de localización y base económica del centro",
+    "nivel": "interpretacion",
+    "referencia": "pp. 341-343, Cuadro 10.1; cocientes de localización: cap. 5"
+  },
+  {
+    "enunciado": "Aparecen nuevos complejos de oficinas en los suburbios de una gran ciudad, mientras el centro conserva alquileres altos y se vuelve más especializado. ¿Cómo lo interpreta Polèse?",
+    "opciones": [
+      "Como señal de que el centro pierde su ventaja de localización y las oficinas ya no necesitan el contacto directo.",
+      "Como prueba de que la renta de localización del centro desaparece a medida que la información circula más rápido entre empresas.",
+      "Como expresión de la fuerza del centro: los precios altos expulsan a las funciones menos centrales, no como debilitamiento.",
+      "Como un caso de desplazamiento del centro, porque el distrito de negocios se muda a otro barrio de la ciudad."
+    ],
+    "correcta": 2,
+    "explicacion": "Los precios elevados del centro eliminan a las funciones menos centrales, que se instalan en la periferia; cuanto más altos los precios relativos del centro, más acentuada la especialización intraurbana. La expansión de complejos de oficinas en la periferia suele expresar la fuerza de un centro demasiado caro. Gad (1985, Toronto): suburbanización de oficinas junto con más especialización y alza relativa del precio de las oficinas en el centro.",
+    "errores": [
+      "Esa lectura confunde causa y efecto. Si el centro fuera débil, los precios caerían; aquí suben y el empleo se especializa (caso de Toronto, Gad 1985).",
+      "El texto no plantea esa tesis. La renta del centro se alimenta de la concentración de oficinas e información; la suburbanización por precios altos no la contradice.",
+      null,
+      "El desplazamiento del centro es el reemplazo del centro histórico por uno moderno en otro barrio. Aquí el centro sigue siendo caro y fuerte."
+    ],
+    "concepto": "Suburbanización de oficinas y fuerza del centro",
+    "nivel": "aplicacion",
+    "referencia": "p. 347"
+  },
+  {
+    "enunciado": "Dos ciudades limitan la densidad de construcción de su centro. En A el centro es tan fuerte que casi ninguna oficina importante se instalaría fuera; en B el centro compite con otros puntos de atracción. ¿Qué pasa con el precio del suelo?",
+    "opciones": [
+      "En A el efecto neto sobre el precio del suelo es nulo (suben los alquileres de oficina); en B la demanda sale del centro y el precio vuelve a su nivel o por debajo.",
+      "En A el precio del suelo baja porque hay menos superficie de piso construida, y en B sube porque la escasez de superficie es mayor.",
+      "En ambas sube, porque limitar la oferta de superficie construida siempre eleva el precio del suelo, sin importar la fuerza del centro.",
+      "En ambas baja, porque menor densidad significa menor rendimiento E y por tanto menor renta que el suelo puede ofrecer a los usuarios."
+    ],
+    "correcta": 0,
+    "explicacion": "Limitar densidades reduce la superficie de piso, no el suelo. Con demanda inelástica (centro muy fuerte: un gran banco no se instala fuera de la City de Londres) la menor oferta se compensa con alzas de precio, el efecto neto sobre el suelo es nulo, suben los precios de los espacios de oficina y se acentúa la especialización. Con demanda elástica (centro débil) el alza reduce la demanda, los usuarios se van y el precio vuelve al nivel inicial o por debajo; la municipalidad y los promotores pierden.",
+    "errores": [
+      null,
+      "La restricción reduce la superficie de piso, no la oferta de suelo. En A la demanda inelástica compensa el menor rendimiento con alzas de precios; en B pasa lo contrario de lo que dice.",
+      "El efecto depende de la elasticidad-precio de la demanda: en B el aumento inicial de precios reduce la demanda y el precio vuelve a su nivel o por debajo.",
+      "Eso solo ocurre con demanda muy elástica (B). En A, con demanda inelástica, la caída de E se compensa con alzas de precio y el efecto neto es nulo."
+    ],
+    "concepto": "Zonaje de densidad y elasticidad de la demanda por espacios centrales",
+    "nivel": "aplicacion",
+    "referencia": "pp. 352-354"
+  },
+  {
+    "enunciado": "En un centro fuerte, un municipio circunscribe los terrenos donde se pueden construir torres. ¿Por qué los promotores no se oponen necesariamente al zonaje?",
+    "opciones": [
+      "Porque el zonaje reduce los costos de construcción de los promotores al estandarizar los usos que se permiten en cada zona.",
+      "Porque el zonaje mantiene baja la renta del centro y así sostiene la demanda de oficinas de las empresas pequeñas del distrito.",
+      "Porque la principal justificación del zonaje es proteger el patrimonio, y los promotores comparten ese objetivo con la ciudad.",
+      "Porque la restricción crea escasez artificial y una renta adicional para los propietarios instalados: una barrera de entrada."
+    ],
+    "correcta": 3,
+    "explicacion": "Limitar con zonaje los terrenos donde se puede construir torres crea escasez artificial y renta adicional para los propietarios ya instalados. En términos económicos equivale a barreras de entrada, aranceles u otras medidas proteccionistas. El efecto casi no se da si la demanda inicial por los terrenos es poca.",
+    "errores": [
+      "El texto no habla de costos de construcción. El beneficio es la renta que crea la escasez.",
+      "Es al revés: limitar la oferta de terrenos para torres sube el precio del suelo y de los espacios.",
+      "La justificación económica principal es evitar externalidades negativas por cohabitaciones incompatibles. El patrimonio aparece como factor que limita la oferta de oficinas, no como razón de los promotores.",
+      null
+    ],
+    "concepto": "Zonaje como barrera de entrada y renta de escasez",
+    "nivel": "causa",
+    "referencia": "p. 354"
+  },
+  {
+    "enunciado": "En la Fig. 10.13, la familia pequeña sin niños (R) y la grande con niños (M) tienen el mismo gasto global. ¿Quién paga más por m² cerca del centro, quién más lejos, y qué lo explica?",
+    "opciones": [
+      "R paga más hasta el punto D2 y M más allá, porque la curva de R es más empinada: da más peso relativo al costo de desplazarse.",
+      "M paga más cerca del centro porque necesita más espacio, y R paga más en la periferia porque valora la tranquilidad.",
+      "Pagan igual en todos los puntos, porque con el mismo gasto global la renta por m² no depende del tamaño de la familia.",
+      "R paga más en todo el espacio, porque una familia sin niños tiene mayor ingreso disponible para la vivienda."
+    ],
+    "correcta": 0,
+    "explicacion": "R tiene una pendiente más acentuada porque da más importancia relativa a los gastos de desplazamiento (el estudiante, la joven profesional, el jubilado); M tiene una curva mucho más plana: acepta más desplazamiento por una vivienda con espacio. Se cruzan en D2. Resultan bandas concéntricas: familias pequeñas en el centro, grandes en la periferia. El uso real del suelo sale del juego de miles de curvas como estas.",
+    "errores": [
+      null,
+      "Está invertido. La familia grande tiene la curva plana y por eso prefiere la periferia, donde cambia desplazamiento por espacio.",
+      "El mismo gasto global define el cruce D2, no que las curvas coincidan: las pendientes son distintas.",
+      "Se supone el mismo gasto global. La diferencia es de pendiente, y M paga más a partir de D2."
+    ],
+    "concepto": "Tamaño de la familia y bandas concéntricas",
+    "nivel": "aplicacion",
+    "referencia": "pp. 359-360, Fig. 10.13"
+  },
+  {
+    "enunciado": "En la Fig. 10.13, la familia pequeña de menores recursos (R') ofrece más por m² que la familia grande M hasta el punto D1. ¿Cómo se explica que una familia con menos recursos pague más en el centro?",
+    "opciones": [
+      "A igual tamaño de hogar, las familias pobres siempre pueden pagar más por m² que las ricas, porque destinan más de su ingreso a la vivienda.",
+      "Su curva es más empinada: depende de la cercanía al trabajo y a los servicios, y de un transporte caro, y acepta hacinarse para quedarse.",
+      "Porque los promotores subsidian la vivienda central para los hogares de menores ingresos y así pueden ofrecer más.",
+      "Porque la calidad de la vivienda en el centro es mayor y la valoran más que las familias de ingresos altos."
+    ],
+    "correcta": 1,
+    "explicacion": "Una familia puede expulsar a otra del centro si su curva de demanda es lo bastante acentuada. Tres razones: el costo de los transportes urbanos (sin buen transporte colectivo barato, el límite lo fijan los gastos de un automóvil), las condiciones de empleo (precarias, horarios variables, varios miembros que trabajan) y los servicios públicos concentrados en el centro. Aceptan cierto hacinamiento: por eso pueden producir rendimientos elevados en el centro.",
+    "errores": [
+      "A tamaños iguales la familia acomodada siempre puede pagar más: R' y M' están por debajo de R y M. La clave es la diferencia de pendiente entre tamaños distintos.",
+      null,
+      "El modelo no incluye subsidios. La explicación es la sensibilidad a la proximidad: transporte, empleo precario y servicios concentrados en el centro.",
+      "El texto habla de menos espacio (hacinamiento de dos o tres personas por pieza), no de mayor calidad. Aceptan menos espacio por estar cerca."
+    ],
+    "concepto": "Estatus, sensibilidad a la distancia y pobres en el centro",
+    "nivel": "causa",
+    "referencia": "pp. 362-364"
+  },
+  {
+    "enunciado": "Cuando sube el ingreso de una región urbana, ¿cómo cambian las curvas de renta residencial y por qué tiende a extenderse la ciudad aun sin crecimiento demográfico?",
+    "opciones": [
+      "Se vuelven más altas y más empinadas, porque las familias ricas pagan más por estar cerca del centro y concentran la ciudad.",
+      "Se vuelven más bajas y más planas, porque con más ingreso el suelo deja de ser un bien escaso.",
+      "Se vuelven más altas y más planas: la demanda de espacio por persona sube y el transporte pesa menos en el ingreso.",
+      "Se mantienen iguales; la extensión depende solo de la población, que es lo que aumenta la demanda de suelo."
+    ],
+    "correcta": 2,
+    "explicacion": "A medida que sube el ingreso, la demanda de espacio por persona, a igual distancia, tiende a subir; y como el transporte baja de precio relativo, las curvas se aplanan. Con una superficie de piso por persona de dos a tres veces la de países en desarrollo, la extensión física de la ciudad se duplica o triplica. Para contenerla hay que subir el precio relativo del suelo o el costo del transporte urbano.",
+    "errores": [
+      "Con más ingreso las curvas se aplanan: baja el precio relativo del transporte y las familias pueden pagar nuevos medios, sobre todo el automóvil.",
+      "El suelo sigue siendo escaso: en una región urbana más rica los precios del suelo suben de forma generalizada (curvas más altas).",
+      null,
+      "Aun sin crecimiento demográfico, la expansión es consecuencia inevitable del enriquecimiento colectivo: la superficie de piso por persona es dos a tres veces mayor en países ricos."
+    ],
+    "concepto": "Ingreso, curvas de renta y expansión física",
+    "nivel": "interpretacion",
+    "referencia": "p. 366"
+  },
+  {
+    "enunciado": "Un gobierno local limita el perímetro urbanizable para elevar el precio del suelo y maximizar la renta que obtiene. ¿En qué condición esa política es eficaz?",
+    "opciones": [
+      "Cuando la ciudad goza de renta de monopolio, con centralidad indiscutible, y controla todo el espacio potencialmente urbanizable.",
+      "Cuando hay fuerte competencia entre municipios por captar las rentas del suelo, porque cada uno afina su perímetro.",
+      "Cuando la ciudad ya es muy densa y crece rápido, porque la presión demográfica refuerza el efecto de la restricción.",
+      "Siempre, porque reducir la oferta de suelo eleva el precio y los costos recaen sobre quien especula con el suelo."
+    ],
+    "correcta": 0,
+    "explicacion": "Limitar la expansión sube el precio de los terrenos urbanizables, pero solo es eficaz si la autoridad goza de renta de monopolio (centralidad indiscutible), controla todo el espacio urbanizable y no hay fuerte competencia entre municipios por captar rentas. Si se limita bruscamente, los precios pueden dispararse y aparecen mercados negros, con efectos sobre la población más desfavorecida de la periferia. En países en desarrollo es muy difícil.",
+    "errores": [
+      null,
+      "Es lo contrario: la política solo funciona si no hay fuerte competencia entre municipios; si otros ofrecen suelo, la demanda se va allí.",
+      "Una ciudad ya densa con crecimiento rápido que desborda sus fronteras no sostiene la política. Además, limitar bruscamente puede crear mercados negros (asentamientos informales).",
+      "Todo control implica costos, porque limita la oferta, y los efectos recaen sobre la población más desfavorecida de la periferia. No es eficaz en cualquier caso."
+    ],
+    "concepto": "Control del suelo urbano y renta de monopolio",
+    "nivel": "contraste",
+    "referencia": "pp. 366-368"
+  },
+  {
+    "enunciado": "Las instituciones financieras suelen definir el corazón del distrito de negocios, donde el metro cuadrado es más caro. ¿Qué característica de su actividad lo explica?",
+    "opciones": [
+      "Su necesidad de grandes superficies de piso, que solo el centro puede ofrecer en edificios de mucha altura.",
+      "Su dependencia del transporte de mercancías, que el centro ofrece mejor que cualquier otro punto de la ciudad.",
+      "Su clientela masiva de paso, que se concentra en las calles centrales y sostiene alquileres altos.",
+      "Su insumo es información compleja, privada y sensible, que exige contactos directos y frecuentes con otras oficinas."
+    ],
+    "correcta": 3,
+    "explicacion": "El costo de comunicar información depende sobre todo de la frecuencia de los contactos interpersonales directos, y esas relaciones pesan más cuanto más compleja, privada y sensible es la información. Un banco no otorga un préstamo de varios millones sin analizar el expediente ni conocer a los agentes. Entre oficinas, las relaciones personales cumplen el papel de las relaciones intersectoriales en un complejo industrial.",
+    "errores": [
+      "Las oficinas usan poco espacio por empleado. Lo que explica el centro es la sensibilidad a los costos de comunicación interpersonal, no el consumo de espacio.",
+      "La dependencia de vías de carga es de la manufactura y de la distribución, y las empuja afuera. Las oficinas dependen de la comunicación directa.",
+      "Esa lógica de afluencia es la del comercio. Las financieras pagan el centro por el costo de comunicar información, que depende de la frecuencia de los contactos directos.",
+      null
+    ],
+    "concepto": "Información y concentración de oficinas en el centro",
+    "nivel": "causa",
+    "referencia": "pp. 345-346"
+  }
+]

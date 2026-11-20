@@ -1,0 +1,466 @@
+[
+  {
+    "enunciado": "En el artículo \"Urban mobility and urban form (Camagni, Gibelli & Rigamonti, 2002)\" se analizan diferentes tipologías de expansión urbana. Alguna de las siguientes tipologías NO es usada en el análisis como tipología de expansión urbana:",
+    "opciones": [
+      "Expansión",
+      "Revitalización Urbana",
+      "Desarrollo Urbano Lineal",
+      "Extensión",
+      "Relleno",
+      "Proyectos (Operaciones) Urbanas de Gran Escala"
+    ],
+    "correcta": 1,
+    "explicacion": "Las cinco tipologías de expansión del artículo son relleno, extensión, desarrollo lineal, dispersión (sprawl) y grandes proyectos. La revitalización urbana es una intervención sobre la ciudad ya construida; no es una forma de expansión y no está en la clasificación. Ojo con la opción 'Expansión': en la captura del control aparece como rótulo del tipo disperso, no como una sexta categoría.",
+    "errores": [
+      "Es el rótulo genérico con el que el material nombra el tipo disperso (sprawl); la categoría sí hace parte de las cinco, aunque 'Expansión' es impreciso si se lee solo.",
+      null,
+      "Es el crecimiento que sigue un eje de circulación (carretera o línea de transporte): una de las cinco.",
+      "Es el crecimiento contiguo al borde de la huella existente, que prolonga calles y redes: una de las cinco.",
+      "Es la construcción sobre lotes vacantes o reutilizados dentro de la huella ya construida: una de las cinco.",
+      "Son actuaciones de gran tamaño, relativamente independientes del tejido existente: una de las cinco."
+    ],
+    "concepto": "Tipologías de expansión urbana",
+    "nivel": "contraste",
+    "referencia": "Camagni, Gibelli y Rigamonti (2002), Ecological Economics 40(2), 199-216, pp. 199-204",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "El Artículo \"Urban mobility and urban form (Camagni, Gibelli & Rigamonti, 2002)\" propone medir los impactos sociales de la movilidad a través de un Indicador (Índice), sobre el cual se desarrollan los ejercicios de medición con las formas urbanas y las formas de movilidad. ¿Cuál de las siguientes afirmaciones es la que se ajusta al concepto del índice de movilidad que propone y desarrolla el artículo?",
+    "opciones": [
+      "Los costos sociales de la movilidad se miden como beneficios ambientales derivados del tipo de modos de transporte y movilidad (público y/o privado)",
+      "Los costos sociales de la movilidad se miden como costos ambientales derivados del tipo de consumo de tierra (land)",
+      "La demanda de movilidad es un componente importante del impacto ambiental (medido como costo ambiental) del desarrollo urbano",
+      "Los costos sociales de la movilidad se miden como costos ambientales derivados del tiempo del viaje",
+      "Los beneficios sociales de la movilidad se miden como costos ambientales derivados de la forma y expansión urbana"
+    ],
+    "correcta": 2,
+    "explicacion": "El índice nace de la idea de que la demanda de movilidad que genera una forma urbana es un componente importante de su impacto ambiental. Se construye ponderando los viajes al trabajo por modo y duración, por municipio de origen, y se mide aparte del consumo de suelo. Es la opción que mejor se sostiene por descarte (las demás hablan de beneficios, de tierra o solo de tiempo); no conozco la clave oficial del control, así que contrástala con el artículo.",
+    "errores": [
+      "Habla de beneficios; el índice mide un impacto o costo ambiental, no un beneficio.",
+      "El consumo de suelo es la otra medida del estudio, separada del índice de movilidad; el índice se construye con los viajes, no con la tierra.",
+      null,
+      "Deja por fuera el modo: el índice pondera los viajes al trabajo por modo y por duración, no solo por tiempo.",
+      "Mezcla beneficios con costos ambientales; el índice no mide beneficios sociales."
+    ],
+    "concepto": "Idea que sustenta el índice de impacto de la movilidad",
+    "nivel": "interpretacion",
+    "referencia": "Camagni, Gibelli y Rigamonti (2002), Ecological Economics 40(2), 199-216",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "En el estudio del área metropolitana de Milán, el índice de impacto de la movilidad se construye a partir de los viajes al trabajo. ¿Cuál de los siguientes elementos NO hace parte de la construcción de ese índice?",
+    "opciones": [
+      "El modo de transporte con que se hace cada viaje al trabajo.",
+      "La duración de cada viaje al trabajo.",
+      "El municipio de origen de quien realiza el viaje.",
+      "El consumo de suelo por vivienda del municipio.",
+      "El conjunto de viajes al trabajo de los residentes del municipio."
+    ],
+    "correcta": 3,
+    "explicacion": "El consumo de suelo por vivienda es la otra medida del estudio, calculada por separado. El índice de movilidad se construye con los viajes al trabajo ponderados por modo y duración, agregados por municipio de origen.",
+    "errores": [
+      "Sí entra: es uno de los dos criterios de ponderación.",
+      "Sí entra: es el otro criterio de ponderación; un viaje largo en auto pesa más.",
+      "Sí entra: el índice se calcula por municipio de origen, para compararlos entre sí.",
+      null,
+      "Sí entra: es la base de datos del índice (viajes al trabajo)."
+    ],
+    "concepto": "Construcción del índice de impacto de la movilidad",
+    "nivel": "contraste",
+    "referencia": "Camagni, Gibelli y Rigamonti (2002), Ecological Economics 40(2), 199-216",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes afirmaciones se ajusta a la forma en que el estudio de Milán mide los dos costos ambientales asociados a los patrones de expansión urbana?",
+    "opciones": [
+      "Un único indicador compuesto mezcla el suelo consumido y los viajes en una sola cifra por municipio.",
+      "El suelo se mide por vivienda; la movilidad, con un índice de viajes al trabajo ponderados por modo y duración.",
+      "El impacto de la movilidad se mide con el consumo de suelo por vivienda, porque más suelo implica más viajes.",
+      "Ambos costos se miden con el número de viajes diarios por habitante, distinguiendo solo viajes cortos y largos.",
+      "El consumo de suelo se mide con la densidad bruta y la movilidad con los vehículos por hogar."
+    ],
+    "correcta": 1,
+    "explicacion": "El estudio cuantifica por separado el consumo de suelo (por vivienda) y el impacto de la movilidad (índice de viajes al trabajo por modo y duración). Leerlos por separado permite ver que una tipología puede ser favorable en uno y desfavorable en el otro.",
+    "errores": [
+      "Son dos medidas separadas: por eso una tipología puede salir bien en una y mal en la otra.",
+      null,
+      "El suelo y la movilidad no se sustituyen: se miden aparte y luego se comparan entre tipologías.",
+      "El suelo no se mide con viajes, y el índice distingue también el modo de transporte.",
+      "Ni la densidad bruta es la medida de suelo del estudio ni los vehículos por hogar entran al índice."
+    ],
+    "concepto": "Dos medidas del costo ambiental",
+    "nivel": "contraste",
+    "referencia": "Camagni, Gibelli y Rigamonti (2002), Ecological Economics 40(2), 199-216",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "En el análisis por tipologías, los grandes proyectos urbanos sirven para ilustrar que los dos costos ambientales medidos en el artículo deben leerse por separado. ¿Qué muestran?",
+    "opciones": [
+      "Que son la mejor tipología en consumo de suelo y también en impacto de la movilidad, por su escala.",
+      "Que una tipología puede ser favorable en suelo por vivienda y desfavorable en impacto de la movilidad.",
+      "Que consumen más suelo por vivienda que la dispersión y, por eso, generan más viajes largos.",
+      "Que no pueden evaluarse, porque no hay datos de viajes al trabajo para actuaciones de ese tamaño.",
+      "Que la mezcla obligatoria de usos que los caracteriza anula su impacto de movilidad."
+    ],
+    "correcta": 1,
+    "explicacion": "Un resultado favorable en suelo por vivienda no implica un buen resultado en movilidad: los grandes proyectos ilustran esa diferencia, y por eso el artículo mide y lee cada costo con su propio indicador.",
+    "errores": [
+      "Si fuera así no habría nada que leer por separado; el punto es justamente que los resultados difieren.",
+      null,
+      "La dispersión es la tipología 'derrochadora' de suelo; los grandes proyectos no la superan en eso.",
+      "El estudio sí los incluye en la clasificación y los evalúa.",
+      "La mezcla de usos reduce el impacto en el modelo, pero eso no es lo que ilustran los grandes proyectos."
+    ],
+    "concepto": "Suelo vs. movilidad por tipología",
+    "nivel": "contraste",
+    "referencia": "Camagni, Gibelli y Rigamonti (2002), Ecological Economics 40(2), 199-216, pp. 213-215",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "En la regresión del impacto de la movilidad se incluyen variables dummy para las tipologías y una de ellas queda fuera como categoría de referencia. Si la dummy de 'relleno' tiene un coeficiente de -0,25 y es estadísticamente significativa, ¿cómo se interpreta?",
+    "opciones": [
+      "Un municipio de relleno tiene en promedio un índice 0,25 menor que uno de la tipología omitida, con lo demás constante.",
+      "El relleno reduce el índice en 0,25 por cada unidad adicional de densidad neta que tenga el municipio en la muestra.",
+      "El relleno es la tipología de menor impacto de todas, sea cual sea la tipología que se tome como referencia.",
+      "El signo negativo indica que la variable no es significativa y por eso debe sacarse del modelo estimado.",
+      "El relleno reduce el índice en 25 % respecto del promedio de todos los municipios de la muestra estudiada."
+    ],
+    "correcta": 0,
+    "explicacion": "Una dummy no se lee sola: su coeficiente es la diferencia esperada del índice frente a la categoría omitida, manteniendo las demás variables fijas. Por eso, si todas las dummies salen negativas, todas esas tipologías tienen menos impacto que la tipología de referencia.",
+    "errores": [
+      null,
+      "Eso describiría la pendiente de la densidad, no una dummy: la dummy solo compara contra la categoría de referencia.",
+      "Solo se sabe que es menor que la omitida; frente a otras tipologías puede ser mayor.",
+      "El signo no dice nada sobre la significancia; eso lo dice el p-valor.",
+      "El coeficiente está en unidades del índice y se compara con la categoría omitida, no con el promedio ni en porcentaje."
+    ],
+    "concepto": "Lectura de variables dummy",
+    "nivel": "interpretacion",
+    "referencia": "Clase del 3 de noviembre; Camagni, Gibelli y Rigamonti (2002), Ecological Economics 40(2), 199-216",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "Un estudiante vuelve a estimar el mismo modelo, pero ahora deja fuera como referencia otra tipología. ¿Qué espera que ocurra?",
+    "opciones": [
+      "Cambian los coeficientes de las dummies, que se miden frente a otra base; no cambian las predicciones ni las variables continuas.",
+      "Cambian todos los coeficientes del modelo, incluidos los de distancia a Milán, densidad neta y edad de las edificaciones.",
+      "No cambia ningún coeficiente, porque la categoría omitida no entra en el modelo y por lo tanto no influye en nada.",
+      "El modelo deja de estimarse, porque solo puede omitirse como referencia la tipología con el mayor impacto de la muestra.",
+      "Mejora el R² de forma sistemática, porque la nueva tipología de referencia explica una parte mayor de la variación."
+    ],
+    "correcta": 0,
+    "explicacion": "Con N tipologías entran N-1 dummies. La categoría omitida es la base de comparación: si se cambia, los coeficientes de las dummies se reexpresan frente a la nueva base, pero el ajuste, las predicciones y los coeficientes de las demás variables no cambian.",
+    "errores": [
+      null,
+      "Las variables continuas conservan su coeficiente: la elección de la base solo reordena las comparaciones entre tipologías.",
+      "Sí cambian: cada dummy es una diferencia respecto de la base elegida.",
+      "Puede omitirse cualquiera; lo que no se puede es incluirlas todas junto con la constante.",
+      "El ajuste (R²) es el mismo: es el mismo modelo con otra parametrización."
+    ],
+    "concepto": "Categoría de referencia en dummies",
+    "nivel": "aplicacion",
+    "referencia": "Clase del 3 de noviembre",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "En el modelo del impacto de la movilidad, la relación empleos/residentes (aproximación a la mezcla de usos) tiene coeficiente negativo. ¿Qué argumento explica ese signo?",
+    "opciones": [
+      "Con más empleo y servicios dentro del municipio, los viajes de los residentes se acortan y baja el impacto.",
+      "Más empleo atrae viajeros de otros municipios y el índice descuenta esos viajes entrantes de la movilidad local.",
+      "Más empleo implica mayor densidad bruta, y es la densidad bruta la que reduce el índice, no la mezcla de usos.",
+      "El signo negativo es un error de especificación, porque más mezcla de usos debería aumentar los viajes.",
+      "Los municipios con más empleo por residente quedan más lejos de Milán y por eso sus residentes viajan menos."
+    ],
+    "correcta": 0,
+    "explicacion": "La razón empleos/residentes funciona como proxy de la mezcla de usos: cuando el empleo generado por usos distintos al residencial es alto frente a los residentes, hay servicios cerca y los viajes se acortan. Por eso un municipio de uso residencial casi exclusivo (relación cercana a cero) tiene más impacto.",
+    "errores": [
+      null,
+      "El índice se calcula por municipio de origen de los viajes de sus residentes; los viajes entrantes no lo descuentan.",
+      "El efecto de la mezcla se mide con su propio coeficiente, manteniendo la densidad constante.",
+      "Es el resultado esperado: la mezcla acerca destinos y acorta viajes.",
+      "La distancia a Milán es otra variable del modelo; el efecto de la mezcla se interpreta con ella constante."
+    ],
+    "concepto": "Mezcla de usos y movilidad",
+    "nivel": "causa",
+    "referencia": "Clase del 3 de noviembre; Camagni, Gibelli y Rigamonti (2002), Ecological Economics 40(2), 199-216",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "Suponga un modelo en el que el índice de impacto (Y) está en nivel y la densidad neta entra en logaritmo natural, con un coeficiente de -0,10. Si la densidad neta de un municipio se duplica y lo demás se mantiene constante, ¿cuál es el cambio esperado del índice?",
+    "opciones": [
+      "Disminuye alrededor de 0,07 unidades del índice, que es -0,10 × ln 2.",
+      "Disminuye 0,10 unidades del índice, que es el coeficiente.",
+      "Disminuye 0,20 unidades del índice, porque la densidad se multiplica por 2.",
+      "Disminuye 10 % del valor del índice.",
+      "Disminuye 0,007 unidades, porque el efecto de un logaritmo es siempre diez veces menor."
+    ],
+    "correcta": 0,
+    "explicacion": "Con Y en nivel y ln(X), el cambio esperado de Y al multiplicar X por un factor k es b × ln(k). Aquí: -0,10 × ln 2 ≈ -0,069. Se usan logaritmos para reducir el orden de magnitud y para leer cambios proporcionales de la variable.",
+    "errores": [
+      null,
+      "El coeficiente es el cambio por cada unidad de ln(densidad); duplicar la densidad suma ln 2 ≈ 0,69, no 1.",
+      "En un modelo con logaritmo no se multiplica el coeficiente por el factor, se multiplica por ln del factor.",
+      "El índice está en nivel; el efecto está en unidades del índice, no en porcentaje del índice.",
+      "No existe tal regla; se aplica -0,10 × ln 2."
+    ],
+    "concepto": "Lectura de un coeficiente con logaritmo",
+    "nivel": "calculo",
+    "referencia": "Clase del 3 de noviembre",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "Un parámetro del modelo tiene un p-valor de 0,07. El modelo tiene R² cercano a 0,49, un F global significativo, un Durbin-Watson aceptable y no muestra heterocedasticidad. ¿Cuál es la lectura más adecuada, según lo discutido en clase?",
+    "opciones": [
+      "Se puede conservar la variable con cautela: se tolera p hasta 0,10 si los demás estadísticos acompañan, y un R² de ~0,5 no es malo.",
+      "Se descarta de inmediato, porque cualquier p-valor mayor que 0,05 prueba que el parámetro es igual a cero en la población.",
+      "Hay 93 % de probabilidad de que el parámetro sea distinto de cero, así que se acepta sin más análisis del resto del modelo.",
+      "Se rechaza el modelo completo, porque un R² menor de 0,8 indica mal ajuste en cualquier tipo de análisis estadístico.",
+      "El p-valor basta para decidir; los demás estadísticos solo se miran si el p-valor resulta mayor que 0,10 en el parámetro."
+    ],
+    "correcta": 0,
+    "explicacion": "Para aceptar un modelo no basta un estadístico. H0 es que el parámetro vale cero: con p ≤ 0,05 se rechaza (el parámetro es distinto de cero), y en clase se aceptó tolerar hasta 0,10 si los demás indicadores acompañan. El R² se juzga según el tipo de modelo.",
+    "errores": [
+      null,
+      "Un p-valor alto no prueba que el parámetro sea cero; solo no permite rechazarlo con ese nivel de confianza.",
+      "El p-valor no es la probabilidad de la hipótesis; es la probabilidad de ver un resultado así si H0 fuera cierta.",
+      "Depende del tipo de modelo: en econometría de este tipo ~0,49 no es malo; los R² de 0,98 se ven en modelos de transporte calibrados.",
+      "No basta un solo estadístico: se mira el conjunto (p-valor, R², F, Durbin-Watson, homocedasticidad)."
+    ],
+    "concepto": "Criterios estadísticos para aceptar un modelo",
+    "nivel": "interpretacion",
+    "referencia": "Clase del 3 de noviembre",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes afirmaciones describe correctamente la heterocedasticidad y por qué amenaza la aceptación de un modelo?",
+    "opciones": [
+      "La varianza de los residuos no es constante; invalida las pruebas de significancia y por eso se busca homocedasticidad.",
+      "Los residuos de observaciones cercanas están correlacionados entre sí; se detecta con el estadístico de Durbin-Watson.",
+      "Dos variables explicativas se mueven juntas y distorsionan los coeficientes estimados, como el PIB y el PIB per cápita.",
+      "El residuo promedio es distinto de cero, y por eso el modelo subestima o sobreestima sistemáticamente.",
+      "La variable dependiente está en logaritmos y los parámetros dejan de ser comparables entre sí."
+    ],
+    "correcta": 0,
+    "explicacion": "Residuo = valor estimado menos valor real. Lo deseable es que su varianza sea constante (homocedasticidad); si crece o decrece con el valor de las variables hay heterocedasticidad, y las pruebas de significancia dejan de ser fiables. No se confunde con autocorrelación (Durbin-Watson) ni con multicolinealidad.",
+    "errores": [
+      null,
+      "Eso es autocorrelación de los residuos, no heterocedasticidad.",
+      "Eso es multicolinealidad.",
+      "No: la heterocedasticidad habla de la dispersión de los residuos, no de su promedio.",
+      "Los logaritmos se usan justamente para hacer comparables los parámetros; no producen heterocedasticidad por sí mismos."
+    ],
+    "concepto": "Heterocedasticidad vs autocorrelación vs multicolinealidad",
+    "nivel": "contraste",
+    "referencia": "Clase del 3 de noviembre",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "En clase se dijo que las tipologías de expansión son una 'foto'. ¿Qué implica esto al clasificar un barrio?",
+    "opciones": [
+      "Depende del año de corte y de la escala: un mismo barrio puede ser relleno en una escala y extensión en otra.",
+      "Que cada barrio tiene una única tipología fija, definida cuando se aprobó su urbanización y que no cambia después.",
+      "Que la tipología depende solo de la densidad del barrio y no de su entorno ni de su relación con la huella.",
+      "Que las tipologías solo pueden aplicarse a escala metropolitana y no a una ciudad considerada por sí sola.",
+      "Que, si la tipología cambia con la escala, el análisis estadístico pierde validez y no debe hacerse."
+    ],
+    "correcta": 0,
+    "explicacion": "La clasificación es una foto: cambia con el año de corte (una extensión que luego queda rodeada por nueva urbanización pasa a ser relleno) y con la escala (Bogotá sola frente a Bogotá y los municipios vecinos). Antes de clasificar hay que declarar año y escala.",
+    "errores": [
+      null,
+      "Justamente no es fija: cambia con el año de corte y con la escala del análisis.",
+      "La tipología se define por la relación con la huella urbana existente (dentro, en el borde, separado, a lo largo de un eje), no por la densidad.",
+      "Se aplican a distintas escalas; lo que hay que hacer es declarar cuál se usa.",
+      "Lo que exige es fijar año y escala antes de clasificar; no invalida el análisis."
+    ],
+    "concepto": "Tipologías dependientes de la escala y del año",
+    "nivel": "aplicacion",
+    "referencia": "Clase del 3 de noviembre",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "Un conjunto de viviendas se construye sobre lotes sueltos, separados del borde urbano por terreno agrícola y sin conexión con la trama existente. Según las tipologías del artículo, ¿a cuál corresponde?",
+    "opciones": [
+      "Relleno",
+      "Extensión",
+      "Desarrollo lineal",
+      "Dispersión (sprawl)",
+      "Gran proyecto urbano"
+    ],
+    "correcta": 3,
+    "explicacion": "Fragmentos separados del tejido, de baja densidad y sin conexión con la trama existente es lo que caracteriza la dispersión (sprawl). Es la tipología que el artículo confirma como 'derrochadora' en consumo de suelo y asocia a mayor impacto de la movilidad.",
+    "errores": [
+      "El relleno ocupa vacíos dentro de la huella ya construida; aquí el crecimiento queda fuera de ella.",
+      "La extensión crece pegada al borde de la huella, prolongando las calles existentes; aquí hay terreno agrícola de por medio.",
+      "El desarrollo lineal sigue un eje de circulación; el caso no menciona ningún eje.",
+      null,
+      "Un gran proyecto es una actuación de gran tamaño, con una lógica propia; aquí son lotes sueltos, no una operación unitaria."
+    ],
+    "concepto": "Identificar tipologías en un caso",
+    "nivel": "aplicacion",
+    "referencia": "Camagni, Gibelli y Rigamonti (2002), Ecological Economics 40(2), 199-216",
+    "clase": "2026-11-03"
+  },
+  {
+    "enunciado": "En el estudio de Milán se usan una densidad bruta y una densidad neta. ¿Cómo se distinguen?",
+    "opciones": [
+      "La bruta divide los habitantes entre toda el área municipal y la neta entre el área construida; ambas en hab/km².",
+      "La bruta divide los habitantes entre el área construida y la neta entre toda el área municipal, ambas en hab/km².",
+      "La bruta cuenta los habitantes y la neta cuenta las viviendas, ambas por km² de área municipal total del municipio.",
+      "La bruta incluye a los trabajadores que entran al municipio cada día y la neta solo a los residentes del mismo.",
+      "La neta se expresa en logaritmos y la bruta en nivel, y por esa razón sus valores resultan distintos entre sí."
+    ],
+    "correcta": 0,
+    "explicacion": "El denominador es lo que define la densidad: en esta publicación, bruta = habitantes / área municipal total; neta = habitantes / área construida. La neta es la que entra al modelo del impacto de la movilidad.",
+    "errores": [
+      null,
+      "Están invertidas: la neta usa solo el área construida.",
+      "Las dos son habitantes por km²; lo que cambia es el denominador.",
+      "Ninguna de las dos cuenta trabajadores que entran: ambas parten de los habitantes.",
+      "El logaritmo es una transformación del modelo, no la diferencia entre densidad bruta y neta."
+    ],
+    "concepto": "Densidad bruta y neta",
+    "nivel": "contraste",
+    "referencia": "Camagni, Gibelli y Rigamonti (2002), Ecological Economics 40(2), 199-216",
+    "clase": "2026-11-03"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "En el artículo \"Urban mobility and urban form (Camagni, Gibelli & Rigamonti, 2002)\" plantea los principales análisis derivados de los resultados obtenidos. Defina si cada una de las siguientes afirmaciones son falsas o verdaderas:",
+    "afirmaciones": [
+      {
+        "texto": "With reference to the mobility generated, the travel times of private transport seem to be correlated both with the urban dimension and density and with the presence of recent urbanization, which indicates that the lifestyle and mobility models of the past are replicated.",
+        "verdadera": false,
+        "explicacion": "Los tiempos del transporte privado se correlacionan menos con el tamaño y la densidad que con la urbanización reciente, y eso se lee como señal de nuevos estilos de vida y modelos de movilidad, no de que se repitan los del pasado."
+      },
+      {
+        "texto": "With reference to the mobility generated, public transport seems to be strongly influenced, both in terms of efficiency and competitiveness, by the structural organisation of an urban area: the more dispersed and less structured the development, the lower its level of efficiency and competitiveness and consequently its share of the mobility market.",
+        "verdadera": true,
+        "explicacion": "Cuanto más dispersa y menos estructurada la urbanización, menor eficiencia y competitividad del transporte público y menor su cuota de mercado."
+      },
+      {
+        "texto": "With reference to the mobility generated, lower environmental impacts were proved to be associated with low densities, sprawling development, more recent urbanisation processes and residential specialisation of the single municipalities.",
+        "verdadera": false,
+        "explicacion": "Es al revés: los mayores impactos se asocian con baja densidad, dispersión, urbanización reciente y especialización residencial."
+      },
+      {
+        "texto": "The statistical analysis confirmed the expected \"wasteful\" character of sprawling development patterns in terms of land consumption.",
+        "verdadera": true,
+        "explicacion": "Se confirma el carácter derrochador de la dispersión en consumo de suelo."
+      },
+      {
+        "texto": "The statistical analysis suggests that recent urban development is becoming relatively 'virtuous' with respect to the past.",
+        "verdadera": true,
+        "explicacion": "El consumo de suelo por vivienda disminuye con el tiempo: lo reciente es relativamente 'virtuoso' frente a lo anterior. Esto no implica que el impacto de la movilidad también baje: cada resultado usa su indicador."
+      }
+    ],
+    "concepto": "Resultados del artículo de Milán",
+    "nivel": "interpretacion",
+    "referencia": "Camagni, Gibelli y Rigamonti (2002), Ecological Economics 40(2), 199-216, pp. 199, 204, 206-207 y 213-215",
+    "clase": "2026-11-03"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "A partir del artículo de Camagni, Gibelli y Rigamonti (2002) sobre el área metropolitana de Milán, defina si cada afirmación sobre las tipologías de expansión urbana es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "Infilling consists of new development located on vacant or redeveloped plots inside the already built-up area.",
+        "verdadera": true,
+        "explicacion": "Relleno: ocupa vacíos dentro de la huella ya construida."
+      },
+      {
+        "texto": "Sprawl is a compact, high-density form of growth that extends directly from the edge of the existing urban fabric.",
+        "verdadera": false,
+        "explicacion": "Eso describe la extensión. La dispersión (sprawl) genera fragmentos separados del tejido y de baja densidad."
+      },
+      {
+        "texto": "Linear development follows a circulation corridor, such as a highway or a transit line, taking advantage of its accessibility.",
+        "verdadera": true,
+        "explicacion": "Desarrollo lineal: la expansión se alinea a lo largo de un eje de circulación."
+      },
+      {
+        "texto": "Extension refers to development located far from the existing urban area, separated from it by agricultural land.",
+        "verdadera": false,
+        "explicacion": "Eso describe la dispersión. La extensión crece justo en el borde de la huella existente, prolongando sus calles y redes."
+      },
+      {
+        "texto": "Large-scale projects are developments of considerable size that act relatively independently from the surrounding urban fabric.",
+        "verdadera": true,
+        "explicacion": "Gran proyecto: actuación de tamaño considerable, con lógica propia frente al tejido existente."
+      }
+    ],
+    "concepto": "Definición de las cinco tipologías",
+    "nivel": "contraste",
+    "referencia": "Camagni, Gibelli y Rigamonti (2002), Ecological Economics 40(2), 199-216, pp. 199-204",
+    "clase": "2026-11-03"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "Sobre cómo mide el artículo de Milán los costos de la expansión urbana y cómo se lee su regresión, defina si cada afirmación es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "The mobility impact index weights journey-to-work trips by the mode of transport used and by the duration of the trip.",
+        "verdadera": true,
+        "explicacion": "Es la construcción del índice: viajes al trabajo ponderados por modo y duración."
+      },
+      {
+        "texto": "The index is built from the municipality of destination of each journey to work.",
+        "verdadera": false,
+        "explicacion": "Se construye por municipio de origen de los viajes."
+      },
+      {
+        "texto": "Land consumption and mobility impact are measured with two separate indicators, so a typology can rank well on one and badly on the other.",
+        "verdadera": true,
+        "explicacion": "Son dos medidas distintas; los grandes proyectos ilustran un resultado favorable en suelo por vivienda y desfavorable en movilidad."
+      },
+      {
+        "texto": "The coefficient of a typology dummy is read directly as the absolute impact of that typology, regardless of the omitted category.",
+        "verdadera": false,
+        "explicacion": "Una dummy se lee frente a la categoría omitida (base de referencia), no en términos absolutos."
+      },
+      {
+        "texto": "A higher employees/residents ratio, used as a proxy for land-use mix, is associated with a lower mobility impact.",
+        "verdadera": true,
+        "explicacion": "Más mezcla de usos acerca los destinos y reduce el impacto de la movilidad."
+      }
+    ],
+    "concepto": "Índice de movilidad y lectura del modelo",
+    "nivel": "interpretacion",
+    "referencia": "Camagni, Gibelli y Rigamonti (2002), Ecological Economics 40(2), 199-216; clase del 3 de noviembre",
+    "clase": "2026-11-03"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "Sobre los estadísticos que se discutieron en clase para aceptar o rechazar el modelo de regresión del artículo de Milán, defina si cada afirmación es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "If the p-value of a coefficient is 0.05 or lower, the null hypothesis that the parameter equals zero is rejected.",
+        "verdadera": true,
+        "explicacion": "H0 es que el parámetro vale cero; con p ≤ 0,05 se rechaza y el parámetro es distinto de cero."
+      },
+      {
+        "texto": "Heteroscedasticity of the residuals is a desirable property of a well-specified model.",
+        "verdadera": false,
+        "explicacion": "Lo deseable es homocedasticidad (varianza constante); la heterocedasticidad es motivo serio para cuestionar el modelo."
+      },
+      {
+        "texto": "Multicollinearity arises when explanatory variables move together, which can distort the estimated coefficients.",
+        "verdadera": true,
+        "explicacion": "Ejemplo del profesor: PIB y PIB per cápita en la misma regresión."
+      },
+      {
+        "texto": "The Durbin-Watson statistic is used to detect autocorrelation in the residuals.",
+        "verdadera": true,
+        "explicacion": "Durbin-Watson mira la autocorrelación de los residuos."
+      },
+      {
+        "texto": "An R-squared of about 0.49 means that the model must always be rejected, whatever the other statistics show.",
+        "verdadera": false,
+        "explicacion": "No basta un solo estadístico; en este tipo de modelo un R² cercano a 0,5 no es malo."
+      }
+    ],
+    "concepto": "Estadísticos para aceptar un modelo",
+    "nivel": "interpretacion",
+    "referencia": "Clase del 3 de noviembre",
+    "clase": "2026-11-03"
+  }
+]

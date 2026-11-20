@@ -27,6 +27,19 @@
       },
       "ficha": null,
       "prompt_notebooklm": null
+    },
+    {
+      "id": "camagni-gibelli-rigamonti-2002",
+      "autor": "Roberto Camagni, Maria Cristina Gibelli y Paolo Rigamonti",
+      "titulo": "Urban mobility and urban form: the social and environmental costs of different patterns of urban expansion (Milán)",
+      "publicacion": "Ecological Economics 40(2), 2002, pp. 199-216",
+      "alcance": "Artículo completo. No está en el programa del curso, pero se trabajó en la clase del 3 de noviembre y aparece en el control de lectura",
+      "estado": {
+        "leida": "parcial",
+        "nota": "No se pudo obtener el PDF. La ficha se construyó con el resumen del artículo, la clase del 3 de noviembre y las capturas del control; debe contrastarse con el artículo."
+      },
+      "ficha": "camagni-gibelli-rigamonti-2002/ficha.md",
+      "prompt_notebooklm": null
     }
   ],
   "complementarias_no_evaluadas": []

@@ -1,8 +1,10 @@
 {
  "totales": {
-  "preguntas": 878,
-  "trampas": 745,
-  "pares": 319
+  "preguntas": 940,
+  "trampas": 751,
+  "pares": 325,
+  "mcq": 52,
+  "vfbloque": 4
  },
  "lecturas": [
   {
@@ -15,6 +17,8 @@
    "trampas": 17,
    "pares": 0,
    "respondibles": 7,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 0,
    "vf_directas": 0
   },
@@ -28,6 +32,8 @@
    "trampas": 20,
    "pares": 0,
    "respondibles": 8,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 0,
    "vf_directas": 0
   },
@@ -41,6 +47,8 @@
    "trampas": 12,
    "pares": 7,
    "respondibles": 8,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 0,
    "vf_directas": 0
   },
@@ -54,6 +62,8 @@
    "trampas": 22,
    "pares": 11,
    "respondibles": 12,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 0,
    "vf_directas": 0
   },
@@ -67,6 +77,8 @@
    "trampas": 21,
    "pares": 13,
    "respondibles": 9,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 0,
    "vf_directas": 0
   },
@@ -80,6 +92,8 @@
    "trampas": 37,
    "pares": 12,
    "respondibles": 25,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 0,
    "vf_directas": 0
   },
@@ -93,6 +107,8 @@
    "trampas": 19,
    "pares": 13,
    "respondibles": 13,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 0,
    "vf_directas": 0
   },
@@ -106,6 +122,8 @@
    "trampas": 30,
    "pares": 18,
    "respondibles": 22,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 0,
    "vf_directas": 0
   },
@@ -115,10 +133,12 @@
    "autor": "Roberto Camagni",
    "titulo": "Economía urbana, capítulo 2: El principio de accesibilidad (o de la competencia espacial)",
    "archivo": "semana-04/camagni-2005-cap2.json",
-   "preguntas": 40,
+   "preguntas": 58,
    "trampas": 50,
    "pares": 14,
-   "respondibles": 40,
+   "respondibles": 58,
+   "mcq": 18,
+   "vfbloque": 0,
    "vf": 0,
    "vf_directas": 0
   },
@@ -128,10 +148,12 @@
    "autor": "Mario Polèse",
    "titulo": "Economía urbana y regional, capítulo 10: La localización de las actividades económicas en el espacio urbano",
    "archivo": "semana-04/polese-1998-cap10.json",
-   "preguntas": 46,
+   "preguntas": 66,
    "trampas": 53,
    "pares": 31,
-   "respondibles": 46,
+   "respondibles": 66,
+   "mcq": 20,
+   "vfbloque": 0,
    "vf": 0,
    "vf_directas": 0
   },
@@ -145,6 +167,8 @@
    "trampas": 55,
    "pares": 21,
    "respondibles": 48,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 0,
    "vf_directas": 0
   },
@@ -158,6 +182,8 @@
    "trampas": 80,
    "pares": 25,
    "respondibles": 72,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 13,
    "vf_directas": 13
   },
@@ -171,6 +197,8 @@
    "trampas": 50,
    "pares": 20,
    "respondibles": 48,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 5,
    "vf_directas": 5
   },
@@ -184,6 +212,8 @@
    "trampas": 70,
    "pares": 24,
    "respondibles": 80,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 6,
    "vf_directas": 6
   },
@@ -197,6 +227,8 @@
    "trampas": 42,
    "pares": 24,
    "respondibles": 110,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 12,
    "vf_directas": 9
   },
@@ -210,6 +242,8 @@
    "trampas": 37,
    "pares": 14,
    "respondibles": 54,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 5,
    "vf_directas": 5
   },
@@ -223,6 +257,8 @@
    "trampas": 53,
    "pares": 22,
    "respondibles": 82,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 4,
    "vf_directas": 4
   },
@@ -236,8 +272,25 @@
    "trampas": 40,
    "pares": 23,
    "respondibles": 114,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 8,
    "vf_directas": 8
+  },
+  {
+   "semana": 8,
+   "lectura": "camagni-gibelli-rigamonti-2002",
+   "autor": "Roberto Camagni, Maria Cristina Gibelli y Paolo Rigamonti",
+   "titulo": "Urban mobility and urban form: the social and environmental costs of different patterns of urban expansion (Milán)",
+   "archivo": "semana-08/camagni-gibelli-rigamonti-2002.json",
+   "preguntas": 24,
+   "trampas": 6,
+   "pares": 6,
+   "respondibles": 24,
+   "mcq": 14,
+   "vfbloque": 4,
+   "vf": 3,
+   "vf_directas": 3
   },
   {
    "semana": 8,
@@ -249,6 +302,8 @@
    "trampas": 37,
    "pares": 27,
    "respondibles": 80,
+   "mcq": 0,
+   "vfbloque": 0,
    "vf": 4,
    "vf_directas": 4
   }

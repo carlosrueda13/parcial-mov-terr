@@ -27,6 +27,7 @@ export const ETIQUETAS: Record<string, string> = {
   'herce-2009-cap1-2': 'Herce, caps. I y II',
   'transport-access-manual-2020': 'Transport Access Manual',
   'fernandez-2023-cap1-2': 'Fernández (2023)',
+  'camagni-gibelli-rigamonti-2002': 'Camagni et al. (Milán, 2002)',
   'viana-cerqueira-2026': 'Viana Cerqueira et al.',
 };
 

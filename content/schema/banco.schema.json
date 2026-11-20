@@ -3,56 +3,327 @@
   "title": "Banco de una lectura",
   "description": "Generado por scripts/build_banco.py a partir de ficha.md. No se edita a mano.",
   "type": "object",
-  "required": ["semana", "lectura", "fuente", "preguntas", "trampas", "pares"],
+  "required": [
+    "semana",
+    "lectura",
+    "fuente",
+    "preguntas",
+    "trampas",
+    "pares"
+  ],
   "properties": {
-    "semana": {"type": "integer", "minimum": 1, "maximum": 8},
-    "lectura": {"type": "string"},
-    "autor": {"type": ["string", "null"]},
-    "titulo": {"type": ["string", "null"]},
-    "alcance": {"type": ["string", "null"]},
-    "fuente": {"type": "string"},
-    "preguntas": {"type": "array", "items": {"$ref": "#/$defs/pregunta"}},
-    "trampas": {"type": "array", "items": {"$ref": "#/$defs/trampa"}},
-    "pares": {"type": "array", "items": {"$ref": "#/$defs/par"}}
+    "semana": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 8
+    },
+    "lectura": {
+      "type": "string"
+    },
+    "autor": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "titulo": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "alcance": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "fuente": {
+      "type": "string"
+    },
+    "preguntas": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/pregunta"
+      }
+    },
+    "trampas": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/trampa"
+      }
+    },
+    "pares": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/par"
+      }
+    }
   },
   "$defs": {
     "pregunta": {
       "type": "object",
-      "required": ["id", "n_ficha", "tipo", "enunciado", "respuesta", "referencia", "estado"],
+      "required": [
+        "id",
+        "tipo",
+        "enunciado",
+        "respuesta",
+        "referencia",
+        "estado"
+      ],
       "properties": {
-        "id": {"type": "string"},
-        "n_ficha": {"type": "integer"},
-        "tipo": {"enum": ["vf", "abierta"]},
-        "enunciado": {"type": "string", "minLength": 1},
-        "respuesta": {"type": ["string", "null"]},
-        "referencia": {"type": ["string", "null"], "description": "Páginas citadas en la respuesta, tal como aparecen en la ficha."},
-        "estado": {"enum": ["completa", "sin_respuesta"]},
-        "verdadera": {"type": ["boolean", "null"], "description": "Solo en tipo vf. null cuando la respuesta matiza en lugar de decir Verdadero o Falso."},
-        "explicacion": {"type": "string"}
+        "id": {
+          "type": "string"
+        },
+        "n_ficha": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Número en la ficha. null en las de comprensión (mcq y vfbloque), que viven en comprension.json."
+        },
+        "tipo": {
+          "enum": [
+            "vf",
+            "abierta",
+            "mcq",
+            "vfbloque"
+          ]
+        },
+        "enunciado": {
+          "type": "string",
+          "minLength": 1
+        },
+        "respuesta": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "referencia": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Páginas citadas en la respuesta, tal como aparecen en la ficha."
+        },
+        "estado": {
+          "enum": [
+            "completa",
+            "sin_respuesta"
+          ]
+        },
+        "verdadera": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "description": "Solo en tipo vf. null cuando la respuesta matiza en lugar de decir Verdadero o Falso."
+        },
+        "explicacion": {
+          "type": "string"
+        },
+        "opciones": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 6,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description": "Solo mcq. Se barajan al mostrarlas."
+        },
+        "correcta": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 5,
+          "description": "Solo mcq. Índice de la opción correcta en 'opciones'."
+        },
+        "errores": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 6,
+          "items": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "description": "Solo mcq. Por qué falla cada opción incorrecta; null en la correcta."
+        },
+        "concepto": {
+          "type": "string",
+          "description": "Solo mcq y vfbloque. Concepto que se evalúa."
+        },
+        "nivel": {
+          "enum": [
+            "contraste",
+            "aplicacion",
+            "interpretacion",
+            "calculo",
+            "grafica",
+            "causa"
+          ],
+          "description": "Solo mcq y vfbloque."
+        },
+        "clase": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Solo mcq y vfbloque. Fecha(s) de clase donde el profesor enfatizó el concepto."
+        },
+        "afirmaciones": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 8,
+          "description": "Solo vfbloque. Cada afirmación se marca verdadera o falsa por separado.",
+          "items": {
+            "type": "object",
+            "required": [
+              "texto",
+              "verdadera",
+              "explicacion"
+            ],
+            "properties": {
+              "texto": {
+                "type": "string",
+                "minLength": 1
+              },
+              "verdadera": {
+                "type": "boolean"
+              },
+              "explicacion": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
       },
       "allOf": [
-        {"if": {"properties": {"estado": {"const": "completa"}}}, "then": {"properties": {"respuesta": {"type": "string", "minLength": 1}}}},
-        {"if": {"properties": {"tipo": {"const": "vf"}}}, "then": {"required": ["verdadera", "explicacion"]}}
+        {
+          "if": {
+            "properties": {
+              "estado": {
+                "const": "completa"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "respuesta": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "tipo": {
+                "const": "vf"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "verdadera",
+              "explicacion"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "tipo": {
+                "const": "mcq"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "opciones",
+              "correcta",
+              "errores",
+              "concepto",
+              "nivel",
+              "explicacion"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "tipo": {
+                "const": "vfbloque"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "afirmaciones",
+              "concepto",
+              "nivel"
+            ]
+          }
+        }
       ]
     },
     "trampa": {
       "type": "object",
-      "required": ["id", "n_ficha", "grupo", "texto", "referencia"],
+      "required": [
+        "id",
+        "n_ficha",
+        "grupo",
+        "texto",
+        "referencia"
+      ],
       "properties": {
-        "id": {"type": "string"},
-        "n_ficha": {"type": "integer"},
-        "grupo": {"type": ["string", "null"]},
-        "texto": {"type": "string", "minLength": 1},
-        "referencia": {"type": ["string", "null"]}
+        "id": {
+          "type": "string"
+        },
+        "n_ficha": {
+          "type": "integer"
+        },
+        "grupo": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "texto": {
+          "type": "string",
+          "minLength": 1
+        },
+        "referencia": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
       }
     },
     "par": {
       "type": "object",
-      "required": ["id", "par", "diferencia"],
+      "required": [
+        "id",
+        "par",
+        "diferencia"
+      ],
       "properties": {
-        "id": {"type": "string"},
-        "par": {"type": "string", "minLength": 1},
-        "diferencia": {"type": "string", "minLength": 1}
+        "id": {
+          "type": "string"
+        },
+        "par": {
+          "type": "string",
+          "minLength": 1
+        },
+        "diferencia": {
+          "type": "string",
+          "minLength": 1
+        }
       }
     }
   }

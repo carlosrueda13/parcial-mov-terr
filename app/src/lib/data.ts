@@ -2,17 +2,27 @@ import indice from '../../../content/banco/index.json';
 import { ETIQUETAS } from './config';
 import { clave } from './util';
 
+export type Nivel = 'contraste' | 'aplicacion' | 'interpretacion' | 'calculo' | 'grafica' | 'causa';
 export type Pregunta = {
   id: string;
-  n_ficha: number;
-  tipo: 'vf' | 'abierta';
+  n_ficha: number | null;
+  tipo: 'vf' | 'abierta' | 'mcq' | 'vfbloque';
   enunciado: string;
   respuesta: string | null;
   referencia: string | null;
   estado: 'completa' | 'sin_respuesta';
   verdadera?: boolean | null;
   explicacion?: string;
+  // Solo mcq (comprensión): se barajan al mostrarlas.
+  afirmaciones?: Afirmacion[]; // solo vfbloque
+  opciones?: string[];
+  correcta?: number;
+  errores?: (string | null)[];
+  concepto?: string;
+  nivel?: Nivel;
+  clase?: string | null;
 };
+export type Afirmacion = { texto: string; verdadera: boolean; explicacion: string };
 export type Trampa = { id: string; n_ficha: number; grupo: string | null; texto: string; referencia: string | null };
 export type Par = { id: string; par: string; diferencia: string };
 export type Banco = {
@@ -36,6 +46,7 @@ export type FilaIndice = {
   trampas: number;
   pares: number;
   respondibles: number;
+  mcq?: number;
   vf: number;
   vf_directas: number;
 };
@@ -57,16 +68,32 @@ export type Item = {
   enunciado: string;
   respuesta: string;
   referencia: string | null;
+  // Retroalimentación opcional (las preguntas de comprensión la traen; las del repaso no).
+  explicacion?: string | null;
+  concepto?: string;
+  nivel?: Nivel;
+  clase?: string | null;
 } & (
   | { tipo: 'vf'; verdadera: boolean }
   | { tipo: 'abierta' }
-  | { tipo: 'opcion'; opciones: string[]; correcta: number }
+  | { tipo: 'opcion'; opciones: string[]; correcta: number; errores?: (string | null)[] }
+  | { tipo: 'vfbloque'; afirmaciones: Afirmacion[] }
 );
 
 export const TIPO_PREGUNTA: Record<Item['tipo'], string> = {
   vf: 'Verdadero o falso',
   abierta: 'Abierta',
   opcion: 'Selección única',
+  vfbloque: 'Bloque de afirmaciones V/F',
+};
+
+export const NOMBRE_NIVEL: Record<Nivel, string> = {
+  contraste: 'Contraste de conceptos',
+  aplicacion: 'Aplicación a un caso',
+  interpretacion: 'Interpretación',
+  calculo: 'Cálculo',
+  grafica: 'Lectura de gráfica',
+  causa: 'Causa y consecuencia',
 };
 
 export const INDICE = indice as { totales: { preguntas: number; trampas: number; pares: number }; lecturas: FilaIndice[] };
@@ -107,11 +134,18 @@ export const semanaMeta = (n: number) => SEMANAS.find((s) => s.semana === n);
 export function itemsDe(b: Banco): Item[] {
   return b.preguntas
     .filter((p) => p.estado === 'completa' && p.respuesta)
-    .map((p) => {
+    .map((p): Item => {
       const base = {
         id: p.id, semana: b.semana, lectura: b.lectura,
         enunciado: p.enunciado, respuesta: p.respuesta as string, referencia: p.referencia,
+        explicacion: p.explicacion ?? null, concepto: p.concepto, nivel: p.nivel, clase: p.clase ?? null,
       };
+      if (p.tipo === 'mcq' && p.opciones && typeof p.correcta === 'number') {
+        return { ...base, tipo: 'opcion', opciones: p.opciones, correcta: p.correcta, errores: p.errores };
+      }
+      if (p.tipo === 'vfbloque' && p.afirmaciones?.length) {
+        return { ...base, tipo: 'vfbloque', afirmaciones: p.afirmaciones };
+      }
       // Un V/F cuya respuesta matiza ("el texto lo dice, pero...") se trata como pregunta abierta.
       return p.tipo === 'vf' && typeof p.verdadera === 'boolean'
         ? { ...base, tipo: 'vf', verdadera: p.verdadera }
@@ -119,4 +153,5 @@ export function itemsDe(b: Banco): Item[] {
     });
 }
 
-export const prefijoPreguntas = (semana: number, lectura: string) => `${clave(semana, lectura)}-q`;
+// Las preguntas de ficha llevan -q y las de comprensión -m; las trampas (-t) y pares (-p) no se registran en prog.q.
+export const prefijoPreguntas = (semana: number, lectura: string) => `${clave(semana, lectura)}-`;

@@ -40,7 +40,7 @@ export function OpcionesPregunta({ opciones, elegida, elegir, bloqueadas = false
         <button key={opcion} type="button" className="opt press" aria-pressed={elegida === i} disabled={bloqueadas}
           style={{ background: elegida === i ? 'var(--blue)' : 'var(--paper)', color: elegida === i ? '#fff' : 'var(--ink)', border: '3px solid var(--ink)' }}
           onClick={() => elegir(i)}>
-          <b className="d" aria-hidden="true">{'ABCD'[i]}.</b> {opcion}
+          <b className="d" aria-hidden="true">{'ABCDEF'[i]}.</b> {opcion}
         </button>
       ))}
     </div>

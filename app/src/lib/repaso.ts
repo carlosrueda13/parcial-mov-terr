@@ -2,7 +2,9 @@ import preguntas from '../../../content/repaso-parcial.json';
 import type { Item } from './data';
 import { barajar } from './util';
 
-export const REPASO = preguntas as Item[];
+// Las 68 de selección única de este archivo se descartaron del juego (opciones cortas que no se parecen al parcial);
+// las de selección múltiple vigentes son las del banco de lecturas (comprension.json), escritas al estilo del control.
+export const REPASO = (preguntas as Item[]).filter((i) => i.tipo !== 'opcion');
 
 export function muestraRepaso(items: Item[], cantidad: number): Item[] {
   const porSemana = new Map<number, Item[]>();

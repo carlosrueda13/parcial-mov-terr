@@ -5,6 +5,11 @@ preguntas modelo, trampas probables y pares que se confunden.
 Salida: content/banco/<semana>/<lectura>.json y content/banco/index.json.
 La ficha es la fuente; los JSON se regeneran con este script y no se editan a mano.
 
+Además de la ficha, cada lectura puede tener un archivo comprension.json (en la misma carpeta)
+con preguntas de selección múltiple de comprensión, escritas a mano a partir de la lectura y de lo
+que enfatizó el profesor en clase. Ese archivo SÍ se edita a mano; el script lo valida y lo
+incorpora al banco como preguntas de tipo "mcq" (de 4 a 6 opciones) o "vfbloque" (bloque de afirmaciones V/F).
+
 Uso: python3 scripts/build_banco.py [--check]
   --check: no escribe; solo imprime conteos y anomalías.
 """
@@ -162,6 +167,108 @@ def parsear_pares(cuerpo, base, anomalias):
     return out
 
 
+NIVELES = {"contraste", "aplicacion", "interpretacion", "calculo", "grafica", "causa"}
+MIN_OPCIONES, MAX_OPCIONES = 4, 6  # el control usa de 4 a 6 opciones (a-f)
+
+
+def parsear_comprension(ruta, base, anomalias):
+    """Lee comprension.json y devuelve preguntas tipo 'mcq' ya normalizadas."""
+    try:
+        crudo = json.loads(ruta.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        anomalias.append(f"{base}: comprension.json inválido ({e})")
+        return []
+    if not isinstance(crudo, list):
+        anomalias.append(f"{base}: comprension.json debe ser una lista")
+        return []
+    out = []
+    n_mcq = n_bloque = 0
+    for i, c in enumerate(crudo, 1):
+        if c.get("tipo") == "vfbloque":
+            n_bloque += 1
+            item = parsear_bloque(c, f"{base}-b{n_bloque:03d}", anomalias)
+            if item:
+                out.append(item)
+            continue
+        n_mcq += 1
+        pid = f"{base}-m{n_mcq:03d}"
+        faltan = [k for k in ("enunciado", "opciones", "correcta", "explicacion", "errores", "concepto", "nivel")
+                  if k not in c]
+        if faltan:
+            anomalias.append(f"{pid}: faltan campos {faltan}")
+            continue
+        ops, corr, errs = c["opciones"], c["correcta"], c["errores"]
+        n = len(ops)
+        if not MIN_OPCIONES <= n <= MAX_OPCIONES or len(set(ops)) != n:
+            anomalias.append(f"{pid}: debe tener entre {MIN_OPCIONES} y {MAX_OPCIONES} opciones distintas")
+            continue
+        if not isinstance(corr, int) or not 0 <= corr < n:
+            anomalias.append(f"{pid}: 'correcta' fuera de rango")
+            continue
+        if len(errs) != n or errs[corr] is not None or any(
+                e is None or not str(e).strip() for j, e in enumerate(errs) if j != corr):
+            anomalias.append(f"{pid}: 'errores' debe tener texto en cada incorrecta y null en la correcta")
+            continue
+        if c["nivel"] not in NIVELES:
+            anomalias.append(f"{pid}: nivel desconocido {c['nivel']!r}")
+            continue
+        largo = max(range(n), key=lambda j: len(ops[j]))
+        if largo == corr and len(ops[corr]) > 1.4 * sorted(len(o) for o in ops)[-2]:
+            anomalias.append(f"{pid}: la opción correcta es mucho más larga que las demás (delata la respuesta)")
+        out.append({
+            "id": pid,
+            "n_ficha": None,
+            "tipo": "mcq",
+            "enunciado": c["enunciado"].strip(),
+            "opciones": ops,
+            "correcta": corr,
+            "errores": errs,
+            "respuesta": ops[corr],
+            "explicacion": c["explicacion"].strip(),
+            "concepto": c["concepto"].strip(),
+            "nivel": c["nivel"],
+            "referencia": c.get("referencia"),
+            "clase": c.get("clase"),
+            "estado": "completa",
+        })
+    return out
+
+
+def parsear_bloque(c, pid, anomalias):
+    """Bloque de afirmaciones V/F (como el control): enunciado + afirmaciones[{texto, verdadera, explicacion}]."""
+    faltan = [k for k in ("enunciado", "afirmaciones", "concepto", "nivel") if k not in c]
+    if faltan:
+        anomalias.append(f"{pid}: faltan campos {faltan}")
+        return None
+    afs = c["afirmaciones"]
+    if not isinstance(afs, list) or not 2 <= len(afs) <= 8:
+        anomalias.append(f"{pid}: un bloque V/F lleva entre 2 y 8 afirmaciones")
+        return None
+    for j, a in enumerate(afs, 1):
+        if (not isinstance(a, dict) or not str(a.get("texto", "")).strip()
+                or not isinstance(a.get("verdadera"), bool) or not str(a.get("explicacion", "")).strip()):
+            anomalias.append(f"{pid}: afirmación {j} necesita texto, 'verdadera' booleana y explicación")
+            return None
+    if c["nivel"] not in NIVELES:
+        anomalias.append(f"{pid}: nivel desconocido {c['nivel']!r}")
+        return None
+    clave = " · ".join("V" if a["verdadera"] else "F" for a in afs)
+    return {
+        "id": pid,
+        "n_ficha": None,
+        "tipo": "vfbloque",
+        "enunciado": c["enunciado"].strip(),
+        "afirmaciones": [{"texto": a["texto"].strip(), "verdadera": a["verdadera"],
+                          "explicacion": a["explicacion"].strip()} for a in afs],
+        "respuesta": clave,
+        "concepto": c["concepto"].strip(),
+        "nivel": c["nivel"],
+        "referencia": c.get("referencia"),
+        "clase": c.get("clase"),
+        "estado": "completa",
+    }
+
+
 def metadatos_lectura(carpeta_semana, carpeta_lectura):
     """Busca la entrada de lecturas.json cuyo campo 'ficha' apunta a esta carpeta."""
     ruta = carpeta_semana / "lecturas.json"
@@ -177,7 +284,7 @@ def metadatos_lectura(carpeta_semana, carpeta_lectura):
 
 def main():
     solo_check = "--check" in sys.argv
-    anomalias, indice, total = [], [], {"preguntas": 0, "trampas": 0, "pares": 0}
+    anomalias, indice, total = [], [], {"preguntas": 0, "trampas": 0, "pares": 0, "mcq": 0, "vfbloque": 0}
     for carpeta_semana in sorted(CONTENIDO.glob("semana-*")):
         semana = int(carpeta_semana.name.split("-")[1])
         for ficha in sorted(carpeta_semana.glob("*/ficha.md")):
@@ -193,6 +300,9 @@ def main():
             preguntas = parsear_preguntas(c_preg or [], base, anomalias)
             trampas = parsear_trampas(c_tram or [], base, anomalias)
             pares = parsear_pares(c_par or [], base, anomalias) if c_par else []
+            ruta_comp = ficha.parent / "comprension.json"
+            if ruta_comp.exists():
+                preguntas += parsear_comprension(ruta_comp, base, anomalias)
             meta = metadatos_lectura(carpeta_semana, ficha.parent)
             doc = {
                 "semana": semana,
@@ -215,6 +325,8 @@ def main():
                     "archivo": f"semana-{semana:02d}/{lectura}.json",
                     "preguntas": len(preguntas), "trampas": len(trampas), "pares": len(pares),
                     "respondibles": sum(p["estado"] == "completa" for p in preguntas),
+                    "mcq": sum(p["tipo"] == "mcq" for p in preguntas),
+                    "vfbloque": sum(p["tipo"] == "vfbloque" for p in preguntas),
                     "vf": sum(p["tipo"] == "vf" for p in preguntas),
                     "vf_directas": sum(p["tipo"] == "vf" and isinstance(p.get("verdadera"), bool)
                                        for p in preguntas)}
@@ -223,6 +335,7 @@ def main():
                 total[k] += fila[k]
             print(f"s{semana:02d} {lectura:42s} preg={len(preguntas):3d} "
                   f"vf={sum(p['tipo'] == 'vf' for p in preguntas):3d} "
+                  f"mcq={fila['mcq']:3d} bloq={fila['vfbloque']:2d} "
                   f"tramp={len(trampas):3d} pares={len(pares):3d}")
     print("TOTAL", total)
     if not solo_check:
