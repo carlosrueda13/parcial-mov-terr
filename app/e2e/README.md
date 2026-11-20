@@ -16,4 +16,6 @@ node e2e/partC4.mjs   # simulacro
 node e2e/partC5.mjs   # práctica: configuración y persistencia
 ```
 
-Cada script termina con la línea `COMPROBACIONES: N correctas de N`. Las capturas salen en `/tmp/shots`.
+Los scripts anteriores terminan con la línea `COMPROBACIONES: N correctas de N`. Las capturas salen en `/tmp/shots`.
+
+`node e2e/repaso.mjs` comprueba las 100 preguntas en Chromium, la corrección, los reintentos, la persistencia, el simulacro y los filtros móviles. Usa el resultado de `npm run build` directamente y puede ejecutarse sin el servidor de vista previa.

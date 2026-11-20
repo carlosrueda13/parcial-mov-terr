@@ -4,6 +4,7 @@ import { Barra, Rombo } from '../components/ui';
 import { IcAudio } from '../components/icons';
 import { ZONAS, diasRestantes } from '../lib/config';
 import { INDICE, etiqueta, filasDeSemana, prefijoPreguntas, semanaMeta } from '../lib/data';
+import { REPASO } from '../lib/repaso';
 import { estadisticasPrefijo, kilometros, racha, rango, usarProg } from '../lib/store';
 import { pct, plural } from '../lib/util';
 
@@ -159,6 +160,7 @@ function MapaMovil({ zonas, objetivo }: { zonas: Zona[]; objetivo: number }) {
 
 export default function Mapa() {
   const prog = usarProg();
+  const hechasRepaso = REPASO.filter((p) => prog.q[p.id]).length;
   const zonas: Zona[] = useMemo(
     () =>
       ZONAS.map((z) => {
@@ -204,6 +206,16 @@ export default function Mapa() {
             <h1 className="h1 d">Pinta todo el mapa antes del parcial</h1>
             <p className="lead">Cada zona es una semana de lecturas y se llena a medida que dominas sus preguntas. Entra primero a la que tenga menos color.</p>
           </div>
+
+          <section className="card sm col g12" aria-label="Repaso del parcial">
+            <h2 className="h2 d">Repaso del parcial</h2>
+            <p>{REPASO.length} preguntas de las ocho semanas. Llevas {hechasRepaso} respondidas.</p>
+            <Barra valor={pct(hechasRepaso, REPASO.length)} etiqueta="Avance del repaso del parcial" />
+            <div className="row g12">
+              <Link className="press btn yellow" to="/practica?banco=parcial&n=todas">Practicar las {REPASO.length}</Link>
+              <Link className="press btn paper" to="/simulacro?banco=parcial">Hacer simulacro de repaso</Link>
+            </div>
+          </section>
 
           <ul className="statsmob" aria-label="Resumen">
             <li><p className="d">{km} km</p><p>{actual.nombre}</p></li>

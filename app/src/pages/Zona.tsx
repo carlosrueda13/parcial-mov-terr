@@ -3,6 +3,7 @@ import { Link, useParams } from 'react-router-dom';
 import { Barra, Rombo, Vacio } from '../components/ui';
 import { IcAudio, IcBoleto, IcLeer, IcPracticar } from '../components/icons';
 import { etiqueta, filaDe, prefijoPreguntas, semanaMeta } from '../lib/data';
+import { REPASO } from '../lib/repaso';
 import { estadisticasPrefijo, usarProg } from '../lib/store';
 import { pct, plural } from '../lib/util';
 
@@ -39,6 +40,9 @@ export default function Zona() {
   const fila = filaDe(actual.id);
   const q = fila ? `semana=${fila.semana}&lectura=${fila.lectura}` : '';
   const est = fila ? estadisticasPrefijo(prog, prefijoPreguntas(fila.semana, fila.lectura)) : null;
+  const repaso = REPASO.filter((p) => p.semana === semana);
+  const preguntasLectura = repaso.filter((p) => p.lectura === actual.id).length;
+  const hechasRepaso = repaso.filter((p) => prog.q[p.id]).length;
 
   return (
     <div className="page narrow">
@@ -65,6 +69,8 @@ export default function Zona() {
                     <Barra valor={p} etiqueta={`Dominio de ${etiqueta(l.id)}`} />
                     <span className="muted" style={{ fontSize: 15 }}>{p}% dominado, {plural(f.respondibles, 'pregunta', 'preguntas')}</span>
                   </>
+                ) : l.estado?.leida === 'completa' ? (
+                  <span className="pill blue">Repaso disponible</span>
                 ) : (
                   <span className="pill red">PDF pendiente</span>
                 )}
@@ -90,6 +96,11 @@ export default function Zona() {
             <Tile to={fila.vf_directas ? `/practica?${q}&tipo=vf&n=todas&ir=1` : undefined} color="var(--redSoft)" icono={<IcPracticar />} titulo="Verdadero o falso" detalle={fila.vf_directas ? `${plural(fila.vf_directas, 'afirmación', 'afirmaciones')} del banco` : 'Esta lectura no tiene afirmaciones'} />
             <Tile color="var(--line)" icono={<IcAudio />} titulo="Escuchar" detalle="Audio pendiente" />
           </div>
+        ) : actual.estado?.leida === 'completa' && preguntasLectura > 0 ? (
+          <div className="tiles">
+            <Tile to={`/practica?banco=parcial&semana=${semana}&lectura=${actual.id}&n=todas`} color="var(--greenSoft)"
+              icono={<IcPracticar />} titulo="Practicar esta lectura" detalle={`${preguntasLectura} preguntas con páginas del artículo`} />
+          </div>
         ) : (
           <div className="respuesta" style={{ background: '#fff', color: 'var(--ink)', border: '3px solid var(--ink)' }}>
             <p className="t d">Falta el PDF de esta lectura</p>
@@ -100,6 +111,7 @@ export default function Zona() {
 
       <div className="row g16">
         <Link className="press btn yellow" to={`/practica?semana=${semana}&n=todas&ir=1`}>Practicar toda la semana {semana}</Link>
+        <Link className="press btn paper" to={`/practica?banco=parcial&semana=${semana}&n=todas`}>Repaso del parcial · {hechasRepaso} de {repaso.length}</Link>
         <Link className="press btn paper" to={`/trampas?semana=${semana}`}>Ver las trampas de la semana</Link>
       </div>
     </div>

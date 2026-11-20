@@ -29,7 +29,11 @@ export default function LeerIndice() {
                   ) : (
                     <div className="tile off" style={{ minHeight: 0 }}>
                       <span style={{ flex: 1 }}><b className="d">{etiqueta(l.id)}</b><small>{l.autor}. {l.titulo}</small></span>
-                      <span className="pill red">PDF pendiente</span>
+                      {l.estado?.leida === 'completa' ? (
+                        <span className="pill">Ficha pendiente</span>
+                      ) : (
+                        <span className="pill red">PDF pendiente</span>
+                      )}
                     </div>
                   )}
                 </li>

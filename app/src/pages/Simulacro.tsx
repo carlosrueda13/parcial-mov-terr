@@ -1,22 +1,24 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { Link } from 'react-router-dom';
-import { Barra, Cargando, Chips } from '../components/ui';
-import { INDICE, Item, etiqueta } from '../lib/data';
+import { Link, useSearchParams } from 'react-router-dom';
+import { Barra, Cargando, Chips, OpcionesPregunta } from '../components/ui';
+import { INDICE, Item, TIPO_PREGUNTA, etiqueta } from '../lib/data';
 import { useContenido } from '../lib/hooks';
+import { REPASO, muestraRepaso } from '../lib/repaso';
 import { guardarSim, registrarRespuesta, usarProg } from '../lib/store';
 import { barajar, pct, plural, reloj } from '../lib/util';
 
-type Tipo = 'completo' | 'semana' | 'vf' | 'abiertas';
+type Tipo = 'completo' | 'semana' | 'vf' | 'abiertas' | 'repaso';
 type Fase = 'config' | 'run' | 'grade' | 'result';
-type Resp = boolean | string | undefined;
+type Resp = boolean | number | string | undefined;
 
 const TIPOS: { v: Tipo; t: string }[] = [
   { v: 'completo', t: 'Completo' },
   { v: 'semana', t: 'Por semana' },
   { v: 'vf', t: 'Solo verdadero o falso' },
   { v: 'abiertas', t: 'Solo abiertas' },
+  { v: 'repaso', t: 'Repaso del parcial' },
 ];
-const NOMBRE_TIPO: Record<Tipo, string> = { completo: 'completo', semana: 'por semana', vf: 'verdadero o falso', abiertas: 'abiertas' };
+const NOMBRE_TIPO: Record<Tipo, string> = { completo: 'completo', semana: 'por semana', vf: 'verdadero o falso', abiertas: 'abiertas', repaso: 'de repaso del parcial' };
 const SEG_POR_PREGUNTA = 60;
 
 function Medidor({ valor }: { valor: number }) {
@@ -37,11 +39,16 @@ function Medidor({ valor }: { valor: number }) {
 
 export default function Simulacro() {
   const prog = usarProg();
-  const [tipo, setTipo] = useState<Tipo>('completo');
+  const [params] = useSearchParams();
+  const [tipo, setTipo] = useState<Tipo>(params.get('banco') === 'parcial' ? 'repaso' : 'completo');
   const [semana, setSemana] = useState(1);
   const [cantidad, setCantidad] = useState<number>(20);
+  const [soloCerradas, setSoloCerradas] = useState(false);
+  const permiteElegirFormato = tipo !== 'vf' && tipo !== 'abiertas';
+  const cerradas = permiteElegirFormato && soloCerradas;
+  const equilibrarPorSemana = tipo === 'repaso' || cerradas;
 
-  const filas = useMemo(() => INDICE.lecturas.filter((f) => tipo !== 'semana' || f.semana === semana), [tipo, semana]);
+  const filas = useMemo(() => tipo === 'repaso' ? [] : INDICE.lecturas.filter((f) => tipo !== 'semana' || f.semana === semana), [tipo, semana]);
   const contenido = useContenido(filas);
 
   const [fase, setFase] = useState<Fase>('config');
@@ -59,12 +66,18 @@ export default function Simulacro() {
   const guardado = useRef(false);
 
   const disponibles = useMemo(() => {
-    if (!contenido) return [];
-    return contenido.items.filter((i) => (tipo === 'vf' ? i.tipo === 'vf' : tipo === 'abiertas' ? i.tipo === 'abierta' : true));
-  }, [contenido, tipo]);
+    const banco = tipo === 'repaso' ? REPASO : contenido?.items ?? [];
+    if (cerradas) {
+      const repasoAdicional = tipo === 'repaso' ? [] : REPASO.filter((i) => tipo !== 'semana' || i.semana === semana);
+      return [...banco, ...repasoAdicional].filter((i) => i.tipo !== 'abierta');
+    }
+    if (tipo === 'vf') return banco.filter((i) => i.tipo === 'vf');
+    if (tipo === 'abiertas') return banco.filter((i) => i.tipo === 'abierta');
+    return banco;
+  }, [cerradas, contenido, semana, tipo]);
 
   const iniciar = () => {
-    const lista = barajar(disponibles).slice(0, cantidad);
+    const lista = equilibrarPorSemana ? muestraRepaso(disponibles, cantidad) : barajar(disponibles).slice(0, cantidad);
     setPreg(lista);
     setResp({});
     setMarcadas({});
@@ -97,7 +110,10 @@ export default function Simulacro() {
     return () => clearInterval(t);
   }, [fase, preg]);
 
-  const acierta = (p: Item): boolean => (p.tipo === 'vf' ? resp[p.id] === p.verdadera : !!notas[p.id]);
+  const acierta = (p: Item): boolean => {
+    if (p.tipo === 'abierta') return !!notas[p.id];
+    return resp[p.id] === (p.tipo === 'opcion' ? p.correcta : p.verdadera);
+  };
   const ok = preg.filter(acierta).length;
 
   // Guardar el intento una sola vez al llegar al balance.
@@ -113,20 +129,29 @@ export default function Simulacro() {
       porLectura[p.lectura] = [o + (a ? 1 : 0), t + 1];
       if (!a) falladas.push(p.id);
     }
-    guardarSim({ ts: Date.now(), tipo: NOMBRE_TIPO[tipo], total: preg.length, ok, seg: usados, porLectura, falladas });
+    const nombre = cerradas ? `${NOMBRE_TIPO[tipo]} · solo cerradas` : NOMBRE_TIPO[tipo];
+    guardarSim({ ts: Date.now(), tipo: nombre, total: preg.length, ok, seg: usados, porLectura, falladas });
   }, [fase]);
 
   // ---------- Configuración ----------
   if (fase === 'config') {
     const ultimo = prog.sims[prog.sims.length - 1];
+    const cantidades = [10, 20, 30].map((v) => ({ v, t: String(v) }));
+    if (tipo === 'repaso') cantidades.push({ v: REPASO.length, t: String(disponibles.length) });
+    const cantidadReal = Math.min(cantidad, disponibles.length);
     return (
       <div className="page narrow">
         <div className="col g8" style={{ maxWidth: 860 }}>
           <h1 className="h1 m d">Hora pico</h1>
-          <p className="lead">Simulacro con cronómetro. No ves la respuesta hasta entregar y, al final, corriges tus abiertas contra la ficha.</p>
+          <p className="lead">
+            {cerradas ? 'Selección única y verdadero o falso. La nota se calcula automáticamente al entregar.' : 'Simulacro con cronómetro. Revisa las respuestas al entregar.'}
+          </p>
         </div>
         <section className="card col g20" aria-label="Configurar simulacro">
-          <div className="col g8"><b>Tipo</b><Chips etiqueta="Tipo de simulacro" valor={tipo} onChange={(v) => setTipo(v as Tipo)} opciones={TIPOS} /></div>
+          <div className="col g8"><b>Tipo</b><Chips etiqueta="Tipo de simulacro" valor={tipo} onChange={(v) => {
+            setTipo(v);
+            if (v !== 'repaso' && cantidad > 30) setCantidad(20);
+          }} opciones={TIPOS} /></div>
           {tipo === 'semana' && (
             <label className="col g8" style={{ maxWidth: 260 }}>
               <b>Semana</b>
@@ -135,14 +160,22 @@ export default function Simulacro() {
               </select>
             </label>
           )}
-          <div className="col g8"><b>Preguntas</b><Chips etiqueta="Cantidad de preguntas" valor={cantidad} onChange={(v) => setCantidad(Number(v))} opciones={[{ v: 10, t: '10' }, { v: 20, t: '20' }, { v: 30, t: '30' }]} /></div>
-          {!contenido ? (
+          {permiteElegirFormato && (
+            <div className="col g8">
+              <b>Formato</b>
+              <Chips etiqueta="Formato de preguntas" valor={cerradas ? 'cerradas' : 'todos'}
+                onChange={(v) => setSoloCerradas(v === 'cerradas')}
+                opciones={[{ v: 'todos', t: 'Todos los formatos' }, { v: 'cerradas', t: 'Solo cerradas' }]} />
+            </div>
+          )}
+          <div className="col g8"><b>Preguntas</b><Chips<number> etiqueta="Cantidad de preguntas" valor={cantidad} onChange={setCantidad} opciones={cantidades} /></div>
+          {tipo !== 'repaso' && !contenido ? (
             <Cargando />
           ) : (
             <div className="row center g16">
               <button type="button" className="press btn blue sign" disabled={disponibles.length === 0} onClick={iniciar}>Empezar el simulacro</button>
               <span className="muted">
-                {disponibles.length ? `${Math.min(cantidad, disponibles.length)} preguntas, ${Math.min(cantidad, disponibles.length)} minutos (1 por pregunta)` : 'No hay preguntas con esta selección'}
+                {cantidadReal ? `${cantidadReal} preguntas, ${cantidadReal} minutos (1 por pregunta)` : 'No hay preguntas con esta selección'}
               </span>
             </div>
           )}
@@ -158,7 +191,7 @@ export default function Simulacro() {
                 </li>
               ))}
             </ul>
-            {ultimo && <p className="muted">Los aciertos y fallas de cada intento también cuentan para el dominio del mapa.</p>}
+            {ultimo && <p className="muted">Cada intento queda en tu progreso y suma a la racha y a los kilómetros del mapa.</p>}
           </section>
         )}
       </div>
@@ -168,6 +201,7 @@ export default function Simulacro() {
   // ---------- En curso ----------
   if (fase === 'run') {
     const p = preg[idx];
+    const elegida = resp[p.id];
     const respondidas = preg.filter((x) => resp[x.id] !== undefined && resp[x.id] !== '').length;
     const sin = preg.length - respondidas;
     return (
@@ -177,14 +211,19 @@ export default function Simulacro() {
             <div className="row g8 center between">
               <div className="row g8">
                 <span className="tag">Pregunta {idx + 1} de {preg.length}</span>
-                <span className="tag">{p.tipo === 'vf' ? 'Verdadero o falso' : 'Abierta'}</span>
+                <span className="tag">{TIPO_PREGUNTA[p.tipo]}</span>
+                {equilibrarPorSemana && <span className="tag">Semana {p.semana}</span>}
               </div>
               <button type="button" className="chip" aria-pressed={!!marcadas[p.id]} onClick={() => setMarcadas((m) => ({ ...m, [p.id]: !m[p.id] }))}>
                 {marcadas[p.id] ? 'Marcada para revisar' : 'Marcar para revisar'}
               </button>
             </div>
             <p className="texto d">{p.enunciado}</p>
-            {p.tipo === 'vf' ? (
+            {p.tipo === 'opcion' && (
+              <OpcionesPregunta opciones={p.opciones} elegida={typeof elegida === 'number' ? elegida : undefined}
+                elegir={(v) => setResp((r) => ({ ...r, [p.id]: r[p.id] === v ? undefined : v }))} />
+            )}
+            {p.tipo === 'vf' && (
               <div className="col g12" style={{ maxWidth: 760 }}>
                 {[{ v: true, t: 'Verdadero' }, { v: false, t: 'Falso' }].map((o) => {
                   const sel = resp[p.id] === o.v;
@@ -202,7 +241,8 @@ export default function Simulacro() {
                   );
                 })}
               </div>
-            ) : (
+            )}
+            {p.tipo === 'abierta' && (
               <label className="col g8">
                 <b>Tu respuesta</b>
                 <textarea rows={6} value={(resp[p.id] as string) ?? ''} onChange={(e) => setResp((r) => ({ ...r, [p.id]: e.target.value }))} placeholder="Escribe con tus palabras, citando lo que recuerdes del texto" style={{ width: '100%', lineHeight: 1.45 }} />
@@ -336,6 +376,7 @@ export default function Simulacro() {
         <ul className="col g12">
           {lista.map((p) => {
             const a = acierta(p);
+            const elegida = resp[p.id];
             return (
               <li key={p.id} className="par" style={{ borderColor: a ? 'var(--green)' : 'var(--red)' }}>
                 <div className="row g8">
@@ -344,7 +385,14 @@ export default function Simulacro() {
                   {p.referencia && <span className="pill">{p.referencia}</span>}
                 </div>
                 <b>{p.enunciado}</b>
-                {p.tipo === 'vf' && <span className="muted">Tu respuesta: {resp[p.id] === undefined ? 'sin responder' : resp[p.id] ? 'Verdadero' : 'Falso'}</span>}
+                {p.tipo === 'vf' && <>
+                  <span className="muted">Tu respuesta: {elegida === undefined ? 'sin responder' : elegida ? 'Verdadero' : 'Falso'}</span>
+                  <span><b>Respuesta correcta</b> · {p.verdadera ? 'Verdadero' : 'Falso'}</span>
+                </>}
+                {p.tipo === 'opcion' && <>
+                  <span className="muted">Tu respuesta: {typeof elegida === 'number' ? p.opciones[elegida] : 'sin responder'}</span>
+                  <span><b>Respuesta correcta</b> · {p.opciones[p.correcta]}</span>
+                </>}
                 <span>{p.respuesta}</span>
               </li>
             );

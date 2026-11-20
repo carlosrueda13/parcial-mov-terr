@@ -17,13 +17,13 @@
     },
     {
       "id": "viana-cerqueira-2026",
-      "autor": "Viana Cerqueira et al. (según el programa del curso)",
-      "titulo": "Mobility practices and the social construction of urban centralities in Belo Horizonte and Bogotá",
-      "publicacion": "2026 (según el programa del curso)",
-      "alcance": "Completo (según el programa)",
+      "autor": "Eugênia Viana Cerqueira, Ana Marcela Ardila Pinto, Natalia Villamizar-Duarte, Daniela Antunes Lessa y César A. Ruiz",
+      "titulo": "Mobility practices and the social construction of urban centralities in Belo Horizonte (Brazil) and Bogotá (Colombia)",
+      "publicacion": "Urban Studies, 2026, vol. 63(7), pp. 1557–1575. DOI 10.1177/00420980251362648",
+      "alcance": "Artículo completo, pp. 1557–1575",
       "estado": {
-        "leida": "pendiente",
-        "nota": "El PDF no está disponible; debe aportarlo el estudiante. No se hace ficha sin leer el documento completo."
+        "leida": "completa",
+        "nota": "Repaso elaborado a partir del artículo completo. Incluye preguntas sobre la metodología, la tabla 1 y las figuras 4 y 5."
       },
       "ficha": null,
       "prompt_notebooklm": null

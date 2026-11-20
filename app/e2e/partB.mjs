@@ -124,8 +124,15 @@ for (const modo of [{ n: 'escritorio', w: 1280, h: 900 }, { n: 'movil', w: 390, 
       const panel = page.locator('section.sign');
       if (!fila) {
         const ptxt = await txt(panel);
-        check(P(`Zona S${s}: ${l.id} sin PDF muestra aviso`), ptxt.includes('Falta el PDF de esta lectura'), ptxt.slice(0, 120));
-        check(P(`Zona S${s}: ${l.id} muestra "PDF pendiente" en la estación`), (await est.nth(i).textContent()).includes('PDF pendiente'));
+        if (l.estado?.leida === 'completa') {
+          const practica = panel.getByRole('link', { name: /Practicar esta lectura/ });
+          check(P(`Zona S${s}: ${l.id} abre su repaso`),
+            (await practica.getAttribute('href')) === `#/practica?banco=parcial&semana=${s}&lectura=${l.id}&n=todas`);
+          check(P(`Zona S${s}: ${l.id} indica que el repaso está disponible`), (await est.nth(i).textContent()).includes('Repaso disponible'));
+        } else {
+          check(P(`Zona S${s}: ${l.id} sin PDF muestra aviso`), ptxt.includes('Falta el PDF de esta lectura'), ptxt.slice(0, 120));
+          check(P(`Zona S${s}: ${l.id} muestra "PDF pendiente" en la estación`), (await est.nth(i).textContent()).includes('PDF pendiente'));
+        }
         continue;
       }
       const tiles = panel.locator('.tiles > *');
@@ -164,7 +171,11 @@ for (const modo of [{ n: 'escritorio', w: 1280, h: 900 }, { n: 'movil', w: 390, 
       }
     }
     const pie = page.locator('.row.g16 a.btn');
-    check(P(`Zona S${s}: botones de pie`), (await pie.count()) === 2 && (await pie.nth(0).getAttribute('href')) === `#/practica?semana=${s}&n=todas&ir=1` && (await pie.nth(1).getAttribute('href')) === `#/trampas?semana=${s}`);
+    check(P(`Zona S${s}: botones de pie`),
+      (await pie.count()) === 3 &&
+      (await pie.nth(0).getAttribute('href')) === `#/practica?semana=${s}&n=todas&ir=1` &&
+      (await pie.nth(1).getAttribute('href')) === `#/practica?banco=parcial&semana=${s}&n=todas` &&
+      (await pie.nth(2).getAttribute('href')) === `#/trampas?semana=${s}`);
     await page.locator('a.back').click();
     await page.waitForSelector(movil ? '.map-mob' : '.map-desk');
     check(P(`Zona S${s}: "Volver al mapa" funciona`), page.url().endsWith('#/') || page.url().endsWith('/#/'));

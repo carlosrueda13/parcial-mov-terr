@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "repaso-s01-01",
+    "semana": 1,
+    "lectura": "gutierrez-2013",
+    "tipo": "opcion",
+    "enunciado": "Una encuesta cuenta trayectos al hospital. Otro estudio entrevista a quienes desistieron de la consulta por falta de transporte. ¿Qué distinción explica el aporte del segundo?",
+    "opciones": [
+      "Cambia la unidad de análisis del viaje por el vehículo.",
+      "Amplía el universo a necesidades de viaje que quedaron sin realizar.",
+      "Mide exclusivamente la conectividad física de los hospitales.",
+      "Estudia los mismos desplazamientos realizados a mayor escala."
+    ],
+    "correcta": 1,
+    "respuesta": "Gutiérrez conserva el viaje como unidad y amplía el universo de estudio. Las necesidades de desplazamiento que no llegaron a convertirse en viajes forman parte de la movilidad latente.",
+    "referencia": "pp. 65–67"
+  },
+  {
+    "id": "repaso-s01-02",
+    "semana": 1,
+    "lectura": "gutierrez-2013",
+    "tipo": "opcion",
+    "enunciado": "Una usuaria llega al centro de salud, pero sale sin consulta porque no hay citas. ¿Qué lectura distingue mejor accesibilidad y acceso?",
+    "opciones": [
+      "Pudo llegar al lugar, pero no pudo concretar la actividad.",
+      "La accesibilidad fue baja porque la consulta no ocurrió.",
+      "El acceso quedó garantizado al completar el desplazamiento.",
+      "Los dos conceptos se verifican mediante el tiempo de viaje."
+    ],
+    "correcta": 0,
+    "respuesta": "Llegar al centro corresponde a la accesibilidad en el enfoque ontológico. Realizar la consulta corresponde al acceso en el enfoque teleológico.",
+    "referencia": "pp. 67–69"
+  },
+  {
+    "id": "repaso-s01-03",
+    "semana": 1,
+    "lectura": "gutierrez-2013",
+    "tipo": "opcion",
+    "enunciado": "Una persona conoce tres modos, considera viables dos y finalmente usa uno. ¿Qué secuencia describe Gutiérrez?",
+    "opciones": [
+      "Movilidad efectiva, concebida y realizada.",
+      "Movilidad concebida, realizada y efectiva.",
+      "Movilidad latente, realizada y vulnerable.",
+      "Movilidad concebida, efectiva y realizada."
+    ],
+    "correcta": 3,
+    "respuesta": "Las opciones que concibe en su contexto son el conjunto más amplio. La movilidad efectiva recoge las que considera posibles y la realizada recoge su elección ejecutada.",
+    "referencia": "pp. 67–72"
+  },
+  {
+    "id": "repaso-s01-04",
+    "semana": 1,
+    "lectura": "gutierrez-2013",
+    "tipo": "opcion",
+    "enunciado": "¿Qué unidad de observación permite estudiar conjuntamente la decisión, el trayecto y lo ocurrido en el destino?",
+    "opciones": [
+      "La distancia en línea recta.",
+      "El tramo de mayor duración.",
+      "La historia de viaje.",
+      "El enlace entre paradas."
+    ],
+    "correcta": 2,
+    "respuesta": "La historia de viaje conserva el pre-viaje, el desplazamiento y el posviaje. Así permite relacionar el trayecto con el propósito que lo motivó.",
+    "referencia": "pp. 67–70"
+  },
+  {
+    "id": "repaso-s01-05",
+    "semana": 1,
+    "lectura": "cepal-2024",
+    "tipo": "opcion",
+    "enunciado": "Según la CEPAL, ¿qué interpretación del peso de los modos activos y del transporte público en América Latina y el Caribe es más sólida?",
+    "opciones": [
+      "El reparto modal refleja principalmente una preferencia ambiental.",
+      "Las restricciones de ingreso ayudan a explicar su uso.",
+      "La proporción demuestra que todos los viajes de cuidado tienen acceso suficiente.",
+      "El predominio se explica por tiempos públicos iguales a los privados."
+    ],
+    "correcta": 1,
+    "respuesta": "La CEPAL vincula la prevalencia de estos modos principalmente con las limitaciones económicas de las familias.",
+    "referencia": "pp. 54–60"
+  },
+  {
+    "id": "repaso-s01-06",
+    "semana": 1,
+    "lectura": "cepal-2024",
+    "tipo": "opcion",
+    "enunciado": "¿Qué cambio de diseño responde mejor al patrón de viajes de cuidado que destaca el informe?",
+    "opciones": [
+      "Evaluar cadenas de viajes, varios horarios y los destinos de cuidado.",
+      "Usar solo el viaje directo entre hogar y empleo como patrón de demanda.",
+      "Medir únicamente movimientos hacia el centro en hora pico.",
+      "Contar cada etapa como un hogar distinto atendido por la red."
+    ],
+    "correcta": 0,
+    "respuesta": "Los viajes de cuidado incluyen trámites, compras y acompañamiento. Diseñar solo para el viaje pendular puede dejar esos desplazamientos mal atendidos.",
+    "referencia": "pp. 54–63"
+  },
+  {
+    "id": "repaso-s01-07",
+    "semana": 1,
+    "lectura": "cepal-2024",
+    "tipo": "opcion",
+    "enunciado": "¿Cuál es la interpretación correcta de una estimación que sustituye toda la flota diésel manteniendo constante su tamaño?",
+    "opciones": [
+      "Es el costo integral de operar y electrificar todo el sistema.",
+      "Es una estimación de subsidios al usuario por viaje.",
+      "Es el ahorro neto después de descontar todos los costos de operación.",
+      "Es una estimación de adquisición de vehículos bajo el supuesto indicado."
+    ],
+    "correcta": 3,
+    "respuesta": "El ejemplo estima el reemplazo del parque vehicular. Infraestructura, operación y demás componentes requieren cálculos propios.",
+    "referencia": "pp. 64–73"
+  },
+  {
+    "id": "repaso-s01-08",
+    "semana": 1,
+    "lectura": "cepal-2024",
+    "tipo": "opcion",
+    "enunciado": "Un plan busca reducir la necesidad de viajes largos y financiar la transición sostenible. ¿Qué instrumento sigue una línea de acción de la CEPAL?",
+    "opciones": [
+      "Aumentar la distancia entre el empleo y los hogares para llenar los buses.",
+      "Concentrar el presupuesto en mejorar la velocidad del automóvil.",
+      "Coordinar el uso del suelo y el transporte para acercar servicios y vivienda.",
+      "Separar la planeación de vivienda de la red de servicios y movilidad."
+    ],
+    "correcta": 2,
+    "respuesta": "La planificación del uso del suelo puede reducir la necesidad de viajar lejos. Es una vía complementaria a las inversiones en flota.",
+    "referencia": "pp. 64–73"
+  },
+  {
+    "id": "repaso-s01-09",
+    "semana": 1,
+    "lectura": "gutierrez-2013",
+    "tipo": "vf",
+    "enunciado": "Para Gutiérrez, transporte y movilidad comparten el viaje como unidad de estudio, pero su universo de viajes es diferente.",
+    "verdadera": true,
+    "respuesta": "Los dos estudian desplazamientos territoriales. La movilidad incorpora también opciones y necesidades que quedan fuera del estudio de los trayectos realizados.",
+    "referencia": "pp. 65–70"
+  },
+  {
+    "id": "repaso-s01-10",
+    "semana": 1,
+    "lectura": "cepal-2024",
+    "tipo": "vf",
+    "enunciado": "El informe presenta a las mujeres como responsables de aproximadamente dos tercios de los viajes de cuidado considerados.",
+    "verdadera": true,
+    "respuesta": "La proporción es una referencia agregada de los viajes de cuidado descritos y varía entre las ciudades estudiadas.",
+    "referencia": "pp. 54–63"
+  },
+  {
+    "id": "repaso-s01-11",
+    "semana": 1,
+    "lectura": "cepal-2024",
+    "tipo": "vf",
+    "enunciado": "Que los viajes en transporte público puedan durar el doble que en modos privados en algunas ciudades permite afirmar que esa relación es idéntica en toda la región.",
+    "verdadera": false,
+    "respuesta": "El informe identifica diferencias por ciudad y se refiere a comparaciones concretas, como el viaje entre residencia y trabajo.",
+    "referencia": "pp. 58–65"
+  },
+  {
+    "id": "repaso-s01-12",
+    "semana": 1,
+    "lectura": "gutierrez-2013",
+    "tipo": "abierta",
+    "enunciado": "Describe un viaje para obtener atención médica que ilustre el pre-viaje, el viaje y el posviaje. Explica cómo podría fallar el acceso.",
+    "respuesta": "Antes de salir, el usuario verifica horarios y organiza el cuidado de un familiar. Luego se desplaza hasta el centro. En el posviaje intenta concretar su consulta. Puede llegar físicamente y aun así quedar sin atención por falta de cita, documentación o capacidad del servicio.",
+    "referencia": "pp. 67–72"
+  },
+  {
+    "id": "repaso-s02-01",
+    "semana": 2,
+    "lectura": "montanez-delgado-1998",
+    "tipo": "opcion",
+    "enunciado": "En un corredor coinciden el control estatal, las redes de comerciantes y la apropiación cotidiana por residentes. ¿Qué concepto ayuda a describir sus relaciones?",
+    "opciones": [
+      "Una territorialidad única dada por el límite administrativo.",
+      "Una zona carente de territorio por coexistir varios agentes.",
+      "Territorialidades superpuestas de agentes con capacidades diferentes.",
+      "Un sistema de objetos independiente de relaciones de poder."
+    ],
+    "correcta": 2,
+    "respuesta": "Para Montañez y Delgado, diferentes actores ejercen control y construyen apropiaciones en un mismo territorio, con grados de poder desiguales.",
+    "referencia": "pp. 122–125"
+  },
+  {
+    "id": "repaso-s02-02",
+    "semana": 2,
+    "lectura": "montanez-delgado-1998",
+    "tipo": "opcion",
+    "enunciado": "La expansión de una empresa reduce el control previo de una comunidad sobre recursos y lugares. ¿Qué proceso experimenta la comunidad?",
+    "opciones": [
+      "Compresión espacio-tiempo.",
+      "Desterritorialización.",
+      "Regionalización administrativa.",
+      "Integración horizontal."
+    ],
+    "correcta": 1,
+    "respuesta": "La pérdida de control territorial de un actor es desterritorialización. Puede acompañar la ampliación del control ejercido por otro.",
+    "referencia": "pp. 123–125"
+  },
+  {
+    "id": "repaso-s02-03",
+    "semana": 2,
+    "lectura": "montanez-delgado-1998",
+    "tipo": "opcion",
+    "enunciado": "Una red productiva conecta oficinas distantes, mientras el comercio diario une barrios adyacentes. ¿Cómo se leen esas conexiones?",
+    "opciones": [
+      "La primera es verticalidad y la segunda, horizontalidad.",
+      "La primera es horizontalidad y la segunda, verticalidad.",
+      "Ambas son horizontalidades por producir intercambios.",
+      "Ambas son verticalidades por involucrar agentes económicos."
+    ],
+    "correcta": 0,
+    "respuesta": "Las verticalidades articulan lugares distantes mediante redes y procesos. Las horizontalidades se apoyan en la continuidad territorial de lugares vecinos.",
+    "referencia": "pp. 131–132"
+  },
+  {
+    "id": "repaso-s02-04",
+    "semana": 2,
+    "lectura": "santos-2000",
+    "tipo": "opcion",
+    "enunciado": "¿Cómo aplicaría Santos su concepto de espacio a una terminal de transporte?",
+    "opciones": [
+      "Inventariando los elementos físicos sin observar acciones.",
+      "Registrando decisiones de los viajeros sin considerar la infraestructura.",
+      "Deduciendo las acciones de los usuarios exclusivamente de la ubicación.",
+      "Estudiando las instalaciones junto con las prácticas y reglas que las usan y transforman."
+    ],
+    "correcta": 3,
+    "respuesta": "La terminal cobra sentido en la relación entre objetos y acciones. El análisis de su materialidad sola describe parte de la configuración territorial.",
+    "referencia": "pp. 53–55"
+  },
+  {
+    "id": "repaso-s02-05",
+    "semana": 2,
+    "lectura": "santos-2000",
+    "tipo": "opcion",
+    "enunciado": "La casa matriz define una tarifa en otra ciudad y los operadores la cobran en una estación local. ¿Qué diferencia ilustra?",
+    "opciones": [
+      "Escala de realización y escala de mando, respectivamente.",
+      "Configuración natural y objeto natural, respectivamente.",
+      "Escala de mando y escala de realización de la acción.",
+      "Distancia euclidiana y distancia de transporte, respectivamente."
+    ],
+    "correcta": 2,
+    "respuesta": "La decisión se toma en la escala de mando. La aplicación concreta sucede en la escala de realización, que puede ser territorialmente distinta.",
+    "referencia": "pp. 66–71"
+  },
+  {
+    "id": "repaso-s02-06",
+    "semana": 2,
+    "lectura": "santos-2000",
+    "tipo": "opcion",
+    "enunciado": "Una quebrada se incorpora a un canal construido para regular caudales urbanos. ¿Qué criterio de Santos ayuda a distinguir cosa y objeto?",
+    "opciones": [
+      "El hecho de que el elemento tenga suficiente tamaño.",
+      "La intervención social y el trabajo incorporado al elemento.",
+      "Que el elemento esté inscrito en un límite municipal.",
+      "La propiedad estatal o privada, con independencia del trabajo."
+    ],
+    "correcta": 1,
+    "respuesta": "La distinción se apoya en el origen natural de las cosas y la producción social de los objetos. La intervención técnica modifica el papel geográfico del elemento.",
+    "referencia": "pp. 55–62"
+  },
+  {
+    "id": "repaso-s02-07",
+    "semana": 2,
+    "lectura": "polese-1998-cap1",
+    "tipo": "opcion",
+    "enunciado": "El ingreso aumenta 10 % y el gasto real en un alimento sube 4 %. ¿Qué lectura es compatible con la ley de Engel?",
+    "opciones": [
+      "Su elasticidad-ingreso es aproximadamente 0,4 y su peso en el gasto cae si el presupuesto aumenta 10 %.",
+      "La elasticidad es 2,5 y el alimento aumenta su participación.",
+      "La elasticidad es negativa porque el peso en el presupuesto cae.",
+      "La elasticidad es unitaria porque el gasto en el alimento crece."
+    ],
+    "correcta": 0,
+    "respuesta": "El gasto en el alimento crece menos que el ingreso. Una menor participación puede coexistir con un aumento del gasto absoluto.",
+    "referencia": "pp. 37–44"
+  },
+  {
+    "id": "repaso-s02-08",
+    "semana": 2,
+    "lectura": "polese-1998-cap1",
+    "tipo": "opcion",
+    "enunciado": "¿Qué combinación facilita el traslado de empleo agrícola a otros sectores en el modelo de Polèse?",
+    "opciones": [
+      "Mayor productividad agrícola y demanda agrícola que crece siempre más que el ingreso.",
+      "Menor productividad agrícola y mayor necesidad de mano de obra por unidad.",
+      "Igualdad entre productividad y superficie de todos los sectores.",
+      "Mayor productividad agrícola y demanda agrícola que crece menos que el ingreso."
+    ],
+    "correcta": 3,
+    "respuesta": "Si se puede producir más con menos trabajadores por unidad y la demanda agrícola crece relativamente despacio, se libera mano de obra para otras actividades.",
+    "referencia": "pp. 34–44"
+  },
+  {
+    "id": "repaso-s02-09",
+    "semana": 2,
+    "lectura": "polese-1998-cap1",
+    "tipo": "vf",
+    "enunciado": "Una población urbana puede crecer en número sin que aumente su peso dentro de la población total.",
+    "verdadera": true,
+    "respuesta": "Si la población urbana y la total aumentan a la misma tasa, crece el número de residentes urbanos y el nivel de urbanización permanece constante.",
+    "referencia": "pp. 29–37, 48–54"
+  },
+  {
+    "id": "repaso-s02-10",
+    "semana": 2,
+    "lectura": "santos-2000",
+    "tipo": "vf",
+    "enunciado": "Reconocer que el espacio influye en las acciones obliga a tratarlas como totalmente determinadas por él.",
+    "verdadera": false,
+    "respuesta": "Santos admite el espacio como factor o dato de la acción. Eso permite analizar condicionamientos sin derivar toda acción de su ubicación.",
+    "referencia": "pp. 71–74"
+  },
+  {
+    "id": "repaso-s02-11",
+    "semana": 2,
+    "lectura": "montanez-delgado-1998",
+    "tipo": "vf",
+    "enunciado": "La territorialidad se refiere únicamente al control de los Estados sobre espacios soberanos.",
+    "verdadera": false,
+    "respuesta": "También comprende control y apropiación ejercidos por personas, comunidades, empresas y otros actores.",
+    "referencia": "pp. 122–125"
+  },
+  {
+    "id": "repaso-s02-12",
+    "semana": 2,
+    "lectura": "santos-2000",
+    "tipo": "abierta",
+    "enunciado": "Explica por qué dos estaciones físicamente parecidas pueden formar espacios distintos según Santos. Propón una comparación verificable.",
+    "respuesta": "Infraestructuras similares pueden articular prácticas, horarios, normas o grupos distintos. Se puede observar en ambas quién accede, quién decide la operación, qué uso se da a sus instalaciones y cómo esas acciones transforman su funcionamiento.",
+    "referencia": "pp. 53–62, 66–71"
+  },
+  {
+    "id": "repaso-s03-01",
+    "semana": 3,
+    "lectura": "polese-1998-cap2",
+    "tipo": "opcion",
+    "enunciado": "Un terminal con tiquete más barato exige una hora adicional de espera. ¿Qué concepto permite comparar ambas alternativas de manera económica?",
+    "opciones": [
+      "Índice material del equipamiento.",
+      "Renta absoluta de la terminal.",
+      "Índice de primacía del municipio.",
+      "Costo de oportunidad del tiempo."
+    ],
+    "correcta": 3,
+    "respuesta": "La espera usa tiempo que podría destinarse a otra actividad. Su costo de oportunidad se agrega al pago monetario para comparar las alternativas.",
+    "referencia": "pp. 60–65"
+  },
+  {
+    "id": "repaso-s03-02",
+    "semana": 3,
+    "lectura": "polese-1998-cap2",
+    "tipo": "opcion",
+    "enunciado": "Una panadería obtiene un costo unitario bajo solo a partir de 100 unidades diarias. Un pueblo compra 50. ¿Qué podría hacer viable la producción centralizada?",
+    "opciones": [
+      "Subir el costo fijo manteniendo el mismo mercado.",
+      "Ignorar el tiempo de desplazamiento de los compradores.",
+      "Ampliar el mercado a otros pueblos si el ahorro supera la distribución adicional.",
+      "Asignar automáticamente 100 ventas por ubicar el horno en el centro geométrico."
+    ],
+    "correcta": 2,
+    "respuesta": "El tamaño efectivo del mercado debe sostener la escala. Los costos de transporte limitan cuánto se puede ampliar el área atendida.",
+    "referencia": "pp. 65–71"
+  },
+  {
+    "id": "repaso-s03-03",
+    "semana": 3,
+    "lectura": "polese-1998-cap2",
+    "tipo": "opcion",
+    "enunciado": "Una región produce más de ambos bienes con los mismos recursos. ¿Qué criterio la especializa según las ventajas comparativas?",
+    "opciones": [
+      "La mayor productividad absoluta en cada actividad.",
+      "El menor costo de oportunidad relativo.",
+      "La mayor distancia al centro de compras.",
+      "El mayor precio monetario sin considerar lo que se deja de producir."
+    ],
+    "correcta": 1,
+    "respuesta": "La ventaja comparativa depende de la producción alternativa que se sacrifica por obtener una unidad adicional.",
+    "referencia": "pp. 74–77"
+  },
+  {
+    "id": "repaso-s03-04",
+    "semana": 3,
+    "lectura": "polese-1998-cap9",
+    "tipo": "opcion",
+    "enunciado": "Una planta usa 120 toneladas de insumos localizados y vende 60 toneladas de producto. ¿Qué sugiere su índice material?",
+    "opciones": [
+      "Es 2 y, en el modelo simplificado, hay atracción hacia los insumos.",
+      "Es 0,5 y, en el modelo simplificado, hay atracción hacia el mercado.",
+      "Es 2 y el producto gana peso durante el proceso.",
+      "Es 1 porque solo hay un producto final."
+    ],
+    "correcta": 0,
+    "respuesta": "El cociente es 120/60 = 2. El proceso pierde peso y puede ahorrar transporte ubicándose cerca de la fuente, bajo los supuestos del modelo.",
+    "referencia": "pp. 285–289"
+  },
+  {
+    "id": "repaso-s03-05",
+    "semana": 3,
+    "lectura": "polese-1998-cap9",
+    "tipo": "opcion",
+    "enunciado": "¿Por qué un puerto puede atraer una planta aunque no produzca su insumo ni concentre los compradores finales?",
+    "opciones": [
+      "Puede eliminar toda distancia entre el mercado y el insumo.",
+      "Equivale siempre a un bien de orden superior.",
+      "Convierte automáticamente su índice material en uno.",
+      "Puede ser un punto obligatorio de ruptura de carga."
+    ],
+    "correcta": 3,
+    "respuesta": "Un punto obligatorio de transferencia entre modos puede convertirse en una alternativa de localización al concentrar operaciones de manejo y transporte.",
+    "referencia": "pp. 292–295"
+  },
+  {
+    "id": "repaso-s03-06",
+    "semana": 3,
+    "lectura": "polese-1998-cap9",
+    "tipo": "opcion",
+    "enunciado": "¿Qué servicio tendería a localizarse en un centro de rango superior?",
+    "opciones": [
+      "Uno de compra diaria y escala mínima disponible en casi cada barrio.",
+      "Uno con demanda exclusivamente de una sola cuadra.",
+      "Uno de demanda poco frecuente, escala importante y área de mercado extensa.",
+      "Uno que se reproduce en cada asentamiento con el mismo alcance."
+    ],
+    "correcta": 2,
+    "respuesta": "La poca frecuencia de uso y la escala mínima para operar requieren reunir demanda de un área mayor.",
+    "referencia": "pp. 302–306"
+  },
+  {
+    "id": "repaso-s03-07",
+    "semana": 3,
+    "lectura": "camagni-2005-intro-cap1",
+    "tipo": "opcion",
+    "enunciado": "Varias firmas textiles comparten proveedores especializados. En otra ciudad, sectores distintos usan la misma red logística. ¿Qué economías ilustra cada caso?",
+    "opciones": [
+      "Urbanización y localización, respectivamente.",
+      "Localización y urbanización, respectivamente.",
+      "Escala interna en ambos casos.",
+      "Renta del suelo y primacía, respectivamente."
+    ],
+    "correcta": 1,
+    "respuesta": "La concentración de firmas de un mismo sector genera economías de localización. Los servicios compartidos por sectores diversos ilustran economías de urbanización.",
+    "referencia": "pp. 31–37"
+  },
+  {
+    "id": "repaso-s03-08",
+    "semana": 3,
+    "lectura": "camagni-2005-intro-cap1",
+    "tipo": "opcion",
+    "enunciado": "¿Por qué Camagni propone pensar en un intervalo de tamaños urbanos eficientes?",
+    "opciones": [
+      "Porque los umbrales y costos-beneficios varían y resulta difícil identificar un óptimo único.",
+      "Porque el tamaño urbano es idéntico para todo tipo de actividad.",
+      "Porque el costo medio por habitante siempre disminuye al crecer.",
+      "Porque las deseconomías son necesariamente nulas en ciudades grandes."
+    ],
+    "correcta": 0,
+    "respuesta": "Distintos criterios y actividades producen dimensiones críticas distintas. Las economías y deseconomías en conjunto permiten pensar en un intervalo.",
+    "referencia": "pp. 38–43"
+  },
+  {
+    "id": "repaso-s03-09",
+    "semana": 3,
+    "lectura": "camagni-2005-intro-cap1",
+    "tipo": "vf",
+    "enunciado": "En la explicación de Lösch presentada por Camagni, pueden aparecer aglomeraciones aun si el espacio se supone inicialmente homogéneo.",
+    "verdadera": true,
+    "respuesta": "Las economías de escala y los costos de transporte bastan para producir áreas de mercado y concentración bajo los supuestos del modelo.",
+    "referencia": "pp. 30–32"
+  },
+  {
+    "id": "repaso-s03-10",
+    "semana": 3,
+    "lectura": "polese-1998-cap9",
+    "tipo": "vf",
+    "enunciado": "Con la formulación Pᵣ = P₁/r y una ciudad mayor de 900.000 habitantes, el tamaño previsto para la tercera es 300.000.",
+    "verdadera": true,
+    "respuesta": "Con exponente uno, el rango divide la población de la ciudad mayor. Es una predicción de la formulación, no un dato observado.",
+    "referencia": "pp. 306–310"
+  },
+  {
+    "id": "repaso-s03-11",
+    "semana": 3,
+    "lectura": "polese-1998-cap2",
+    "tipo": "vf",
+    "enunciado": "El lugar central debe coincidir siempre con el centro geométrico aunque población y redes de transporte tengan distribuciones muy diferentes.",
+    "verdadera": false,
+    "respuesta": "La centralidad depende de la distribución de usuarios y los costos efectivos de llegar al servicio. Posición geométrica y ventaja económica pueden diferir.",
+    "referencia": "pp. 71–74, 81–82"
+  },
+  {
+    "id": "repaso-s03-12",
+    "semana": 3,
+    "lectura": "polese-1998-cap9",
+    "tipo": "abierta",
+    "enunciado": "Compara una tienda de alimentos cotidianos y un centro especializado de diagnóstico. Explica qué diferencias de rango, frecuencia y área de mercado esperarías.",
+    "respuesta": "La tienda tiene compra frecuente y normalmente un mercado más local, por lo que puede repetirse en centros de rango bajo. El diagnóstico especializado reúne demanda menos frecuente y requiere escala, por lo que puede atender un área mayor desde un centro de rango alto.",
+    "referencia": "pp. 302–306"
+  },
+  {
+    "id": "repaso-s04-01",
+    "semana": 4,
+    "lectura": "camagni-2005-cap2",
+    "tipo": "opcion",
+    "enunciado": "Dos actividades compiten por un terreno de buena conexión y con oferta de suelo limitada. ¿Qué función cumple la renta en Camagni?",
+    "opciones": [
+      "Expresa la competencia por accesibilidad y contribuye a asignar usos al suelo.",
+      "Mide el costo de construir infraestructura y es igual para cualquier uso.",
+      "Es una medida demográfica de la concentración del empleo.",
+      "Determina el precio agrícola con independencia del potencial de acceso."
+    ],
+    "correcta": 0,
+    "respuesta": "La accesibilidad eleva la disposición a pagar por ciertas localizaciones. La renta resultante influye en cuál actividad ocupa cada terreno.",
+    "referencia": "pp. 51–53"
+  },
+  {
+    "id": "repaso-s04-02",
+    "semana": 4,
+    "lectura": "camagni-2005-cap2",
+    "tipo": "opcion",
+    "enunciado": "Si dos cultivos tienen igual rendimiento por hectárea, ¿qué implica un mayor costo unitario de transporte para su curva de renta ofertada?",
+    "opciones": [
+      "Un aumento de la renta conforme se aleja del mercado.",
+      "Un intercepto mayor aun a distancia cero.",
+      "La misma pendiente y un intercepto necesariamente menor.",
+      "Un descenso más rápido de la renta con la distancia."
+    ],
+    "correcta": 3,
+    "respuesta": "En r = (p − c − τδ)x, la pendiente es −τx. Con el mismo rendimiento, un mayor τ hace más pronunciado el descenso.",
+    "referencia": "pp. 53–56"
+  },
+  {
+    "id": "repaso-s04-03",
+    "semana": 4,
+    "lectura": "camagni-2005-cap2",
+    "tipo": "opcion",
+    "enunciado": "A 10 km del mercado, dos cultivos ofrecen rentas de 420 y 380 por hectárea. ¿Qué resultado predice el modelo en ese punto?",
+    "opciones": [
+      "Se localiza el cultivo que ofrece 380 por tener menor costo de renta.",
+      "La renta se fija en 400, el promedio, y ambos cultivos se reparten el suelo.",
+      "Se localiza el cultivo que ofrece 420 y esa oferta define la envolvente en ese punto.",
+      "Debe elegirse el cultivo con mayor renta en el origen, cualquiera sea su oferta local."
+    ],
+    "correcta": 2,
+    "respuesta": "La renta efectiva sigue la oferta máxima en cada distancia. La comparación se hace a los 10 km indicados.",
+    "referencia": "pp. 53–56"
+  },
+  {
+    "id": "repaso-s04-04",
+    "semana": 4,
+    "lectura": "camagni-2005-cap2",
+    "tipo": "opcion",
+    "enunciado": "¿Qué variable se deja ajustar en una ciudad abierta, cuya utilidad se toma del sistema general?",
+    "opciones": [
+      "La utilidad general con una población fijada de antemano.",
+      "La población de equilibrio de la ciudad.",
+      "La distancia urbana, mientras se fijan a la vez población y densidades.",
+      "El costo agrícola, que desaparece del límite urbano."
+    ],
+    "correcta": 1,
+    "respuesta": "En la ciudad abierta la población es endógena. En la cerrada la población se fija y el modelo determina la utilidad.",
+    "referencia": "pp. 67–69"
+  },
+  {
+    "id": "repaso-s04-05",
+    "semana": 4,
+    "lectura": "camagni-2005-cap2",
+    "tipo": "opcion",
+    "enunciado": "En el modelo residencial, ¿cómo se identifica el borde de la ciudad a partir de las rentas?",
+    "opciones": [
+      "En el punto donde la renta urbana de equilibrio iguala la renta agrícola.",
+      "En el punto de máxima renta urbana.",
+      "En la primera intersección de dos curvas de transporte.",
+      "Donde la distancia de viaje es igual al ingreso promedio."
+    ],
+    "correcta": 0,
+    "respuesta": "La renta agrícola actúa como alternativa del suelo. En el margen, el uso urbano iguala esa renta.",
+    "referencia": "pp. 67–70"
+  },
+  {
+    "id": "repaso-s04-06",
+    "semana": 4,
+    "lectura": "polese-1998-cap10",
+    "tipo": "opcion",
+    "enunciado": "Dos parcelas igual de fértiles rinden excedentes distintos porque una cuesta menos de abastecer. ¿Qué explica la diferencia?",
+    "opciones": [
+      "Una ventaja generada exclusivamente por más esfuerzo del productor.",
+      "Una variación obligatoria del precio de venta en el mismo mercado.",
+      "Un índice de densidad demográfica del campo.",
+      "Una renta de localización asociada al ahorro de costos."
+    ],
+    "correcta": 3,
+    "respuesta": "La ventaja del emplazamiento permite obtener un excedente adicional. En el modelo, el propietario puede capturarlo como renta.",
+    "referencia": "pp. 325–332"
+  },
+  {
+    "id": "repaso-s04-07",
+    "semana": 4,
+    "lectura": "polese-1998-cap10",
+    "tipo": "opcion",
+    "enunciado": "¿Qué actividad puede sostener una oferta de renta alta en una localización central según la lógica de Polèse?",
+    "opciones": [
+      "Un depósito extensivo que obtiene poco ingreso por hectárea y tiene baja necesidad de contacto.",
+      "Una actividad que obtiene su mayor ventaja al alejarse del mercado.",
+      "Un servicio con gran valor por superficie y alta necesidad de contactos presenciales.",
+      "Una actividad independiente de densidad de ventas, renta y comunicación."
+    ],
+    "correcta": 2,
+    "respuesta": "El rendimiento por superficie y el ahorro de costos de interacción ayudan a pagar suelos centrales más caros.",
+    "referencia": "pp. 332–338"
+  },
+  {
+    "id": "repaso-s04-08",
+    "semana": 4,
+    "lectura": "polese-1998-cap10",
+    "tipo": "opcion",
+    "enunciado": "¿Qué asociación explica la construcción en altura en suelos centrales caros?",
+    "opciones": [
+      "El aumento del valor del suelo encarece la altura sin alterar la intensidad de uso.",
+      "Usar más intensamente una parcela permite repartir su costo entre más superficie construida y usuarios.",
+      "La densificación elimina el valor de localización al crear más suelo urbano.",
+      "La altura aparece porque el comercio y las oficinas siempre se trasladan a la periferia."
+    ],
+    "correcta": 1,
+    "respuesta": "Un precio alto del suelo incentiva sustituir superficie de terreno por capital construido cuando la tecnología y los usos lo permiten.",
+    "referencia": "pp. 344–350"
+  },
+  {
+    "id": "repaso-s04-09",
+    "semana": 4,
+    "lectura": "polese-1998-cap10",
+    "tipo": "opcion",
+    "enunciado": "¿Por qué un gran centro comercial puede aparecer en un suburbio según Polèse?",
+    "opciones": [
+      "La localización responde a dónde se distribuyen la población y su poder de compra.",
+      "Su localización se determina únicamente por la distancia al centro histórico.",
+      "La renta máxima de comercio siempre se encuentra en el punto de menor demanda.",
+      "Todo establecimiento comercial debe repetir la misma escala a cada distancia."
+    ],
+    "correcta": 0,
+    "respuesta": "Los subcentros comerciales pueden seguir concentraciones de demanda y de capacidad de compra fuera del centro principal.",
+    "referencia": "pp. 334–338"
+  },
+  {
+    "id": "repaso-s04-10",
+    "semana": 4,
+    "lectura": "camagni-2005-cap2",
+    "tipo": "vf",
+    "enunciado": "La renta ofertada por un cultivo puede ser positiva en un lugar donde ese cultivo no se implanta.",
+    "verdadera": true,
+    "respuesta": "Otra actividad puede ofertar una renta mayor. Una oferta positiva no garantiza ocupar el suelo si queda por debajo de la envolvente.",
+    "referencia": "pp. 53–56"
+  },
+  {
+    "id": "repaso-s04-11",
+    "semana": 4,
+    "lectura": "polese-1998-cap10",
+    "tipo": "vf",
+    "enunciado": "El traslado de algunas oficinas a la periferia prueba por sí solo que el centro perdió su capacidad de atraer actividades.",
+    "verdadera": false,
+    "respuesta": "Los precios elevados del centro pueden desplazar actividades menos centrales hacia la periferia, al tiempo que usos de mayor capacidad de pago lo siguen ocupando.",
+    "referencia": "pp. 346–350"
+  },
+  {
+    "id": "repaso-s04-12",
+    "semana": 4,
+    "lectura": "camagni-2005-cap2",
+    "tipo": "vf",
+    "enunciado": "Con p y c fijos y productividades positivas, las rentas de dos actividades con distintos costos de transporte pueden cruzarse si también difieren sus excedentes en el mercado.",
+    "verdadera": true,
+    "respuesta": "Los interceptos reflejan el excedente en el origen. Las pendientes representan la pérdida con la distancia. Una actividad con intercepto mayor puede ser superada si su pendiente es más negativa.",
+    "referencia": "pp. 53–56"
+  },
+  {
+    "id": "repaso-s04-13",
+    "semana": 4,
+    "lectura": "camagni-2005-cap2",
+    "tipo": "abierta",
+    "enunciado": "El cultivo A ofrece rA = 600 − 25d y B ofrece rB = 420 − 10d, con d en km. Halla el cruce e identifica cuál gana antes y después, mientras la mejor renta siga siendo positiva.",
+    "respuesta": "Al igualar 600 − 25d = 420 − 10d, se obtiene d = 12 km. Antes de 12 km gana A y después gana B, hasta que su renta llega a cero a 42 km. A los 12 km ambos ofrecen 300.",
+    "referencia": "pp. 53–56"
+  },
+  {
+    "id": "repaso-s05-01",
+    "semana": 5,
+    "lectura": "cuervo-gonzalez-cap8",
+    "tipo": "opcion",
+    "enunciado": "Primera ciudad: 6 millones. País: 30 millones. Población urbana nacional: 24 millones. ¿Cuáles son IPT e IPU?",
+    "opciones": [
+      "20 % y 25 %, respectivamente.",
+      "25 % y 20 %, respectivamente.",
+      "20 % y 80 %, respectivamente.",
+      "25 % y 80 %, respectivamente."
+    ],
+    "correcta": 0,
+    "respuesta": "El IPT divide la población de la primera ciudad por todo el país (6/30). El IPU usa como denominador la población urbana (6/24).",
+    "referencia": "pp. 291–294"
+  },
+  {
+    "id": "repaso-s05-02",
+    "semana": 5,
+    "lectura": "cuervo-gonzalez-cap8",
+    "tipo": "opcion",
+    "enunciado": "La mayor ciudad tiene 6 millones y las siguientes tres tienen 2, 1,5 y 0,5 millones. ¿Cuánto da el ICC?",
+    "opciones": [
+      "0,6, porque se divide entre el total de las cuatro.",
+      "0,67, porque se divide la suma de las tres siguientes entre la mayor.",
+      "3, porque se divide la mayor entre la segunda.",
+      "1,5, porque la primera ciudad se divide entre la suma de las tres siguientes."
+    ],
+    "correcta": 3,
+    "respuesta": "El índice de cuatro ciudades compara la mayor con la suma de las tres que le siguen. El denominador del ejemplo es 4 millones.",
+    "referencia": "pp. 291–294"
+  },
+  {
+    "id": "repaso-s05-03",
+    "semana": 5,
+    "lectura": "cuervo-gonzalez-cap8",
+    "tipo": "opcion",
+    "enunciado": "El IPT pasa de 10 % a 14 % durante una década y de 14 % a 16 % en la siguiente. ¿Qué ocurrió en la segunda década?",
+    "opciones": [
+      "La primacía cayó dos puntos porcentuales.",
+      "La primacía se mantuvo fija al bajar el CIC.",
+      "La primacía siguió aumentando, a un ritmo menor.",
+      "La primacía aumentó a un ritmo mayor."
+    ],
+    "correcta": 2,
+    "respuesta": "El CIC cae de 0,4 a 0,2 puntos porcentuales por año. Sigue siendo positivo, por lo que el IPT todavía aumenta.",
+    "referencia": "pp. 278–281, 294"
+  },
+  {
+    "id": "repaso-s05-04",
+    "semana": 5,
+    "lectura": "cuervo-gonzalez-cap8",
+    "tipo": "opcion",
+    "enunciado": "Con logaritmos naturales, el ajuste ln P = A − q ln R arroja A = ln 8.000.000. ¿Qué representa ese resultado?",
+    "opciones": [
+      "Un tamaño observado de ocho millones para la ciudad de rango 1.",
+      "Un tamaño teórico de ocho millones para la ciudad de rango 1.",
+      "Una pendiente q de ocho millones habitantes.",
+      "Una población urbana nacional de ocho millones."
+    ],
+    "correcta": 1,
+    "respuesta": "Como ln 1 = 0, el intercepto es el logaritmo del tamaño ajustado para el primer rango. Al exponentiar A se vuelve a habitantes.",
+    "referencia": "pp. 291–294"
+  },
+  {
+    "id": "repaso-s05-05",
+    "semana": 5,
+    "lectura": "cuervo-gonzalez-cap9",
+    "tipo": "opcion",
+    "enunciado": "¿Qué secuencia describe mejor la intensidad cronológica de la primacía colombiana alrededor de 1918–1993?",
+    "opciones": [
+      "Lenta hasta 1938, creciente hasta 1973 y decreciente después.",
+      "Creciente hasta 1938, lenta hasta 1973 y creciente después.",
+      "Decreciente hasta 1938, creciente hasta 1973 y estacionaria después.",
+      "Lenta hasta 1938, decreciente hasta 1973 y creciente después."
+    ],
+    "correcta": 0,
+    "respuesta": "El capítulo distingue la fase lenta de 1918–1938, la creciente de 1938–1973 y la decreciente de 1973–1993 para el CIC.",
+    "referencia": "pp. 327–331"
+  },
+  {
+    "id": "repaso-s05-06",
+    "semana": 5,
+    "lectura": "cuervo-gonzalez-cap9",
+    "tipo": "opcion",
+    "enunciado": "¿Qué lectura evita el determinismo que critica el capítulo al estudiar la urbanización colombiana?",
+    "opciones": [
+      "Tomar toda concentración económica como prueba de una causa única de urbanización.",
+      "Identificar una coincidencia espacial y usarla como explicación suficiente.",
+      "Tratar la industrialización como el único motor, con idéntico papel en todos los períodos.",
+      "Combinar procesos económicos, políticos y sociales e identificar cuál explica cada cambio observado."
+    ],
+    "correcta": 3,
+    "respuesta": "El capítulo distingue las manifestaciones del cambio de las causas y reconoce variaciones históricas en el papel de la industrialización.",
+    "referencia": "pp. 347–352"
+  },
+  {
+    "id": "repaso-s05-07",
+    "semana": 5,
+    "lectura": "leon-ruiz-2016",
+    "tipo": "opcion",
+    "enunciado": "¿Qué ocurre al pasar de ciudades-municipio a zonas metropolitanas en la interpretación de la cabeza urbana colombiana?",
+    "opciones": [
+      "La jerarquía permanece idéntica por definición.",
+      "Se pierde toda posibilidad de comparación temporal.",
+      "Los cuatro polos pueden recuperar importancia que no aparece igual con unidades municipales.",
+      "El sistema pasa automáticamente a tener solo un centro relevante."
+    ],
+    "correcta": 2,
+    "respuesta": "Incluir los municipios que integran las áreas funcionales cambia la unidad de análisis y el peso relativo de los polos principales.",
+    "referencia": "pp. 26–31"
+  },
+  {
+    "id": "repaso-s05-08",
+    "semana": 5,
+    "lectura": "leon-ruiz-2016",
+    "tipo": "opcion",
+    "enunciado": "¿Qué secuencia de las cuatro primeras posiciones metropolitanas reporta el artículo para 1993 y 2005?",
+    "opciones": [
+      "Bogotá, Cali, Medellín y Barranquilla.",
+      "Bogotá, Medellín, Cali y Barranquilla.",
+      "Bogotá, Barranquilla, Medellín y Cali.",
+      "Medellín, Bogotá, Cali y Barranquilla."
+    ],
+    "correcta": 1,
+    "respuesta": "El orden indicado permanece para las zonas metropolitanas en los dos años comparados.",
+    "referencia": "pp. 29–31"
+  },
+  {
+    "id": "repaso-s05-09",
+    "semana": 5,
+    "lectura": "leon-ruiz-2016",
+    "tipo": "opcion",
+    "enunciado": "Al interpretar el indicador de metropolización del artículo, ¿qué información adicional importa además de su nivel en un año?",
+    "opciones": [
+      "El cambio temporal y el comportamiento conjunto del núcleo y su entorno.",
+      "Solo el rango nacional de la capital en ese año.",
+      "El año de creación legal del municipio central, con independencia de su entorno.",
+      "La población departamental total como único dato."
+    ],
+    "correcta": 0,
+    "respuesta": "El artículo usa la trayectoria para diferenciar fases. Una observación aislada pierde el sentido del cambio relativo que experimentan núcleo y entorno.",
+    "referencia": "pp. 32–35"
+  },
+  {
+    "id": "repaso-s05-10",
+    "semana": 5,
+    "lectura": "cuervo-gonzalez-cap8",
+    "tipo": "vf",
+    "enunciado": "Los síntomas de saturación primacial se presentan como hipótesis de alcance definitivo para todos los países latinoamericanos.",
+    "verdadera": false,
+    "respuesta": "El capítulo identifica caídas o desaceleraciones y explora explicaciones de alcance desigual. Las conclusiones son provisionales.",
+    "referencia": "pp. 278–291"
+  },
+  {
+    "id": "repaso-s05-11",
+    "semana": 5,
+    "lectura": "cuervo-gonzalez-cap9",
+    "tipo": "vf",
+    "enunciado": "Un cambio en el peso relativo de Bogotá, Cali, Medellín y Barranquilla puede alterar la forma de la cabeza urbana incluso si las cuatro ciudades siguen existiendo como polos importantes.",
+    "verdadera": true,
+    "respuesta": "La cuadricefalia alude a la estructura relativa del sistema. El crecimiento desigual entre sus polos puede cambiar esa configuración.",
+    "referencia": "pp. 335–339"
+  },
+  {
+    "id": "repaso-s05-12",
+    "semana": 5,
+    "lectura": "leon-ruiz-2016",
+    "tipo": "vf",
+    "enunciado": "Para comparar la primacía metropolitana con la municipal se puede cambiar la unidad espacial de un año a otro sin afectar la interpretación.",
+    "verdadera": false,
+    "respuesta": "La unidad espacial modifica las poblaciones y su jerarquía. Conviene mantenerla comparable o indicar expresamente el efecto del cambio de escala.",
+    "referencia": "pp. 25–31"
+  },
+  {
+    "id": "repaso-s05-13",
+    "semana": 5,
+    "lectura": "cuervo-gonzalez-cap8",
+    "tipo": "abierta",
+    "enunciado": "La primera ciudad crece 40 % en una década y el país 20 %. ¿En qué dirección cambia el IPT? ¿Puedes concluir lo mismo acerca del ICC?",
+    "respuesta": "El IPT aumenta: el nuevo cociente es 1,4/1,2 veces el inicial. Para el ICC falta el crecimiento combinado de las tres ciudades siguientes, que forman un denominador distinto.",
+    "referencia": "pp. 291–294"
+  },
+  {
+    "id": "repaso-s06-01",
+    "semana": 6,
+    "lectura": "sdp-2014-region-metropolitana",
+    "tipo": "opcion",
+    "enunciado": "¿Qué conjunto define la escala regional del estudio de ocupación de la SDP?",
+    "opciones": [
+      "Bogotá, Tunja, Ibagué y Villavicencio.",
+      "Bogotá, Medellín, Cali y Barranquilla.",
+      "Bogotá y todos los municipios de Cundinamarca.",
+      "Bogotá, Soacha, Chía y Mosquera únicamente."
+    ],
+    "correcta": 0,
+    "respuesta": "La escala regional incorpora Bogotá y tres capitales próximas. Bogotá más el conjunto de municipios cundinamarqueses corresponde a la escala subregional.",
+    "referencia": "pp. 73–78"
+  },
+  {
+    "id": "repaso-s06-02",
+    "semana": 6,
+    "lectura": "sdp-2014-region-metropolitana",
+    "tipo": "opcion",
+    "enunciado": "Para examinar municipios próximos con relaciones metropolitanas urbanas y distinguirlos de municipios del entorno rural, ¿qué clasificación corresponde?",
+    "opciones": [
+      "Escala nacional y escala internacional.",
+      "Centro histórico y zona metropolitana legal.",
+      "Cabecera regional y población nacional total.",
+      "Borde urbano y borde rural."
+    ],
+    "correcta": 3,
+    "respuesta": "El estudio desagrega el entorno de Bogotá en un borde urbano con relaciones metropolitanas y un borde rural.",
+    "referencia": "pp. 74–76, 85–91"
+  },
+  {
+    "id": "repaso-s06-03",
+    "semana": 6,
+    "lectura": "sdp-2014-region-metropolitana",
+    "tipo": "opcion",
+    "enunciado": "Dos gráficas de participación poblacional muestran porcentajes distintos para un mismo año. ¿Qué debe revisarse antes de concluir que se contradicen?",
+    "opciones": [
+      "Que los dos numeradores tengan exactamente el mismo dato sin revisar la escala.",
+      "La posición del municipio en el eje horizontal y únicamente el color de la barra.",
+      "El universo de referencia empleado como denominador en cada gráfica.",
+      "Si es posible sumar los dos porcentajes hasta completar cien."
+    ],
+    "correcta": 2,
+    "respuesta": "El diagnóstico usa bases distintas según su alcance. Un municipio o conjunto puede tener un porcentaje del país y otro del agregado Bogotá–borde.",
+    "referencia": "pp. 89, 97–99, 108"
+  },
+  {
+    "id": "repaso-s06-04",
+    "semana": 6,
+    "lectura": "sdp-2014-region-metropolitana",
+    "tipo": "opcion",
+    "enunciado": "¿Cómo debe usarse la cifra poblacional de 2030 producida por el modelo de ocupación del informe de 2014?",
+    "opciones": [
+      "Como un conteo observado en un censo del año 2030.",
+      "Como proyección con horizonte y supuestos definidos.",
+      "Como un dato que vale sin considerar el perímetro del modelo.",
+      "Como una medida directa del recaudo predial futuro."
+    ],
+    "correcta": 1,
+    "respuesta": "El modelo proyecta con información y supuestos disponibles al construirlo. Sus cifras deben leerse junto al horizonte y al ámbito territorial.",
+    "referencia": "pp. 109–115"
+  },
+  {
+    "id": "repaso-s06-05",
+    "semana": 6,
+    "lectura": "contreras-ruiz-2026",
+    "tipo": "opcion",
+    "enunciado": "Dos lotes de área similar tienen precios diferentes después de que a uno se le permiten usos más rentables. ¿Qué mecanismo analiza la lectura?",
+    "opciones": [
+      "El valor recoge la demanda derivada de los usos permitidos y la ventaja de localización.",
+      "El precio depende únicamente del tamaño físico y siempre debe coincidir.",
+      "La norma altera el recaudo, pero el uso potencial nunca influye en el precio.",
+      "El valor surge exclusivamente de los costos de producir nuevas hectáreas de suelo."
+    ],
+    "correcta": 0,
+    "respuesta": "El uso económicamente posible dentro de la norma afecta lo que se puede obtener del terreno y cuánto están dispuestos a pagar los demandantes.",
+    "referencia": "pp. 265–268"
+  },
+  {
+    "id": "repaso-s06-06",
+    "semana": 6,
+    "lectura": "contreras-ruiz-2026",
+    "tipo": "opcion",
+    "enunciado": "La densidad de predios por hectárea sube entre dos años. ¿Qué interpretación se puede sostener directamente con esa medida?",
+    "opciones": [
+      "La población por hectárea necesariamente aumenta en la misma proporción.",
+      "El precio promedio de los predios sube exactamente igual que el número de predios.",
+      "Se construyeron viviendas en todos los nuevos predios.",
+      "Hay más unidades prediales por hectárea, un indicio de subdivisión que debe analizarse por clase de suelo."
+    ],
+    "correcta": 3,
+    "respuesta": "La densidad predial tiene como numerador el número de predios. Por sí sola deja abiertos los cambios de población, precios o construcción.",
+    "referencia": "pp. 268–273"
+  },
+  {
+    "id": "repaso-s06-07",
+    "semana": 6,
+    "lectura": "contreras-ruiz-2026",
+    "tipo": "opcion",
+    "enunciado": "¿Qué patrón temporal muestra el licenciamiento que estudian Contreras y Ruiz alrededor de 2020?",
+    "opciones": [
+      "Un máximo en 2020 seguido por una disminución desde 2021.",
+      "Una trayectoria estable sin cambios visibles en esos años.",
+      "Una reducción en 2020 y un repunte desde 2021.",
+      "Un aumento sostenido en 2020 sin recuperación posterior."
+    ],
+    "correcta": 2,
+    "respuesta": "Las licencias disminuyen en 2020 y tienen un repunte posterior. El artículo presenta el contexto de la pandemia como una posible explicación de la caída.",
+    "referencia": "pp. 273–274"
+  },
+  {
+    "id": "repaso-s06-08",
+    "semana": 6,
+    "lectura": "contreras-ruiz-2026",
+    "tipo": "opcion",
+    "enunciado": "Un municipio registra valorización inmobiliaria importante y un aumento relativo débil del recaudo predial. ¿Qué conclusión encaja con la investigación?",
+    "opciones": [
+      "El recaudo y el valor necesariamente crecen a la misma tasa.",
+      "La dinámica del valor y la capacidad municipal de traducirla en recaudo pueden divergir.",
+      "Un recaudo débil prueba que nunca hubo mayor valor inmobiliario.",
+      "La valorización basta para medir la eficiencia fiscal, sin datos tributarios."
+    ],
+    "correcta": 1,
+    "respuesta": "La investigación contrasta avalúos o dinámica inmobiliaria con ingresos públicos. El crecimiento de los valores no garantiza que se capture proporcionalmente vía predial.",
+    "referencia": "pp. 276–280"
+  },
+  {
+    "id": "repaso-s06-09",
+    "semana": 6,
+    "lectura": "contreras-ruiz-2026",
+    "tipo": "vf",
+    "enunciado": "El puntaje catastral de la construcción evalúa características físicas como estructura, acabados y conservación.",
+    "verdadera": true,
+    "respuesta": "El puntaje califica componentes de la edificación. Es diferente de contar número de habitantes o estimar tiempos de viaje.",
+    "referencia": "pp. 269–270"
+  },
+  {
+    "id": "repaso-s06-10",
+    "semana": 6,
+    "lectura": "sdp-2014-region-metropolitana",
+    "tipo": "vf",
+    "enunciado": "Todo municipio caracterizado en el borde rural del diagnóstico entra también en el modelo de proyecciones de la SDP.",
+    "verdadera": false,
+    "respuesta": "El ámbito modelado tiene un perímetro específico y excluye los municipios del borde rural del Meta y Huila.",
+    "referencia": "pp. 74–76, 109–115"
+  },
+  {
+    "id": "repaso-s06-11",
+    "semana": 6,
+    "lectura": "contreras-ruiz-2026",
+    "tipo": "vf",
+    "enunciado": "El artículo documenta que cambios de clasificación del suelo o parcelación campestre pueden elevar valores inmobiliarios sin mejorar proporcionalmente el recaudo.",
+    "verdadera": true,
+    "respuesta": "Las conclusiones distinguen el aumento del valor de la captura pública efectiva. El efecto fiscal depende de la gestión local y la base tributaria.",
+    "referencia": "pp. 278–280"
+  },
+  {
+    "id": "repaso-s06-12",
+    "semana": 6,
+    "lectura": "contreras-ruiz-2026",
+    "tipo": "abierta",
+    "enunciado": "Un corredor de transporte mejora la conexión de un municipio con Bogotá y empiezan a aparecer condominios. ¿Qué indicadores mirarías para analizar la transformación territorial y su efecto fiscal?",
+    "respuesta": "Compararía subdivisión o densidad de predios, licencias, cambios de uso y avalúos a lo largo del tiempo. Para el efecto fiscal revisaría recaudo predial y su evolución frente al valor inmobiliario. Contrastaría también el cambio con otros municipios y con la fecha de las intervenciones.",
+    "referencia": "pp. 269–280"
+  },
+  {
+    "id": "repaso-s07-01",
+    "semana": 7,
+    "lectura": "avellaneda-dextre-2014-cap1",
+    "tipo": "opcion",
+    "enunciado": "En la secuencia de Avellaneda y Dextre, ¿qué etapa pone primero el foco en los flujos de vehículos?",
+    "opciones": [
+      "Diseño en función del transporte público.",
+      "Diseño en función del tráfico.",
+      "Diseño en función de la movilidad.",
+      "Diseño en función de la movilidad sostenible."
+    ],
+    "correcta": 1,
+    "respuesta": "El criterio inicial privilegia la circulación vehicular. El capítulo contrasta esa etapa con enfoques sucesivos centrados en el transporte público, las personas y la sostenibilidad.",
+    "referencia": "pp. 15–21"
+  },
+  {
+    "id": "repaso-s07-02",
+    "semana": 7,
+    "lectura": "avellaneda-dextre-2014-cap1",
+    "tipo": "opcion",
+    "enunciado": "Una avenida permite circular rápido en auto, pero hace difícil cruzar a pie hasta un colegio. ¿Qué consecuencia del modelo orientado al tráfico ilustra?",
+    "opciones": [
+      "El efecto barrera y la pérdida de autonomía para grupos como los niños.",
+      "La reducción de la exclusión por aumento de la velocidad de circulación.",
+      "La mejora automática de la permeabilidad peatonal.",
+      "La complementariedad multimodal entre todos los desplazamientos."
+    ],
+    "correcta": 0,
+    "respuesta": "La prioridad del flujo vehicular puede interrumpir conexiones peatonales y reducir autonomía, en particular para niños y personas con discapacidad.",
+    "referencia": "pp. 17–21"
+  },
+  {
+    "id": "repaso-s07-03",
+    "semana": 7,
+    "lectura": "avellaneda-dextre-2014-cap1",
+    "tipo": "opcion",
+    "enunciado": "¿Qué intervención representa mejor el paso desde movilidad hacia movilidad sostenible?",
+    "opciones": [
+      "Mantener servicios lejanos y ampliar carriles para evitar demoras de los autos.",
+      "Mejorar solo los tiempos de los buses sin revisar la forma urbana.",
+      "Medir velocidad media como único indicador de éxito.",
+      "Acercar servicios a barrios de usos mixtos y vincularlos con redes activas y transporte público."
+    ],
+    "correcta": 3,
+    "respuesta": "La sostenibilidad liga compacidad y diversidad de usos con menor necesidad de viajes largos y con modos complementarios.",
+    "referencia": "pp. 24–30"
+  },
+  {
+    "id": "repaso-s07-04",
+    "semana": 7,
+    "lectura": "herce-2009-cap1-2",
+    "tipo": "opcion",
+    "enunciado": "¿Por qué Herce cuestiona que el diseño de la oferta se base solo en los viajes obligados en hora punta?",
+    "opciones": [
+      "Todos los viajes de trabajo dejaron de existir en la ciudad posindustrial.",
+      "La mayoría de viajes se dirige siempre al centro y ocurre en la misma franja.",
+      "La diversificación de jornadas, lugares y motivos distribuye demanda fuera de ese patrón.",
+      "Los viajes fuera de punta son puramente estacionales y no requieren atención."
+    ],
+    "correcta": 2,
+    "respuesta": "Los horarios y las localizaciones se diversifican. La oferta condiciona qué viajes pueden realizarse y por quién a lo largo del día.",
+    "referencia": "pp. 19–23, 31–35"
+  },
+  {
+    "id": "repaso-s07-05",
+    "semana": 7,
+    "lectura": "herce-2009-cap1-2",
+    "tipo": "opcion",
+    "enunciado": "Un municipio genera 10.000 viajes diarios, de los cuales 7.000 permanecen en su interior. ¿Cuál es su autocontención con la definición usada por Herce?",
+    "opciones": [
+      "30 %.",
+      "70 %.",
+      "143 %.",
+      "17 %."
+    ],
+    "correcta": 1,
+    "respuesta": "La autocontención es la proporción de los viajes generados que permanecen dentro del municipio. Aquí se divide 7.000 entre 10.000.",
+    "referencia": "pp. 38–41"
+  },
+  {
+    "id": "repaso-s07-06",
+    "semana": 7,
+    "lectura": "herce-2009-cap1-2",
+    "tipo": "opcion",
+    "enunciado": "Según la lectura de Herce para Barcelona, ¿cómo pueden coexistir mayor velocidad de transporte y tiempos cotidianos parecidos?",
+    "opciones": [
+      "La velocidad adicional permite recorrer más distancia y extender la aglomeración.",
+      "Un aumento de velocidad impide que se amplíe el ámbito cotidiano.",
+      "El tiempo necesariamente disminuye en la misma proporción que aumenta la velocidad.",
+      "La velocidad modifica solo el precio de los tiquetes y no altera la distribución territorial."
+    ],
+    "correcta": 0,
+    "respuesta": "El artículo describe una expansión del espacio alcanzable. Si se recorren trayectos mayores, el aumento de velocidad puede no reducir el tiempo habitual.",
+    "referencia": "pp. 41–44"
+  },
+  {
+    "id": "repaso-s07-07",
+    "semana": 7,
+    "lectura": "transport-access-manual-2020",
+    "tipo": "opcion",
+    "enunciado": "¿Cuál pregunta usa una medida primal de oportunidades acumuladas?",
+    "opciones": [
+      "¿Cuántos minutos necesito para alcanzar el cuarto centro de salud?",
+      "¿En qué minuto llego al primer centro disponible?",
+      "¿Hasta dónde debo ampliar el umbral para cubrir diez centros?",
+      "¿Cuántos centros de salud alcanzo en 30 minutos?"
+    ],
+    "correcta": 3,
+    "respuesta": "En la medida primal se fija una impedancia máxima y se cuentan oportunidades. En una dual se fija un objetivo de oportunidades y se calcula el costo requerido.",
+    "referencia": "pp. 45–47, 53–54"
+  },
+  {
+    "id": "repaso-s07-08",
+    "semana": 7,
+    "lectura": "transport-access-manual-2020",
+    "tipo": "opcion",
+    "enunciado": "Dos barrios tienen el mismo número de empleos alcanzables, pero uno compite con muchos más aspirantes. ¿Qué medida puede reflejar esa diferencia?",
+    "opciones": [
+      "Un conteo simple de oportunidades acumuladas.",
+      "Una medida que solo registra la distancia al empleo más cercano.",
+      "Una medida competitiva de acceso.",
+      "Un índice de velocidad que excluye el número de aspirantes."
+    ],
+    "correcta": 2,
+    "respuesta": "Cuando hay oportunidades rivales, el acceso depende también de la demanda que compite por ellas.",
+    "referencia": "pp. 51–52"
+  },
+  {
+    "id": "repaso-s07-09",
+    "semana": 7,
+    "lectura": "transport-access-manual-2020",
+    "tipo": "opcion",
+    "enunciado": "Una fórmula asigna un peso de 0,8 a empleos cercanos y 0,2 a empleos más lejanos. ¿Qué tipo de medida ilustra?",
+    "opciones": [
+      "Un conteo binario para un umbral único.",
+      "Oportunidades acumuladas ponderadas por la impedancia.",
+      "Una medida dual de la oportunidad más cercana.",
+      "Una medida de movilidad basada solo en velocidad."
+    ],
+    "correcta": 1,
+    "respuesta": "La ponderación hace variar la contribución de las oportunidades con el costo de alcanzarlas.",
+    "referencia": "pp. 48–50"
+  },
+  {
+    "id": "repaso-s07-10",
+    "semana": 7,
+    "lectura": "avellaneda-dextre-2014-cap1",
+    "tipo": "vf",
+    "enunciado": "El enfoque multimodal del capítulo busca que los modos se complementen entre sí.",
+    "verdadera": true,
+    "respuesta": "La complementariedad permite conectar modos de acuerdo con la escala y las necesidades de cada trayecto.",
+    "referencia": "pp. 24–28"
+  },
+  {
+    "id": "repaso-s07-11",
+    "semana": 7,
+    "lectura": "herce-2009-cap1-2",
+    "tipo": "vf",
+    "enunciado": "La categoría estadística de población sin movilidad identifica necesariamente personas que nunca realizan desplazamientos.",
+    "verdadera": false,
+    "respuesta": "En el indicador citado se identifica a quienes no realizaron ningún desplazamiento el día anterior. El intervalo de observación limita la interpretación.",
+    "referencia": "pp. 36–38"
+  },
+  {
+    "id": "repaso-s07-12",
+    "semana": 7,
+    "lectura": "transport-access-manual-2020",
+    "tipo": "vf",
+    "enunciado": "En el esquema de funciones viales citado por el Manual, una arteria se orienta más al movimiento y una calle local, al acceso a los predios.",
+    "verdadera": true,
+    "respuesta": "El esquema distingue una función de movilidad alta y acceso bajo en arterias frente a una prioridad relativa de acceso en calles locales.",
+    "referencia": "pp. 17–21"
+  },
+  {
+    "id": "repaso-s07-13",
+    "semana": 7,
+    "lectura": "transport-access-manual-2020",
+    "tipo": "abierta",
+    "enunciado": "Propón una medida primal y otra dual para comparar el acceso a universidades de dos barrios. Identifica qué mantienes fijo y qué calculas.",
+    "respuesta": "Primal: fijo 45 minutos y cuento las universidades alcanzables en cada barrio. Dual: fijo como objetivo tres universidades y calculo el menor tiempo necesario para alcanzar ese número. Debe usarse el mismo modo y condiciones comparables en ambos barrios.",
+    "referencia": "pp. 45–54"
+  },
+  {
+    "id": "repaso-s08-01",
+    "semana": 8,
+    "lectura": "fernandez-2023-cap1-2",
+    "tipo": "opcion",
+    "enunciado": "¿Qué conjunto corresponde a las cuatro funciones básicas escogidas en la tesis?",
+    "opciones": [
+      "Trabajo, estudio, vivienda y redes sociales.",
+      "Trabajo, estudio, salud y recreación y cultura.",
+      "Trabajo, salud, compras y acceso a trámites.",
+      "Estudio, salud, abastecimiento y cuidado."
+    ],
+    "correcta": 1,
+    "respuesta": "La investigación trabaja cuatro categorías. Recreación y cultura conforman una sola función en esa clasificación.",
+    "referencia": "pp. 6–9"
+  },
+  {
+    "id": "repaso-s08-02",
+    "semana": 8,
+    "lectura": "fernandez-2023-cap1-2",
+    "tipo": "opcion",
+    "enunciado": "Una zona tiene dos destinos con las mismas oportunidades, pero llegar al segundo toma más tiempo. Con f(c) = exp(−βc) y β > 0, ¿cómo contribuyen los dos destinos?",
+    "opciones": [
+      "El destino más cercano aporta más al índice.",
+      "El destino más lejano aporta más al índice.",
+      "Ambos aportan igual porque ofrecen la misma cantidad de oportunidades.",
+      "Solo aporta el más lejano porque tiene mayor impedancia."
+    ],
+    "correcta": 0,
+    "respuesta": "El término exponencial disminuye con el costo cuando β es positivo y está precedido por el signo menos. La comparación mantiene fijas las oportunidades.",
+    "referencia": "pp. 17–19"
+  },
+  {
+    "id": "repaso-s08-03",
+    "semana": 8,
+    "lectura": "fernandez-2023-cap1-2",
+    "tipo": "opcion",
+    "enunciado": "¿Qué interpretación ofrece Fernández ante coeficientes de magnitud baja y casos de signo inesperado en zonas con viajes largos al empleo?",
+    "opciones": [
+      "Un tiempo mayor mejora causalmente el acceso al empleo.",
+      "Una impedancia elevada confirma que hay más empleos cerca del hogar.",
+      "Los usuarios cambian de destino siempre hasta que sus tiempos son iguales.",
+      "Los viajes obligados pueden sostenerse por necesidad a pesar de una impedancia elevada."
+    ],
+    "correcta": 3,
+    "respuesta": "La tesis usa la cautividad de los viajeros como interpretación del patrón y subraya una respuesta baja al tiempo observado.",
+    "referencia": "pp. 19–27"
+  },
+  {
+    "id": "repaso-s08-04",
+    "semana": 8,
+    "lectura": "fernandez-2023-cap1-2",
+    "tipo": "opcion",
+    "enunciado": "¿Qué se utilizó como impedancia en la aplicación gravitacional principal al trabajo?",
+    "opciones": [
+      "La suma final del índice sintético de todas las funciones.",
+      "El costo monetario de todas las etapas, con experiencia de viaje.",
+      "El tiempo de viaje reportado en la encuesta de movilidad.",
+      "Solo la distancia euclidiana entre la vivienda y cada empleo."
+    ],
+    "correcta": 2,
+    "respuesta": "El ajuste principal usó el tiempo de viaje reportado. El análisis posterior por funciones incorpora más dimensiones del acceso.",
+    "referencia": "pp. 19–21"
+  },
+  {
+    "id": "repaso-s08-05",
+    "semana": 8,
+    "lectura": "fernandez-2023-cap1-2",
+    "tipo": "opcion",
+    "enunciado": "Dos viajes en transporte público demoran igual, pero uno exige más transbordos y pagos adicionales. ¿Qué lectura sigue el capítulo 2?",
+    "opciones": [
+      "Tienen igual accesibilidad porque comparten duración total.",
+      "Pueden tener distinto costo generalizado por etapas y sobrecostos.",
+      "El viaje con más transbordos tiene siempre mayor accesibilidad.",
+      "No se pueden comparar porque solo el tiempo fuera del vehículo importa."
+    ],
+    "correcta": 1,
+    "respuesta": "El costo de acceder a una oportunidad incluye condiciones adicionales al tiempo, por ejemplo etapas y costos monetarios extra.",
+    "referencia": "pp. 28–43"
+  },
+  {
+    "id": "repaso-s08-06",
+    "semana": 8,
+    "lectura": "fernandez-2023-cap1-2",
+    "tipo": "opcion",
+    "enunciado": "¿Por qué el estrato debe interpretarse con reservas como indicador de capacidad económica?",
+    "opciones": [
+      "También refleja características espaciales y arquitectónicas que no equivalen al ingreso de cada hogar.",
+      "Es un conteo directo del ingreso mensual de cada persona.",
+      "Por definición, agrega tiempos de espera y costo tarifario.",
+      "Se mide exclusivamente por cantidad de oportunidades de trabajo."
+    ],
+    "correcta": 0,
+    "respuesta": "El estrato incorpora atributos de la vivienda y su entorno. Puede orientar el análisis socioespacial, pero no sustituye los datos de ingreso.",
+    "referencia": "pp. 44–50"
+  },
+  {
+    "id": "repaso-s08-07-v2",
+    "semana": 8,
+    "lectura": "viana-cerqueira-2026",
+    "tipo": "opcion",
+    "enunciado": "Según la figura 1, ¿cómo pasaron los autores de las variables de las encuestas a la identificación de centralidades para cada motivo de viaje?",
+    "opciones": [
+      "Aplicaron primero LISA a las variables de la encuesta y después usaron el análisis de componentes principales para agrupar los resultados.",
+      "Hicieron un único análisis de componentes principales por ciudad con todos los motivos y aplicaron LISA a los viajes totales de cada zona.",
+      "Construyeron primero el índice diferencial y aplicaron LISA a ese indicador para seleccionar las variables de la encuesta.",
+      "Hicieron un análisis de componentes principales por motivo en cada ciudad y aplicaron LISA univariado a los puntajes por unidad espacial."
+    ],
+    "correcta": 3,
+    "respuesta": "Hicieron cinco análisis por ciudad, uno para trabajo, estudio, compras, salud y ocio, y retuvieron dos o tres factores por análisis con al menos 60 % de varianza acumulada. Luego aplicaron LISA univariado sobre los puntajes para identificar agrupamientos espaciales con p < 0,05.",
+    "referencia": "p. 1562 · figura 1"
+  },
+  {
+    "id": "repaso-s08-08-v2",
+    "semana": 8,
+    "lectura": "viana-cerqueira-2026",
+    "tipo": "opcion",
+    "enunciado": "Según la tabla 1, ¿qué porcentajes corresponden a modos activos entre quienes ganan menos de tres salarios mínimos y en cuál ciudad es mayor su tiempo promedio de viaje?",
+    "opciones": [
+      "51,1 % en Bogotá y 44,1 % en Belo Horizonte. El tiempo es mayor en Bogotá.",
+      "33,6 % en Bogotá y 27,6 % en Belo Horizonte. El tiempo es mayor en Bogotá.",
+      "50,2 % en Bogotá y 37,0 % en Belo Horizonte. El tiempo es mayor en Bogotá.",
+      "50,2 % en Bogotá y 37,0 % en Belo Horizonte. El tiempo es mayor en Belo Horizonte."
+    ],
+    "correcta": 2,
+    "respuesta": "En la fila de menos de tres salarios mínimos, los modos activos registran 50,2 % en Bogotá y 37,0 % en Belo Horizonte. El tiempo promedio es 48,8 minutos en Bogotá y 39,6 en Belo Horizonte. El 51,1 % y el 44,1 % miden el peso del grupo en cada ciudad. El 33,6 % y el 27,6 % corresponden a transporte público.",
+    "referencia": "p. 1566 · tabla 1"
+  },
+  {
+    "id": "repaso-s08-09-v2",
+    "semana": 8,
+    "lectura": "viana-cerqueira-2026",
+    "tipo": "opcion",
+    "enunciado": "En las centralidades laborales de Bogotá, ¿qué patrón distingue a Engativá y Fontibón de varias centralidades periféricas del sur?",
+    "opciones": [
+      "Una concentración de hombres de bajos ingresos que llegan principalmente a pie o en bicicleta.",
+      "Una concentración de hombres que se desplazan al trabajo en modos privados.",
+      "Una concentración de mujeres y jóvenes que se desplazan al trabajo en modos activos.",
+      "Una concentración de personas mayores de altos ingresos que viajan para recibir atención especializada."
+    ],
+    "correcta": 1,
+    "respuesta": "Engativá y Fontibón concentran viajes laborales de hombres en modos privados. El artículo sitúa ese patrón cerca de áreas industriales, logísticas y del aeropuerto El Dorado. En zonas del sur como Ciudad Bolívar y Rafael Uribe aparecen centralidades laborales asociadas con hombres de bajos ingresos y modos activos.",
+    "referencia": "pp. 1568–1569 · figura 4"
+  },
+  {
+    "id": "repaso-s08-10",
+    "semana": 8,
+    "lectura": "fernandez-2023-cap1-2",
+    "tipo": "vf",
+    "enunciado": "Encontrar muchos viajes observados de más de 90 minutos es suficiente para demostrar que el tiempo alto aumenta el acceso a empleos.",
+    "verdadera": false,
+    "respuesta": "Los viajes son realizaciones observadas y pueden persistir por necesidad. El resultado no identifica un efecto causal favorable del tiempo.",
+    "referencia": "pp. 17–27"
+  },
+  {
+    "id": "repaso-s08-11",
+    "semana": 8,
+    "lectura": "fernandez-2023-cap1-2",
+    "tipo": "vf",
+    "enunciado": "Los coeficientes del tiempo estimados para las UTAM son uniformemente negativos en la aplicación de Fernández.",
+    "verdadera": false,
+    "respuesta": "La tabla recoge signos distintos y magnitudes pequeñas. La diversidad de signos sustenta parte de la discusión sobre inelasticidad y viajes obligados.",
+    "referencia": "pp. 19–27"
+  },
+  {
+    "id": "repaso-s08-12-v2",
+    "semana": 8,
+    "lectura": "viana-cerqueira-2026",
+    "tipo": "vf",
+    "enunciado": "Según la figura 5 y su interpretación, una centralidad periférica con índice diferencial (DfCI) alto necesariamente tiene un índice de diversidad (DCI) bajo.",
+    "verdadera": false,
+    "respuesta": "Muchas centralidades periféricas con DfCI alto también registran DCI alto. Pueden atraer a grupos históricamente poco representados, como mujeres, personas mayores o de bajos ingresos, y al mismo tiempo reunir una variedad amplia de grupos y modos.",
+    "referencia": "pp. 1570–1572 · figura 5"
+  },
+  {
+    "id": "repaso-s08-13",
+    "semana": 8,
+    "lectura": "fernandez-2023-cap1-2",
+    "tipo": "abierta",
+    "enunciado": "Una UTAM mantiene un volumen alto de viajes largos al trabajo. Explica qué puedes concluir de esos flujos y menciona tres variables que añadirías para estudiar la accesibilidad por transporte público.",
+    "respuesta": "Los flujos confirman desplazamientos observados, pero pueden coexistir con baja accesibilidad y viajes cautivos. Para estudiar barreras adicionales examinaría, por ejemplo, el tiempo de espera, el número de etapas y los costos adicionales. También son pertinentes el acceso a paradas y la experiencia de viaje.",
+    "referencia": "pp. 17–29, 37–43"
+  }
+]

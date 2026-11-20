@@ -4,6 +4,12 @@ Plataforma de estudio para el control de lecturas del curso Movilidad y Territor
 El parcial cubre las lecturas obligatorias hasta la semana 8, vale 27% de la nota y es el 21 de noviembre de 2026.
 El formato es selección múltiple más preguntas abiertas, con diferencias sutiles entre opciones.
 
+[Repaso de clases y simulacro](docs/REPASO-PARCIAL-CLASES.md), con los tramos de las transcripciones y las respuestas explicadas de las capturas del control sobre Milán.
+
+En el mapa, **Repaso del parcial** abre 100 preguntas de las ocho semanas, con selección única, verdadero o falso y abiertas. Se puede practicar por lectura o semana y hacer un simulacro de repaso en **Hora pico**. Los enunciados, respuestas y referencias están en `content/repaso-parcial.json`.
+
+En **Hora pico**, el formato **Solo cerradas** reúne selección única y verdadero o falso y calcula la nota automáticamente al entregar. Se puede aplicar al simulacro completo, a una semana o al repaso del parcial.
+
 ## Qué hay en el repositorio
 
 | Carpeta | Contenido |
@@ -29,11 +35,11 @@ Las lecturas (PDF) tampoco se versionan. Viven en la carpeta local del curso.
 - Semana 5: Cuervo y González cap. 8 (pp. 278-294; capítulo leído completo), cap. 9 (completo, pp. 295-352) y León y Ruiz 2016 (completo) leídos, con ficha, lecturas.json y prompts (el cap. 9 en dos audios).
 - Semana 6: Contreras y Ruiz 2026 (completo) y SDP 2014 (pp. 73-115) leídos completos, con ficha, lecturas.json y prompts (dos audios cada uno).
 - Semana 7: Avellaneda y Dextre cap. 1, Herce caps. I y II y Transport Access Manual (pp. 16-21 y 45-57) leídos completos, con ficha, lecturas.json y prompts (Herce en tres audios; el Manual en dos).
-- Semana 8: Fernández 2023, caps. 1 y 2 (pp. 5-50), leído completo, con ficha, lecturas.json y prompts (tres audios). Falta Viana Cerqueira et al. (2026): el PDF debe aportarse.
+- Semana 8: Fernández 2023, caps. 1 y 2 (pp. 5-50), leído completo, con ficha, lecturas.json y prompts (tres audios). El repaso de Viana Cerqueira et al. (2026) contiene cuatro preguntas basadas en el artículo completo (pp. 1557–1575).
 - Banco estructurado (13-nov): 878 preguntas modelo, 745 trampas y 319 pares extraídos de las 19 fichas, validados contra el esquema. Las 878 preguntas tienen respuesta. Las 151 de las semanas 1 a 4 se redactaron desde el cuerpo de cada ficha; donde la ficha solo da el rango de la sección, la página citada es ese rango.
-- El banco no trae opciones de selección múltiple: los distractores se redactarán después a partir de trampas y pares.
+- El banco generado a partir de las fichas contiene preguntas abiertas y de verdadero o falso. El repaso del parcial incluye también selección única con distractores.
 - Frontend local (13-nov): mapa de zonas, lector de fichas, práctica (V/F y abiertas), boletos con repetición espaciada, trampas y pares, y simulacro cronometrado. El progreso se guarda en el navegador (localStorage). Para ejecutarlo: `cd app && npm install && npm run dev`. Pruebas de extremo a extremo con Playwright en `app/e2e/` (recorren las 878 preguntas, todas las rutas y botones, escritorio y móvil; ver `app/e2e/README.md`).
-- Aún no implementado: capas de lectura, dos señales, palabra trampa, audio, selección múltiple con opciones y simulacros semanal y acumulado por tipo de trampa. Viana Cerqueira et al. (2026) aparece como PDF pendiente.
+- Aún no implementado: capas de lectura, dos señales, palabra trampa, audio y simulacros semanal y acumulado por tipo de trampa.
 - Despliegue pendiente: frontend en Cloudflare Workers con Static Assets (directorio raíz `app`, build `npm run build`, deploy `npx wrangler deploy`; configuración en `app/wrangler.jsonc`) y backend de sincronización en OCI. Decisiones: VM en OCI, frontend en Cloudflare Pages, videos con Remotion.
 
 ## Método de contenido

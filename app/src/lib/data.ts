@@ -54,12 +54,19 @@ export type Item = {
   id: string;
   semana: number;
   lectura: string;
-  tipo: 'vf' | 'abierta';
   enunciado: string;
   respuesta: string;
   referencia: string | null;
-  verdadera: boolean | null;
-  explicacion: string | null;
+} & (
+  | { tipo: 'vf'; verdadera: boolean }
+  | { tipo: 'abierta' }
+  | { tipo: 'opcion'; opciones: string[]; correcta: number }
+);
+
+export const TIPO_PREGUNTA: Record<Item['tipo'], string> = {
+  vf: 'Verdadero o falso',
+  abierta: 'Abierta',
+  opcion: 'Selección única',
 };
 
 export const INDICE = indice as { totales: { preguntas: number; trampas: number; pares: number }; lecturas: FilaIndice[] };
@@ -100,18 +107,16 @@ export const semanaMeta = (n: number) => SEMANAS.find((s) => s.semana === n);
 export function itemsDe(b: Banco): Item[] {
   return b.preguntas
     .filter((p) => p.estado === 'completa' && p.respuesta)
-    .map((p) => ({
-      id: p.id,
-      semana: b.semana,
-      lectura: b.lectura,
+    .map((p) => {
+      const base = {
+        id: p.id, semana: b.semana, lectura: b.lectura,
+        enunciado: p.enunciado, respuesta: p.respuesta as string, referencia: p.referencia,
+      };
       // Un V/F cuya respuesta matiza ("el texto lo dice, pero...") se trata como pregunta abierta.
-      tipo: p.tipo === 'vf' && typeof p.verdadera === 'boolean' ? 'vf' : 'abierta',
-      enunciado: p.enunciado,
-      respuesta: p.respuesta as string,
-      referencia: p.referencia,
-      verdadera: p.verdadera ?? null,
-      explicacion: p.explicacion ?? null,
-    }));
+      return p.tipo === 'vf' && typeof p.verdadera === 'boolean'
+        ? { ...base, tipo: 'vf', verdadera: p.verdadera }
+        : { ...base, tipo: 'abierta' };
+    });
 }
 
 export const prefijoPreguntas = (semana: number, lectura: string) => `${clave(semana, lectura)}-q`;

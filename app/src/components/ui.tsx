@@ -28,6 +28,25 @@ export function Vacio({ children }: { children: ReactNode }) {
   return <div className="card empty">{children}</div>;
 }
 
+export function OpcionesPregunta({ opciones, elegida, elegir, bloqueadas = false }: {
+  opciones: string[];
+  elegida: number | undefined;
+  elegir: (opcion: number) => void;
+  bloqueadas?: boolean;
+}) {
+  return (
+    <div className="col g12" role="group" aria-label="Opciones de respuesta" style={{ maxWidth: 760 }}>
+      {opciones.map((opcion, i) => (
+        <button key={opcion} type="button" className="opt press" aria-pressed={elegida === i} disabled={bloqueadas}
+          style={{ background: elegida === i ? 'var(--blue)' : 'var(--paper)', color: elegida === i ? '#fff' : 'var(--ink)', border: '3px solid var(--ink)' }}
+          onClick={() => elegir(i)}>
+          <b className="d" aria-hidden="true">{'ABCD'[i]}.</b> {opcion}
+        </button>
+      ))}
+    </div>
+  );
+}
+
 export function Chips<T extends string | number>({
   opciones,
   valor,

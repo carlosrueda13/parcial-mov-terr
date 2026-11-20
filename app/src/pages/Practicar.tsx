@@ -1,15 +1,16 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
-import { Barra, Chips, Cargando, Vacio } from '../components/ui';
-import { INDICE, Item, etiqueta } from '../lib/data';
+import { Barra, Chips, Cargando, OpcionesPregunta } from '../components/ui';
+import { INDICE, Item, SEMANAS, TIPO_PREGUNTA, etiqueta } from '../lib/data';
 import { useContenido } from '../lib/hooks';
-import { fallada, registrarRespuesta, usarProg } from '../lib/store';
+import { REPASO, muestraRepaso } from '../lib/repaso';
+import { QStat, fallada, registrarRespuesta, usarProg } from '../lib/store';
 import { barajar, plural } from '../lib/util';
 
 type Modo = 'todas' | 'fallas' | 'nuevas';
-type Tipo = 'todas' | 'vf' | 'abierta';
+type Tipo = 'todas' | Item['tipo'];
 
-function armar(items: Item[], q: Record<string, any>, modo: Modo, tipo: Tipo): Item[] {
+function armar(items: Item[], q: Record<string, QStat>, modo: Modo, tipo: Tipo): Item[] {
   let r = items;
   if (tipo !== 'todas') r = r.filter((i) => i.tipo === tipo);
   if (modo === 'fallas') r = r.filter((i) => fallada(q[i.id]));
@@ -22,15 +23,19 @@ export default function Practicar() {
   const prog = usarProg();
   const semana = Number(sp.get('semana') || 0);
   const lectura = sp.get('lectura') || '';
+  const esRepaso = sp.get('banco') === 'parcial';
   const modo = (sp.get('modo') || 'todas') as Modo;
   const tipo = (sp.get('tipo') || 'todas') as Tipo;
   const n = sp.get('n') || '10';
 
   const filas = useMemo(
-    () => INDICE.lecturas.filter((f) => (!semana || f.semana === semana) && (!lectura || f.lectura === lectura)),
-    [semana, lectura],
+    () => esRepaso ? [] : INDICE.lecturas.filter((f) => (!semana || f.semana === semana) && (!lectura || f.lectura === lectura)),
+    [esRepaso, semana, lectura],
   );
   const contenido = useContenido(filas);
+  const items = useMemo(() => esRepaso
+    ? REPASO.filter((i) => (!semana || i.semana === semana) && (!lectura || i.lectura === lectura))
+    : contenido?.items ?? null, [esRepaso, semana, lectura, contenido]);
 
   const poner = (k: string, v: string, def = '') => {
     const nuevo = new URLSearchParams(sp);
@@ -38,6 +43,10 @@ export default function Practicar() {
     if (v === def) nuevo.delete(k);
     else nuevo.set(k, v);
     if (k === 'semana') nuevo.delete('lectura');
+    if (k === 'banco') {
+      nuevo.delete('lectura');
+      nuevo.delete('tipo');
+    }
     setSp(nuevo, { replace: true });
     setCola(null);
   };
@@ -45,14 +54,14 @@ export default function Practicar() {
   // Estado de la sesión
   const [cola, setCola] = useState<Item[] | null>(null);
   const [idx, setIdx] = useState(0);
-  const [eleccion, setEleccion] = useState<boolean | null>(null);
+  const [eleccion, setEleccion] = useState<boolean | number | null>(null);
   const [revelada, setRevelada] = useState(false);
   const [calificada, setCalificada] = useState<boolean | null>(null);
   const [aciertos, setAciertos] = useState(0);
   const [falladas, setFalladas] = useState<Item[]>([]);
   const guardia = useRef(false);
 
-  const disponibles = useMemo(() => (contenido ? armar(contenido.items, prog.q, modo, tipo) : []), [contenido, prog.q, modo, tipo]);
+  const disponibles = useMemo(() => items ? armar(items, prog.q, modo, tipo) : [], [items, prog.q, modo, tipo]);
 
   const empezar = (lista: Item[]) => {
     setCola(lista);
@@ -64,8 +73,8 @@ export default function Practicar() {
     setFalladas([]);
   };
   const iniciar = () => {
-    const base = barajar(disponibles);
-    empezar(n === 'todas' ? base : base.slice(0, Number(n)));
+    const cantidad = n === 'todas' ? disponibles.length : Number(n);
+    empezar(esRepaso ? muestraRepaso(disponibles, cantidad) : barajar(disponibles).slice(0, cantidad));
   };
 
   // Inicio automático desde enlaces de otras pantallas.
@@ -74,47 +83,51 @@ export default function Practicar() {
       guardia.current = false;
       return;
     }
-    if (!contenido || guardia.current) return;
+    if (!items || guardia.current) return;
     guardia.current = true;
     const nuevo = new URLSearchParams(sp);
     nuevo.delete('ir');
     setSp(nuevo, { replace: true });
-    const base = barajar(armar(contenido.items, prog.q, modo, tipo));
-    empezar(n === 'todas' ? base : base.slice(0, Number(n)));
-  }, [contenido, sp]);
+    if (disponibles.length) iniciar();
+  }, [items, sp, disponibles]);
 
-  const lecturasDeSemana = INDICE.lecturas.filter((f) => !semana || f.semana === semana);
-  const semanas = Array.from(new Set(INDICE.lecturas.map((f) => f.semana)));
+  const lecturasDeSemana = SEMANAS.filter((s) => !semana || s.semana === semana).flatMap(
+    (s) => s.lecturas.filter((l) => esRepaso ? REPASO.some((i) => i.lectura === l.id) : INDICE.lecturas.some((f) => f.lectura === l.id))
+      .map((l) => ({ semana: s.semana, lectura: l.id })),
+  );
+  const tipos = [{ v: 'todas', t: 'Todas' }, { v: 'vf', t: 'Verdadero o falso' }, { v: 'abierta', t: 'Abiertas' }];
+  if (esRepaso) tipos.push({ v: 'opcion', t: TIPO_PREGUNTA.opcion });
 
   // ---- Pantalla de configuración ----
   if (!cola) {
     return (
       <div className="page narrow">
         <div className="col g8" style={{ maxWidth: 820 }}>
-          <h1 className="h1 m d">Practicar</h1>
-          <p className="lead">Elige qué preguntas quieres y empieza. Cada respuesta queda registrada para el dominio del mapa.</p>
+          <h1 className="h1 m d">{esRepaso ? 'Repaso del parcial' : 'Practicar'}</h1>
+          <p className="lead">{esRepaso ? `${REPASO.length} preguntas nuevas de las ocho semanas, con respuestas explicadas.` : 'Elige qué preguntas quieres y empieza. Cada respuesta queda registrada para el dominio del mapa.'}</p>
         </div>
         <section className="card col g20" aria-label="Configurar práctica">
+          <div className="col g8"><b>Banco</b><Chips etiqueta="Banco de preguntas" valor={esRepaso ? 'parcial' : ''} onChange={(v) => poner('banco', v)} opciones={[{ v: '', t: 'Banco de lecturas' }, { v: 'parcial', t: 'Repaso del parcial' }]} /></div>
           <div className="row g16">
             <label className="col g8" style={{ flex: '1 1 220px' }}>
               <b>Semana</b>
-              <select value={semana} onChange={(e) => poner('semana', e.target.value, '0')}>
+              <select aria-label="Semana" value={semana} onChange={(e) => poner('semana', e.target.value, '0')}>
                 <option value={0}>Todas las semanas</option>
-                {semanas.map((s) => <option key={s} value={s}>Semana {s}</option>)}
+                {SEMANAS.map(({ semana: s }) => <option key={s} value={s}>Semana {s}</option>)}
               </select>
             </label>
             <label className="col g8" style={{ flex: '2 1 300px' }}>
               <b>Lectura</b>
-              <select value={lectura} onChange={(e) => poner('lectura', e.target.value)}>
+              <select aria-label="Lectura" value={lectura} onChange={(e) => poner('lectura', e.target.value)}>
                 <option value="">Todas las lecturas</option>
                 {lecturasDeSemana.map((f) => <option key={f.lectura} value={f.lectura}>S{f.semana}: {etiqueta(f.lectura)}</option>)}
               </select>
             </label>
           </div>
-          <div className="col g8"><b>Tipo</b><Chips etiqueta="Tipo de pregunta" valor={tipo} onChange={(v) => poner('tipo', v, 'todas')} opciones={[{ v: 'todas', t: 'Todas' }, { v: 'vf', t: 'Verdadero o falso' }, { v: 'abierta', t: 'Abiertas' }]} /></div>
+          <div className="col g8"><b>Tipo</b><Chips etiqueta="Tipo de pregunta" valor={tipo} onChange={(v) => poner('tipo', v, 'todas')} opciones={tipos} /></div>
           <div className="col g8"><b>Cuáles</b><Chips etiqueta="Selección" valor={modo} onChange={(v) => poner('modo', v, 'todas')} opciones={[{ v: 'todas', t: 'Todas' }, { v: 'fallas', t: 'Las que fallé' }, { v: 'nuevas', t: 'Sin responder' }]} /></div>
           <div className="col g8"><b>Cantidad</b><Chips etiqueta="Cantidad" valor={n} onChange={(v) => poner('n', v, '10')} opciones={[{ v: '10', t: '10' }, { v: '20', t: '20' }, { v: 'todas', t: 'Todas' }]} /></div>
-          {!contenido ? (
+          {!items ? (
             <Cargando />
           ) : (
             <div className="row center g16">
@@ -126,7 +139,7 @@ export default function Practicar() {
           )}
         </section>
         <p className="muted" style={{ fontSize: 15, maxWidth: 820 }}>
-          Solo aparecen preguntas con respuesta en la ficha. Las afirmaciones cuya respuesta matiza el texto se muestran como preguntas abiertas.
+          {esRepaso ? 'Las rondas de varias semanas reparten las preguntas entre ellas. Puedes repetir las que fallaste o continuar con las que te faltan.' : 'Solo aparecen preguntas con respuesta en la ficha. Las afirmaciones cuya respuesta matiza el texto se muestran como preguntas abiertas.'}
         </p>
       </div>
     );
@@ -152,13 +165,15 @@ export default function Practicar() {
 
   // ---- Pregunta ----
   const it = cola[idx];
-  const respondida = it.tipo === 'vf' ? eleccion !== null : calificada !== null;
-  const correcta = it.tipo === 'vf' ? eleccion === it.verdadera : calificada === true;
+  const esAbierta = it.tipo === 'abierta';
+  const solucion = it.tipo === 'opcion' ? it.correcta : it.tipo === 'vf' ? it.verdadera : null;
+  const respondida = esAbierta ? calificada !== null : eleccion !== null;
+  const correcta = esAbierta ? calificada === true : eleccion === solucion;
 
-  const elegir = (v: boolean) => {
+  const elegir = (v: boolean | number) => {
     if (eleccion !== null) return;
     setEleccion(v);
-    const ok = v === it.verdadera;
+    const ok = v === solucion;
     registrarRespuesta(it.id, ok);
     if (ok) setAciertos((a) => a + 1);
     else setFalladas((f) => [...f, it]);
@@ -187,7 +202,7 @@ export default function Practicar() {
       <section className="pregunta" aria-label={`Pregunta ${idx + 1}`}>
         <div className="row g8">
           <span className="tag">S{it.semana}: {etiqueta(it.lectura)}</span>
-          <span className="tag">{it.tipo === 'vf' ? 'Verdadero o falso' : 'Abierta'}</span>
+          <span className="tag">{TIPO_PREGUNTA[it.tipo]}</span>
         </div>
         <p className="texto d">{it.enunciado}</p>
 
@@ -197,6 +212,9 @@ export default function Practicar() {
             <button type="button" className="press sign-red" style={{ borderRadius: 18 }} disabled={eleccion !== null} onClick={() => elegir(false)}>Falso</button>
           </div>
         )}
+        {it.tipo === 'opcion' && (
+          <OpcionesPregunta opciones={it.opciones} elegida={typeof eleccion === 'number' ? eleccion : undefined} elegir={elegir} bloqueadas={respondida} />
+        )}
         {it.tipo === 'abierta' && !revelada && (
           <div className="row g16">
             <button type="button" className="press btn sign-ink" onClick={() => setRevelada(true)}>Mostrar la respuesta</button>
@@ -204,9 +222,10 @@ export default function Practicar() {
           </div>
         )}
 
-        {(it.tipo === 'vf' ? respondida : revelada) && (
-          <div className={`respuesta ${it.tipo === 'vf' ? (correcta ? 'ok' : 'mal') : 'neutral'}`} role="status">
-            {it.tipo === 'vf' && <p className="d" style={{ fontSize: 24, fontWeight: 900 }}>{correcta ? 'Correcto' : 'Incorrecto'}</p>}
+        {(esAbierta ? revelada : respondida) && (
+          <div className={`respuesta ${esAbierta ? 'neutral' : correcta ? 'ok' : 'mal'}`} role="status">
+            {!esAbierta && <p className="d" style={{ fontSize: 24, fontWeight: 900 }}>{correcta ? 'Correcto' : 'Incorrecto'}</p>}
+            {it.tipo === 'opcion' && <p><b>Respuesta correcta</b> · {it.opciones[it.correcta]}</p>}
             <p className="t">{it.respuesta}</p>
             {it.referencia && <p><span className="pill">{it.referencia}</span></p>}
           </div>

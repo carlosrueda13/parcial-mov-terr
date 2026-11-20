@@ -3,17 +3,18 @@ import { Banco, FilaIndice, Item, Par, Trampa, cargarBancos, itemsDe } from './d
 
 // Carga los bancos de las lecturas pedidas. Devuelve null mientras carga.
 export function useBancos(filas: FilaIndice[]): Banco[] | null {
-  const [bancos, setBancos] = useState<Banco[] | null>(null);
+  const [carga, setCarga] = useState<{ clave: string; bancos: Banco[] } | null>(null);
   const clave = filas.map((f) => f.lectura).join('|');
   useEffect(() => {
     let vivo = true;
-    setBancos(null);
-    cargarBancos(filas).then((b) => vivo && setBancos(b));
+    cargarBancos(filas).then((bancos) => {
+      if (vivo) setCarga({ clave, bancos });
+    });
     return () => {
       vivo = false;
     };
   }, [clave]);
-  return bancos;
+  return carga?.clave === clave ? carga.bancos : null;
 }
 
 export function useContenido(filas: FilaIndice[]) {

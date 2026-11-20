@@ -2,7 +2,7 @@
 
 Tema de la semana: movilidad y accesibilidad, visión socioespacial. Un cuaderno por lectura. Formato Deep Dive, idioma español. En cada cuaderno se suben solo las fuentes indicadas: el PDF de la lectura y su ficha. Mezclar lecturas en un cuaderno borra las atribuciones.
 
-Estado: este archivo trae la lectura 1 (Fernández, 2023, caps. 1 y 2). La lectura 2 (Viana Cerqueira et al., 2026, "Mobility practices and the social construction of urban centralities in Belo Horizonte and Bogotá", completo) se agrega cuando se aporte el PDF.
+Estado del guion de audio. Este archivo trae la lectura 1 (Fernández, 2023, caps. 1 y 2).
 
 Reglas comunes (ya incluidas en cada prompt): la ficha es el guion y el PDF es la autoridad; cada idea se atribuye a su autora o a su autor, y se distingue a la autora de la tesis de los autores que cita; las definiciones, las listas y las cifras se leen textuales y se repiten; cada cuantificador o negación se comenta; los pares parecidos se contrastan en una frase; cada bloque cierra con dos frases de resumen y una pregunta tipo examen con pausa; el cierre es de verdadero o falso con trampa.
 
@@ -92,4 +92,4 @@ Podcast de estudio para un examen de selección múltiple donde una cifra, un a�
 
 ## 2. Viana Cerqueira et al. (2026): pendiente
 
-El PDF no está disponible. Cuando se aporte se lee completo, se hace la ficha y se agrega aquí su prompt.
+El artículo completo se usó para preparar las preguntas del repaso. Quedan pendientes la ficha y el guion de audio.
