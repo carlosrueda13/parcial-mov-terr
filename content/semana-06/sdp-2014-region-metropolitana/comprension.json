@@ -1,0 +1,398 @@
+[
+  {
+    "enunciado": "¿Qué distingue el ejercicio propio de la Secretaría Distrital de Planeación (SDP) del análisis con datos del DANE?",
+    "opciones": [
+      "La SDP hace un escenario propio de ocupación 2005-2030, con técnicas de predicción y factores urbanísticos.",
+      "La SDP solo reproduce las proyecciones del DANE 1985-2020, sin agregar ningún modelo ni factor urbanístico propio.",
+      "El DANE incluye factores inmobiliarios y de movilidad en su análisis, y la SDP solo usa los censos de 1993 y 2005.",
+      "La SDP trabaja con los 116 municipios de Cundinamarca y el DANE solo con los municipios del borde urbano.",
+      "Los dos ejercicios usan el mismo horizonte, 2005-2020, y se diferencian únicamente por los municipios que incluyen."
+    ],
+    "correcta": 0,
+    "explicacion": "Las Tablas 2 a 9 y las Gráficas 1 a 10 son del DANE (estimaciones 1985-2005 y proyecciones 2005-2020). La Tabla 10 y las Gráficas 11 y 12 son el modelo propio de la SDP (2005-2030), con técnicas estadísticas y factores urbanísticos como las dinámicas inmobiliarias y de movilidad.",
+    "errores": [
+      null,
+      "La SDP hace un ejercicio propio, con horizonte 2005-2030.",
+      "Los factores inmobiliarios y de movilidad son del modelo de la SDP.",
+      "El modelo de la SDP usa Bogotá y 29 municipios, no los 116 de Cundinamarca.",
+      "El modelo de la SDP llega a 2030, un horizonte mayor que el del DANE."
+    ],
+    "concepto": "Fuentes: DANE y SDP",
+    "nivel": "contraste",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, p. 74"
+  },
+  {
+    "enunciado": "Según la Tabla 1, ¿cuál de estos emparejamientos entre escala de análisis y municipios es correcto?",
+    "opciones": [
+      "Escala regional: Bogotá, Tunja, Villavicencio e Ibagué.",
+      "Escala regional: Bogotá y los 116 municipios del departamento de Cundinamarca.",
+      "Borde urbano: 13 municipios de Cundinamarca, el Meta y el Huila.",
+      "Borde rural: los 20 municipios más próximos a Bogotá, con relaciones metropolitanas.",
+      "Escala subregional: Bogotá, Tunja, Villavicencio e Ibagué, con sus áreas de influencia."
+    ],
+    "correcta": 0,
+    "explicacion": "Cuatro niveles: regional (Bogotá, Tunja, Villavicencio, Ibagué); subregional (116 municipios de Cundinamarca y Bogotá); borde urbano y de relaciones metropolitanas (20 municipios de Cundinamarca); borde rural (13: 9 de Cundinamarca, 3 del Meta y 1 del Huila).",
+    "errores": [
+      null,
+      "Esa es la escala subregional.",
+      "Los 13 municipios son del borde rural, no del borde urbano.",
+      "Los 20 municipios son el borde urbano y de relaciones metropolitanas.",
+      "Esas son las ciudades de la escala regional."
+    ],
+    "concepto": "Escalas de análisis",
+    "nivel": "contraste",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, p. 75"
+  },
+  {
+    "enunciado": "¿Cuántos municipios forman el borde rural y de qué departamentos son?",
+    "opciones": [
+      "13 municipios: 9 de Cundinamarca, 3 del Meta y 1 del Huila.",
+      "9 municipios, todos del departamento de Cundinamarca.",
+      "20 municipios: 17 de Cundinamarca, 2 del Meta y 1 del Huila.",
+      "13 municipios: 9 de Cundinamarca, 2 del Meta y 2 del Huila.",
+      "29 municipios, repartidos entre Cundinamarca, el Meta y el Huila."
+    ],
+    "correcta": 0,
+    "explicacion": "El borde rural reúne municipios con relaciones agropecuarias y de soporte ambiental: Choachí, Ubaque, Chipaque, Une, Gutiérrez, Pasca, San Bernardo, Cabrera y Arbeláez (Cundinamarca), Guamal, Cubarral y Uribe (Meta), y Colombia (Huila).",
+    "errores": [
+      null,
+      "Los 9 de Cundinamarca son solo una parte del borde rural.",
+      "Los 20 municipios son del borde urbano.",
+      "Son 3 del Meta y 1 del Huila.",
+      "Los 29 son los municipios del modelo de la SDP, sin los del Meta y el Huila."
+    ],
+    "concepto": "Borde rural",
+    "nivel": "contraste",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, pp. 75-86"
+  },
+  {
+    "enunciado": "¿Qué mide el IPT (índice de primacía o concentración poblacional) que usa el capítulo?",
+    "opciones": [
+      "La proporción de la población de un municipio o área respecto a un agregado, como indicador de concentración.",
+      "La tasa de crecimiento promedio anual de la población de un municipio entre dos censos consecutivos.",
+      "La densidad de población de un municipio, medida en habitantes por kilómetro cuadrado de suelo urbano.",
+      "La migración neta de un municipio hacia Bogotá en los cinco años previos a cada censo.",
+      "La participación de la actividad económica de un municipio en el producto interno bruto de la región."
+    ],
+    "correcta": 0,
+    "explicacion": "El IPT mide la intensidad de la concentración de la población: es la proporción de la población de un municipio o área respecto a un agregado (en la práctica, el país). Sus tasas de variación indican si esa concentración aumenta o disminuye.",
+    "errores": [
+      null,
+      "Eso es una tasa de crecimiento, no el IPT.",
+      "El IPT no es una densidad.",
+      "El IPT no mide migración.",
+      "El IPT se calcula con población, no con producción económica."
+    ],
+    "concepto": "Índice de concentración (IPT)",
+    "nivel": "contraste",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, p. 79"
+  },
+  {
+    "enunciado": "El capítulo afirma que Bogotá aumenta su concentración respecto al país, pero se desconcentra frente a los municipios del borde urbano. ¿Cómo se concilian ambas ideas?",
+    "opciones": [
+      "El IPT depende del agregado de comparación: frente al país Bogotá gana peso, y frente a Bogotá más borde pierde peso.",
+      "Son ideas contradictorias, porque el IPT no puede subir y bajar a la vez para una misma ciudad.",
+      "Bogotá pierde peso frente al país, pero lo gana frente a los municipios del borde urbano.",
+      "Bogotá se desconcentra porque su población disminuye en términos absolutos entre 2005 y 2020.",
+      "Bogotá gana concentración frente al borde urbano porque su tasa de crecimiento es mayor que la de los municipios."
+    ],
+    "correcta": 0,
+    "explicacion": "Frente al país, el IPT de Bogotá crece levemente (ganancia de concentración). Frente a Bogotá más borde, los municipios del borde urbano ganan participación porque crecen a mayor tasa: Bogotá se desconcentra. No hay un cambio cualitativo en el patrón.",
+    "errores": [
+      null,
+      "No lo son: el IPT cambia según el agregado con el que se compare.",
+      "Está invertido: gana frente al país y pierde frente al borde.",
+      "La población de Bogotá sigue creciendo, aunque cada vez más despacio.",
+      "La tasa del borde urbano es mayor que la de Bogotá."
+    ],
+    "concepto": "Concentración y desconcentración",
+    "nivel": "interpretacion",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, pp. 107 y 109"
+  },
+  {
+    "enunciado": "Entre Tunja, Villavicencio e Ibagué, ¿cuál es el orden de dinamismo poblacional y cuál tiene el mayor nivel de población en 2020?",
+    "opciones": [
+      "Villavicencio, Tunja e Ibagué, siendo Ibagué la de mayor población y menor crecimiento.",
+      "Ibagué, Tunja y Villavicencio, siendo Villavicencio la de mayor población entre las tres.",
+      "Tunja, Villavicencio e Ibagué, siendo Tunja la de mayor población y mayor crecimiento.",
+      "Villavicencio, Ibagué y Tunja, siendo Villavicencio la de mayor población y menor tasa.",
+      "Ibagué, Villavicencio y Tunja, siendo Ibagué la de mayor crecimiento y mayor población."
+    ],
+    "correcta": 0,
+    "explicacion": "El orden de dinamismo (tasas de 2020: 2,14 %, 1,89 % y 0,93 %) es Villavicencio, Tunja e Ibagué. Ibagué tiene el mayor nivel de las tres (579.807 en 2020) pero el menor crecimiento. Villavicencio supera en promedio el 2 % y tiende a alcanzar el nivel de Ibagué (538.523 en 2020).",
+    "errores": [
+      null,
+      "El orden está invertido, y Ibagué es la de mayor población.",
+      "Tunja es la de menor población de las tres.",
+      "Ibagué tiene la menor tasa y Tunja crece más que ella.",
+      "Ibagué tiene el menor crecimiento, no el mayor."
+    ],
+    "concepto": "Escala regional",
+    "nivel": "contraste",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, pp. 76-77"
+  },
+  {
+    "enunciado": "El capítulo dice que las ciudades regionales aumentan su importancia relativa frente al país, 'pero cada año en menores niveles'. ¿Qué significa en términos del IPT?",
+    "opciones": [
+      "Que el IPT sigue subiendo, pero su tasa de variación cada año es menor.",
+      "Que el IPT baja cada año, porque las ciudades regionales pierden población frente al país.",
+      "Que el IPT se mantiene constante, porque las tasas de variación se compensan entre sí.",
+      "Que el IPT es negativo en todas las ciudades, y por eso la tasa de variación disminuye.",
+      "Que el IPT crece cada año más rápido, porque la población de las ciudades supera la del país."
+    ],
+    "correcta": 0,
+    "explicacion": "Las tasas de variación del IPT decrecen (llegan a cerca del 1 % anual y, en Ibagué, a valores negativos): las ciudades aumentan su importancia relativa, pero cada año en menor medida. No se prevé un cambio en la tendencia concentrativa respecto al país.",
+    "errores": [
+      null,
+      "El IPT sube; lo que baja es su tasa de variación.",
+      "El IPT sube, aunque lo haga cada vez más despacio.",
+      "El texto solo menciona valores negativos en Ibagué, no en todas las ciudades.",
+      "La tasa de variación decrece desde 1998."
+    ],
+    "concepto": "Lectura del IPT",
+    "nivel": "interpretacion",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, pp. 79-80"
+  },
+  {
+    "enunciado": "Entre 2005 y 2020 la nueva población de Bogotá más su borde es de 1.998.108 habitantes, de los cuales 1.540.685 corresponden a Bogotá. ¿Cuántos de cada 100 nuevos habitantes son de Bogotá y qué concluye el texto?",
+    "opciones": [
+      "77 de cada 100; es poco probable que la nueva población de Bogotá cambie su patrón de distribución espacial.",
+      "23 de cada 100; es probable que la nueva población de Bogotá ocupe los territorios del borde urbano.",
+      "50 de cada 100; la nueva población de Bogotá y la del borde se reparten por igual.",
+      "77 de cada 100; el borde urbano crece más que Bogotá en nueva población.",
+      "91 de cada 100; el borde apenas crece y su aporte a la población regional es nulo."
+    ],
+    "correcta": 0,
+    "explicacion": "1.540.685 / 1.998.108 = 77,1 %: de cada 100 nuevos habitantes, 77 son de Bogotá y 23 del borde. La nueva población de Bogotá es unas tres veces la del borde, por lo que es poco probable que cambie su patrón de distribución espacial, aunque el borde concentra el 75 % de la nueva población de Cundinamarca.",
+    "errores": [
+      null,
+      "23 de cada 100 son del borde, y el texto no concluye que Bogotá ocupe el borde.",
+      "Bogotá aporta mucho más que el borde: la relación es de más de tres a uno.",
+      "La nueva población de Bogotá es unas tres veces mayor que la del borde.",
+      "El borde aporta 23 de cada 100 nuevos habitantes."
+    ],
+    "concepto": "Nueva población 2005-2020",
+    "nivel": "calculo",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, p. 93"
+  },
+  {
+    "enunciado": "Dentro del borde, ¿qué grupo concentra la mayor parte de la población en 2020 y qué grupo tiene la mayor tasa de crecimiento reciente?",
+    "opciones": [
+      "Occidente concentra cerca del 60 % de la población, y el nororiente tiene la mayor tasa (2,43 % en 2016-2020).",
+      "Norte concentra cerca del 60 % de la población, y el occidente tiene la mayor tasa (2,43 % en 2016-2020).",
+      "Occidente concentra cerca del 20 % de la población, y el norte tiene la mayor tasa (2,03 % en 2016-2020).",
+      "Noroccidente concentra cerca del 60 % de la población, y el occidente tiene la mayor tasa (2,57 %).",
+      "Nororiente concentra cerca del 60 % de la población, y el norte tiene la mayor tasa (2,43 %)."
+    ],
+    "correcta": 0,
+    "explicacion": "En 2020: occidente 60 %, norte 20 %, noroccidente 7 % y nororiente 5 % de la población del borde. Las tasas quinquenales más altas son las del nororiente (2,57 % en 2011-2015 y 2,43 % en 2016-2020), luego el occidente (2,22 % y 2,03 %). Bogotá crece 1,36 % y 1,24 %.",
+    "errores": [
+      null,
+      "El 60 % es del occidente, no del norte.",
+      "El 20 % corresponde al norte.",
+      "El noroccidente tiene cerca del 7 % de la población.",
+      "El nororiente tiene cerca del 5 % de la población."
+    ],
+    "concepto": "Grupos de municipios del borde",
+    "nivel": "contraste",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, pp. 102-104"
+  },
+  {
+    "enunciado": "¿Cómo se compara la población del borde rural con la del borde urbano?",
+    "opciones": [
+      "El borde rural crece menos de 1 % anual y es estable; el borde urbano es cerca del 92 % del borde.",
+      "El borde rural crece más rápido que el urbano, y concentra cerca del 92 % de la población del borde.",
+      "Ambos bordes crecen por encima de 4 % anual entre 1995 y 2020, sin desaceleración en ningún quinquenio.",
+      "El borde rural supera los 500.000 habitantes en 2020, y el urbano apenas alcanza los 200.000 habitantes.",
+      "Ambos bordes pierden población entre 2005 y 2020, y por eso Bogotá gana concentración frente al país."
+    ],
+    "correcta": 0,
+    "explicacion": "Borde urbano: 810.759 (1995) a 1.597.515 (2020), tasas de 4,38 % a 2,01 %. Borde rural: cerca de 118.000 a 126.273 habitantes, con tasas de 0,26 % a 0,67 % y negativas en dos quinquenios; no superaría los 150.000 en 2020.",
+    "errores": [
+      null,
+      "El borde urbano es el que concentra cerca del 92 % y el que crece más rápido.",
+      "Las tasas decrecen en ambos y el borde rural no pasa de 1 %.",
+      "El borde rural llegaría a 126.273 y el urbano a 1.597.515 en 2020.",
+      "El borde urbano crece; solo el rural tuvo tasas negativas hasta 2005."
+    ],
+    "concepto": "Borde urbano y rural",
+    "nivel": "contraste",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, pp. 88-91"
+  },
+  {
+    "enunciado": "¿Cuál es el objetivo del modelo de ocupación de la SDP y qué factores considera?",
+    "opciones": [
+      "Proyectar el escenario más probable o referencial, según la disponibilidad de suelo urbanizable y la movilidad.",
+      "Proyectar un escenario ideal, sin restricciones, que maximice la población que Bogotá puede recibir en 2030.",
+      "Proyectar solo el escenario tendencial, que prolonga las tasas históricas de crecimiento de cada municipio.",
+      "Proyectar la población según el valor del suelo y las rentas inmobiliarias de cada municipio del ámbito de Bogotá.",
+      "Medir la desigualdad de ingresos entre municipios del ámbito y el Distrito, con el índice de concentración."
+    ],
+    "correcta": 0,
+    "explicacion": "El modelo de la Subsecretaría de Planeación Territorial proyecta 2005-2030 para Bogotá y 29 municipios del ámbito. Busca el 'escenario más probable o referencial, el cual puede ser tendencial o no', en función de factores como la disponibilidad de suelo para desarrollos urbanos y la movilidad, uno de los principales condicionantes de la migración regional.",
+    "errores": [
+      null,
+      "Es un escenario probable o referencial, tendencial o no.",
+      "El escenario referencial puede ser tendencial o no.",
+      "Los factores citados son la disponibilidad de suelo y la movilidad.",
+      "No es el objetivo del modelo poblacional."
+    ],
+    "concepto": "Modelo de ocupación 2005-2030",
+    "nivel": "causa",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, pp. 109-110"
+  },
+  {
+    "enunciado": "¿Qué proyecta el modelo de la SDP para 2030 sobre el peso de Bogotá y del ámbito en la región?",
+    "opciones": [
+      "Una región de cerca de 11,4 millones, con Bogotá en 80 % y el ámbito en 20 %, frente a 85 % y 15 % en 2005.",
+      "Una región de cerca de 11,4 millones, con Bogotá en 85 % y el ámbito en 15 %, igual que en 2005.",
+      "Una región de cerca de 9 millones, con Bogotá en 60 % y el ámbito en 40 %, por la expansión metropolitana.",
+      "Una región de cerca de 11,4 millones, con Bogotá en 90 % y el ámbito en 10 %, por la primacía urbana.",
+      "Una región de cerca de 13 millones, con Bogotá en 70 % y el ámbito en 30 %, por la desconcentración."
+    ],
+    "correcta": 0,
+    "explicacion": "Tabla 10: 11.364.417 en 2030 (9.000.000 aprox. en 2013). Tabla 11: Bogotá 85 %, 84 %, 82 % y 80 % en 2005, 2013, 2020 y 2030; ámbito 15 %, 16 %, 18 % y 20 %. Los 3.295.657 nuevos habitantes se acercan a la población actual del Área Metropolitana del Valle de Aburrá.",
+    "errores": [
+      null,
+      "Bogotá baja de 85 % a 80 %.",
+      "9 millones es la cifra de 2013, y la participación de Bogotá no baja a 60 %.",
+      "El ámbito gana participación; no la pierde.",
+      "Las cifras no son las del modelo."
+    ],
+    "concepto": "Resultados del modelo",
+    "nivel": "interpretacion",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, pp. 111-112"
+  },
+  {
+    "enunciado": "El modelo 2005-2030 agrupa los municipios de manera distinta a la Tabla 7 del análisis DANE. ¿Cuál es la composición de la Tabla 12?",
+    "opciones": [
+      "Diez grupos: siete urbanos con 20 municipios y tres rurales con 9, en total 29 municipios.",
+      "Ocho grupos con 33 municipios: 20 del borde urbano y 13 del borde rural en tres departamentos.",
+      "Diez grupos con 33 municipios, que incluyen los del Meta y el Huila.",
+      "Siete grupos con 20 municipios urbanos, sin ningún grupo para el borde rural de Cundinamarca.",
+      "Cinco grupos con 29 municipios, definidos por criterios a priori de cercanía a Bogotá."
+    ],
+    "correcta": 0,
+    "explicacion": "Tabla 7 (DANE): ocho grupos y 33 municipios. Tabla 12 (SDP): diez grupos, 29 municipios; los grupos 1 a 7 mantienen relaciones urbanas con Bogotá (20 municipios) y los grupos 8 a 10 una relación rural (9 municipios).",
+    "errores": [
+      null,
+      "Esa es la composición de la Tabla 7 del análisis DANE.",
+      "El modelo deja fuera los municipios del Meta y el Huila.",
+      "Hay tres grupos rurales (8 a 10).",
+      "El texto aclara que el ordenamiento no obedece a un criterio a priori."
+    ],
+    "concepto": "Grupos del borde: Tabla 7 y Tabla 12",
+    "nivel": "contraste",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, pp. 99-100 y 113"
+  },
+  {
+    "enunciado": "En el modelo de la SDP, ¿qué grupos tienen las mayores tasas de crecimiento y qué se proyecta para ellos?",
+    "opciones": [
+      "Los grupos 3, 5 y 7 (Chía, Zipaquirá, Cota, Facatativá, Soacha y otros), con cerca de 1,5 millones en 2030.",
+      "Los grupos 8 a 10 (Chipaque, Choachí, Ubaque, Gutiérrez, Une y otros), con cerca de 1,5 millones en 2030.",
+      "Los grupos 1, 2 y 4 (La Calera, Sopó, Tocancipá, Gachancipá, Tenjo y otros), con cerca de 3 millones en 2030.",
+      "Solo el grupo 7 (Soacha y Sibaté), que superaría la población de Bogotá hacia el año 2030, según el modelo.",
+      "El grupo 6 (Bojacá y Zipacón), que sería el de mayor crecimiento de toda la región metropolitana."
+    ],
+    "correcta": 0,
+    "explicacion": "Los grupos 3, 5 y 7 suman 10 municipios con las mayores tasas; el texto da cerca de 1.500.000 habitantes en 2030, magnitud que podría superar la de las áreas metropolitanas de Bucaramanga y Cúcuta y acercarse a la de Barranquilla. Por eso tendrán las relaciones más intensas con el Distrito.",
+    "errores": [
+      null,
+      "Los grupos 8 a 10 son rurales y de crecimiento estable.",
+      "Los grupos de mayor tasa son el 3, el 5 y el 7.",
+      "No supera a Bogotá; Bogotá sigue siendo el 80 % de la región.",
+      "El grupo 6 no está entre los destacados."
+    ],
+    "concepto": "Grupos con mayor crecimiento",
+    "nivel": "interpretacion",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, pp. 113-114"
+  },
+  {
+    "enunciado": "En el inicio del apartado sobre estructura económica (p. 115), ¿cuál NO es una de las razones que explican la alta concentración espacial de la población y de la actividad económica?",
+    "opciones": [
+      "Las ventajas de cercanía a grandes mercados de bienes, servicios y factores.",
+      "Las ganancias en costos de transporte y las rentas del suelo por (re)localización.",
+      "Las ventajas de información y de cercanía a un mercado de trabajo especializado.",
+      "La reducción de la distancia de viaje que lograría la dispersión de las actividades."
+    ],
+    "correcta": 3,
+    "explicacion": "La concentración espacial se explica por la cercanía a grandes mercados, las ganancias en costos de transporte y rentas del suelo, las ventajas de información y el mercado de trabajo especializado. Se espera que los municipios con más actividad económica tengan más concentración.",
+    "errores": [
+      "Sí es una de las razones que cita.",
+      "Sí es una de las razones que cita.",
+      "Sí es una de las razones que cita.",
+      null
+    ],
+    "concepto": "Concentración espacial de la actividad",
+    "nivel": "contraste",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III, p. 115"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "A partir de las escalas y los resultados del DANE en el capítulo III, defina si cada una de las siguientes afirmaciones es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "Las Tablas 2 a 9 usan estimaciones y proyecciones del DANE hasta 2020, y la Tabla 10 usa el modelo de la SDP 2005-2030.",
+        "verdadera": true,
+        "explicacion": "Las dos fuentes tienen horizontes distintos."
+      },
+      {
+        "texto": "En las tablas, la escala subregional incluye la población de Bogotá dentro de la de Cundinamarca.",
+        "verdadera": false,
+        "explicacion": "Cundinamarca tuvo 2.280.158 habitantes en 2005, sin Bogotá, que aparece aparte."
+      },
+      {
+        "texto": "El borde rural reúne 13 municipios: 9 de Cundinamarca, 3 del Meta y 1 del Huila.",
+        "verdadera": true,
+        "explicacion": "El borde urbano tiene 20 municipios de Cundinamarca."
+      },
+      {
+        "texto": "Las ciudades regionales pierden importancia relativa frente al país entre 2005 y 2020.",
+        "verdadera": false,
+        "explicacion": "Aumentan su importancia relativa, pero cada año en menor medida."
+      },
+      {
+        "texto": "Bogotá gana concentración frente al país y se desconcentra frente a los municipios del borde urbano.",
+        "verdadera": true,
+        "explicacion": "El IPT depende del agregado con el que se compare."
+      }
+    ],
+    "concepto": "Fuentes, escalas y concentración",
+    "nivel": "contraste",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "A partir de la nueva población y del modelo 2005-2030 de la SDP, defina si cada una de las siguientes afirmaciones es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "Entre 2005 y 2020, 77 de cada 100 nuevos habitantes de Bogotá más su borde son de Bogotá.",
+        "verdadera": true,
+        "explicacion": "1.540.685 de 1.998.108 es 77,1 %."
+      },
+      {
+        "texto": "El modelo de la SDP proyecta que Bogotá pasará de 80 % a 85 % de la región entre 2005 y 2030.",
+        "verdadera": false,
+        "explicacion": "Pasa de 85 % a 80 %, y el ámbito de 15 % a 20 %."
+      },
+      {
+        "texto": "El modelo usa 29 municipios y deja fuera los del borde rural del Meta y el Huila.",
+        "verdadera": true,
+        "explicacion": "Son 20 urbanos y 9 rurales de Cundinamarca."
+      },
+      {
+        "texto": "Los grupos 8 a 10 del modelo son los de mayor crecimiento de la región.",
+        "verdadera": false,
+        "explicacion": "Son rurales y parecen conservar un crecimiento estable; los de mayor tasa son los grupos 3, 5 y 7."
+      },
+      {
+        "texto": "Soacha es el municipio del borde que más nueva población aporta, cerca de 8 de cada 100 nuevos habitantes.",
+        "verdadera": true,
+        "explicacion": "Soacha aporta 165.550 (8,29 %), seguida de Chía (2) y Zipaquirá (1,5)."
+      }
+    ],
+    "concepto": "Nueva población y modelo 2005-2030",
+    "nivel": "contraste",
+    "referencia": "SDP (2014), Región Metropolitana de Bogotá, cap. III"
+  }
+]

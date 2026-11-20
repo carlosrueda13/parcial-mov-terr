@@ -1,0 +1,444 @@
+[
+  {
+    "enunciado": "¿Qué variable usan los autores como proxy del valor inmobiliario y por qué la prefieren?",
+    "opciones": [
+      "El puntaje catastral de las construcciones (Registro 2 del IGAC), porque es comparable entre predios, municipios y años.",
+      "El valor catastral de cada predio, porque el IGAC y los municipios entregaron las bases completas tras las solicitudes.",
+      "El precio de las ofertas y transacciones de venta, porque refleja directamente el valor de mercado de cada inmueble.",
+      "El área licenciada por uso en cada año, porque mide de forma directa cuánto valen los inmuebles del municipio.",
+      "El recaudo del impuesto predial por habitante, porque equivale al valor total de los inmuebles de cada municipio."
+    ],
+    "correcta": 0,
+    "explicacion": "El puntaje catastral (Registro 2 del IGAC, de 0 a 100) califica estructura, acabados, baño y cocina de las construcciones. Permite un balance del cambio de valor sin ajustar valores que se suceden en el tiempo, como los precios de mercado. No fue posible obtener el valor catastral (nota 4) ni construir análisis de ofertas y transacciones.",
+    "errores": [
+      null,
+      "No se obtuvo el valor catastral: las solicitudes de 2020 y 2021 no tuvieron respuesta.",
+      "No se pudo construir un análisis de ofertas y transacciones por falta de datos.",
+      "El área licenciada mide dinámica inmobiliaria, no valor.",
+      "El recaudo se contrasta con el valor; no es la medida del valor."
+    ],
+    "concepto": "Puntaje catastral como proxy",
+    "nivel": "contraste",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, pp. 269-270"
+  },
+  {
+    "enunciado": "Según la Fig. 1, ¿cuál afirmación sobre la clasificación de los municipios en anillos es correcta?",
+    "opciones": [
+      "Guasca y Sopó son del primer anillo; Zipaquirá, del segundo; Gachancipá y El Rosal, del tercero.",
+      "Zipaquirá y Facatativá son del primer anillo, por ser los centros subregionales más importantes de la Sabana.",
+      "Gachancipá es del segundo anillo y Guasca del cuarto, por la distancia a Bogotá de ambos municipios.",
+      "Bogotá es el anillo cero y los 25 municipios se reparten por igual en los cuatro anillos restantes.",
+      "El cuarto anillo reúne a Soacha, Sibaté, Bojacá y Tenjo, que son los municipios más alejados del núcleo."
+    ],
+    "correcta": 0,
+    "explicacion": "Los anillos son una clasificación propia 'de acuerdo con su cercanía' a Bogotá: anillo 1 (10): Soacha, Chía, Mosquera, Cajicá, Madrid, Cota, La Calera, Funza, Sopó y Guasca; anillo 2 (7): Zipaquirá, Tocancipá, Tabio, Tenjo, Sibaté, Subachoque y Bojacá; anillo 3 (3): Facatativá, El Rosal y Gachancipá; anillo 4 (5): Nemocón, Cogua, Sesquilé, Suesca y Chocontá.",
+    "errores": [
+      null,
+      "Zipaquirá es del segundo anillo y Facatativá del tercero.",
+      "Gachancipá es del tercer anillo y Guasca del primero.",
+      "Bogotá no es uno de los 25 y los anillos son de 10, 7, 3 y 5 municipios.",
+      "El cuarto anillo es Nemocón, Cogua, Sesquilé, Suesca y Chocontá."
+    ],
+    "concepto": "Anillos y municipios",
+    "nivel": "contraste",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, p. 268 (Fig. 1)"
+  },
+  {
+    "enunciado": "El análisis de licenciamiento urbanístico cubre 21 de los 25 municipios del estudio. ¿Cuál es la razón?",
+    "opciones": [
+      "Chocontá, Subachoque, Suesca y Guasca no figuran en los reportes de licenciamiento del DANE.",
+      "Se excluyeron los cuatro municipios del cuarto anillo, por estar demasiado lejos de las dinámicas de Bogotá.",
+      "Se excluyeron los cuatro municipios que no son áreas de influencia de Bogotá según el Sistema de Ciudades del DNP.",
+      "Se excluyeron los municipios sin POT de primera generación, que no tenían licencias que registrar ante el DANE.",
+      "Se excluyeron Soacha y Sibaté porque su licenciamiento ya estaba contabilizado dentro de los datos de Bogotá."
+    ],
+    "correcta": 0,
+    "explicacion": "Hay tres cifras que no se deben mezclar: 25 municipios del estudio (DANE, Sabana de Bogotá), 23 áreas de influencia de Bogotá (DNP 2014) y 21 con datos de licenciamiento, porque Chocontá, Subachoque, Suesca y Guasca no están en los reportes del DANE (nota 3).",
+    "errores": [
+      null,
+      "El cuarto anillo tiene cinco municipios y los excluidos no son todos de ese anillo.",
+      "El DNP deja fuera a dos municipios (23 de 25), no a cuatro.",
+      "La exclusión se debe a los reportes del DANE, no a los POT.",
+      "Soacha es el municipio con más área licenciada de todo el conjunto."
+    ],
+    "concepto": "25, 23 y 21 municipios",
+    "nivel": "contraste",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, pp. 268-269"
+  },
+  {
+    "enunciado": "¿Cuál es la conclusión central del artículo sobre valor inmobiliario y recaudo del impuesto predial?",
+    "opciones": [
+      "El valor inmobiliario creció por la norma urbanística, pero el recaudo predial no creció en proporción en la mayoría de los municipios.",
+      "El recaudo predial creció más que el valor inmobiliario en casi todos los municipios, gracias a la eficiencia tributaria local.",
+      "El valor inmobiliario se estancó entre 2000 y 2020 y el recaudo predial se duplicó en todos los municipios del estudio.",
+      "El valor y el recaudo crecieron de forma proporcional en los 25 municipios, por lo que no hay problema de captura de rentas.",
+      "El recaudo predial cayó en todos los municipios porque el valor inmobiliario bajó con los alivios tributarios de 2020."
+    ],
+    "correcta": 0,
+    "explicacion": "La norma urbanística (POT, ampliación de cabeceras, subdivisión predial, licenciamiento mono-funcional) transformó los 25 municipios y elevó su valor inmobiliario, pero esos mayores valores no se capturan como impuestos para el beneficio colectivo. De ahí la propuesta de gobernanza y fiscalidad metropolitanas.",
+    "errores": [
+      null,
+      "Es lo contrario: la mayoría no registra crecimientos importantes del recaudo.",
+      "El texto habla de una clara valorización de los inmuebles en 20 años.",
+      "Solo unos pocos municipios muestran relaciones proporcionales entre valor y recaudo.",
+      "El valor aumentó, y los alivios de 2020 no cambiaron la tendencia municipal."
+    ],
+    "concepto": "Tesis del artículo",
+    "nivel": "interpretacion",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, pp. 263 y 279"
+  },
+  {
+    "enunciado": "Según las conclusiones, ¿cuál NO es uno de los factores que impactan la valoración inmobiliaria sin mejorar los recaudos municipales?",
+    "opciones": [
+      "La expansión de las cabeceras urbanas sobre territorio que antes era rural en los municipios del entorno de Bogotá.",
+      "Los cambios de clasificación y uso del suelo, sobre todo del suelo rural hacia usos urbanos y de expansión.",
+      "Las autorizaciones de monousos residenciales, es decir, vivienda masiva a gran escala sin mezcla de otros usos.",
+      "La implantación de áreas industriales-logísticas en corredores viales, sin articulación con otros usos del suelo.",
+      "La aplicación del Catastro Multipropósito, que actualiza los avalúos de los 25 municipios y eleva su recaudo."
+    ],
+    "correcta": 4,
+    "explicacion": "Los factores son: expansión de cabeceras urbanas, cambios de clasificación y usos del suelo (sobre todo rural), monousos residenciales de vivienda masiva, parcelación en vivienda campestre e implantación de áreas industriales-logísticas en corredores viales. El Catastro Multipropósito aparece como el instrumento clave de las propuestas, no como factor de valoración.",
+    "errores": [
+      "Sí es uno de los factores que cita el artículo.",
+      "Sí es uno de los factores que cita el artículo.",
+      "Sí es uno de los factores que cita el artículo.",
+      "Sí es uno de los factores que cita el artículo.",
+      null
+    ],
+    "concepto": "Factores de valoración",
+    "nivel": "contraste",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, pp. 279-280"
+  },
+  {
+    "enunciado": "¿Qué significa, para Baer, que la demanda de suelo sea una demanda derivada?",
+    "opciones": [
+      "Que el suelo se adquiere por lo que se puede hacer en él (su uso potencial) y no por un valor propio.",
+      "Que el suelo vale por el trabajo social incorporado en cada lote, igual que cualquier otra mercancía producida.",
+      "Que la demanda aparece solo después de que los promotores han construido las viviendas y las han puesto en venta.",
+      "Que la demanda de cada lote se satisface con la oferta de otro lote de superficie idéntica en el mismo municipio.",
+      "Que el Estado fija la demanda de suelo a través de las normas de uso y de las densidades de cada POT."
+    ],
+    "correcta": 0,
+    "explicacion": "Según Baer (2008b), el suelo no tiene valor ni precio en sí mismo: su valoración y su precio se generan por una demanda derivada, porque se adquiere por lo que se puede hacer en él (uso potencial). En las ciudades requiere transformaciones, intermediaciones e inversiones que afectan el precio final.",
+    "errores": [
+      null,
+      "La paradoja es justamente que la tierra no es producto del trabajo social.",
+      "La demanda se orienta al uso potencial, no a la construcción terminada.",
+      "Ninguna porción de suelo es igual a otra y una demanda no se satisface con otro lote.",
+      "La demanda la ejercen los agentes del mercado; la norma condiciona lo que se puede desarrollar."
+    ],
+    "concepto": "Demanda derivada del suelo",
+    "nivel": "interpretacion",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, p. 266"
+  },
+  {
+    "enunciado": "En la tipología de rentas de Jaramillo (2010) que cita el artículo, ¿cuál es la diferencia entre rentas primarias y secundarias?",
+    "opciones": [
+      "Las primarias se vinculan a la producción de las materialidades urbanas; las secundarias, al consumo de esos bienes según sus usos.",
+      "Las primarias se vinculan al consumo de los bienes urbanos; las secundarias, a la producción de las materialidades urbanas.",
+      "Las primarias son las del suelo urbano y las secundarias, las del suelo rural que se habilita para usos urbanos.",
+      "Las primarias las capta el Estado con el impuesto predial y las secundarias las capturan los promotores inmobiliarios.",
+      "Las primarias son de vivienda y comercio, y las secundarias son solo las de uso industrial y logístico."
+    ],
+    "correcta": 0,
+    "explicacion": "Las rentas primarias se vinculan a la producción de las materialidades urbanas (espacio construido, bienes inmuebles). Las secundarias se asocian al consumo de esos bienes y dependen de los usos que asigna el mercado y de su funcionalidad. Hay cuatro tipos de secundarias: diferencial de comercio, monopolio de segregación, diferencial de vivienda y diferencial y de monopolio industrial.",
+    "errores": [
+      null,
+      "Está invertido: las primarias son de producción y las secundarias de consumo.",
+      "La distinción no es entre suelo urbano y rural.",
+      "La distinción no depende de quién capta la renta.",
+      "Hay cuatro tipos de rentas secundarias, no solo la industrial."
+    ],
+    "concepto": "Rentas primarias y secundarias",
+    "nivel": "contraste",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, p. 267"
+  },
+  {
+    "enunciado": "Según Topalov, ¿cuál NO es uno de los cuatro factores que determinan el precio de las mercancías inmobiliarias?",
+    "opciones": [
+      "Lo que se puede construir en el terreno, que depende de la norma urbanística y del valor de mercado de los productos.",
+      "Los costos de adecuación del terreno, ligados a la localización y a los costos de la urbanización.",
+      "Los costos de construcción, que dependen de la industria de la construcción y de la provisión de materiales.",
+      "El precio del suelo, según su disponibilidad inmediata, localización, tamaño, actividades posibles y acceso a servicios.",
+      "El nivel de ingresos de los hogares compradores en cada municipio, medido en los censos de población."
+    ],
+    "correcta": 4,
+    "explicacion": "Los cuatro factores de Topalov son: i) lo que se pueda construir (norma y valor de mercado de los productos); ii) los costos de adecuación del terreno; iii) los costos de construcción; iv) el precio del suelo. La participación de los costos directos y del precio de la tierra en el precio del inmueble varía según el segmento de mercado.",
+    "errores": [
+      "Sí es uno de los cuatro factores.",
+      "Sí es uno de los cuatro factores.",
+      "Sí es uno de los cuatro factores.",
+      "Sí es uno de los cuatro factores.",
+      null
+    ],
+    "concepto": "Factores del precio inmobiliario",
+    "nivel": "contraste",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, p. 267"
+  },
+  {
+    "enunciado": "En 24 de los 25 municipios creció el área urbana entre 2005 y 2017, y en 17 de ellos la población creció menos que esa área. ¿Qué indica?",
+    "opciones": [
+      "Un proceso de expansión en el que la ocupación urbana crece más que la población, sobre suelo rural que se habilita.",
+      "Un proceso de densificación, porque la población crece más rápido que el área que ocupan las cabeceras y los centros poblados.",
+      "Una contracción de las cabeceras urbanas, porque los municipios pierden población y área al mismo tiempo en la Sabana.",
+      "Un crecimiento ordenado, porque el área urbana y la población crecen al mismo ritmo en todos los municipios del estudio.",
+      "Una pérdida de población en 17 municipios, que se trasladó a Bogotá y a las cabeceras del primer anillo."
+    ],
+    "correcta": 0,
+    "explicacion": "La Fig. 3 compara el área de cabeceras urbanas más centros poblados (2005-2017) con la población (2005-2018). La mayoría de los municipios pequeños crece más en ocupación urbana que en población: es expansión territorial con alta ocupación de suelo sobre áreas rurales que se estarían habilitando para usos urbanos. Zipaquirá es el único con área negativa.",
+    "errores": [
+      null,
+      "Es lo contrario: el área crece más que la población.",
+      "24 de los 25 municipios aumentan su área urbana.",
+      "En 17 municipios la población creció menos que el área.",
+      "El dato compara tasas de crecimiento; no habla de pérdida de población."
+    ],
+    "concepto": "Expansión urbana vs población",
+    "nivel": "interpretacion",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, pp. 271-273 (Fig. 3)"
+  },
+  {
+    "enunciado": "Entre 2005 y 2022 se licenciaron 33.921.835 m² en los 21 municipios, de los cuales 24.937.669 m² son residenciales. ¿Qué proporción es y qué refleja?",
+    "opciones": [
+      "Cerca de 73,5 %, lo que refleja territorios mono-funcionales especializados en vivienda.",
+      "Cerca de 73,5 %, lo que refleja una mezcla equilibrada de vivienda, comercio e industria en los municipios.",
+      "Cerca de 14,7 %, lo que refleja que la vivienda es un uso secundario frente al industrial-logístico.",
+      "Cerca de 29 %, que es la parte de la vivienda que se licenció únicamente en el municipio de Soacha.",
+      "Cerca de 24,3 %, que es la parte del área residencial que corresponde al primer anillo en su conjunto."
+    ],
+    "correcta": 0,
+    "explicacion": "24.937.669 / 33.921.835 = 0,735. El texto concluye que esa concentración de usos residenciales, sin mezcla de otros usos, refleja territorios mono-funcionales. No hay que mezclar bases: 14,7 % es el industrial-logístico sobre el total, 24,3 % es Soacha sobre el total y 29 % es Soacha sobre el residencial.",
+    "errores": [
+      null,
+      "El 73,5 % en un solo uso refleja mono-funcionalidad, no mezcla de usos.",
+      "El 14,7 % es la proporción del uso industrial-logístico.",
+      "El 29 % es la parte de Soacha dentro del residencial; la proporción pedida es otra.",
+      "El 24,3 % es la parte de Soacha en el total licenciado de todos los usos."
+    ],
+    "concepto": "Licenciamiento residencial",
+    "nivel": "calculo",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, pp. 273-274"
+  },
+  {
+    "enunciado": "¿A qué atribuye el artículo el predominio del licenciamiento residencial, con Soacha a la cabeza?",
+    "opciones": [
+      "A los cambios de clasificación del suelo rural a expansión urbana en POT de 2000-2005, y a los planes parciales de vivienda.",
+      "A la conexión con la actividad logística del aeropuerto El Dorado y a los incentivos tributarios de algunos municipios.",
+      "Al agotamiento del suelo urbano de Bogotá, que obligó al Estado a construir vivienda en los municipios vecinos.",
+      "A la caída de la población de Bogotá, que se trasladó completa hacia los municipios del primer y segundo anillo.",
+      "A la eliminación de la licencia de construcción para vivienda de interés social en los municipios de la Sabana."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto lo vincula a las aprobaciones de cambios de clasificación del suelo (de rural a expansión urbana) de los POT aprobados entre 2000 y 2005, que llevaron a gestionar y adoptar planes parciales para vivienda. La tendencia se traslada a los anillos tercero y cuarto por cercanía vial y conmutación laboral, porque Bogotá sigue concentrando empleos de la región.",
+    "errores": [
+      null,
+      "Eso explica el licenciamiento industrial-logístico, no el residencial.",
+      "El texto lo liga a la norma de los POT, no al agotamiento del suelo de Bogotá.",
+      "El texto no habla de pérdida de población de Bogotá, que sigue concentrando empleo.",
+      "El artículo se basa en licencias aprobadas; no habla de eliminarlas."
+    ],
+    "concepto": "Causa del licenciamiento residencial",
+    "nivel": "causa",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, p. 274"
+  },
+  {
+    "enunciado": "En el método de Diferencias en Diferencias (DiDi) del artículo, ¿qué son el grupo de tratamiento y el de control?",
+    "opciones": [
+      "Tratamiento: inmuebles que cambiaron de uso real o ampliaron su área construida; control: inmuebles sin esos cambios.",
+      "Tratamiento: los municipios del primer anillo con POT recientes; control: los municipios del cuarto anillo.",
+      "Tratamiento: los inmuebles con mayor puntaje catastral en 2000; control: los inmuebles con menor puntaje catastral.",
+      "Tratamiento: los 21 municipios con datos de licenciamiento; control: los cuatro municipios sin reportes del DANE.",
+      "Tratamiento: Bogotá, donde se aplicó el POT de 2000; control: los 25 municipios de la Sabana que lo rodean."
+    ],
+    "correcta": 0,
+    "explicacion": "El tratamiento son las disposiciones de los POT, identificadas con inmuebles que cambiaron de uso real o ampliaron el área construida entre 2012 y 2020; el control, los inmuebles sin esos cambios. El impacto es la diferencia del cambio de valor entre los que cambiaron (factual) y los que no (contrafactual), por mínimos cuadrados ordinarios.",
+    "errores": [
+      null,
+      "El tratamiento se define por inmuebles, no por anillos de municipios.",
+      "El puntaje es la variable de resultado, no el criterio de asignación.",
+      "La exclusión de cuatro municipios no define el grupo de control.",
+      "Bogotá no es uno de los 25 municipios y no es el grupo tratado."
+    ],
+    "concepto": "Tratamiento y control (DiDi)",
+    "nivel": "contraste",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, p. 270"
+  },
+  {
+    "enunciado": "Para 2000-2012, el texto distingue dos grupos de municipios. ¿Cuál es la diferencia correcta entre ellos?",
+    "opciones": [
+      "Chía, Mosquera, La Calera y Sopó crecieron más respecto a sí mismos; El Rosal, Gachancipá, Bojacá, Guasca, Suesca y Subachoque, en proporción a su valor inicial.",
+      "El Rosal, Gachancipá, Bojacá, Guasca, Suesca y Subachoque crecieron más respecto a sí mismos; Chía, Mosquera, La Calera y Sopó, en proporción a su valor inicial.",
+      "Los dos grupos crecieron por la industrialización logística asociada al aeropuerto El Dorado y a los incentivos tributarios locales.",
+      "El segundo grupo fue el de mayor dinámica urbana, y el primero el de mayor crecimiento por parcelación de vivienda campestre.",
+      "Todos los municipios del segundo grupo son del tercer y cuarto anillo, lo que explica su crecimiento proporcional."
+    ],
+    "correcta": 0,
+    "explicacion": "Los circunvecinos con mayores niveles (Chía, Mosquera, La Calera, Sopó) 'crecieron más respecto a sí mismos', por procesos más tempranos de consolidación urbana. El otro grupo crece 'en proporción a su valor inicial' y se asocia a parcelación y vivienda campestre (suelo suburbano de media y alta densidad). No fueron los de mayor dinámica urbana.",
+    "errores": [
+      null,
+      "Los grupos están invertidos.",
+      "El texto asocia al segundo grupo con parcelación y vivienda campestre.",
+      "El segundo grupo no fue el de mayor dinámica urbana; el primero se asocia a consolidación urbana temprana.",
+      "Solo El Rosal y Gachancipá son del tercero y Suesca del cuarto; Bojacá y Subachoque son del segundo y Guasca del primero."
+    ],
+    "concepto": "Dos grupos en 2000-2012",
+    "nivel": "contraste",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, p. 276"
+  },
+  {
+    "enunciado": "¿Qué muestra el caso de Cajicá en el análisis de eficiencia tributaria?",
+    "opciones": [
+      "El recaudo per cápita crece más de 50 %, pero el recaudo promedio por inmueble urbano cae pese a la valorización.",
+      "El recaudo per cápita cae, pero el recaudo promedio por inmueble urbano crece junto con el puntaje catastral.",
+      "El recaudo per cápita crece más de 150 %, igual que en Tocancipá y Chía, los dos municipios que superan esa cifra.",
+      "El recaudo se estanca en las dos medidas, y el puntaje catastral también cae entre 2000 y 2020.",
+      "El recaudo es equilibrado en las dos medidas por su consolidación urbana residencial y comercial, como en Chía."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto compara el recaudo per cápita y el promedio por predio urbano (Predial / Predios Urbanos). Cajicá, Sesquilé y Suesca superan el 50 % del per cápita, pero llama la atención Cajicá porque cae el recaudo promedio de los inmuebles urbanos, en contraste con el crecimiento del puntaje catastral.",
+    "errores": [
+      null,
+      "Está invertido: el per cápita sube y el promedio por inmueble urbano cae.",
+      "Solo Tocancipá y Chía superan el 150 %; Cajicá supera el 50 %.",
+      "El puntaje catastral de Cajicá crece y está entre los más altos.",
+      "Ese es el caso de Chía; Cajicá muestra una caída del recaudo promedio por inmueble."
+    ],
+    "concepto": "Caso Cajicá",
+    "nivel": "interpretacion",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, pp. 276-277"
+  },
+  {
+    "enunciado": "¿Cuál NO es un instrumento o herramienta que el artículo plantea en sus conclusiones para capturar valor o fortalecer las finanzas territoriales?",
+    "opciones": [
+      "La plusvalía, como instrumento de captura de valor con base en el suelo, incorporado por la Ley 2199 de 2022.",
+      "La contribución por valorización, como instrumento de captura de valor con base en el suelo.",
+      "Los derechos por el uso de las terminales de transporte y de los Centros de Intercambio Modal (CIM).",
+      "El Catastro Multipropósito, para atender la informalidad, dar seguridad jurídica y fortalecer las finanzas territoriales.",
+      "Un impuesto regional único, que reemplace el impuesto predial de cada uno de los 25 municipios del estudio."
+    ],
+    "correcta": 4,
+    "explicacion": "La Ley Orgánica 2199 de 2022 incorpora instrumentos de captura de valor con base en el suelo (plusvalía y contribución por valorización) y soportados en la movilidad (derechos por el uso de terminales y CIM). El Catastro Multipropósito es el 'instrumento clave'. El artículo no propone reemplazar el predial por un impuesto único.",
+    "errores": [
+      "Sí es un instrumento que el artículo menciona.",
+      "Sí es un instrumento que el artículo menciona.",
+      "Sí es un instrumento que el artículo menciona.",
+      "Sí es un instrumento que el artículo menciona.",
+      null
+    ],
+    "concepto": "Instrumentos de captura de valor",
+    "nivel": "contraste",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, pp. 279-280"
+  },
+  {
+    "enunciado": "¿Cuál es la relación entre el estudio y la Región Metropolitana formal creada por la Ley 2199 de 2022?",
+    "opciones": [
+      "El estudio no analiza la figura formal: toma 25 municipios con relaciones funcionales con Bogotá, y la ley es una oportunidad.",
+      "Los 25 municipios son exactamente los que integran la Región Metropolitana formal, y Bogotá es el municipio número 26.",
+      "El estudio evalúa los efectos de la Ley 2199 sobre el valor inmobiliario y el recaudo predial entre 2000 y 2022.",
+      "El estudio incluye a Bogotá como municipio núcleo y compara su recaudo con el de los 25 municipios vecinos.",
+      "Los anillos del estudio reproducen las categorías de la Ley 2199 y los municipios del DNP que son su área de influencia."
+    ],
+    "correcta": 0,
+    "explicacion": "Los 25 municipios son los que el DANE señala como parte de la Sabana de Bogotá, con relaciones de metropolización con la capital. Los anillos son una clasificación propia, no la categorización de la ley. La Ley 2199 de 2022 aparece en las conclusiones como oportunidad de planeación y gestión supramunicipal.",
+    "errores": [
+      null,
+      "El estudio no se refiere a la figura formal de la ley.",
+      "La ley es de 2022 y el estudio no la evalúa; la menciona en las conclusiones.",
+      "Bogotá no es uno de los 25 municipios; es la referencia de cercanía de los anillos.",
+      "Los anillos son una clasificación propia, según la cercanía a Bogotá."
+    ],
+    "concepto": "Ley 2199 y área de estudio",
+    "nivel": "contraste",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, pp. 268 y 279-280"
+  },
+  {
+    "enunciado": "Entre 1999 y 2021 se identificaron 70 actos administrativos de aprobación o modificación de POT, de los cuales 25 son de primera generación. ¿Qué concluye el texto?",
+    "opciones": [
+      "Hubo 45 modificaciones, en promedio al menos 1,8 revisiones por municipio.",
+      "Hubo 70 modificaciones, en promedio 2,8 revisiones por municipio.",
+      "Hubo 45 modificaciones, en promedio 0,6 revisiones por municipio.",
+      "Hubo 25 modificaciones, en promedio una revisión por cada municipio.",
+      "Hubo 45 modificaciones, en promedio 2,1 revisiones por municipio."
+    ],
+    "correcta": 0,
+    "explicacion": "70 − 25 = 45 modificaciones; 45 / 25 = 1,8 revisiones por municipio en promedio ('al menos', dice el texto). El artículo liga la alta dinámica inmobiliaria a las autorizaciones de norma urbanística de concejos y alcaldías.",
+    "errores": [
+      null,
+      "Los 25 actos de primera generación no son modificaciones.",
+      "45 / 25 = 1,8, no 0,6.",
+      "Los 25 son los POT de primera generación, no las modificaciones.",
+      "Se divide entre los 25 municipios del estudio, no entre los 21 con licencias."
+    ],
+    "concepto": "POT: actos y modificaciones",
+    "nivel": "calculo",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca, p. 274"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "Con base en el área de estudio, los datos y el método del artículo, defina si cada afirmación es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "Bogotá es uno de los 25 municipios analizados, y los anillos se definen según su cercanía a ella.",
+        "verdadera": false,
+        "explicacion": "Bogotá no es uno de los 25; es la referencia de cercanía de los anillos."
+      },
+      {
+        "texto": "El puntaje catastral califica las construcciones por estructura, acabados, baño y cocina, con tipos de 1 a 6 y calificación hasta 100.",
+        "verdadera": true,
+        "explicacion": "Es la variable proxy del valor inmobiliario, tomada del Registro 2 del IGAC."
+      },
+      {
+        "texto": "El Registro 1 del IGAC trae el puntaje catastral, y el Registro 2, el área de terreno y construida de cada predio.",
+        "verdadera": false,
+        "explicacion": "Es al revés: el Registro 1 es físico y jurídico y el Registro 2 trae el puntaje catastral."
+      },
+      {
+        "texto": "El DiDi del artículo se estima por mínimos cuadrados ordinarios para el periodo 2012-2020.",
+        "verdadera": true,
+        "explicacion": "Compara inmuebles con cambios de uso o área construida con los que no los tuvieron."
+      },
+      {
+        "texto": "Los autores obtuvieron las bases de valor catastral del IGAC tras solicitarlas en 2020 y 2021.",
+        "verdadera": false,
+        "explicacion": "No hubo respuesta del IGAC ni de los municipios, y por eso usan el puntaje catastral como proxy."
+      }
+    ],
+    "concepto": "Área de estudio, datos y método",
+    "nivel": "contraste",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "Con base en los resultados del artículo, defina si cada afirmación es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "En Tocancipá, el promedio del recaudo por inmueble urbano refleja grandes predios asociados al emplazamiento industrial.",
+        "verdadera": true,
+        "explicacion": "En Chía, en cambio, el crecimiento es equilibrado en las dos medidas por predios residenciales y comerciales."
+      },
+      {
+        "texto": "Un crecimiento de 206,30 % del área urbana de Cogua significa que su área se multiplicó por 2,06.",
+        "verdadera": false,
+        "explicacion": "El área se multiplicó por 3,06, porque el incremento se suma al 100 % inicial."
+      },
+      {
+        "texto": "Madrid muestra un aumento del valor con una disminución del recaudo, que el texto llama desaprovechamiento de ingresos tributarios.",
+        "verdadera": true,
+        "explicacion": "Funza y Tenjo, en cambio, muestran una relación más proporcional y positiva."
+      },
+      {
+        "texto": "En 24 de los 25 municipios aumentó el área urbana entre 2005 y 2017, y en 17 de ellos la población creció menos que el área.",
+        "verdadera": true,
+        "explicacion": "Es el indicio de expansión territorial sobre áreas rurales."
+      },
+      {
+        "texto": "Los alivios tributarios de 2020 por la COVID-19 cambiaron de manera importante la tendencia del recaudo municipal.",
+        "verdadera": false,
+        "explicacion": "El texto dice que la tendencia municipal no cambia de manera importante."
+      }
+    ],
+    "concepto": "Resultados de expansión y recaudo",
+    "nivel": "contraste",
+    "referencia": "Contreras-Ortiz y Ruiz-Rojas (2026), Dinámica y valor inmobiliario en la RM Bogotá-Cundinamarca"
+  }
+]

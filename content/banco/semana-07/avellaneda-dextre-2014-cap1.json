@@ -501,6 +501,504 @@
    "respuesta": "b; p. 28.",
    "referencia": "p. 28",
    "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m001",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según la Tabla 1 del capítulo, ¿cuál es la estrategia que corresponde a la cuarta etapa, la de movilidad sostenible?",
+   "opciones": [
+    "La accesibilidad sostenible, que relaciona la movilidad con el uso del suelo.",
+    "La capacidad vial, que busca ampliar la infraestructura para el automóvil particular.",
+    "La prioridad al transporte público, que busca mover más personas por el mismo espacio vial.",
+    "La movilidad de todos los usuarios, con atención a las necesidades de los más vulnerables.",
+    "La movilidad sostenible, que es el nombre de la etapa y también el de su estrategia."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La capacidad vial es la estrategia de la primera etapa, la de circulación o tráfico.",
+    "Esa es la estrategia de la segunda etapa, la de transporte público.",
+    "Esa es la estrategia de la tercera etapa, la de movilidad.",
+    "Movilidad sostenible es el nombre de la etapa; la estrategia es la accesibilidad sostenible."
+   ],
+   "respuesta": "La accesibilidad sostenible, que relaciona la movilidad con el uso del suelo.",
+   "explicacion": "Las cuatro etapas son circulación o tráfico, transporte público, movilidad y movilidad sostenible. Sus estrategias, en ese orden, son capacidad vial, prioridad al transporte público, movilidad de todos los usuarios y accesibilidad sostenible.",
+   "concepto": "Cuatro etapas de la movilidad",
+   "nivel": "contraste",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, p. 16 (Tabla 1)",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m002",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En el estudio del TTI sobre 68 áreas urbanas de Estados Unidos entre 1982 y 1999, ¿qué ocurrió con la población, la infraestructura vial y la congestión?",
+   "opciones": [
+    "La población creció 11 % y los kilómetros de vías 15 %, pero las horas de congestión aumentaron 50 %.",
+    "La población creció 15 % y los kilómetros de vías 11 %, y las horas de congestión aumentaron 7 %.",
+    "La población creció 11 % y los kilómetros de vías 50 %, y la congestión se redujo en 15 %.",
+    "La población creció 50 % y los kilómetros de vías 15 %, por lo que la congestión aumentó 11 %.",
+    "La población y los kilómetros de vías crecieron 7 %, y las horas de congestión se mantuvieron estables."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Los valores de población y vías están invertidos, y el 7 % es el tiempo de viaje.",
+    "La congestión aumentó; no se redujo.",
+    "La población no creció 50 %; ese es el aumento de las horas de congestión.",
+    "Las horas de congestión aumentaron 50 %."
+   ],
+   "respuesta": "La población creció 11 % y los kilómetros de vías 15 %, pero las horas de congestión aumentaron 50 %.",
+   "explicacion": "TTI, 68 áreas urbanas de EE. UU., 1982-1999: población +11 %, kilómetros de vías +15 %, horas de congestión +50 % y tiempo de viaje +7 %. Más infraestructura no redujo la congestión, y las vías crecieron más que la población.",
+   "concepto": "Evidencia del TTI",
+   "nivel": "calculo",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, pp. 17-18",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m003",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué plantea Buchanan (1964) en 'Traffic in towns', que cita el capítulo?",
+   "opciones": [
+    "Que más infraestructura viaria genera más demanda y realimenta el proceso; el tráfico debe servir a la ciudad.",
+    "Que más infraestructura viaria reduce la demanda de viajes, y que la ciudad debe adaptarse al tráfico existente.",
+    "Que el transporte público masivo es suficiente por sí solo para resolver la congestión de cualquier ciudad.",
+    "Que la accesibilidad sostenible depende de una ciudad policéntrica con servicios fundamentales en cada subcentro.",
+    "Que los puentes peatonales reducen las muertes de peatones y deben construirse en todas las avenidas urbanas."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Plantea lo contrario: la ciudad no debe estar al servicio del tráfico.",
+    "Esa no es su tesis; el capítulo dice que el transporte masivo es fundamental pero no suficiente.",
+    "Esa es la propuesta del propio capítulo, no de Buchanan.",
+    "El capítulo cita estudios que muestran lo contrario sobre los puentes peatonales."
+   ],
+   "respuesta": "Que más infraestructura viaria genera más demanda y realimenta el proceso; el tráfico debe servir a la ciudad.",
+   "explicacion": "Buchanan (1964): más infraestructura viaria genera más demanda y realimenta el proceso (círculo vicioso). Su tesis es que el tráfico debe estar al servicio de la ciudad y no la ciudad al servicio del tráfico.",
+   "concepto": "Círculo vicioso de la infraestructura",
+   "nivel": "interpretacion",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, p. 17",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m004",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según la Tabla 2 y el texto sobre puentes peatonales (King, 2006), ¿qué relación hay entre los puentes y las muertes de peatones por 100 000 habitantes?",
+   "opciones": [
+    "Donde hay puentes las muertes son entre 5 y 10 veces mayores que donde no los hay (por ejemplo 15,4 y 19,4 frente a 1,9 y 2,2).",
+    "Donde hay puentes las muertes son entre 5 y 10 veces menores que donde no los hay, por la mayor seguridad de los cruces.",
+    "No hay relación entre los puentes y las muertes, porque Londres, Nueva York y México tienen cifras parecidas.",
+    "Las muertes son iguales en todas las ciudades de la tabla, y solo cambia el número de puentes que cada una tiene.",
+    "Las muertes son mayores solo en las ciudades de la categoría 'Algunos', como Bogotá y Lima, y menores en las demás."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La relación es la inversa: son mayores donde hay puentes.",
+    "Londres (1,9) y Nueva York (2,2) están muy por debajo de México (15,4) y Ciudad del Cabo (19,4).",
+    "La tabla muestra diferencias grandes entre las ciudades con y sin puentes.",
+    "Bogotá (5,7) y Lima (8,8) están entre las ciudades sin puentes y las que los tienen."
+   ],
+   "respuesta": "Donde hay puentes las muertes son entre 5 y 10 veces mayores que donde no los hay (por ejemplo 15,4 y 19,4 frente a 1,9 y 2,2).",
+   "explicacion": "Tabla 2: Londres 1,9 y Nueva York 2,2 (sin puentes); Bogotá 5,7 y Lima 8,8 ('Algunos'); México 15,4 y Ciudad del Cabo 19,4 (con puentes). El texto concluye que si el objetivo es proteger a los peatones, 'en la práctica ocurre todo lo contrario'. El valor de Lima es una estimación de Dextre.",
+   "concepto": "Puentes peatonales y seguridad",
+   "nivel": "interpretacion",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, p. 18",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m005",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué es el efecto barrera, según el capítulo?",
+   "opciones": [
+    "La segregación del territorio por vías segregadas o intercambios viales, que afecta a quienes viven en la zona.",
+    "El aumento de la velocidad de los vehículos que cruzan la ciudad, que beneficia a quienes pasan por la zona.",
+    "La barrera económica que impide a los hogares de bajos ingresos pagar la tarifa del transporte público urbano.",
+    "La reducción del número de carriles de una vía para dar prioridad a los ciclistas y a los peatones del barrio.",
+    "La dificultad de los vehículos de carga para acceder al centro de la ciudad en las horas de mayor tráfico."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La velocidad es el beneficio que justifica el proyecto, no el efecto barrera.",
+    "No es un efecto de las vías, sino un problema de tarifas.",
+    "Esa es una medida de diseño, no el efecto barrera.",
+    "No es el fenómeno al que se refiere el capítulo."
+   ],
+   "respuesta": "La segregación del territorio por vías segregadas o intercambios viales, que afecta a quienes viven en la zona.",
+   "explicacion": "El efecto barrera es la segregación del territorio por vías segregadas o intercambios viales. Se justifica por el beneficio de quienes pasan, pero dificulta la circulación peatonal (en especial de personas con discapacidad) y restringe la autonomía de los niños. También viene de la inseguridad vial al cruzar, que afecta sobre todo a la tercera edad.",
+   "concepto": "Efecto barrera",
+   "nivel": "contraste",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, pp. 18-19",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m006",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Desde el enfoque de circulación o tráfico, que el capítulo atribuye a la ingeniería de tránsito, ¿qué se busca maximizar?",
+   "opciones": [
+    "El flujo de vehículos por hora y por carril, con más carriles y pasos a desnivel.",
+    "El número de personas que pueden desplazarse por el espacio público disponible, sin importar el modo.",
+    "La autonomía de los niños y de las personas con discapacidad para desplazarse por sí solos.",
+    "La accesibilidad a bienes y servicios sin depender del transporte motorizado en cada barrio.",
+    "La diversidad social de las calles principales, para atraer a todos los estratos y visitantes."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Eso corresponde al enfoque de transporte público.",
+    "Eso corresponde al enfoque de movilidad.",
+    "Eso corresponde al enfoque de movilidad sostenible.",
+    "Es un efecto buscado en las calles de uso diverso, no un objetivo de la ingeniería de tránsito."
+   ],
+   "respuesta": "El flujo de vehículos por hora y por carril, con más carriles y pasos a desnivel.",
+   "explicacion": "Para la ingeniería de tránsito (Radelat, 2003) importa el movimiento seguro y eficiente de peatones y vehículos como unidades de tránsito, sin interesar qué llevan ni por qué circulan. Por eso el objetivo es maximizar flujos (vehículos por hora y por carril).",
+   "concepto": "Enfoque de circulación o tráfico",
+   "nivel": "contraste",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, pp. 17-18",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m007",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué ilustra el caso del río Cheonggyecheon en Seúl, que cita el capítulo?",
+   "opciones": [
+    "Un ejemplo de 'traffic evaporation': al demoler la autopista y reducir la infraestructura vial, desaparecen los coches.",
+    "Un ejemplo de círculo vicioso: al demoler la autopista se construyeron nuevas vías y aumentó el tráfico en el centro.",
+    "Un ejemplo de movilidad sostenible: la autopista se reemplazó por una línea de metro con paraderos cada 700 metros.",
+    "Un ejemplo de efecto barrera: la autopista se construyó en los años setenta como símbolo de progreso y sigue en uso.",
+    "Un ejemplo de diseño universal: se ensanchó el cruce peatonal para que toda la calzada fuera accesible."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La demolición se hizo para recuperar el río, no para construir nuevas vías.",
+    "El caso trata de la demolición de una autopista y la recuperación del río.",
+    "La autopista se demolió tras la campaña de 2001.",
+    "No guarda relación con el diseño universal."
+   ],
+   "respuesta": "Un ejemplo de 'traffic evaporation': al demoler la autopista y reducir la infraestructura vial, desaparecen los coches.",
+   "explicacion": "En los años setenta se construyó una autopista sobre el río Cheonggyecheon como símbolo de progreso; en 2000 era la zona más congestionada y ruidosa. La campaña de 2001 de Lee Myung-bak prometió demolerla y recuperar el río, y cumplió. Es uno de los pocos ejemplos de traffic evaporation.",
+   "concepto": "Traffic evaporation",
+   "nivel": "interpretacion",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, pp. 20-21",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m008",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué ilustra la analogía del bypass que usa el capítulo?",
+   "opciones": [
+    "Que se debe atacar el origen del problema, como cambiar la dieta, y no solo construir otro paso a desnivel.",
+    "Que construir pasos a desnivel es la solución definitiva a la congestión, como el bypass lo es para el paciente.",
+    "Que conviene prohibir el uso del automóvil, así como el médico prohíbe al paciente los alimentos dañinos.",
+    "Que el transporte público masivo debe construirse antes de cualquier otra intervención en la ciudad.",
+    "Que los problemas de tráfico solo se resuelven con intervenciones de corto plazo y bajo costo."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La analogía dice lo contrario: el paso a desnivel no cambia las condiciones y se necesitará otro.",
+    "La solución de Lerner no es prohibir el coche, sino usarlo menos cuando haya buena alternativa.",
+    "La analogía no habla del transporte público masivo.",
+    "La analogía trata del origen del problema, no del plazo de las intervenciones."
+   ],
+   "respuesta": "Que se debe atacar el origen del problema, como cambiar la dieta, y no solo construir otro paso a desnivel.",
+   "explicacion": "El médico exige cambiar la dieta y hacer ejercicio (atacar el origen); la ciudad construye un paso a desnivel sin cambiar las condiciones y necesitará otro. Lerner, con el 'colesterol urbano', propone usar el coche menos y evitarlo cuando haya buena alternativa de transporte público.",
+   "concepto": "Analogía del bypass",
+   "nivel": "interpretacion",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, p. 21",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m009",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Un corredor tiene una demanda de 25 000 pasajeros por hora y sentido. Según los umbrales del capítulo, ¿qué modo es el adecuado?",
+   "opciones": [
+    "Buses de alta capacidad con carriles exclusivos, que atienden entre 20 000 y 30 000 pasajeros por hora y sentido.",
+    "Trolebús, que atiende hasta unos 9 000 pasajeros por hora y sentido, como el de Quito.",
+    "Tranvía, que atiende menos de 11 500 pasajeros por hora y sentido.",
+    "Metro, que es la única alternativa por encima de 40 000 pasajeros por hora y sentido.",
+    "Buses convencionales en tráfico mixto, que alcanzan los 25 000 pasajeros con más frecuencia de servicio."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "9 000 pasajeros por hora y sentido es menos de la mitad de la demanda.",
+    "11 500 no alcanza para 25 000 pasajeros por hora y sentido.",
+    "La demanda de 25 000 no llega al umbral de 40 000 que exige el metro.",
+    "El texto no ubica este modo en el rango de la demanda del corredor."
+   ],
+   "respuesta": "Buses de alta capacidad con carriles exclusivos, que atienden entre 20 000 y 30 000 pasajeros por hora y sentido.",
+   "explicacion": "Umbrales en pasajeros por hora y sentido: trolebús de Quito 9 000; tranvía menos de 11 500; buses de alta capacidad con carriles exclusivos 20 000 a 30 000 (Hidalgo, 2005); metro más de 40 000, donde es la única alternativa.",
+   "concepto": "Capacidad de los modos de transporte público",
+   "nivel": "calculo",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, pp. 22-24",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m010",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "El capítulo dice que el transporte público masivo es fundamental pero no suficiente. ¿Por qué?",
+   "opciones": [
+    "Porque mejorar el tiempo de viaje no acorta las distancias y puede facilitar vivienda más lejos del centro.",
+    "Porque el transporte público masivo siempre aumenta la congestión y el consumo energético de toda la ciudad.",
+    "Porque solo sirve a los usuarios de altos ingresos, que son quienes pueden pagar el pasaje de los sistemas masivos.",
+    "Porque los sistemas masivos no tienen capacidad para atender más de 9 000 pasajeros por hora y por sentido.",
+    "Porque el automóvil particular es más eficiente en el uso del espacio público que cualquier sistema masivo."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El capítulo valora su eficiencia en espacio, contaminación y accidentes.",
+    "No se plantea una limitación de ingresos.",
+    "Los umbrales de capacidad llegan a más de 40 000 pasajeros por hora y sentido.",
+    "El capítulo afirma que el transporte colectivo aprovecha mejor el espacio público."
+   ],
+   "respuesta": "Porque mejorar el tiempo de viaje no acorta las distancias y puede facilitar vivienda más lejos del centro.",
+   "explicacion": "Mejorar el tiempo de viaje no acorta las distancias, y puede permitir una oferta inmobiliaria más lejos del centro. Hay que lograr viajes más cortos con diseño urbano y ordenamiento del territorio. La eficiencia del colectivo se ve en mayor aprovechamiento del espacio, menor contaminación por pasajero-kilómetro y menor accidentalidad.",
+   "concepto": "Límites del transporte público masivo",
+   "nivel": "causa",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, pp. 22-23",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m011",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "El capítulo cuenta que un BRT puede ser el mejor modo para 25 000 pasajeros por hora y sentido, pero resulta inconveniente para quien viaja con maletas, y que un metro con paraderos cada 700 m es inaccesible para una persona de 85 o 90 años. ¿Qué idea sustentan estos ejemplos?",
+   "opciones": [
+    "Que lo que es bueno para un tipo de usuario puede no serlo para otro; hay que atender distintas necesidades.",
+    "Que el metro debe reemplazarse siempre por buses, porque los buses sirven a todos los usuarios por igual en cualquier corredor.",
+    "Que los modos de transporte compiten entre sí y solo uno debe elegirse para cada corredor de la ciudad actual.",
+    "Que las personas de edad avanzada no deben usar el transporte público masivo bajo ninguna circunstancia.",
+    "Que la capacidad del sistema es el único criterio que debe usarse para elegir el modo de transporte de un corredor."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Los ejemplos no concluyen que un modo deba reemplazar a otro.",
+    "Se plantea la multimodalidad: los modos se complementan, no compiten.",
+    "La conclusión es sobre el diseño de las opciones, no una prohibición.",
+    "Los ejemplos muestran lo contrario: la capacidad no basta."
+   ],
+   "respuesta": "Que lo que es bueno para un tipo de usuario puede no serlo para otro; hay que atender distintas necesidades.",
+   "explicacion": "En el enfoque de movilidad lo que es bueno para un tipo de usuario podría no serlo para otro (p. 24). BRT: 25 000 pasajeros/hora/sentido y mal para quien lleva maletas. Metro: 40 000, paraderos cada 700 m, inaccesible para alguien de 85 o 90 años, a quien le serviría un bus que pase cerca de su casa. La multimodalidad es complementaria.",
+   "concepto": "Enfoque de movilidad",
+   "nivel": "interpretacion",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, p. 24",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m012",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según el capítulo, ¿qué propone el diseño universal respecto a la rampa del cruce peatonal, que suele tener 90 cm de ancho?",
+   "opciones": [
+    "Dejar de lado la rampa de 90 cm y hacer accesible todo el ancho del cruce peatonal.",
+    "Ensanchar la rampa de 90 cm hasta un metro y medio para que quepan dos sillas de ruedas a la vez.",
+    "Mantener la rampa de 90 cm y añadir una segunda rampa en el extremo opuesto del cruce peatonal.",
+    "Reemplazar el cruce peatonal por un puente peatonal con rampas de pendiente suave en ambos lados.",
+    "Reservar el cruce peatonal a las personas con discapacidad, y construir otro para el resto de peatones."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "No se trata de ensanchar la rampa, sino de hacer accesible todo el ancho del cruce.",
+    "La propuesta no es duplicar rampas.",
+    "El capítulo critica los puentes peatonales como solución.",
+    "El diseño universal busca un diseño común, no cruces separados."
+   ],
+   "respuesta": "Dejar de lado la rampa de 90 cm y hacer accesible todo el ancho del cruce peatonal.",
+   "explicacion": "Tyler y Dextre proponen diseñar considerando a la persona con discapacidad. El diseño universal deja de lado la rampa de 90 cm y hace accesible todo el ancho del crucero peatonal. No es 'rampas más anchas'.",
+   "concepto": "Diseño universal",
+   "nivel": "aplicacion",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, pp. 25-26",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m013",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál es la relación entre movilidad sostenible y accesibilidad sostenible, y en qué escala aplica cada una?",
+   "opciones": [
+    "Son conceptos distintos y complementarios: accesibilidad en los barrios y movilidad entre barrios.",
+    "Son sinónimos, y se aplican por igual a todas las escalas de la ciudad sin distinción de ámbito territorial.",
+    "Son excluyentes: la ciudad debe elegir entre promover una u otra, según su tamaño y su densidad poblacional.",
+    "Son conceptos distintos: movilidad sostenible en los barrios y accesibilidad sostenible entre los barrios.",
+    "Son conceptos distintos, pero ambos se aplican solo a los desplazamientos de carga en zonas industriales."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Son conceptos diferentes que implican decisiones políticas diferentes.",
+    "Son complementarios, no excluyentes.",
+    "Las escalas están invertidas.",
+    "No se limitan a la carga ni a zonas industriales."
+   ],
+   "respuesta": "Son conceptos distintos y complementarios: accesibilidad en los barrios y movilidad entre barrios.",
+   "explicacion": "Se usan como sinónimos pero implican decisiones distintas. Accesibilidad sostenible (Sanz, 1997): acceso a bienes, servicios y contactos sin depender, en lo posible, del transporte motorizado; se aplica en los barrios con desplazamientos cortos a pie y en bicicleta. Movilidad sostenible: transporte público masivo entre barrios. Son complementarios.",
+   "concepto": "Movilidad y accesibilidad sostenibles",
+   "nivel": "contraste",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, pp. 27-29",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m014",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué significa la compacidad en el planteamiento del capítulo?",
+   "opciones": [
+    "No obligar a las personas a viajar grandes distancias para educación, salud, trámites o diversión.",
+    "Obligar a las personas a quedarse en el barrio y limitar sus salidas hacia otras zonas de la ciudad.",
+    "Concentrar todos los servicios fundamentales en un único centro de la ciudad al que llegue todo el mundo.",
+    "Prohibir el uso de vehículos motorizados en cualquier desplazamiento dentro del barrio de residencia.",
+    "Reducir la superficie de la ciudad con una densidad uniforme en todos sus barrios y todas sus zonas."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El capítulo aclara que los ciudadanos son libres de salir, con modos sostenibles.",
+    "El planteamiento es policéntrico, no de un único centro.",
+    "No se plantea una prohibición, sino evitar viajes largos obligados.",
+    "No se plantea una densidad uniforme."
+   ],
+   "respuesta": "No obligar a las personas a viajar grandes distancias para educación, salud, trámites o diversión.",
+   "explicacion": "Compacidad no significa obligar a quedarse en el barrio: significa no obligar a viajar grandes distancias para educación, salud, trámites o diversión. Los ciudadanos son libres de salir, usando modos sostenibles.",
+   "concepto": "Compacidad",
+   "nivel": "interpretacion",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, p. 29",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-m015",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Para volver más compacta una ciudad grande y expandida, el capítulo propone un modelo policéntrico de 4 o 5 centros. ¿Qué condición exige para que funcione?",
+   "opciones": [
+    "Servicios fundamentales de muy buena calidad en cada subcentro, como colegios y hospitales descentralizados.",
+    "Que cada subcentro tenga solo comercio y que los servicios de salud y educación queden en el centro.",
+    "Que los cuatro o cinco centros estén conectados por autopistas urbanas de alta velocidad entre sí.",
+    "Que el número de centros supere a diez, para que cada barrio cuente con su propio centro.",
+    "Que los subcentros se especialicen en una sola actividad, como trabajo, vivienda o ocio, para evitar mezclas."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Cada viaje que no llega al centro es un viaje menos hacia él; los servicios deben estar en los subcentros.",
+    "El planteamiento es reducir viajes largos, no ampliar autopistas.",
+    "El texto habla de 4 o 5 centros.",
+    "Se busca diversidad de usos, no especialización de cada subcentro."
+   ],
+   "respuesta": "Servicios fundamentales de muy buena calidad en cada subcentro, como colegios y hospitales descentralizados.",
+   "explicacion": "La ciudad grande y expandida se vuelve más compacta con una ciudad policéntrica de 4 o 5 centros. No basta con tener varios centros: la potencia del policentrismo exige servicios de muy buena calidad en cada subcentro (colegios, hospitales, postas descentralizadas). Cada alumno o paciente que no llega al centro es un viaje menos.",
+   "concepto": "Ciudad policéntrica",
+   "nivel": "causa",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1, pp. 29-30",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-b001",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "A partir del capítulo 1 de Avellaneda y Dextre (2014), defina si cada una de las siguientes afirmaciones es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "Buchanan (1964) sostuvo que el tráfico debe estar al servicio de la ciudad y no la ciudad al servicio del tráfico.",
+     "verdadera": true,
+     "explicacion": "Más infraestructura viaria genera más demanda y realimenta el proceso."
+    },
+    {
+     "texto": "En el estudio del TTI, la población creció más que los kilómetros de vías entre 1982 y 1999.",
+     "verdadera": false,
+     "explicacion": "La población creció 11 % y los kilómetros de vías 15 %."
+    },
+    {
+     "texto": "El efecto barrera es la segregación del territorio por vías segregadas o intercambios viales.",
+     "verdadera": true,
+     "explicacion": "Dificulta la circulación peatonal y restringe la autonomía de los niños."
+    },
+    {
+     "texto": "La estrategia de la segunda etapa es la capacidad vial.",
+     "verdadera": false,
+     "explicacion": "La capacidad vial es la estrategia de la primera etapa; la segunda prioriza el transporte público."
+    },
+    {
+     "texto": "La demolición de la autopista del río Cheonggyecheon en Seúl es uno de los pocos ejemplos de traffic evaporation.",
+     "verdadera": true,
+     "explicacion": "Al disminuir la infraestructura vial desaparecen los coches."
+    }
+   ],
+   "respuesta": "V · F · V · F · V",
+   "concepto": "Circulación, tráfico y evidencia",
+   "nivel": "contraste",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-avellaneda-dextre-2014-cap1-b002",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "A partir de las secciones 1.2 a 1.4 del capítulo de Avellaneda y Dextre (2014), defina si cada una de las siguientes afirmaciones es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "Los buses de alta capacidad con carriles exclusivos atienden entre 20 000 y 30 000 pasajeros por hora y sentido.",
+     "verdadera": true,
+     "explicacion": "Es el umbral que cita Hidalgo (2005)."
+    },
+    {
+     "texto": "El metro es la única alternativa para demandas por debajo de 11 500 pasajeros por hora y sentido.",
+     "verdadera": false,
+     "explicacion": "El metro es la única alternativa por encima de 40 000; por debajo de 11 500 está el tranvía."
+    },
+    {
+     "texto": "El transporte público masivo es fundamental, pero no suficiente para lograr viajes más cortos.",
+     "verdadera": true,
+     "explicacion": "Mejorar el tiempo de viaje no acorta las distancias."
+    },
+    {
+     "texto": "Movilidad sostenible y accesibilidad sostenible son sinónimos que implican las mismas decisiones políticas.",
+     "verdadera": false,
+     "explicacion": "Son conceptos diferentes que implican decisiones diferentes, aunque complementarios."
+    },
+    {
+     "texto": "La accesibilidad sostenible se aplica en los barrios y la movilidad sostenible entre barrios.",
+     "verdadera": true,
+     "explicacion": "Desplazamientos cortos a pie y en bicicleta dentro del barrio; transporte público masivo entre barrios."
+    }
+   ],
+   "respuesta": "V · F · V · F · V",
+   "concepto": "Transporte público, movilidad y sostenibilidad",
+   "nivel": "contraste",
+   "referencia": "Avellaneda y Dextre (2014), cap. 1",
+   "clase": null,
+   "estado": "completa"
   }
  ],
  "trampas": [

@@ -751,6 +751,560 @@
    "respuesta": "Diagnóstico cualitativo; las cifras solo para comprobar hipótesis y orden de magnitud; las encuestas masivas enmascaran el diagnóstico y, por ajustar el decimal, olvidan acertar en el orden de magnitud del número entero; p. 49.",
    "referencia": "p. 49",
    "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m001",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según Herce, ¿por qué el concepto de movilidad ha desplazado al de transporte como objeto de la planificación?",
+   "opciones": [
+    "Porque son conceptos de distinto alcance, y el territorio pasó de un sistema de asentamientos a un sistema de redes.",
+    "Porque es una moda del lenguaje técnico, sin diferencias de fondo con el concepto tradicional de transporte.",
+    "Porque la demanda de transporte ha disminuido y los planes ya solo se ocupan de los desplazamientos peatonales.",
+    "Porque las infraestructuras de transporte dejaron de ser necesarias en una sociedad posindustrial de servicios.",
+    "Porque la planificación pasó a depender de las administraciones locales, que usan solo el término movilidad."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El texto insiste en que son conceptos de distinto alcance, no una moda.",
+    "No se afirma que la demanda disminuya.",
+    "Las infraestructuras siguen siendo soporte de la economía; lo que cambia es su papel.",
+    "El cambio es conceptual, no una cuestión de qué administración planifica."
+   ],
+   "respuesta": "Porque son conceptos de distinto alcance, y el territorio pasó de un sistema de asentamientos a un sistema de redes.",
+   "explicacion": "La movilidad (el derecho de las personas a realizar sus vínculos de conexión) abarca más que el transporte. El cambio es de fondo: el territorio pasó de un sistema de asentamientos a un sistema de redes.",
+   "concepto": "Movilidad y transporte",
+   "nivel": "causa",
+   "referencia": "Herce (2009), caps. I y II, pp. 14-15",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m002",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué sostiene Hall, citado en el capítulo I, sobre las relaciones entre las actividades en el territorio?",
+   "opciones": [
+    "Que se rompen los vínculos de proximidad y se sustituyen por vínculos de conexión.",
+    "Que se rompen los vínculos de conexión y se sustituyen por vínculos de proximidad entre actividades.",
+    "Que los vínculos de proximidad y de conexión se mantienen iguales, solo que con redes más rápidas.",
+    "Que los vínculos de conexión solo aparecen entre las ciudades grandes y no en los asentamientos pequeños.",
+    "Que los vínculos de proximidad se fortalecen con las redes y desaparecen los vínculos de conexión."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El sentido está invertido.",
+    "Hall plantea una sustitución, no una continuidad.",
+    "No es una distinción por tamaño.",
+    "Es lo contrario de lo que plantea."
+   ],
+   "respuesta": "Que se rompen los vínculos de proximidad y se sustituyen por vínculos de conexión.",
+   "explicacion": "Hall: se rompen los vínculos de proximidad y se sustituyen por vínculos de conexión. Las redes sustituyen a los sistemas de asentamientos como invariante de la organización espacial.",
+   "concepto": "Vínculos de proximidad y conexión",
+   "nivel": "interpretacion",
+   "referencia": "Herce (2009), caps. I y II, p. 15",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m003",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿En qué consiste la paradoja de las infraestructuras que plantea el capítulo I?",
+   "opciones": [
+    "Son soporte fijo de la economía, pero ampliarlas sin criterio aumenta la dispersión en vez de reducirla.",
+    "Son indispensables para la economía, pero ampliarlas sin criterio concentra la población en los centros urbanos.",
+    "Son costosas de construir, pero su uso intensivo reduce siempre el consumo energético del sistema de movilidad.",
+    "Son soporte de la economía, pero su papel como discriminador de los servicios al ciudadano ha aumentado y no cambiado.",
+    "Son tan útiles que, cuanto más se amplían, mayor equidad territorial y menor exclusión social generan."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El resultado es mayor dispersión, no mayor concentración.",
+    "El modelo tradicional aumenta el consumo energético.",
+    "Lo que cambia es su papel como discriminador de los servicios al ciudadano.",
+    "El texto muestra el efecto contrario: mayor dispersión, energía y exclusión."
+   ],
+   "respuesta": "Son soporte fijo de la economía, pero ampliarlas sin criterio aumenta la dispersión en vez de reducirla.",
+   "explicacion": "Las infraestructuras son soporte fijo de la economía, pero cambia su rol como discriminador de los servicios al ciudadano. Ampliarlas indiscriminadamente aumenta la dispersión, la dependencia del automóvil, el consumo de energía y la exclusión social (Fig. 1.2).",
+   "concepto": "Paradoja de las infraestructuras",
+   "nivel": "interpretacion",
+   "referencia": "Herce (2009), caps. I y II, pp. 16-17",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m004",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En el esquema del modelo tradicional (Fig. 1.2), ¿cuáles son dos causas de la dependencia del automóvil?",
+   "opciones": [
+    "La menor densidad del suelo y los desplazamientos más largos entre las actividades del territorio.",
+    "La mayor densidad del suelo y los desplazamientos más cortos entre actividades.",
+    "El consumo energético y la exclusión social, que son las dos cajas finales del esquema.",
+    "La concentración urbana y la densidad del suelo, que son la alternativa que propone Herce.",
+    "La administración local y la insuficiencia de recursos, que limitan la oferta de transporte colectivo."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Son los factores contrarios: la dependencia aumenta con menor densidad y mayor distancia.",
+    "Esas son consecuencias del modelo, no causas de la dependencia del automóvil.",
+    "Son la alternativa al modelo tradicional, no causas de la dependencia.",
+    "No son causas que el esquema muestre."
+   ],
+   "respuesta": "La menor densidad del suelo y los desplazamientos más largos entre las actividades del territorio.",
+   "explicacion": "En la Fig. 1.2, menor densidad y desplazamientos más largos son dos causas de la dependencia del automóvil. Las dos cajas finales son el consumo energético y la exclusión social, y la flecha discontinua vuelve a 'mayor extensión de redes de infraestructuras'.",
+   "concepto": "Modelo tradicional (Fig. 1.2)",
+   "nivel": "grafica",
+   "referencia": "Herce (2009), caps. I y II, p. 17",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m005",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Herce plantea como alternativa la concentración urbana y la densidad del suelo. ¿Cuál de los siguientes NO es uno de los discursos 'progresistas' que, según él, enmascaran esa alternativa?",
+   "opciones": [
+    "El reequilibrio territorial entre las distintas regiones del país, como discurso progresista.",
+    "La ciudad-región, como forma de organización progresista del territorio.",
+    "La ruralización de parte del hábitat urbano, presentada como imagen de equilibrio.",
+    "La concentración urbana y la densidad del suelo, que es la propia alternativa."
+   ],
+   "correcta": 3,
+   "errores": [
+    "Sí es uno de los discursos señalados.",
+    "Sí es uno de los discursos señalados.",
+    "Sí es uno de los discursos señalados.",
+    null
+   ],
+   "respuesta": "La concentración urbana y la densidad del suelo, que es la propia alternativa.",
+   "explicacion": "La alternativa de Herce es la concentración urbana y la densidad del suelo. Los discursos que la enmascaran son el reequilibrio territorial, la ciudad-región y la ruralización de parte del hábitat urbano.",
+   "concepto": "Alternativa al modelo tradicional",
+   "nivel": "contraste",
+   "referencia": "Herce (2009), caps. I y II, pp. 17-18",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m006",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué reparto de papeles entre las administraciones describe el capítulo I?",
+   "opciones": [
+    "La central o autonómica produce y moderniza infraestructuras; la local atiende la movilidad cotidiana, con menos recursos.",
+    "La local produce y moderniza las grandes infraestructuras; la central o autonómica atiende la movilidad cotidiana.",
+    "La central o autonómica atiende la movilidad cotidiana, y la local solo gestiona el transporte público de su ciudad.",
+    "Las tres administraciones tienen las mismas competencias y los mismos recursos en materia de movilidad.",
+    "La administración local fija las infraestructuras y la central aplica los planes de movilidad en cada ciudad."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Están invertidos los papeles.",
+    "La movilidad cotidiana es responsabilidad local.",
+    "El texto señala una diferencia de funciones y de recursos.",
+    "Es lo contrario: los mejores ejemplos de planes de movilidad vienen de los ayuntamientos."
+   ],
+   "respuesta": "La central o autonómica produce y moderniza infraestructuras; la local atiende la movilidad cotidiana, con menos recursos.",
+   "explicacion": "La Administración central o autonómica produce y moderniza infraestructuras; la local se ocupa de la movilidad cotidiana, con menos recursos. Los ejemplos más válidos de planes de movilidad vienen de los ayuntamientos (epílogo).",
+   "concepto": "Niveles de administración",
+   "nivel": "contraste",
+   "referencia": "Herce (2009), caps. I y II, p. 18",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m007",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Herce establece un orden jerárquico entre tres sostenibilidades. ¿Cuál es?",
+   "opciones": [
+    "Justicia social, sostenibilidad energética y sostenibilidad ambiental.",
+    "Sostenibilidad ambiental, sostenibilidad energética y justicia social.",
+    "Sostenibilidad energética, justicia social y sostenibilidad ambiental.",
+    "Sostenibilidad ambiental, justicia social y sostenibilidad energética.",
+    "Sostenibilidad energética, sostenibilidad ambiental y justicia social.",
+    "Justicia social, sostenibilidad ambiental y sostenibilidad energética."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El orden está invertido.",
+    "La justicia social va primero, no la energética.",
+    "La ambiental no va primero.",
+    "La justicia social no va al final.",
+    "La energética va antes que la ambiental."
+   ],
+   "respuesta": "Justicia social, sostenibilidad energética y sostenibilidad ambiental.",
+   "explicacion": "El orden jerárquico es justicia social, sostenibilidad energética y sostenibilidad ambiental. Un enunciado con 'ambiental primero' o 'energético primero' es falso.",
+   "concepto": "Tres sostenibilidades",
+   "nivel": "contraste",
+   "referencia": "Herce (2009), caps. I y II, p. 24",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m008",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué objeción plantea Herce al principio 'quien contamine pague'?",
+   "opciones": [
+    "Puede gravar modos poco contaminantes pero insostenibles en energía, o dar privilegio a quien puede pagar la contaminación.",
+    "Que obliga a todos los usuarios a pagar el mismo valor, sin distinguir entre los modos de transporte.",
+    "Que reduce la dependencia del automóvil en las periferias y, con ello, aumenta la exclusión social de esas áreas.",
+    "Que es imposible medir la contaminación de cada modo, y por eso nunca puede aplicarse a una ciudad.",
+    "Que solo se aplica al transporte público, porque los vehículos privados están exentos de ese principio."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La objeción es otra: puede castigar modos poco contaminantes y privilegiar a quien paga.",
+    "No es una objeción que el texto formule en esos términos.",
+    "La objeción no es de medición, sino de justicia y de sostenibilidad energética.",
+    "El principio se discute como regla general para los modos."
+   ],
+   "respuesta": "Puede gravar modos poco contaminantes pero insostenibles en energía, o dar privilegio a quien puede pagar la contaminación.",
+   "explicacion": "El principio puede gravar modos poco contaminantes pero insostenibles energéticamente, o dar un privilegio a quien puede pagar por contaminar. Por eso Herce ordena primero la justicia social, luego la energía y después el ambiente.",
+   "concepto": "Quien contamine pague",
+   "nivel": "interpretacion",
+   "referencia": "Herce (2009), caps. I y II, p. 24",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m009",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según Ascher (2004), citado por Herce, ¿qué tipo de solidaridad corresponde a la ciudad industrial?",
+   "opciones": [
+    "La solidaridad orgánica, que sustituyó a la mecánica del mundo rural.",
+    "La solidaridad mecánica, propia de las comunidades del mundo rural.",
+    "La solidaridad comunicativa, que pone en relación individuos y organizaciones.",
+    "La solidaridad reflexiva, que es el desafío por alcanzar en la sociedad actual.",
+    "La solidaridad territorial, que se basa en los vínculos de proximidad de cada barrio."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La mecánica corresponde al mundo rural.",
+    "La comunicativa es la actual, no la de la ciudad industrial.",
+    "La reflexiva es el desafío, no la de la ciudad industrial.",
+    "No es una de las categorías que cita el texto."
+   ],
+   "respuesta": "La solidaridad orgánica, que sustituyó a la mecánica del mundo rural.",
+   "explicacion": "Ascher: solidaridad mecánica (mundo rural), orgánica (ciudad industrial), comunicativa (individuos y organizaciones en redes) y, como desafío, reflexiva. En el ejercicio del derecho a la conexión radica parte de la integración social.",
+   "concepto": "Solidaridades según Ascher",
+   "nivel": "contraste",
+   "referencia": "Herce (2009), caps. I y II, pp. 23-24",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m010",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál de los siguientes NO es uno de los cuatro grupos en riesgo de exclusión que identifica el capítulo I?",
+   "opciones": [
+    "Quienes no disponen de vehículo motorizado propio y dependen de otras formas de desplazamiento.",
+    "Quienes no pueden ir a pie o en bicicleta porque el espacio ocupado por los vehículos se lo impide.",
+    "Quienes pierden mucho tiempo en intercambios por un transporte colectivo ineficaz.",
+    "Quienes viven en el centro de la ciudad y disponen de transporte colectivo eficaz a poca distancia.",
+    "Quienes no pueden usar el vehículo o no lo encuentran adecuado para sus necesidades de desplazamiento."
+   ],
+   "correcta": 3,
+   "errores": [
+    "Sí es uno de los cuatro grupos.",
+    "Sí es uno de los cuatro grupos.",
+    "Sí es uno de los cuatro grupos.",
+    null,
+    "Sí es uno de los cuatro grupos."
+   ],
+   "respuesta": "Quienes viven en el centro de la ciudad y disponen de transporte colectivo eficaz a poca distancia.",
+   "explicacion": "Los cuatro grupos son: sin vehículo motorizado propio; quienes no pueden ir a pie o en bicicleta por el espacio ocupado por vehículos; quienes no pueden usar el vehículo o no lo encuentran adecuado; y quienes pierden mucho tiempo en intercambios por un colectivo ineficaz.",
+   "concepto": "Grupos en riesgo de exclusión",
+   "nivel": "contraste",
+   "referencia": "Herce (2009), caps. I y II, p. 25",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m011",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué describe la espiral de dependencia de Dupuy?",
+   "opciones": [
+    "Cómo la motorización y el aumento del espacio viario se refuerzan, con más accesibilidad para los motorizados y menos para el resto.",
+    "Cómo el aumento del transporte público reduce el espacio viario y disminuye la accesibilidad de los vehículos privados.",
+    "Cómo la densidad del suelo aumenta la dependencia del automóvil y reduce el número de viajes a pie realizados.",
+    "Cómo los viajes a pie sustituyen a los viajes en automóvil en las zonas de menor densidad poblacional urbana.",
+    "Cómo la oferta de infraestructuras viarias se ajusta a una demanda de viajes que se mantiene constante en el tiempo."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La espiral describe la motorización, no la expansión del transporte público.",
+    "La dependencia crece con la dispersión, no con la densidad.",
+    "Describe lo contrario: pérdida de autonomía de los no motorizados.",
+    "La oferta marca la demanda; la espiral habla de dependencia y exclusión."
+   ],
+   "respuesta": "Cómo la motorización y el aumento del espacio viario se refuerzan, con más accesibilidad para los motorizados y menos para el resto.",
+   "explicacion": "Dupuy describe una espiral entre motorización e incremento del espacio viario: pérdida de autonomía y exclusión de los no motorizados, más accesibilidad para los motorizados y menos para los no motorizados.",
+   "concepto": "Espiral de dependencia (Dupuy)",
+   "nivel": "causa",
+   "referencia": "Herce (2009), caps. I y II, pp. 25-26",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m012",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la Fig. 1.3, ¿qué porcentaje del total de viajes corresponde a la movilidad obligada y cómo se reparte internamente?",
+   "opciones": [
+    "28,0 % del total; dentro de ella, 65,1 % trabajo y 34,9 % estudios.",
+    "24,3 % del total; dentro de ella, 65,1 % trabajo y 34,9 % estudios.",
+    "47,7 % del total; dentro de ella, 65,1 % trabajo y 34,9 % estudios.",
+    "28,0 % del total; dentro de ella, 34,9 % trabajo y 65,1 % estudios.",
+    "28,0 % del total; dentro de ella, 24,3 % compras y 23,5 % visitas."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El 24,3 % es la movilidad no obligada, no la obligada.",
+    "El 47,7 % corresponde a la vuelta a casa.",
+    "Están invertidos: el trabajo es 65,1 %.",
+    "Compras y visitas son motivos de la movilidad no obligada."
+   ],
+   "respuesta": "28,0 % del total; dentro de ella, 65,1 % trabajo y 34,9 % estudios.",
+   "explicacion": "Fig. 1.3: obligada 28,0 %, no obligada 24,3 % y vuelta a casa 47,7 %. Dentro de la obligada, trabajo 65,1 % y estudios 34,9 %; dentro de la no obligada, compras 24,3 %, visitas 23,5 %, diversión 21,1 % y otros 30,8 %.",
+   "concepto": "Movilidad obligada y no obligada",
+   "nivel": "grafica",
+   "referencia": "Herce (2009), caps. I y II, p. 20",
+   "clase": "2026-10-16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m013",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Los manuales clásicos asignaban al trabajo y los estudios entre el 60 y el 65 % de los viajes. ¿Qué dice Herce sobre su peso actual y qué muestra con ello?",
+   "opciones": [
+    "Es algo menos de la mitad, lo que muestra la crisis de la división entre movilidad obligada y no obligada.",
+    "Es algo más del 75 %, lo que confirma la validez de la clasificación entre movilidad obligada y no obligada.",
+    "Es igual al de los manuales clásicos, porque las puntas de trabajo y estudio se mantienen en dos horas bien marcadas.",
+    "Es menor al 10 %, porque casi todos los viajes actuales se hacen por motivos de ocio y compras.",
+    "Es de 28,0 %, que es la parte de los viajes que corresponde a la movilidad obligada, sin vueltas a casa."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Hoy es algo menos de la mitad, no más.",
+    "La cifra bajó y las puntas ya no se expresan en dos momentos marcados.",
+    "La cifra actual es algo menos de la mitad.",
+    "La fuente de la cifra de 28,0 % es la Fig. 1.3; la comparación con los manuales es otra."
+   ],
+   "respuesta": "Es algo menos de la mitad, lo que muestra la crisis de la división entre movilidad obligada y no obligada.",
+   "explicacion": "Hoy trabajo y estudios son algo menos de la mitad de los viajes (los manuales clásicos daban 60-65 %). Con los motivos antes no obligados más sus vueltas se llega a cerca del 30 %. Dos argumentos: la división obligada/no obligada está en crisis y la demanda ya no se expresa en dos puntas marcadas.",
+   "concepto": "Crisis de la movilidad obligada",
+   "nivel": "interpretacion",
+   "referencia": "Herce (2009), caps. I y II, pp. 20, 36",
+   "clase": "2026-10-16",
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m014",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Monzón observó más desplazamientos diarios en el centro de Madrid que en la periferia, aunque en la periferia hay más población en edad de estudiar y trabajar. ¿Qué idea ilustra Herce con esto?",
+   "opciones": [
+    "Que la oferta de infraestructuras y servicios marca el comportamiento de la demanda de movilidad.",
+    "Que la demanda de movilidad depende solo de la edad y de la actividad de la población residente.",
+    "Que las periferias tienen menor demanda de movilidad porque sus habitantes prefieren no desplazarse.",
+    "Que el costo del transporte es la variable principal que explica el número de viajes por persona.",
+    "Que el automóvil privado solo se usa en el centro de las ciudades con mayor densidad de empleo."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El ejemplo muestra lo contrario: la edad no explica la diferencia.",
+    "El texto lo atribuye a la oferta, no a una preferencia.",
+    "El texto indica que el costo influye poco en la elección del modo.",
+    "No es la idea que ilustra el ejemplo."
+   ],
+   "respuesta": "Que la oferta de infraestructuras y servicios marca el comportamiento de la demanda de movilidad.",
+   "explicacion": "La oferta de infraestructuras marca el comportamiento de la demanda (p. 22). Por eso Herce propone estudiar la demanda por grupos de población, motivos, modos y ámbitos, y no solo por la población residente.",
+   "concepto": "La oferta marca la demanda",
+   "nivel": "interpretacion",
+   "referencia": "Herce (2009), caps. I y II, p. 22",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m015",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En los datos de autocontención de la región de Barcelona, ¿en qué motivo de viaje es menor la autocontención?",
+   "opciones": [
+    "En el trabajo, donde más viajes salen del municipio de residencia.",
+    "En las compras cotidianas, que se hacen con frecuencia lejos del municipio de residencia.",
+    "En los estudios, porque casi todos los estudiantes viajan fuera de su municipio.",
+    "En la vuelta a casa, que siempre se hace hacia otro municipio de la región metropolitana.",
+    "En el ocio de fin de semana, porque todos los viajes se hacen hacia el centro de la capital."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Las compras cotidianas son de las más cercanas al domicilio.",
+    "El motivo con menor autocontención es el trabajo.",
+    "La vuelta a casa vuelve al municipio de residencia.",
+    "No es el motivo con menor autocontención."
+   ],
+   "respuesta": "En el trabajo, donde más viajes salen del municipio de residencia.",
+   "explicacion": "En laborable la autocontención es de 86,4 % en Barcelona y 68 % en el resto de la RMB. El motivo trabajo es donde la autocontención es menor.",
+   "concepto": "Autocontención",
+   "nivel": "interpretacion",
+   "referencia": "Herce (2009), caps. I y II, p. 39",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m016",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Entre 1975 y 1990 la distancia domicilio-trabajo en Francia pasó de 7 a 12 km, mientras el tiempo de esos viajes se mantuvo cerca de una hora. ¿Qué muestra esto?",
+   "opciones": [
+    "Que la mayor velocidad no redujo el tiempo de viaje, sino que extendió la ciudad.",
+    "Que la mayor velocidad redujo el tiempo de viaje y mejoró la calidad de vida de los trabajadores.",
+    "Que el tiempo de viaje depende solo de la distancia y no de la velocidad del modo que se use.",
+    "Que el tiempo de viaje es una variable irrelevante para decidir dónde se localiza una vivienda.",
+    "Que las mejoras de transporte redujeron el consumo energético de los desplazamientos cotidianos."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El tiempo se mantuvo constante, y las mejoras no revirtieron en mejor calidad de vida.",
+    "El ejemplo muestra que con más velocidad la distancia crece.",
+    "El tiempo de viaje define el tamaño máximo de la aglomeración real.",
+    "El texto indica que las mejoras no revirtieron en menor costo energético."
+   ],
+   "respuesta": "Que la mayor velocidad no redujo el tiempo de viaje, sino que extendió la ciudad.",
+   "explicacion": "El tiempo de viaje define el tamaño máximo de la aglomeración real: la velocidad no redujo la duración, extendió la ciudad. Las mejoras tecnológicas no revirtieron en mejor calidad de vida ni en menor costo energético (Wenglenski y Orfeuil).",
+   "concepto": "Tiempo de viaje y tamaño de la ciudad",
+   "nivel": "interpretacion",
+   "referencia": "Herce (2009), caps. I y II, p. 41",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-m017",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la región metropolitana de Barcelona el gasto mensual es de 26,43 euros en transporte colectivo y 105,74 en privado. ¿Qué concluye Herce sobre el costo en la elección del modo?",
+   "opciones": [
+    "Que el costo influye poco en la elección del modo, contra lo que supone la teoría clásica.",
+    "Que el costo es la variable principal que decide el modo, como supone la teoría clásica.",
+    "Que el transporte privado resulta más barato que el colectivo en términos de gasto mensual.",
+    "Que el costo solo importa para los hogares con estudios universitarios y altos ingresos.",
+    "Que los peajes y el aumento del costo del automóvil son medidas eficaces y justas para reducir su uso."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Herce concluye lo contrario de la teoría clásica.",
+    "105,74 euros es más que 26,43 euros.",
+    "No se hace esa distinción en la conclusión.",
+    "Ascher, citado, dice que son ineficaces e injustas."
+   ],
+   "respuesta": "Que el costo influye poco en la elección del modo, contra lo que supone la teoría clásica.",
+   "explicacion": "Con gastos tan distintos (26,43 y 105,74 euros al mes) y el uso del coche casi inelástico al costo, el costo influye poco en la elección del modo. Es indicio de discriminación social: los de la periferia internalizan el costo de dinero y de no poder viajar.",
+   "concepto": "Costo y elección del modo",
+   "nivel": "interpretacion",
+   "referencia": "Herce (2009), caps. I y II, pp. 44-45",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-b001",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "A partir del capítulo I de Herce (2009), defina si cada una de las siguientes afirmaciones es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "Según Hall, se rompen los vínculos de proximidad y se sustituyen por vínculos de conexión.",
+     "verdadera": true,
+     "explicacion": "Las redes sustituyen a los sistemas de asentamientos como invariante de la organización espacial."
+    },
+    {
+     "texto": "Para Herce, ampliar indiscriminadamente las infraestructuras reduce la dispersión territorial.",
+     "verdadera": false,
+     "explicacion": "Ampliarlas sin criterio aumenta la dispersión y la dependencia del automóvil."
+    },
+    {
+     "texto": "El orden jerárquico de las sostenibilidades es: ambiental, energética y justicia social.",
+     "verdadera": false,
+     "explicacion": "El orden es justicia social, energética y ambiental."
+    },
+    {
+     "texto": "La Administración local se ocupa de la movilidad cotidiana, con menos recursos que la central o autonómica.",
+     "verdadera": true,
+     "explicacion": "La central o autonómica produce y moderniza infraestructuras."
+    },
+    {
+     "texto": "La solidaridad reflexiva de Ascher es la que corresponde a la ciudad industrial.",
+     "verdadera": false,
+     "explicacion": "A la ciudad industrial le corresponde la orgánica; la reflexiva es el desafío."
+    }
+   ],
+   "respuesta": "V · F · F · V · F",
+   "concepto": "Territorio de redes y sostenibilidad",
+   "nivel": "contraste",
+   "referencia": "Herce (2009), caps. I y II, cap. I",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s07-herce-2009-cap1-2-b002",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "A partir del capítulo II de Herce (2009), defina si cada una de las siguientes afirmaciones es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "En la Fig. 1.3, la movilidad obligada es 28,0 % de los viajes y, dentro de ella, el trabajo es 65,1 %.",
+     "verdadera": true,
+     "explicacion": "El resto de la obligada son estudios, 34,9 %."
+    },
+    {
+     "texto": "Los manuales clásicos asignaban 60-65 % a trabajo y estudios, y hoy es algo menos de la mitad.",
+     "verdadera": true,
+     "explicacion": "Es uno de los argumentos de la crisis de la división obligada/no obligada."
+    },
+    {
+     "texto": "En la región de Barcelona, la autocontención laborable de Barcelona (86,4 %) supera a la del resto de la región (68 %).",
+     "verdadera": true,
+     "explicacion": "El motivo con menor autocontención es el trabajo."
+    },
+    {
+     "texto": "En la RMB, el gasto mensual en transporte privado (105,74 euros) es menor que en el colectivo (26,43 euros).",
+     "verdadera": false,
+     "explicacion": "Es mayor en el privado: 105,74 frente a 26,43 euros."
+    },
+    {
+     "texto": "Según los datos de la RMB, el costo es la variable que más pesa en la elección del modo de transporte.",
+     "verdadera": false,
+     "explicacion": "El costo influye poco en la elección del modo, contra la teoría clásica."
+    }
+   ],
+   "respuesta": "V · V · V · F · F",
+   "concepto": "Demanda de movilidad y cifras del capítulo II",
+   "nivel": "contraste",
+   "referencia": "Herce (2009), caps. I y II, cap. II",
+   "clase": null,
+   "estado": "completa"
   }
  ],
  "trampas": [
