@@ -715,6 +715,403 @@
    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región",
    "clase": null,
    "estado": "completa"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-c001",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete las definiciones básicas del artículo con los términos del banco.",
+   "texto": "El espacio geográfico es un conjunto indisociable de sistemas de {1} y de sistemas de {2}. El {3} es una extensión terrestre delimitada que incluye una relación de poder o posesión; la {4} es el grado de control que un agente ejerce sobre una porción de ese espacio.",
+   "banco": [
+    "objetos",
+    "acciones",
+    "territorio",
+    "territorialidad",
+    "región",
+    "desterritorialización",
+    "flujos",
+    "lugares"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "Siguiendo a Santos, el espacio geográfico es un conjunto indisociable de sistemas de objetos y de acciones."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "Los sistemas de objetos no ocurren sin los sistemas de acciones y viceversa."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "El territorio es una extensión terrestre delimitada que incluye una relación de poder o posesión (Geiger; Correia de Andrade)."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "La territorialidad es el grado de control de una determinada porción de espacio geográfico."
+    }
+   ],
+   "respuesta": "1 = objetos · 2 = acciones · 3 = territorio · 4 = territorialidad",
+   "concepto": "Espacio, territorio y territorialidad",
+   "nivel": "contraste",
+   "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 121-124",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-c002",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete el texto sobre pérdida de territorio, regiones y regionalismo con los términos del banco.",
+   "texto": "Los procesos de pérdida del territorio derivados de conflictos de poder entre agentes se llaman {1}. La red espacial de relaciones y actividades con la que opera un agente es su {2}. La territorialidad delimita el territorio en {3}, y esa diferenciación regional es el escenario del {4}.",
+   "banco": [
+    "desterritorialización",
+    "actividad espacial",
+    "regiones",
+    "regionalismo",
+    "territorialización",
+    "verticalidades",
+    "localismo"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "Es la pérdida de territorio derivada de la dinámica territorial y de conflictos de poder entre agentes."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "Massey (1995): red espacial de relaciones y actividades con la que opera un agente."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "La territorialidad regionaliza el territorio: lo delimita en divisiones espacio-temporales llamadas regiones (Giddens)."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "La diferenciación regional es el escenario del regionalismo, expresión de la dinámica del poder entre las regiones."
+    }
+   ],
+   "respuesta": "1 = desterritorialización · 2 = actividad espacial · 3 = regiones · 4 = regionalismo",
+   "concepto": "Desterritorialización, regiones y regionalismo",
+   "nivel": "contraste",
+   "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 124-125",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-c003",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete los tres conceptos atribuidos a Lyshon (1995) con los términos del banco.",
+   "texto": "La {1} espacio-tiempo es la que acerca o aleja los lugares según la tecnología de transporte y de información; el {2} tiempo-espacio permite interacciones entre agentes no copresentes; y la {3} tiempo-espacio combina los dos anteriores y los atribuye a los imperativos del capitalismo como sistema global.",
+   "banco": [
+    "convergencia",
+    "distanciamiento",
+    "compresión",
+    "horizontalidad",
+    "verticalidad",
+    "fragmentación"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "La convergencia espacio-tiempo: la tecnología de transporte y de información acerca o aleja los lugares."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "El distanciamiento tiempo-espacio permite interacciones remotas entre ausentes, como en el ciberespacio."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "La compresión tiempo-espacio combina las dos anteriores y las atribuye a los imperativos del capitalismo global."
+    }
+   ],
+   "respuesta": "1 = convergencia · 2 = distanciamiento · 3 = compresión",
+   "concepto": "Convergencia, distanciamiento y compresión",
+   "nivel": "contraste",
+   "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 126-127",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-c004",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete el texto sobre horizontalidades y verticalidades (Santos, 1996) con los términos del banco.",
+   "texto": "Las {1} son dominios de continuidad de lugares vecinos reunidos por una continuidad territorial; las {2} son relaciones entre lugares distantes ligados a través de redes. Por eso el territorio hoy puede formarse de lugares {3} y de lugares {4}.",
+   "banco": [
+    "horizontalidades",
+    "verticalidades",
+    "contiguos",
+    "en red",
+    "aislados",
+    "homólogos"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "Son dominios de continuidad de lugares vecinos reunidos por una continuidad territorial."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "Son relaciones entre lugares distantes ligados por formas y procesos sociales a través de redes."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "El territorio hoy puede formarse de lugares contiguos..."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "...y de lugares en red."
+    }
+   ],
+   "respuesta": "1 = horizontalidades · 2 = verticalidades · 3 = contiguos · 4 = en red",
+   "concepto": "Horizontalidades y verticalidades",
+   "nivel": "contraste",
+   "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 128",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-c005",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete la caracterización de la región con los términos del banco.",
+   "texto": "Para Santos las regiones son subdivisiones del {1} geográfico, subespacios de {2} y, a veces, espacios funcionales del espacio mayor. Hoy son sistemas territoriales {3} que, en interacción permanente con otras regiones, construyen su {4} económica, cultural, social y política.",
+   "banco": [
+    "espacio",
+    "conveniencia",
+    "abiertos",
+    "identidad",
+    "territorio",
+    "soberanía",
+    "cerrados",
+    "nación"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "Para Santos, las regiones son subdivisiones del espacio geográfico planetario, nacional o local."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "Son subespacios de conveniencia y, en algunos casos, espacios funcionales del espacio mayor."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "Hoy las regiones son sistemas territoriales abiertos."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "En interacción con otras regiones construyen su identidad económica, cultural, social y política."
+    }
+   ],
+   "respuesta": "1 = espacio · 2 = conveniencia · 3 = abiertos · 4 = identidad",
+   "concepto": "Región según Santos",
+   "nivel": "contraste",
+   "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 131",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-c006",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete el proyecto de territorio del proyecto nacional con los términos del banco.",
+   "texto": "El proyecto de territorio del proyecto nacional debe tener sentido {1}: reconoce múltiples {2}, reguladas por la territorialidad {3} como su expresión suprema. El Estado debe promover además la {4} territorial y la articulación regional.",
+   "banco": [
+    "democrático",
+    "territorialidades",
+    "estatal",
+    "equidad",
+    "autoritario",
+    "territorios",
+    "privada"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "El proyecto de territorio debe tener sentido democrático."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "Reconoce la coexistencia de múltiples territorialidades en el espacio del Estado-nación."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "Esas territorialidades las regula la territorialidad estatal, expresión suprema en ese ámbito."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "El Estado debe promover la equidad territorial y la articulación regional."
+    }
+   ],
+   "respuesta": "1 = democrático · 2 = territorialidades · 3 = estatal · 4 = equidad",
+   "concepto": "Proyecto de territorio y equidad territorial",
+   "nivel": "contraste",
+   "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 130-132",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-c007",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete cada situación con el concepto del artículo que la describe.",
+   "texto": "Una empresa multinacional amplía su mercado local a costa de una competidora más débil: la primera se beneficia de la {1} y la segunda sufre {2}. Un grupo de municipios vecinos que forman un área continua de producción muestra {3}, mientras que un puerto ligado a un lugar distante por una red de transporte muestra {4}.",
+   "banco": [
+    "territorialización",
+    "desterritorialización",
+    "horizontalidades",
+    "verticalidades",
+    "convergencia",
+    "regionalismo"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "La multinacional que amplía su mercado ejerce control sobre más espacio: se territorializa."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "La competidora más débil pierde parte de su territorio: se desterritorializa."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "Municipios vecinos con un área continua de producción forman horizontalidades."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "Un puerto ligado a un lugar distante por una red de transporte es un caso de verticalidades."
+    }
+   ],
+   "respuesta": "1 = territorialización · 2 = desterritorialización · 3 = horizontalidades · 4 = verticalidades",
+   "concepto": "Aplicar territorialización, horizontalidades y verticalidades",
+   "nivel": "aplicacion",
+   "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 125-128",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-m021",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál afirmación distingue correctamente el territorio de la territorialidad, según el artículo?",
+   "opciones": [
+    "El territorio es el grado de control sobre una porción de espacio; la territorialidad es la extensión delimitada con límites de soberanía.",
+    "El territorio es una extensión delimitada con relación de poder o posesión; la territorialidad es el grado de control sobre ella y sus prácticas.",
+    "El territorio es el marco espacial del dominio soberano de un Estado; la territorialidad es la pérdida de territorio por conflictos de poder.",
+    "El territorio es un receptáculo neutro de las relaciones sociales; la territorialidad es la subdivisión del espacio en regiones.",
+    "El territorio es la red de relaciones de un agente; la territorialidad es el conjunto de objetos del espacio geográfico de Santos."
+   ],
+   "correcta": 1,
+   "errores": [
+    "Están invertidos: la extensión delimitada es el territorio y el grado de control es la territorialidad.",
+    null,
+    "El territorio no se reduce al marco de la soberanía estatal, y la pérdida de territorio es la desterritorialización.",
+    "El artículo critica tratar el territorio como receptáculo neutro; la subdivisión es la región.",
+    "La red de relaciones es la actividad espacial (Massey); los objetos son parte del espacio geográfico de Santos."
+   ],
+   "respuesta": "El territorio es una extensión delimitada con relación de poder o posesión; la territorialidad es el grado de control sobre ella y sus prácticas.",
+   "explicacion": "Territorio: extensión terrestre delimitada con relación de poder o posesión (Geiger; Correia de Andrade). Territorialidad: grado de control de una porción de espacio y conjunto de prácticas, materiales y simbólicas, capaces de garantizar su apropiación y permanencia.",
+   "concepto": "Territorio y territorialidad",
+   "nivel": "contraste",
+   "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 123-124",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-m022",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según Santos, citado en el artículo, ¿cuál NO corresponde a la caracterización actual de la región?",
+   "opciones": [
+    "Es una subdivisión del espacio geográfico planetario, nacional o local.",
+    "Es un subespacio de conveniencia y, en algunos casos, un espacio funcional del espacio mayor.",
+    "Es un sistema territorial abierto, en interacción permanente con otras regiones.",
+    "Es un espacio de límites fijos y exclusivos, equivalente a la territorialidad absoluta de un grupo.",
+    "Construye su identidad económica, cultural, social y política en interacción con otras regiones."
+   ],
+   "correcta": 3,
+   "errores": [
+    "Sí corresponde: así define Santos las regiones.",
+    "Sí corresponde.",
+    "Sí corresponde.",
+    null,
+    "Sí corresponde."
+   ],
+   "respuesta": "Es un espacio de límites fijos y exclusivos, equivalente a la territorialidad absoluta de un grupo.",
+   "explicacion": "La región como sinónimo de territorialidad absoluta de un individuo, familia o grupo (identidad, exclusividad, límites) es la idea del pasado. Hoy el número de mediaciones es mucho mayor y las regiones son sistemas territoriales abiertos.",
+   "concepto": "Región: pasado y presente",
+   "nivel": "contraste",
+   "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 131",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-montanez-delgado-1998-b003",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en los conceptos de territorio, territorialidad y región del artículo, defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "El territorio es un contenedor neutro e inmóvil donde ocurren las relaciones sociales.",
+     "verdadera": false,
+     "explicacion": "El artículo critica esa visión: el territorio es una construcción social, móvil, mutable y desequilibrado."
+    },
+    {
+     "texto": "La territorialidad es el grado de control de una porción de espacio geográfico por una persona, un grupo, una empresa o un Estado.",
+     "verdadera": true,
+     "explicacion": "Es la definición del artículo (Montañez, 1997; Lobato Correa, 1996)."
+    },
+    {
+     "texto": "Las lealtades al territorio nacen del grado de territorialidad.",
+     "verdadera": true,
+     "explicacion": "Así lo plantea el texto."
+    },
+    {
+     "texto": "En un mismo espacio solo puede existir una territorialidad, la del Estado.",
+     "verdadera": false,
+     "explicacion": "En el espacio concurren y se sobreponen múltiples territorialidades (locales, regionales, nacionales y mundiales)."
+    },
+    {
+     "texto": "Hoy las regiones son sistemas territoriales abiertos en interacción permanente con otras regiones.",
+     "verdadera": true,
+     "explicacion": "Es la caracterización de Santos (1997)."
+    }
+   ],
+   "respuesta": "F · V · V · F · V",
+   "concepto": "Territorio, territorialidad y región",
+   "nivel": "contraste",
+   "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 122-131",
+   "clase": null,
+   "estado": "completa"
   }
  ],
  "trampas": [

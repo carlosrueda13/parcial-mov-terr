@@ -935,6 +935,188 @@
    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, pp. 278-289",
    "clase": null,
    "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-m016",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En el gráfico de rango-tamaño, la recta corta el eje vertical en el punto A. ¿Qué representan A y la pendiente q?",
+   "opciones": [
+    "A es la población real de la ciudad mayor; q es positiva y, cuanto mayor es, indica menor concentración urbana en el sistema.",
+    "A es el tamaño teórico de la ciudad mayor; q es negativa, se lee en valor absoluto y uno mayor indica más concentración.",
+    "A es el rango de la ciudad mayor; q mide la primacía y es igual a 1 en todos los países, como supuso Zipf.",
+    "A es la población total del país; q equivale al IPT de la ciudad mayor, es decir, a su peso en la población nacional.",
+    "A es el tamaño teórico de la ciudad mayor; q, cuanto mayor es en valor absoluto, indica menor concentración urbana."
+   ],
+   "correcta": 1,
+   "errores": [
+    "A es el valor teórico que da la recta, no la población real, y q se lee en valor absoluto con mayor valor igual a mayor concentración.",
+    null,
+    "El rango de la ciudad mayor es 1; solo Zipf supuso q = 1, y los datos muestran gran variabilidad.",
+    "A no es una población nacional y q no es un cociente de poblaciones.",
+    "Es al revés: un |q| mayor significa mayor concentración."
+   ],
+   "respuesta": "A es el tamaño teórico de la ciudad mayor; q es negativa, se lee en valor absoluto y uno mayor indica más concentración.",
+   "explicacion": "En LogP = A − q LogR, A es la intersección con el eje vertical, el tamaño teórico de la ciudad mayor, y q es la pendiente, que toma valor negativo y se interpreta en valor absoluto: su aumento significa mayor concentración urbana.",
+   "concepto": "Parámetros A y q de la función rango-tamaño",
+   "nivel": "grafica",
+   "referencia": "Cuervo y González, cap. 8, Anexo 8.1, pp. 291-294",
+   "clase": null,
+   "figura": "rango",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-m017",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En el gráfico, el punto rojo de la ciudad mayor queda por encima de la recta. ¿Qué indica y con qué índice se mide?",
+   "opciones": [
+    "Su población real es menor que la teórica; el IPRT es menor que 1 y la ciudad resulta demasiado pequeña para su sistema.",
+    "Su población real supera la talla teórica Exp(A); el IPRT es mayor que 1 y la ciudad es excesivamente grande para su sistema.",
+    "Su población real coincide con la teórica; el IPRT es igual a 1 y la ciudad tiene exactamente la talla que se esperaba.",
+    "Su población real supera la teórica; el ICC es mayor que 1 y por eso la ciudad es macrocefálica en sentido normativo.",
+    "Su población supera la teórica; el IPT es mayor que 1 porque la primera ciudad es más grande que el país."
+   ],
+   "correcta": 1,
+   "errores": [
+    "Por encima de la recta significa que la talla real supera la teórica, no que sea menor.",
+    null,
+    "Coincidiría solo si el punto estuviera sobre la recta.",
+    "El ICC compara con las tres ciudades siguientes, y el capítulo da a la primacía un sentido estadístico, no normativo.",
+    "El IPT es una fracción de la población nacional y nunca excede 1; el índice que compara con la talla teórica es el IPRT."
+   ],
+   "respuesta": "Su población real supera la talla teórica Exp(A); el IPRT es mayor que 1 y la ciudad es excesivamente grande para su sistema.",
+   "explicacion": "IPRT = población de la primera ciudad / Exp(A). Si es igual a 1, la talla real es la esperada para su sistema urbano; si es mayor que 1, la ciudad mayor es excesivamente grande respecto del sistema que la sustenta.",
+   "concepto": "IPRT y talla teórica",
+   "nivel": "grafica",
+   "referencia": "Cuervo y González, cap. 8, Anexo 8.1, pp. 291-294",
+   "clase": null,
+   "figura": "rango",
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-c001",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete las definiciones de los indicadores puntuales de primacía con los términos del banco.",
+   "texto": "El IPT divide la población de la primera ciudad entre la población {1}; el IPU, entre la población {2}; el ICC, entre la suma de las {3}; y el IPRT, entre {4}.",
+   "banco": [
+    "total del país",
+    "urbana total",
+    "tres ciudades siguientes",
+    "Exp(A), la talla teórica de la ciudad mayor",
+    "dos ciudades siguientes",
+    "rural total",
+    "Exp(q)"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "IPT = primera ciudad / población total del país."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "IPU = primera ciudad / población urbana total."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "ICC = primera ciudad / suma de las tres ciudades siguientes (índice de cuatro ciudades)."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "IPRT = primera ciudad / Exp(A)."
+    }
+   ],
+   "respuesta": "1 = total del país · 2 = urbana total · 3 = tres ciudades siguientes · 4 = Exp(A), la talla teórica de la ciudad mayor",
+   "concepto": "Fórmulas de IPT, IPU, ICC e IPRT",
+   "nivel": "contraste",
+   "referencia": "Cuervo y González, cap. 8, Anexo 8.1, pp. 291-294",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-c002",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Elija, para cada número del gráfico de rango-tamaño, el elemento que le corresponde.",
+   "banco": [
+    "Intercepto A: tamaño teórico de la ciudad mayor",
+    "Recta rango-tamaño, de pendiente −q",
+    "Ciudad mayor con su talla real",
+    "Punto de saturación de la primacía",
+    "Rango de la ciudad mayor"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "El punto donde la recta corta el eje vertical es A."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "La recta estimada tiene pendiente q, negativa."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "El punto de rango 1 queda por encima de la recta: su talla real supera la teórica."
+    }
+   ],
+   "respuesta": "1 = Intercepto A: tamaño teórico de la ciudad mayor · 2 = Recta rango-tamaño, de pendiente −q · 3 = Ciudad mayor con su talla real",
+   "concepto": "Elementos del gráfico rango-tamaño",
+   "nivel": "grafica",
+   "referencia": "Cuervo y González, cap. 8, Anexo 8.1, pp. 291-294",
+   "clase": null,
+   "figura": "rango",
+   "ocultos": [
+    "etiquetas"
+   ],
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap8-b003",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en la función rango-tamaño y los indicadores del anexo, defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "En el gráfico de rango-tamaño, la ciudad de rango 1 es la mayor del sistema urbano.",
+     "verdadera": true,
+     "explicacion": "R = 1 es la ciudad mayor."
+    },
+    {
+     "texto": "Zipf supuso q igual a 1: con ese valor la segunda ciudad tendría la mitad de la población de la primera.",
+     "verdadera": true,
+     "explicacion": "Es la formulación normativa de Zipf, que los autores critican."
+    },
+    {
+     "texto": "Un aumento del valor absoluto de q indica menor concentración urbana.",
+     "verdadera": false,
+     "explicacion": "Mayor |q| significa mayor concentración urbana."
+    },
+    {
+     "texto": "El IPRT mide la relación entre la primera ciudad y la suma de las tres siguientes.",
+     "verdadera": false,
+     "explicacion": "Esa es la definición del ICC; el IPRT divide entre Exp(A)."
+    },
+    {
+     "texto": "Un IPRT igual a 1 indica que la talla real de la ciudad mayor es la esperada para su sistema urbano.",
+     "verdadera": true,
+     "explicacion": "El IPRT fluctúa alrededor de la unidad."
+    }
+   ],
+   "respuesta": "V · V · F · F · V",
+   "concepto": "Rango-tamaño e indicadores de primacía",
+   "nivel": "contraste",
+   "referencia": "Cuervo y González, cap. 8, Anexo 8.1, pp. 291-294",
+   "clase": null,
+   "figura": "rango",
+   "estado": "completa"
   }
  ],
  "trampas": [

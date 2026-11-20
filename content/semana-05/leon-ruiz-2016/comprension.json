@@ -374,5 +374,245 @@
     "concepto": "Resultados de jerarquía y metropolización",
     "nivel": "contraste",
     "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana"
+  },
+  {
+    "enunciado": "En la figura, las curvas a, b y c descienden al principio y suben después. Una zona metropolitana está en la Fase I con un IIM de 2,5. Según la Tabla 2, ¿qué pendiente tiene y qué significa?",
+    "opciones": [
+      "Pendiente positiva: el IIM asciende porque los municipios crecen más rápido que el núcleo y ya lo superan en población.",
+      "Pendiente negativa: el IIM desciende porque el núcleo crece más rápido que sus municipios, aunque estos aún suman más población que él.",
+      "Sin pendiente: el IIM se mantiene constante porque núcleo y municipios crecen al mismo ritmo durante toda la fase.",
+      "Pendiente negativa: el IIM desciende porque los municipios pierden población y la zona deja de ser metropolitana.",
+      "Pendiente positiva: en la Fase I el IIM solo puede subir, porque la consolidación urbana exige municipios más grandes que el núcleo."
+    ],
+    "correcta": 1,
+    "explicacion": "IIM = 1 + M/N; un IIM mayor que 2 significa M mayor que N. En la Fase I, con IIM mayor que 2 o igual a 2, la Tabla 2 da pendiente negativa: el IIM baja porque el núcleo crece más rápido que los municipios.",
+    "errores": [
+      "La pendiente positiva corresponde a la Fase III, no a la consolidación urbana de la Fase I.",
+      null,
+      "Sin pendiente solo aparece con IIM igual a 1 en la Fase II, cuando aún no hay dinámicas metropolitanas.",
+      "La pendiente negativa no habla de pérdida de población de los municipios, sino de que el núcleo crece más rápido.",
+      "En la Fase I la Tabla 2 asigna pendiente negativa con IIM mayor que 2 o igual a 2."
+    ],
+    "concepto": "Fase I del IIM: pendiente y lectura",
+    "nivel": "grafica",
+    "referencia": "León y Ruiz (2016), Fig. 6 y Tabla 2, pp. 32-34",
+    "figura": "iim"
+  },
+  {
+    "enunciado": "Un núcleo tiene 2.000.000 de habitantes y sus municipios metropolizados suman 3.200.000. Con la Ecuación 1 y la Tabla 2, ¿cuál es el IIM y en qué fase está si su curva viene subiendo?",
+    "opciones": [
+      "IIM = 1,6; está entre 1 y 2 y, con pendiente positiva, en la Fase II (transición).",
+      "IIM = 2,6; es mayor que 2 y, con pendiente positiva, está en la Fase III (consolidación metropolitana).",
+      "IIM = 2,6; es mayor que 2 y, con pendiente negativa, está en la Fase I (consolidación urbana).",
+      "IIM = 0,63; es menor que 1, de modo que la zona aún no es metropolitana y está en la Fase I.",
+      "IIM = 5,2; corresponde a la suma de núcleo y municipios en millones, y la zona está en la Fase III."
+    ],
+    "correcta": 1,
+    "explicacion": "IIM = (N + M) / N = 1 + M/N = 1 + 3,2 / 2 = 2,6. Con IIM mayor que 2 y pendiente positiva, la Tabla 2 ubica la zona en la Fase III: los municipios superan al núcleo y crecen más rápido que él.",
+    "errores": [
+      "Se olvidó el 1 de la fórmula: M/N = 1,6, pero el IIM es 1 + M/N. Además, la Fase II entre 1 y 2 lleva pendiente negativa.",
+      null,
+      "La curva viene subiendo: la pendiente es positiva y la fase es la III.",
+      "Se invirtió el cociente: el IIM es (N + M) / N y nunca es menor que 1.",
+      "El IIM es un cociente, no una suma de poblaciones."
+    ],
+    "concepto": "Cálculo del IIM y fase",
+    "nivel": "calculo",
+    "referencia": "León y Ruiz (2016), Fig. 6 y Tabla 2, pp. 32-34",
+    "figura": "iim"
+  },
+  {
+    "enunciado": "Dos zonas metropolitanas tienen el mismo IIM de 1,4, pero la zona X lo tiene con pendiente negativa y la zona Y con pendiente positiva. Según la Tabla 2 y la figura, ¿en qué fase está cada una?",
+    "opciones": [
+      "X en la Fase I (consolidación urbana) e Y en la Fase II (transición).",
+      "Ambas en la Fase II, porque el valor del IIM por sí solo define la fase.",
+      "X en la Fase III (metropolización) e Y en la Fase II (transición).",
+      "X en la Fase II (transición) e Y en la Fase III (consolidación metropolitana).",
+      "X en la Fase II (transición) e Y en la Fase I, porque la pendiente positiva indica que el núcleo vuelve a crecer más."
+    ],
+    "correcta": 3,
+    "explicacion": "Con IIM entre 1 y 2, la Tabla 2 asigna pendiente negativa a la Fase II (transición) y pendiente positiva a la Fase III (consolidación metropolitana). Lo que cambia de fase es la pendiente.",
+    "errores": [
+      "Con IIM entre 1 y 2 la Fase I no aparece: la Fase I corresponde a IIM mayor que 2 o igual a 2.",
+      "El valor no basta: lo que distingue la fase, con el mismo IIM, es la pendiente.",
+      "Están invertidas: la pendiente negativa corresponde a la transición y la positiva a la consolidación metropolitana.",
+      null,
+      "La pendiente positiva indica que crecen más los municipios, y eso corresponde a la Fase III."
+    ],
+    "concepto": "Fases del IIM según la pendiente",
+    "nivel": "grafica",
+    "referencia": "León y Ruiz (2016), Fig. 6 y Tabla 2, pp. 32-34",
+    "figura": "iim"
+  },
+  {
+    "enunciado": "Observe las cinco curvas de la figura. ¿Qué distingue a las líneas a, b y c de las líneas d y e?",
+    "opciones": [
+      "a, b y c pasaron de la consolidación urbana a la metropolitana; d y e no tienen un punto de inflexión claro (maduración metropolitana).",
+      "a, b y c son ciudades que no alcanzan la metropolización; d y e son ciudades que ya completaron las tres fases del modelo.",
+      "a, b y c tienen un IIM menor que 1 durante todo el período; d y e, un IIM mayor que 2 desde el inicio y sin ningún cambio.",
+      "a, b y c corresponden a ciudades colombianas; d y e, a ciudades extranjeras que el artículo toma como referencia comparativa.",
+      "Todas pasaron por las tres fases y solo difieren en la velocidad, que es mayor cuanto más abierta es la curva respectiva."
+    ],
+    "correcta": 0,
+    "explicacion": "Según la Fig. 6, a, b y c son ciudades que pasaron de la consolidación urbana a la consolidación metropolitana. Las que no muestran un claro punto de inflexión representan dos casos de maduración metropolitana: e (tienden a no alcanzar la metropolización) y d (ya inmersas en dinámicas metropolitanas).",
+    "errores": [
+      null,
+      "Es al revés: a, b y c sí pasaron de la consolidación urbana a la metropolitana.",
+      "El IIM nunca es menor que 1, y las curvas se distinguen por su punto de inflexión, no por esos valores.",
+      "Las cinco líneas son escenarios teóricos del modelo; no distinguen ciudades por país.",
+      "Las curvas d y e no tienen un punto de inflexión claro, y la curva más cerrada es la más rápida."
+    ],
+    "concepto": "Líneas a-e de la Fig. 6",
+    "nivel": "interpretacion",
+    "referencia": "León y Ruiz (2016), Fig. 6 y Tabla 2, pp. 32-34",
+    "figura": "iim"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Complete la definición del IIM con los términos del banco.",
+    "texto": "El IIM es el cociente entre el IPT {1} y el IPT {2}; equivale a AM / N = (N + M) / N = 1 + M/N, donde N es la población de la {3} y M la de los {4}.",
+    "banco": [
+      "metropolitano",
+      "urbano",
+      "ciudad núcleo",
+      "municipios metropolizados",
+      "nacional",
+      "departamental",
+      "área central"
+    ],
+    "huecos": [
+      {
+        "id": "1",
+        "correcta": 0,
+        "explicacion": "El IIM es el cociente entre el IPT metropolitano y el IPT urbano."
+      },
+      {
+        "id": "2",
+        "correcta": 1,
+        "explicacion": "El denominador es el IPT urbano, el de la ciudad-municipio."
+      },
+      {
+        "id": "3",
+        "correcta": 2,
+        "explicacion": "N es la población de la ciudad núcleo."
+      },
+      {
+        "id": "4",
+        "correcta": 3,
+        "explicacion": "M es la población de los municipios metropolizados; AM = N + M."
+      }
+    ],
+    "concepto": "IIM: definición y componentes",
+    "nivel": "contraste",
+    "referencia": "León y Ruiz (2016), Ecuación 1, p. 32"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Complete la lectura de los valores del IIM con los términos del banco.",
+    "texto": "Con un IIM igual a 1 todavía no hay {1}: el núcleo es muy superior a los municipios y la curva {2}. Con un IIM igual a 2, los municipios {3} en población al núcleo; con un IIM mayor que 2, lo {4}.",
+    "banco": [
+      "dinámicas metropolitanas importantes",
+      "no tiene pendiente",
+      "igualan",
+      "superan",
+      "triplican",
+      "es negativa",
+      "es positiva"
+    ],
+    "huecos": [
+      {
+        "id": "1",
+        "correcta": 0,
+        "explicacion": "Con IIM = 1, M = 0: aún no hay dinámicas metropolitanas importantes."
+      },
+      {
+        "id": "2",
+        "correcta": 1,
+        "explicacion": "En la Tabla 2, IIM = 1 en la Fase II aparece sin pendiente."
+      },
+      {
+        "id": "3",
+        "correcta": 2,
+        "explicacion": "IIM = 2 equivale a M = N: los municipios igualan en población al núcleo."
+      },
+      {
+        "id": "4",
+        "correcta": 3,
+        "explicacion": "IIM mayor que 2 equivale a M mayor que N: los municipios superan al núcleo."
+      }
+    ],
+    "concepto": "Valores del IIM: 1, 2 y mayor que 2",
+    "nivel": "calculo",
+    "referencia": "León y Ruiz (2016), Fig. 6 y Tabla 2, pp. 32-34"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Elija, para cada número de la figura, la fase del IIM que le corresponde.",
+    "banco": [
+      "Consolidación urbana",
+      "Transición",
+      "Consolidación metropolitana",
+      "Primacía urbana",
+      "Conurbación"
+    ],
+    "huecos": [
+      {
+        "id": "1",
+        "correcta": 0,
+        "explicacion": "La Fase I es la de consolidación urbana del núcleo, aún sin metropolización con otros municipios."
+      },
+      {
+        "id": "2",
+        "correcta": 1,
+        "explicacion": "La Fase II es la transición: inicio de la metropolización y paso hacia su consolidación."
+      },
+      {
+        "id": "3",
+        "correcta": 2,
+        "explicacion": "En la Fase III se reafirman las relaciones entre el núcleo y los municipios metropolizados (la figura la rotula metropolización)."
+      }
+    ],
+    "concepto": "Fases del IIM (Fig. 6)",
+    "nivel": "grafica",
+    "referencia": "León y Ruiz (2016), Fig. 6 y Tabla 2, pp. 32-34",
+    "figura": "iim",
+    "ocultos": [
+      "fases"
+    ]
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "Con base en la figura de la evolución teórica del IIM (Fig. 6), defina si cada afirmación es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "El eje vertical de la figura marca los valores 1 y 2 del IIM, y el horizontal, las tres fases a lo largo del tiempo.",
+        "verdadera": true,
+        "explicacion": "Así se describe la Fig. 6."
+      },
+      {
+        "texto": "Una curva más cerrada indica un proceso de metropolización más lento.",
+        "verdadera": false,
+        "explicacion": "Las curvas más cerradas (línea a) son las de zonas que pasaron más rápido por el proceso."
+      },
+      {
+        "texto": "En la Fase III las tres situaciones de la Tabla 2 (IIM entre 1 y 2, igual a 2 y mayor que 2) tienen pendiente positiva.",
+        "verdadera": true,
+        "explicacion": "Lo que cambia de fase, con el mismo IIM, es la pendiente."
+      },
+      {
+        "texto": "La línea e representa zonas que ya están inmersas en dinámicas metropolitanas desde el inicio.",
+        "verdadera": false,
+        "explicacion": "Eso describe a la línea d; la e representa ciudades que tienden a no alcanzar la etapa de metropolización."
+      },
+      {
+        "texto": "El IIM no puede ser menor que 1, porque el área metropolitana siempre incluye al núcleo.",
+        "verdadera": true,
+        "explicacion": "AM = N + M, así que AM / N es al menos 1."
+      }
+    ],
+    "concepto": "Lectura de la Fig. 6",
+    "nivel": "grafica",
+    "referencia": "León y Ruiz (2016), Fig. 6 y Tabla 2, pp. 32-34",
+    "figura": "iim"
   }
 ]

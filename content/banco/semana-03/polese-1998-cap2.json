@@ -497,6 +497,405 @@
    "referencia": "Polèse (1998), cap. 2",
    "clase": "2026-09-29",
    "estado": "completa"
+  },
+  {
+   "id": "s03-polese-1998-cap2-m013",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la figura, el costo T asciende con la distancia al punto de producción i. ¿Qué indica una mayor pendiente de T y por qué el producto cuesta menos en d que en d'?",
+   "opciones": [
+    "Que los costos son menos sensibles a la distancia; el producto cuesta menos en d' porque está más lejos de i y gana economías de escala.",
+    "Que los costos son más sensibles a la distancia y el producto es más caro; cuesta menos en d porque está más cerca de i y paga menos transporte.",
+    "Que el producto es más barato en todo el territorio; cuesta lo mismo en d y en d' porque el precio P1 es único.",
+    "Que el transporte pesa menos; cuesta menos en d' porque el consumidor allí compra más cantidad y obtiene un descuento.",
+    "Que los costos son más sensibles a la distancia; cuesta menos en d' porque el productor traslada su fábrica hacia allí."
+   ],
+   "correcta": 1,
+   "errores": [
+    "Mayor pendiente significa más sensibilidad a la distancia, y d' está más lejos que d.",
+    null,
+    "P1 es el precio en el punto de producción: a partir de ahí T suma transporte.",
+    "La figura no modela descuentos por cantidad: T solo suma transporte.",
+    "El productor está fijo en i; el costo menor corresponde al punto más cercano."
+   ],
+   "respuesta": "Que los costos son más sensibles a la distancia y el producto es más caro; cuesta menos en d porque está más cerca de i y paga menos transporte.",
+   "explicacion": "La curva T asciende con la distancia; a mayor pendiente, más sensibles son los costos a la distancia y más caro el producto. P1 es el precio en el punto de producción, sin transporte. El producto cuesta menos en d que en d'.",
+   "concepto": "Fig. 2.1: distancia y costo",
+   "nivel": "grafica",
+   "referencia": "Polèse (1998), cap. 2, Fig. 2.1, pp. 61-62",
+   "clase": null,
+   "figura": "costotransporte",
+   "estado": "completa"
+  },
+  {
+   "id": "s03-polese-1998-cap2-m014",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la figura, el costo medio de producción baja sin límite al aumentar la escala y el costo de transporte por unidad sube. ¿Qué forma toma el costo total T y qué la explica?",
+   "opciones": [
+    "Una recta ascendente: como el costo de producción baja sin límite, solo el transporte determina el costo total.",
+    "Una curva siempre descendente: las economías de escala sin límite dominan el territorio y el transporte no influye.",
+    "Una U con su mínimo en Q2, porque en ese punto se agotan las economías de escala y el costo de producción empieza a subir.",
+    "Una U cuyo punto más bajo está en Q2: el transporte contrarresta las economías de escala y T sube después de Q2.",
+    "Una U cuyo punto más bajo está en Q1: el transporte supera al costo de producción desde el primer kilómetro."
+   ],
+   "correcta": 3,
+   "errores": [
+    "El costo de producción también cuenta, y T no es una recta: baja al principio y sube después.",
+    "El transporte hace contrapeso: por eso T deja de bajar.",
+    "En la Fig. 2.3 las economías de escala no se agotan; lo que sube es el costo de transporte.",
+    null,
+    "El mínimo de T está en Q2, no en Q1."
+   ],
+   "respuesta": "Una U cuyo punto más bajo está en Q2: el transporte contrarresta las economías de escala y T sube después de Q2.",
+   "explicacion": "Con economías de escala infinitas los costos unitarios de producción bajan en toda el área de mercado, pero los costos de transporte hacen contrapeso: la curva T comienza a subir a partir de Q2 y se recupera la curva en U.",
+   "concepto": "Fig. 2.3: escala y transporte",
+   "nivel": "grafica",
+   "referencia": "Polèse (1998), cap. 2, Fig. 2.3, p. 67",
+   "clase": null,
+   "figura": "escalas",
+   "estado": "completa"
+  },
+  {
+   "id": "s03-polese-1998-cap2-m015",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la figura de área de mercado, ¿qué significan P1, P2 y D?",
+   "opciones": [
+    "P1 es el precio con producción familiar dispersa; P2, el precio con producción centralizada en i; D, el punto donde se acaba el producto.",
+    "P2 es el precio con producción familiar dispersa; P1, el precio menor con producción centralizada en i; D, el límite del área de mercado.",
+    "P1 y P2 son los precios en i y en D; D es el punto donde se instala una segunda empresa del mismo producto.",
+    "P2 es el precio de monopolio; P1, el de competencia pura; D, el tamaño mínimo eficiente de la empresa.",
+    "P2 es el precio centralizado; P1, el de la producción familiar; D, la distancia a la que el transporte es gratuito."
+   ],
+   "correcta": 1,
+   "errores": [
+    "Están invertidos: la centralización en i es lo que baja el precio de P2 a P1.",
+    null,
+    "P1 y P2 son niveles de precio según el modo de producción; D es un límite de distancia, no una localización de otra empresa.",
+    "La figura compara producción familiar con producción centralizada, no monopolio con competencia.",
+    "En D el transporte compensa las economías de escala; no es gratuito, y los precios están invertidos."
+   ],
+   "respuesta": "P2 es el precio con producción familiar dispersa; P1, el precio menor con producción centralizada en i; D, el límite del área de mercado.",
+   "explicacion": "Con producción familiar el producto está disponible en todas partes al precio P2. Si se centraliza en i, el precio cae a P1 solo si hay demanda dentro del área de mercado de radio D, donde el impacto del transporte compensa el de las economías de escala.",
+   "concepto": "Fig. 2.4: P1, P2 y D",
+   "nivel": "grafica",
+   "referencia": "Polèse (1998), cap. 2, Fig. 2.4, pp. 68-69",
+   "clase": null,
+   "figura": "areamercado",
+   "estado": "completa"
+  },
+  {
+   "id": "s03-polese-1998-cap2-m016",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En el plano de la figura, A queda dentro del área de mercado de i y B fuera de ella. ¿Qué conviene a cada consumidor?",
+   "opciones": [
+    "A compra a la producción centralizada en i, pues con el transporte aún paga menos que P2; B está más allá de D y le conviene la familiar.",
+    "A prefiere la producción familiar porque está cerca; B compra a i, porque el transporte se compensa con las economías de escala.",
+    "Ambos compran a i, porque el precio centralizado P1 es menor que P2 a cualquier distancia, sin importar el transporte.",
+    "A compra a i solo si B también lo hace, porque el establecimiento necesita la demanda de ambos para alcanzar la escala.",
+    "Ninguno compra a i, porque las economías de escala benefician al productor pero no bajan el precio para el consumidor."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Está invertido: dentro de D conviene la producción centralizada y fuera de D, la familiar.",
+    "El precio puesto en el consumidor crece con la distancia; en D iguala a P2 y más allá lo supera.",
+    "Lo que importa es la demanda total dentro del área de mercado, no una decisión condicionada de cada consumidor.",
+    "La centralización baja el precio unitario de P2 a P1, lo que beneficia al consumidor."
+   ],
+   "respuesta": "A compra a la producción centralizada en i, pues con el transporte aún paga menos que P2; B está más allá de D y le conviene la familiar.",
+   "explicacion": "Dentro del área de mercado de radio D, el precio centralizado más el transporte es menor que P2. En D ambos se igualan; más allá de D (por ejemplo en D') el consumidor aprovecha mejor la producción familiar.",
+   "concepto": "Dentro y fuera del área de mercado",
+   "nivel": "aplicacion",
+   "referencia": "Polèse (1998), cap. 2, Fig. 2.4, pp. 68-69",
+   "clase": null,
+   "figura": "areamercado",
+   "estado": "completa"
+  },
+  {
+   "id": "s03-polese-1998-cap2-c001",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete el principio de centralidad con los términos del banco.",
+   "texto": "La centralidad surge del arbitraje entre dos fuerzas: los {1} y las {2}. Si predominan las economías de escala, la producción se {3}; si predominan los costos de transporte, se {4}.",
+   "banco": [
+    "costos de transporte",
+    "economías de escala",
+    "centraliza",
+    "dispersa",
+    "costos de oportunidad",
+    "externalidades"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "Una de las dos fuerzas son los costos de transporte."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "La otra son las economías de escala."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "Las economías de escala empujan a producir en pocos lugares: la producción se centraliza."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "Si predominan los costos de transporte, la producción se dispersa."
+    }
+   ],
+   "respuesta": "1 = costos de transporte · 2 = economías de escala · 3 = centraliza · 4 = dispersa",
+   "concepto": "Principio de la centralidad",
+   "nivel": "contraste",
+   "referencia": "Polèse (1998), cap. 2, principio de la centralidad, p. 64",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s03-polese-1998-cap2-c002",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete la explicación de la Fig. 2.4 con los términos del banco.",
+   "texto": "Con producción familiar el precio es {1} en todas partes; si se centraliza en i, el precio cae a {2}, siempre que haya demanda dentro del área de mercado hasta la distancia {3}. En ese límite el transporte {4} las economías de escala.",
+   "banco": [
+    "P2",
+    "P1",
+    "D",
+    "compensa",
+    "P3",
+    "D'",
+    "refuerza"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "Con producción familiar el precio es P2 en todas partes."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "Con producción centralizada en i el precio unitario cae a P1."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "El área de mercado llega hasta la distancia D."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "En D el impacto de los costos de transporte compensa el de las economías de escala."
+    }
+   ],
+   "respuesta": "1 = P2 · 2 = P1 · 3 = D · 4 = compensa",
+   "concepto": "Área de mercado y límite D",
+   "nivel": "contraste",
+   "referencia": "Polèse (1998), cap. 2, Fig. 2.4, pp. 68-69",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s03-polese-1998-cap2-c003",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Elija, para cada número de la figura, el elemento que le corresponde.",
+   "banco": [
+    "P1: precio en el punto de producción, sin transporte",
+    "d: punto más cercano a i",
+    "d': punto más lejano de i",
+    "Curva T: costo con transporte incluido",
+    "i: punto de producción",
+    "Costo de oportunidad"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "P1 es el precio en i, antes de sumar transporte."
+    },
+    {
+     "id": "3",
+     "correcta": 1,
+     "explicacion": "El producto cuesta menos en d que en d'."
+    },
+    {
+     "id": "4",
+     "correcta": 2,
+     "explicacion": "En d' el transporte acumulado es mayor."
+    },
+    {
+     "id": "5",
+     "correcta": 3,
+     "explicacion": "T asciende con la distancia."
+    },
+    {
+     "id": "8",
+     "correcta": 4,
+     "explicacion": "i es donde se localiza la empresa."
+    }
+   ],
+   "respuesta": "1 = P1: precio en el punto de producción, sin transporte · 3 = d: punto más cercano a i · 4 = d': punto más lejano de i · 5 = Curva T: costo con transporte incluido · 8 = i: punto de producción",
+   "concepto": "Elementos de la Fig. 2.1",
+   "nivel": "grafica",
+   "referencia": "Polèse (1998), cap. 2, Fig. 2.1, pp. 61-62",
+   "clase": null,
+   "figura": "costotransporte",
+   "ocultos": [
+    "etiquetas",
+    "niveles",
+    "puntos"
+   ],
+   "estado": "completa"
+  },
+  {
+   "id": "s03-polese-1998-cap2-c004",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Elija, para cada número de la figura, la curva que le corresponde.",
+   "banco": [
+    "Costo de transporte por unidad",
+    "Costo medio de producción",
+    "Costo total T (producción más transporte)",
+    "Q2: mínimo del costo total",
+    "Costo marginal"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "La recta ascendente es el costo de transporte por unidad."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "La curva descendente es el costo medio de producción, que baja con las economías de escala."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "T es la suma de ambos y forma una U."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "El mínimo de T está en Q2."
+    }
+   ],
+   "respuesta": "1 = Costo de transporte por unidad · 2 = Costo medio de producción · 3 = Costo total T (producción más transporte) · 4 = Q2: mínimo del costo total",
+   "concepto": "Curvas de la Fig. 2.3",
+   "nivel": "grafica",
+   "referencia": "Polèse (1998), cap. 2, Fig. 2.3, p. 67",
+   "clase": null,
+   "figura": "escalas",
+   "ocultos": [
+    "etiquetas",
+    "puntos"
+   ],
+   "estado": "completa"
+  },
+  {
+   "id": "s03-polese-1998-cap2-c005",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Elija, para cada número de la figura, el elemento de la Fig. 2.4 que le corresponde.",
+   "banco": [
+    "P2: precio con producción familiar",
+    "P1: precio con producción centralizada en i",
+    "D: límite del área de mercado",
+    "A: consumidor dentro del área de mercado",
+    "B: consumidor fuera del área de mercado",
+    "i: lugar central"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "El nivel horizontal más alto es el precio de la producción familiar."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "El nivel más bajo, en i, es el precio centralizado."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "D es la distancia donde el transporte compensa las economías de escala."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "A queda dentro del área punteada."
+    },
+    {
+     "id": "5",
+     "correcta": 4,
+     "explicacion": "B queda fuera del área de mercado."
+    },
+    {
+     "id": "6",
+     "correcta": 5,
+     "explicacion": "El punto negro es i, donde se centraliza la producción."
+    }
+   ],
+   "respuesta": "1 = P2: precio con producción familiar · 2 = P1: precio con producción centralizada en i · 3 = D: límite del área de mercado · 4 = A: consumidor dentro del área de mercado · 5 = B: consumidor fuera del área de mercado · 6 = i: lugar central",
+   "concepto": "Elementos de la Fig. 2.4",
+   "nivel": "grafica",
+   "referencia": "Polèse (1998), cap. 2, Fig. 2.4, pp. 68-69",
+   "clase": null,
+   "figura": "areamercado",
+   "ocultos": [
+    "niveles",
+    "puntos"
+   ],
+   "estado": "completa"
+  },
+  {
+   "id": "s03-polese-1998-cap2-b002",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en las figuras 2.1, 2.3 y 2.4 del capítulo 2, defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "En la Fig. 2.1, el costo T asciende con la distancia al punto de producción y el producto cuesta menos en d que en d'.",
+     "verdadera": true,
+     "explicacion": "d está más cerca de i que d'."
+    },
+    {
+     "texto": "En la Fig. 2.3, las economías de escala sin límite hacen que el costo total T siga bajando en todo el territorio.",
+     "verdadera": false,
+     "explicacion": "El transporte hace contrapeso y T comienza a subir a partir de Q2."
+    },
+    {
+     "texto": "En la Fig. 2.4, si la producción se centraliza en i, el precio unitario cae de P2 a P1, siempre que haya demanda en el área de mercado.",
+     "verdadera": true,
+     "explicacion": "Es la condición para que la centralización sea viable."
+    },
+    {
+     "texto": "En D, el impacto de los costos de transporte compensa el de las economías de escala.",
+     "verdadera": true,
+     "explicacion": "D es el límite del área de mercado."
+    },
+    {
+     "texto": "Más allá de D, al consumidor le conviene más la producción centralizada en i.",
+     "verdadera": false,
+     "explicacion": "Más allá de D (por ejemplo en D') aprovecha mejor la producción familiar."
+    }
+   ],
+   "respuesta": "V · F · V · V · F",
+   "concepto": "Figuras 2.1, 2.3 y 2.4",
+   "nivel": "contraste",
+   "referencia": "Polèse (1998), cap. 2, Figs. 2.1, 2.3 y 2.4, pp. 61-69",
+   "clase": null,
+   "figura": "costotransporte",
+   "estado": "completa"
   }
  ],
  "trampas": [

@@ -1,6 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { BloqueVF, bloqueAciertos, bloqueCompleto } from '../components/BloqueVF';
+import { Completar, RespCompletar, completarAciertos, completarCompleto } from '../components/Completar';
+import { Figura } from '../components/Figura';
 import { Opciones, ordenInicial } from '../components/Opciones';
 import { Barra, Cargando, Chips } from '../components/ui';
 import { INDICE, Item, TIPO_PREGUNTA, etiqueta } from '../lib/data';
@@ -11,10 +13,12 @@ import { barajar, pct, plural, reloj } from '../lib/util';
 
 type Tipo = 'completo' | 'semana' | 'comprension' | 'vf' | 'abiertas' | 'repaso';
 type Fase = 'config' | 'run' | 'grade' | 'result';
-type Resp = boolean | number | string | (boolean | undefined)[] | undefined;
-const esComprension = (i: Item) => i.tipo === 'opcion' || i.tipo === 'vfbloque';
+type Resp = boolean | number | string | (boolean | undefined)[] | RespCompletar | undefined;
+const esComprension = (i: Item) => i.tipo === 'opcion' || i.tipo === 'vfbloque' || i.tipo === 'completar';
 // Una respuesta cuenta como dada si es distinta de vacío; un bloque V/F, si tiene todas sus afirmaciones marcadas.
-const hecha = (p: Item, r: Resp) => p.tipo === 'vfbloque' ? bloqueCompleto(p, r as (boolean | undefined)[] | undefined) : r !== undefined && r !== '';
+const hecha = (p: Item, r: Resp) => p.tipo === 'vfbloque' ? bloqueCompleto(p, r as (boolean | undefined)[] | undefined)
+  : p.tipo === 'completar' ? completarCompleto(p, r as RespCompletar | undefined)
+  : r !== undefined && r !== '';
 
 const TIPOS: { v: Tipo; t: string }[] = [
   { v: 'completo', t: 'Completo' },
@@ -26,7 +30,7 @@ const TIPOS: { v: Tipo; t: string }[] = [
 ];
 const NOMBRE_TIPO: Record<Tipo, string> = { completo: 'completo', semana: 'por semana', comprension: 'estilo del control', vf: 'verdadero o falso', abiertas: 'abiertas', repaso: 'de repaso del parcial' };
 const SEG_POR_PREGUNTA = 60;
-const segDe = (p: Item) => (p.tipo === 'vfbloque' ? SEG_POR_PREGUNTA * 2 : SEG_POR_PREGUNTA);
+const segDe = (p: Item) => (p.tipo === 'vfbloque' || p.tipo === 'completar' ? SEG_POR_PREGUNTA * 2 : SEG_POR_PREGUNTA);
 
 // En 'completo' y 'por semana', la mayor parte del examen son preguntas de comprensión (como en el control), si las hay.
 function mezclar(lista: Item[], cantidad: number): Item[] {
@@ -135,6 +139,7 @@ export default function Simulacro() {
   const acierta = (p: Item): boolean => {
     if (p.tipo === 'abierta') return !!notas[p.id];
     if (p.tipo === 'vfbloque') return bloqueAciertos(p, resp[p.id] as (boolean | undefined)[] | undefined) === p.afirmaciones.length;
+    if (p.tipo === 'completar') return completarAciertos(p, resp[p.id] as RespCompletar | undefined) === p.huecos.length;
     return resp[p.id] === (p.tipo === 'opcion' ? p.correcta : p.verdadera);
   };
   const ok = preg.filter(acierta).length;
@@ -243,6 +248,11 @@ export default function Simulacro() {
               </button>
             </div>
             <p className="texto d">{p.enunciado}</p>
+            {p.figura && p.tipo !== 'completar' && <Figura id={p.figura} />}
+            {p.tipo === 'completar' && (
+              <Completar item={p} respuestas={(elegida as RespCompletar | undefined) ?? []}
+                onResponder={(i, v) => setResp((r) => { const c = [...((r[p.id] as RespCompletar | undefined) ?? [])]; c[i] = v; return { ...r, [p.id]: c }; })} />
+            )}
             {p.tipo === 'opcion' && (
               <Opciones item={p} orden={ordenes[p.id] ?? ordenInicial(p.opciones.length)} elegida={typeof elegida === 'number' ? elegida : undefined}
                 onElegir={(v) => setResp((r) => ({ ...r, [p.id]: r[p.id] === v ? undefined : v }))} />
@@ -423,7 +433,8 @@ export default function Simulacro() {
                   {typeof elegida === 'number' && elegida !== p.correcta && p.errores?.[elegida] && <span><b>Por qué falla la que elegiste.</b> {p.errores[elegida]}</span>}
                 </>}
                 {p.tipo === 'vfbloque' && <BloqueVF item={p} respuestas={(elegida as (boolean | undefined)[] | undefined) ?? []} revelar />}
-                {p.tipo !== 'vfbloque' && <span>{p.tipo === 'opcion' ? p.explicacion ?? p.respuesta : p.respuesta}</span>}
+                {p.tipo === 'completar' && <Completar item={p} respuestas={(elegida as RespCompletar | undefined) ?? []} revelar />}
+                {p.tipo !== 'vfbloque' && p.tipo !== 'completar' && <span>{p.tipo === 'opcion' ? p.explicacion ?? p.respuesta : p.respuesta}</span>}
               </li>
             );
           })}

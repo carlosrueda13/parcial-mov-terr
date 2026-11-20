@@ -22,4 +22,6 @@ Los scripts anteriores terminan con la línea `COMPROBACIONES: N correctas de N`
 
 `node e2e/comprension.mjs` comprueba las preguntas de comprensión: opción múltiple con 4 a 6 opciones, bloques V/F, corrección, explicaciones y simulacro. Resultado vigente: 82 de 82.
 
+`PLAYWRIGHT_PATH=/ruta/a/playwright/index.mjs node e2e/figuras.mjs` comprueba los ejercicios de completar y las figuras: visita cada lectura que los tiene, verifica que el esquema se dibuje, los huecos y el banco de términos, que los marcadores numerados coincidan con los huecos, el flujo de Comprobar y la corrección por hueco, los bloques V/F con figura, el simulacro «Estilo del control» y que Boletos no incluya huecos. Resultado vigente: 1073 de 1073, sin errores de consola ni de red.
+
 Nota: `partA`, `partB`, `partC1` a `partC5` y `repaso` tienen cifras fijas del banco anterior (878 preguntas, 745 trampas, 319 pares, 1.197 boletos) y fallan por esas cifras tras añadir las preguntas de comprensión y los cambios de ChatGPT; no se han actualizado.

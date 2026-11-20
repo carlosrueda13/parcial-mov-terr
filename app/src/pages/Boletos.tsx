@@ -51,7 +51,7 @@ export default function Boletos() {
     if (!contenido) return [];
     return [
       // Las de comprensión (opción múltiple y bloques V/F) tienen enunciados largos: no caben en un boleto y se practican en Practicar.
-      ...contenido.items.filter((i) => i.tipo !== 'opcion' && i.tipo !== 'vfbloque').map<Boleto>((i) => ({ id: i.id, esPregunta: true, frente: i.enunciado, dorso: i.respuesta, ref: i.referencia, semana: i.semana, lectura: i.lectura })),
+      ...contenido.items.filter((i) => i.tipo !== 'opcion' && i.tipo !== 'vfbloque' && i.tipo !== 'completar').map<Boleto>((i) => ({ id: i.id, esPregunta: true, frente: i.enunciado, dorso: i.respuesta, ref: i.referencia, semana: i.semana, lectura: i.lectura })),
       ...contenido.pares.map<Boleto>((p) => ({ id: p.id, esPregunta: false, frente: `¿En qué se diferencian? ${p.par}`, dorso: p.diferencia, ref: null, semana: p.semana, lectura: p.lectura })),
     ];
   }, [contenido]);

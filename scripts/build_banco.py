@@ -168,6 +168,8 @@ def parsear_pares(cuerpo, base, anomalias):
 
 
 NIVELES = {"contraste", "aplicacion", "interpretacion", "calculo", "grafica", "causa"}
+# Esquemas disponibles en app/src/components/Figura.tsx (una pregunta puede llevar "figura": <id>).
+FIGURAS = {"iim", "rango", "vonthunen", "polese103", "hoyt", "costotransporte", "escalas", "areamercado"}
 MIN_OPCIONES, MAX_OPCIONES = 4, 6  # el control usa de 4 a 6 opciones (a-f)
 
 
@@ -182,8 +184,17 @@ def parsear_comprension(ruta, base, anomalias):
         anomalias.append(f"{base}: comprension.json debe ser una lista")
         return []
     out = []
-    n_mcq = n_bloque = 0
+    n_mcq = n_bloque = n_comp = 0
     for i, c in enumerate(crudo, 1):
+        if c.get("figura") is not None and c["figura"] not in FIGURAS:
+            anomalias.append(f"{base}: figura desconocida {c['figura']!r}")
+            continue
+        if c.get("tipo") == "completar":
+            n_comp += 1
+            item = parsear_completar(c, f"{base}-c{n_comp:03d}", anomalias)
+            if item:
+                out.append(item)
+            continue
         if c.get("tipo") == "vfbloque":
             n_bloque += 1
             item = parsear_bloque(c, f"{base}-b{n_bloque:03d}", anomalias)
@@ -229,6 +240,7 @@ def parsear_comprension(ruta, base, anomalias):
             "nivel": c["nivel"],
             "referencia": c.get("referencia"),
             "clase": c.get("clase"),
+            **({"figura": c["figura"]} if c.get("figura") else {}),
             "estado": "completa",
         })
     return out
@@ -265,6 +277,66 @@ def parsear_bloque(c, pid, anomalias):
         "nivel": c["nivel"],
         "referencia": c.get("referencia"),
         "clase": c.get("clase"),
+        **({"figura": c["figura"]} if c.get("figura") else {}),
+        "estado": "completa",
+    }
+
+
+def parsear_completar(c, pid, anomalias):
+    """Completar un texto o ubicar etiquetas en una figura. huecos[{id, correcta (índice en banco), explicacion}]."""
+    faltan = [k for k in ("enunciado", "huecos", "banco", "concepto", "nivel") if k not in c]
+    if faltan:
+        anomalias.append(f"{pid}: faltan campos {faltan}")
+        return None
+    banco, huecos = c["banco"], c["huecos"]
+    if not isinstance(banco, list) or not 3 <= len(banco) <= 10 or len(set(banco)) != len(banco):
+        anomalias.append(f"{pid}: el banco lleva entre 3 y 10 términos distintos")
+        return None
+    if not isinstance(huecos, list) or not 2 <= len(huecos) <= 8:
+        anomalias.append(f"{pid}: un ejercicio de completar lleva entre 2 y 8 huecos")
+        return None
+    ids = [str(h.get("id", "")) for h in huecos]
+    if len(set(ids)) != len(ids) or "" in ids:
+        anomalias.append(f"{pid}: los huecos necesitan ids distintos")
+        return None
+    usados = []
+    for h in huecos:
+        corr = h.get("correcta")
+        if not isinstance(corr, int) or not 0 <= corr < len(banco) or not str(h.get("explicacion", "")).strip():
+            anomalias.append(f"{pid}: hueco {h.get('id')!r} necesita 'correcta' dentro del banco y explicación")
+            return None
+        usados.append(corr)
+    if len(set(usados)) != len(usados):
+        anomalias.append(f"{pid}: dos huecos comparten la misma respuesta; cada término del banco sirve para un hueco")
+        return None
+    texto = c.get("texto")
+    if texto is not None:
+        import re
+        marcas = re.findall(r"\{([^}]+)\}", texto)
+        if sorted(marcas) != sorted(ids):
+            anomalias.append(f"{pid}: los {{id}} del texto no coinciden con los huecos")
+            return None
+    elif not c.get("figura"):
+        anomalias.append(f"{pid}: sin texto debe llevar figura (los huecos son puntos de la figura)")
+        return None
+    if c["nivel"] not in NIVELES:
+        anomalias.append(f"{pid}: nivel desconocido {c['nivel']!r}")
+        return None
+    return {
+        "id": pid,
+        "n_ficha": None,
+        "tipo": "completar",
+        "enunciado": c["enunciado"].strip(),
+        **({"texto": texto.strip()} if texto else {}),
+        "banco": banco,
+        "huecos": [{"id": str(h["id"]), "correcta": h["correcta"], "explicacion": h["explicacion"].strip()} for h in huecos],
+        "respuesta": " · ".join(f"{h['id']} = {banco[h['correcta']]}" for h in huecos),
+        "concepto": c["concepto"].strip(),
+        "nivel": c["nivel"],
+        "referencia": c.get("referencia"),
+        "clase": c.get("clase"),
+        **({"figura": c["figura"]} if c.get("figura") else {}),
+        **({"ocultos": c["ocultos"]} if c.get("ocultos") else {}),
         "estado": "completa",
     }
 
@@ -284,7 +356,7 @@ def metadatos_lectura(carpeta_semana, carpeta_lectura):
 
 def main():
     solo_check = "--check" in sys.argv
-    anomalias, indice, total = [], [], {"preguntas": 0, "trampas": 0, "pares": 0, "mcq": 0, "vfbloque": 0}
+    anomalias, indice, total = [], [], {"preguntas": 0, "trampas": 0, "pares": 0, "mcq": 0, "vfbloque": 0, "completar": 0}
     for carpeta_semana in sorted(CONTENIDO.glob("semana-*")):
         semana = int(carpeta_semana.name.split("-")[1])
         for ficha in sorted(carpeta_semana.glob("*/ficha.md")):
@@ -327,6 +399,7 @@ def main():
                     "respondibles": sum(p["estado"] == "completa" for p in preguntas),
                     "mcq": sum(p["tipo"] == "mcq" for p in preguntas),
                     "vfbloque": sum(p["tipo"] == "vfbloque" for p in preguntas),
+                    "completar": sum(p["tipo"] == "completar" for p in preguntas),
                     "vf": sum(p["tipo"] == "vf" for p in preguntas),
                     "vf_directas": sum(p["tipo"] == "vf" and isinstance(p.get("verdadera"), bool)
                                        for p in preguntas)}

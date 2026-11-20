@@ -87,7 +87,8 @@
             "vf",
             "abierta",
             "mcq",
-            "vfbloque"
+            "vfbloque",
+            "completar"
           ]
         },
         "enunciado": {
@@ -192,6 +193,69 @@
               },
               "verdadera": {
                 "type": "boolean"
+              },
+              "explicacion": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "figura": {
+          "type": "string",
+          "enum": [
+            "iim",
+            "rango",
+            "vonthunen",
+            "polese103",
+            "hoyt",
+            "costotransporte",
+            "escalas",
+            "areamercado"
+          ],
+          "description": "Esquema de app/src/components/Figura.tsx que acompaña a la pregunta."
+        },
+        "texto": {
+          "type": "string",
+          "description": "Solo completar. Texto con huecos marcados {id}; si falta, los huecos son puntos numerados de la figura."
+        },
+        "banco": {
+          "type": "array",
+          "minItems": 3,
+          "maxItems": 10,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description": "Solo completar. Términos disponibles; cada hueco usa uno distinto."
+        },
+        "ocultos": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Solo completar. Grupos de etiquetas de la figura que se ocultan para no delatar la respuesta."
+        },
+        "huecos": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 8,
+          "description": "Solo completar. Cada hueco apunta a un término del banco.",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "correcta",
+              "explicacion"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "correcta": {
+                "type": "integer",
+                "minimum": 0
               },
               "explicacion": {
                 "type": "string",

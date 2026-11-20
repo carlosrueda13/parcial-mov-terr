@@ -1,6 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { BloqueVF, bloqueAciertos, bloqueCompleto } from '../components/BloqueVF';
+import { Completar, RespCompletar, completarAciertos, completarCompleto } from '../components/Completar';
+import { Figura } from '../components/Figura';
 import { Opciones, ordenInicial } from '../components/Opciones';
 import { Barra, Chips, Cargando } from '../components/ui';
 import { INDICE, Item, NOMBRE_NIVEL, SEMANAS, TIPO_PREGUNTA, etiqueta } from '../lib/data';
@@ -11,7 +13,7 @@ import { barajar, plural } from '../lib/util';
 
 type Modo = 'todas' | 'fallas' | 'nuevas';
 type Tipo = 'todas' | 'comprension' | Item['tipo'];
-const esComprension = (i: Item) => i.tipo === 'opcion' || i.tipo === 'vfbloque';
+const esComprension = (i: Item) => i.tipo === 'opcion' || i.tipo === 'vfbloque' || i.tipo === 'completar';
 
 function armar(items: Item[], q: Record<string, QStat>, modo: Modo, tipo: Tipo): Item[] {
   let r = items;
@@ -64,6 +66,7 @@ export default function Practicar() {
   const [eleccion, setEleccion] = useState<boolean | number | null>(null);
   const [orden, setOrden] = useState<number[]>([]);
   const [bloque, setBloque] = useState<(boolean | undefined)[]>([]);
+  const [huecos, setHuecos] = useState<RespCompletar>([]);
   const [bloqueRevelado, setBloqueRevelado] = useState(false);
   const [revelada, setRevelada] = useState(false);
   const [calificada, setCalificada] = useState<boolean | null>(null);
@@ -82,6 +85,7 @@ export default function Practicar() {
     setAciertos(0);
     setFalladas([]);
     setBloque([]);
+    setHuecos([]);
     setBloqueRevelado(false);
     setOrden(lista[0]?.tipo === 'opcion' ? barajar(ordenInicial(lista[0].opciones.length)) : []);
   };
@@ -181,10 +185,13 @@ export default function Practicar() {
   // ---- Pregunta ----
   const it = cola[idx];
   const esAbierta = it.tipo === 'abierta';
-  const esBloque = it.tipo === 'vfbloque';
+  const esBloque = it.tipo === 'vfbloque' || it.tipo === 'completar';
   const solucion = it.tipo === 'opcion' ? it.correcta : it.tipo === 'vf' ? it.verdadera : null;
   const respondida = esAbierta ? calificada !== null : esBloque ? bloqueRevelado : eleccion !== null;
-  const correcta = esAbierta ? calificada === true : esBloque ? it.afirmaciones.every((a, i) => bloque[i] === a.verdadera) : eleccion === solucion;
+  const correcta = esAbierta ? calificada === true
+    : it.tipo === 'vfbloque' ? it.afirmaciones.every((a, i) => bloque[i] === a.verdadera)
+    : it.tipo === 'completar' ? it.huecos.every((h, i) => huecos[i] === h.correcta)
+    : eleccion === solucion;
 
   const elegir = (v: boolean | number) => {
     if (eleccion !== null) return;
@@ -198,6 +205,14 @@ export default function Practicar() {
     if (it.tipo !== 'vfbloque' || bloqueRevelado || !bloqueCompleto(it, bloque)) return;
     setBloqueRevelado(true);
     const ok = bloqueAciertos(it, bloque) === it.afirmaciones.length;
+    registrarRespuesta(it.id, ok);
+    if (ok) setAciertos((a) => a + 1);
+    else setFalladas((f) => [...f, it]);
+  };
+  const comprobarCompletar = () => {
+    if (it.tipo !== 'completar' || bloqueRevelado || !completarCompleto(it, huecos)) return;
+    setBloqueRevelado(true);
+    const ok = completarAciertos(it, huecos) === it.huecos.length;
     registrarRespuesta(it.id, ok);
     if (ok) setAciertos((a) => a + 1);
     else setFalladas((f) => [...f, it]);
@@ -216,6 +231,7 @@ export default function Practicar() {
     setRevelada(false);
     setCalificada(null);
     setBloque([]);
+    setHuecos([]);
     setBloqueRevelado(false);
     setOrden(sig?.tipo === 'opcion' ? barajar(ordenInicial(sig.opciones.length)) : []);
   };
@@ -234,6 +250,7 @@ export default function Practicar() {
           {it.nivel && <span className="tag">{NOMBRE_NIVEL[it.nivel]}</span>}
         </div>
         <p className="texto d">{it.enunciado}</p>
+        {it.figura && it.tipo !== 'completar' && <Figura id={it.figura} />}
 
         {it.tipo === 'vf' && (
           <div className="vf">
@@ -255,6 +272,17 @@ export default function Practicar() {
             )}
           </>
         )}
+        {it.tipo === 'completar' && (
+          <>
+            <Completar item={it} respuestas={huecos} revelar={bloqueRevelado} onResponder={(i, v) => setHuecos((h) => { const c = [...h]; c[i] = v; return c; })} />
+            {!bloqueRevelado && (
+              <div className="row g16">
+                <button type="button" className="press btn blue sign" disabled={!completarCompleto(it, huecos)} onClick={comprobarCompletar}>Comprobar</button>
+                <span className="muted" style={{ alignSelf: 'center' }}>Llena los {it.huecos.length} huecos.</span>
+              </div>
+            )}
+          </>
+        )}
         {it.tipo === 'abierta' && !revelada && (
           <div className="row g16">
             <button type="button" className="press btn sign-ink" onClick={() => setRevelada(true)}>Mostrar la respuesta</button>
@@ -264,9 +292,9 @@ export default function Practicar() {
 
         {(esAbierta ? revelada : respondida) && (
           <div className={`respuesta ${esAbierta ? 'neutral' : correcta ? 'ok' : 'mal'}`} role="status">
-            {!esAbierta && <p className="d" style={{ fontSize: 24, fontWeight: 900 }}>{it.tipo === 'vfbloque' ? `${bloqueAciertos(it, bloque)} de ${it.afirmaciones.length} afirmaciones bien` : correcta ? 'Correcto' : 'Incorrecto'}</p>}
+            {!esAbierta && <p className="d" style={{ fontSize: 24, fontWeight: 900 }}>{it.tipo === 'vfbloque' ? `${bloqueAciertos(it, bloque)} de ${it.afirmaciones.length} afirmaciones bien` : it.tipo === 'completar' ? `${completarAciertos(it, huecos)} de ${it.huecos.length} huecos bien` : correcta ? 'Correcto' : 'Incorrecto'}</p>}
             {it.tipo === 'opcion' && !it.explicacion && <p><b>Respuesta correcta</b> · {it.opciones[it.correcta]}</p>}
-            {it.tipo !== 'vfbloque' && <p className="t">{it.tipo === 'opcion' ? it.explicacion ?? it.respuesta : it.respuesta}</p>}
+            {it.tipo !== 'vfbloque' && it.tipo !== 'completar' && <p className="t">{it.tipo === 'opcion' ? it.explicacion ?? it.respuesta : it.respuesta}</p>}
             {it.concepto && <p className="muted" style={{ fontSize: 16 }}><b>Concepto:</b> {it.concepto}</p>}
             {it.clase && <p><span className="pill blue">Clase {it.clase}</span></p>}
             {it.referencia && <p><span className="pill">{it.referencia}</span></p>}

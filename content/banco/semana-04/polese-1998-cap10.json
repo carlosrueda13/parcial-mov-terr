@@ -452,10 +452,10 @@
    "tipo": "mcq",
    "enunciado": "En ese mismo ejemplo el precio de mercado del trigo sube de 100 a 120, con igual costo de producción y de transporte. ¿Qué pasa con su curva de renta y con la distribución de los cultivos?",
    "opciones": [
-    "La renta en el mercado sube a 70 y la pendiente (5 por km) no cambia; el trigo avanza sobre los guisantes hacia el centro y sobre el pastoreo hacia afuera.",
+    "La renta en el mercado sube a 70 con igual pendiente (5 por km); el trigo avanza sobre los guisantes hacia el centro y sobre el pasto afuera.",
     "La pendiente aumenta porque el trigo vale más y es más sensible al transporte; el trigo se queda con el centro y desplaza a los guisantes.",
-    "La renta en el mercado sube a 70, pero el trigo solo avanza hacia afuera, porque cerca del centro siguen mandando los guisantes.",
-    "Las zonas no cambian, porque el precio es exógeno y la ubicación de cada cultivo solo depende de las pendientes de sus curvas."
+    "La renta en el mercado sube a 70, pero el trigo solo avanza hacia afuera, porque cerca del centro siguen mandando los guisantes del anillo.",
+    "Las zonas no cambian, porque el precio es exógeno y la ubicación de cada cultivo depende solo de las pendientes de sus curvas de renta."
    ],
    "correcta": 0,
    "errores": [
@@ -464,7 +464,7 @@
     "Con la curva 70 − 5k, el trigo supera a los guisantes (75 − 10k) desde k = 1 km. Desborda también hacia el centro.",
     "Que el precio sea dato no lo vuelve irrelevante: cambia la ordenada y, con ella, los cruces entre curvas. Las zonas se redistribuyen."
    ],
-   "respuesta": "La renta en el mercado sube a 70 y la pendiente (5 por km) no cambia; el trigo avanza sobre los guisantes hacia el centro y sobre el pastoreo hacia afuera.",
+   "respuesta": "La renta en el mercado sube a 70 con igual pendiente (5 por km); el trigo avanza sobre los guisantes hacia el centro y sobre el pasto afuera.",
    "explicacion": "R = E(p − a) − Efk: el precio p solo mueve la ordenada. Con p = 120 queda 70 − 5k, que se anula a 14 km. Cruza a los guisantes en k = 1 (70 − 5k = 75 − 10k; cálculo propio): el trigo ocupa desde 1 km y también más lejos, sobre el pastoreo. El texto lo resume así: desborda hacia el centro y hacia afuera.",
    "concepto": "Efecto del precio sobre la ordenada y los cruces",
    "nivel": "aplicacion",
@@ -764,10 +764,10 @@
    "tipo": "mcq",
    "enunciado": "Dos ciudades limitan la densidad de construcción de su centro. En A el centro es tan fuerte que casi ninguna oficina importante se instalaría fuera; en B el centro compite con otros puntos de atracción. ¿Qué pasa con el precio del suelo?",
    "opciones": [
-    "En A el efecto neto sobre el precio del suelo es nulo (suben los alquileres de oficina); en B la demanda sale del centro y el precio vuelve a su nivel o por debajo.",
-    "En A el precio del suelo baja porque hay menos superficie de piso construida, y en B sube porque la escasez de superficie es mayor.",
+    "En A el efecto neto sobre el precio es nulo (suben los alquileres de oficina); en B la demanda sale del centro y el precio no sube.",
+    "En A el precio del suelo baja porque hay menos superficie de piso construida, y en B sube porque la escasez de superficie es mayor aún.",
     "En ambas sube, porque limitar la oferta de superficie construida siempre eleva el precio del suelo, sin importar la fuerza del centro.",
-    "En ambas baja, porque menor densidad significa menor rendimiento E y por tanto menor renta que el suelo puede ofrecer a los usuarios."
+    "En ambas baja, porque menor densidad significa menor rendimiento E y, por tanto, menor renta que el suelo puede ofrecer a los usuarios."
    ],
    "correcta": 0,
    "errores": [
@@ -776,7 +776,7 @@
     "El efecto depende de la elasticidad-precio de la demanda: en B el aumento inicial de precios reduce la demanda y el precio vuelve a su nivel o por debajo.",
     "Eso solo ocurre con demanda muy elástica (B). En A, con demanda inelástica, la caída de E se compensa con alzas de precio y el efecto neto es nulo."
    ],
-   "respuesta": "En A el efecto neto sobre el precio del suelo es nulo (suben los alquileres de oficina); en B la demanda sale del centro y el precio vuelve a su nivel o por debajo.",
+   "respuesta": "En A el efecto neto sobre el precio es nulo (suben los alquileres de oficina); en B la demanda sale del centro y el precio no sube.",
    "explicacion": "Limitar densidades reduce la superficie de piso, no el suelo. Con demanda inelástica (centro muy fuerte: un gran banco no se instala fuera de la City de Londres) la menor oferta se compensa con alzas de precio, el efecto neto sobre el suelo es nulo, suben los precios de los espacios de oficina y se acentúa la especialización. Con demanda elástica (centro débil) el alza reduce la demanda, los usuarios se van y el precio vuelve al nivel inicial o por debajo; la municipalidad y los promotores pierden.",
    "concepto": "Zonaje de densidad y elasticidad de la demanda por espacios centrales",
    "nivel": "aplicacion",
@@ -895,9 +895,9 @@
    "enunciado": "Un gobierno local limita el perímetro urbanizable para elevar el precio del suelo y maximizar la renta que obtiene. ¿En qué condición esa política es eficaz?",
    "opciones": [
     "Cuando la ciudad goza de renta de monopolio, con centralidad indiscutible, y controla todo el espacio potencialmente urbanizable.",
-    "Cuando hay fuerte competencia entre municipios por captar las rentas del suelo, porque cada uno afina su perímetro.",
-    "Cuando la ciudad ya es muy densa y crece rápido, porque la presión demográfica refuerza el efecto de la restricción.",
-    "Siempre, porque reducir la oferta de suelo eleva el precio y los costos recaen sobre quien especula con el suelo."
+    "Cuando hay fuerte competencia entre municipios por captar las rentas del suelo, porque cada uno afina su perímetro urbano.",
+    "Cuando la ciudad ya es muy densa y crece rápido, porque la presión demográfica refuerza el efecto de la restricción de suelo.",
+    "Siempre, porque reducir la oferta de suelo eleva el precio y los costos recaen sobre quien especula con el suelo urbano."
    ],
    "correcta": 0,
    "errores": [
@@ -938,6 +938,239 @@
    "nivel": "causa",
    "referencia": "pp. 345-346",
    "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-polese-1998-cap10-m021",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la figura, las curvas de renta de guisantes, trigo y pasto dan los anillos del plano de abajo. ¿Por qué el trigo ocupa el anillo intermedio?",
+   "opciones": [
+    "Porque su rendimiento por hectárea es el más alto de los tres y por eso desplaza a los demás hacia el exterior.",
+    "Porque su curva queda entre las otras dos: supera a los guisantes desde 5 km del mercado y el pasto la supera más lejos.",
+    "Porque es el cultivo de mayor costo de transporte por kilómetro, lo que lo obliga a producir lejos del mercado urbano.",
+    "Porque su renta máxima en el mercado es mayor que la de los guisantes, pero se anula antes que la del pasto.",
+    "Porque el trigo se cultiva solo donde la renta de los guisantes es negativa, es decir, más allá de los 7,5 km."
+   ],
+   "correcta": 1,
+   "errores": [
+    "El rendimiento de los guisantes ($150) es mayor que el del trigo ($100).",
+    null,
+    "El transporte del trigo cuesta $5 por km, menos que los $10 de los guisantes.",
+    "Los guisantes pagan más en el mercado ($75 frente a $50 del trigo).",
+    "El trigo ya supera a los guisantes desde los 5 km, donde las curvas se cruzan."
+   ],
+   "respuesta": "Porque su curva queda entre las otras dos: supera a los guisantes desde 5 km del mercado y el pasto la supera más lejos.",
+   "explicacion": "Los guisantes ofrecen más por los terrenos a menos de 5 km; el trigo, por los de más de 5 km; el pasto y la ganadería, de curva más plana, ocupan los suelos más alejados. Cada uso queda donde su curva es la más alta.",
+   "concepto": "Anillo intermedio del trigo",
+   "nivel": "grafica",
+   "referencia": "Polèse (1998), cap. 10, Figs. 10.1 a 10.3, pp. 326-330",
+   "clase": null,
+   "figura": "polese103",
+   "estado": "completa"
+  },
+  {
+   "id": "s04-polese-1998-cap10-m022",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "La parte de abajo de la figura es un plano de utilización del suelo. ¿Qué relación guarda con las curvas de renta de arriba?",
+   "opciones": [
+    "Cada uso ocupa el anillo donde su curva es la más alta: guisantes al centro, trigo en medio y pasto o ganadería afuera.",
+    "Los tres usos se mezclan en todo el plano y la renta efectiva solo decide cuánto produce cada uno en cada punto.",
+    "Cada uso ocupa el anillo donde su curva es la más baja, porque busca pagar la menor renta posible por la tierra.",
+    "El pasto y la ganadería ocupan el centro, porque su curva es la más plana y la menos sensible a la distancia.",
+    "Los anillos reflejan el orden por rendimiento por hectárea: primero el trigo, luego los guisantes y por último el pasto."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La asignación es excluyente: cada franja de terreno va al uso que ofrece la mayor renta.",
+    "El suelo se asigna al uso que ofrece la renta más alta, no a la más baja.",
+    "Una curva plana es poco sensible a la distancia, pero es la que menos ofrece cerca del mercado: va a lo más alejado.",
+    "El orden de los anillos lo fija la renta ofrecida a cada distancia, no el rendimiento por hectárea."
+   ],
+   "respuesta": "Cada uso ocupa el anillo donde su curva es la más alta: guisantes al centro, trigo en medio y pasto o ganadería afuera.",
+   "explicacion": "En la Fig. 10.3 el centro es de los guisantes, luego viene el trigo y, al agregar una tercera actividad de curva más plana (pastoreo y ganadería), esta ocupa los suelos más alejados del mercado. La renta efectiva es el borde superior de las curvas.",
+   "concepto": "Plano de anillos y curvas de renta",
+   "nivel": "interpretacion",
+   "referencia": "Polèse (1998), cap. 10, Figs. 10.1 a 10.3, pp. 326-330",
+   "clase": null,
+   "figura": "polese103",
+   "estado": "completa"
+  },
+  {
+   "id": "s04-polese-1998-cap10-c001",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete las cifras del ejemplo de guisantes y trigo con los términos del banco.",
+   "texto": "Los guisantes ofrecen hasta {1} por hectárea en el mercado y su renta se anula a {2} km; el trigo ofrece hasta {3} y se anula a {4} km. Las dos curvas se cruzan a {5} km, donde ambos ofrecen {6}.",
+   "banco": [
+    "$75",
+    "7,5",
+    "$50",
+    "10",
+    "5",
+    "$25",
+    "15",
+    "$100"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "Guisantes: rendimiento $150 menos costo $75 deja $75 por hectárea en el mercado."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "Con transporte de $10 por km, $75 / $10 = 7,5 km."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "Trigo: rendimiento $100 menos costo $50 deja $50 por hectárea en el mercado."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "Con transporte de $5 por km, $50 / $5 = 10 km."
+    },
+    {
+     "id": "5",
+     "correcta": 4,
+     "explicacion": "Igualando 50 − 5d = 75 − 10d se obtiene d = 5 km."
+    },
+    {
+     "id": "6",
+     "correcta": 5,
+     "explicacion": "En 5 km el trigo deja 50 − 25 = $25 y los guisantes 75 − 50 = $25."
+    }
+   ],
+   "respuesta": "1 = $75 · 2 = 7,5 · 3 = $50 · 4 = 10 · 5 = 5 · 6 = $25",
+   "concepto": "Cifras del ejemplo de Von Thünen",
+   "nivel": "calculo",
+   "referencia": "Polèse (1998), cap. 10, Figs. 10.1 a 10.3, pp. 326-330",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-polese-1998-cap10-c002",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Elija, para cada número de la figura, el cultivo cuya curva de renta señala.",
+   "banco": [
+    "Guisantes",
+    "Trigo",
+    "Pasto y ganadería",
+    "Renta efectiva",
+    "Distancia al mercado"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "La curva de mayor renta en el mercado y de caída más rápida es la de los guisantes."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "La curva intermedia, que cae a cero a 10 km, es la del trigo."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "La curva más plana, que llega más lejos, es la de pasto y ganadería."
+    }
+   ],
+   "respuesta": "1 = Guisantes · 2 = Trigo · 3 = Pasto y ganadería",
+   "concepto": "Curvas de renta de la Fig. 10.3",
+   "nivel": "grafica",
+   "referencia": "Polèse (1998), cap. 10, Figs. 10.1 a 10.3, pp. 326-330",
+   "clase": null,
+   "figura": "polese103",
+   "ocultos": [
+    "curvas",
+    "cifras"
+   ],
+   "estado": "completa"
+  },
+  {
+   "id": "s04-polese-1998-cap10-c003",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Elija, para cada número del plano de abajo, el uso que ocupa ese anillo.",
+   "banco": [
+    "Guisantes (anillo central)",
+    "Trigo (anillo intermedio)",
+    "Pasto y ganadería (anillo exterior)",
+    "Zona sin uso agrícola"
+   ],
+   "huecos": [
+    {
+     "id": "4",
+     "correcta": 0,
+     "explicacion": "Los guisantes ofrecen más cerca del mercado."
+    },
+    {
+     "id": "5",
+     "correcta": 1,
+     "explicacion": "El trigo ofrece más que los guisantes a partir de 5 km."
+    },
+    {
+     "id": "6",
+     "correcta": 2,
+     "explicacion": "Su curva más plana la deja con la mayor renta en los suelos más alejados."
+    }
+   ],
+   "respuesta": "4 = Guisantes (anillo central) · 5 = Trigo (anillo intermedio) · 6 = Pasto y ganadería (anillo exterior)",
+   "concepto": "Anillos de utilización del suelo",
+   "nivel": "grafica",
+   "referencia": "Polèse (1998), cap. 10, Figs. 10.1 a 10.3, pp. 326-330",
+   "clase": null,
+   "figura": "polese103",
+   "ocultos": [
+    "anillos"
+   ],
+   "estado": "completa"
+  },
+  {
+   "id": "s04-polese-1998-cap10-b001",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en el ejemplo de Von Thünen del capítulo 10 y su figura, defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "En la figura, los guisantes ocupan el anillo central porque ofrecen la renta más alta cerca del mercado.",
+     "verdadera": true,
+     "explicacion": "Pagan hasta $75 por hectárea en el mercado, más que el trigo."
+    },
+    {
+     "texto": "El trigo ofrece más renta que los guisantes en terrenos a menos de 5 km del mercado.",
+     "verdadera": false,
+     "explicacion": "Los guisantes ofrecen más por los terrenos a menos de 5 km; el trigo, por los de más de 5 km."
+    },
+    {
+     "texto": "La curva de renta del pasto y la ganadería es más plana, por eso ocupa los suelos más alejados.",
+     "verdadera": true,
+     "explicacion": "Una curva más plana es menos sensible a la distancia y llega más lejos."
+    },
+    {
+     "texto": "La renta de los guisantes se anula a 10 km del mercado.",
+     "verdadera": false,
+     "explicacion": "Se anula a 7,5 km; el trigo es el que llega a 10 km."
+    },
+    {
+     "texto": "La renta es el precio máximo que el agricultor puede ofrecer por la tierra después de cubrir costos de producción y de transporte.",
+     "verdadera": true,
+     "explicacion": "Es la ganancia adicional que el comprador desea realizar, por eso se habla de renta del suelo."
+    }
+   ],
+   "respuesta": "V · F · V · F · V",
+   "concepto": "Von Thünen en el capítulo 10",
+   "nivel": "contraste",
+   "referencia": "Polèse (1998), cap. 10, Figs. 10.1 a 10.3, pp. 326-330",
+   "clase": null,
+   "figura": "polese103",
    "estado": "completa"
   }
  ],

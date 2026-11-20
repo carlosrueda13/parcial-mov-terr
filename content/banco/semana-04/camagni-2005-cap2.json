@@ -833,6 +833,482 @@
    "referencia": "Clases del 2 y 9 de octubre; no figura en la ficha de Camagni",
    "clase": "2026-10-09",
    "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-m019",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la figura, tres rectas decrecientes representan la renta ofrecida por tres cultivos y el trazo grueso, la renta efectiva. ¿Qué es la renta efectiva y por qué cambia de recta?",
+   "opciones": [
+    "Es el promedio de las tres rentas ofrecidas, ponderado por la superficie que ocupa cada cultivo en su anillo del plano.",
+    "Es la envolvente superior de las rentas ofrecidas: a cada distancia rige la del cultivo que ofrece más, y por eso cambia de recta.",
+    "Es la renta del cultivo a, el único que paga renta al propietario; b y c se ubican donde el mercado central ya no llega.",
+    "Es la suma de las tres rentas ofrecidas, porque el propietario del suelo cobra a cada cultivo su renta completa en cada punto.",
+    "Es la recta del cultivo con mayor distancia máxima, que es el c, y la quiebra se debe al aumento del costo de transporte."
+   ],
+   "correcta": 1,
+   "errores": [
+    "La renta efectiva no es un promedio: a cada distancia se paga la renta más alta que se ofrece.",
+    null,
+    "Los tres cultivos pagan renta en su franja: la efectiva pasa de a a b y a c.",
+    "Un mismo terreno se asigna a un solo cultivo; no se suman las rentas de todos.",
+    "La renta efectiva no es la recta de un solo cultivo; la quiebra señala el cambio de cultivo."
+   ],
+   "respuesta": "Es la envolvente superior de las rentas ofrecidas: a cada distancia rige la del cultivo que ofrece más, y por eso cambia de recta.",
+   "explicacion": "La renta efectiva es la envolvente superior de las rentas ofrecidas (ofertadas). Cada unidad de superficie va a la producción que ofrece la renta más alta, y por eso los cultivos quedan en círculos concéntricos alrededor del mercado.",
+   "concepto": "Renta efectiva como envolvente",
+   "nivel": "grafica",
+   "referencia": "Camagni (2005), cap. 2, ecuación [2.1] y Fig. 2.1, pp. 54-55",
+   "clase": null,
+   "figura": "vonthunen",
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-m020",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Suponga que en la figura la recta del cultivo b se desplazara hacia abajo hasta quedar, a todas las distancias, por debajo de la envolvente de a y c. ¿Qué pasaría con b?",
+   "opciones": [
+    "Ocuparía igualmente el anillo intermedio, porque cada cultivo tiene derecho a una franja proporcional a su producción.",
+    "No obtendría superficie y no se realizaría, porque su renta ofrecida sería siempre inferior a la de otro cultivo.",
+    "Se ubicaría en el centro, porque una renta menor se compensa con menores costos de transporte.",
+    "Pasaría a ocupar la zona más lejana, más allá de la distancia máxima del cultivo c, donde la renta es cero.",
+    "Obtendría la misma superficie, pero pagaría una renta menor al propietario del suelo."
+   ],
+   "correcta": 1,
+   "errores": [
+    "El suelo se asigna por la renta ofrecida, no por derechos proporcionales.",
+    null,
+    "El centro va al cultivo de mayor renta ofrecida, y b ofrecería menos.",
+    "Donde la renta es cero cesa la producción: no hay un anillo más allá.",
+    "Con una renta siempre menor que la de otro cultivo no se le asigna terreno alguno."
+   ],
+   "respuesta": "No obtendría superficie y no se realizaría, porque su renta ofrecida sería siempre inferior a la de otro cultivo.",
+   "explicacion": "Si la renta ofrecida por un cultivo es siempre inferior a la de cualquier otro en todas las distancias, ese cultivo no obtiene superficie y no se realiza: la asignación depende de la renta más alta.",
+   "concepto": "Cultivo sin superficie",
+   "nivel": "aplicacion",
+   "referencia": "Camagni (2005), cap. 2, ecuación [2.1] y Fig. 2.1, pp. 54-55",
+   "clase": null,
+   "figura": "vonthunen",
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-m021",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Cada recta de la figura sigue r(δ) = (p − c − τδ)x. ¿Qué decide qué cultivo ocupa el centro y qué fija la distancia donde cesa la producción de cada uno?",
+   "opciones": [
+    "El centro lo ocupa el cultivo de menor pendiente, −τx; la producción cesa donde su recta toca la envolvente de rentas.",
+    "El centro lo ocupa el cultivo de menor costo de transporte τ; la producción cesa en δmax = (p − c)x, para cualquier cultivo.",
+    "El centro lo ocupa el cultivo de mayor precio p; la producción cesa en el punto donde el costo c iguala a la renta.",
+    "El centro lo ocupa el de mayor ordenada en el origen, (p − c)x; la producción cesa con renta cero, en δmax = (p − c)/τ.",
+    "El centro lo ocupa el cultivo de mayor δmax; la producción cesa donde la renta efectiva alcanza su máximo valor."
+   ],
+   "correcta": 3,
+   "errores": [
+    "Quien ocupa el centro es el de mayor ordenada en el origen, no el de menor pendiente.",
+    "δmax = (p − c)/τ: se divide entre τ y no depende de x.",
+    "La ordenada es (p − c)x, no solo p; y la producción cesa donde la renta se anula.",
+    null,
+    "El máximo de la renta efectiva está en el centro; la producción cesa donde la renta es cero."
+   ],
+   "respuesta": "El centro lo ocupa el de mayor ordenada en el origen, (p − c)x; la producción cesa con renta cero, en δmax = (p − c)/τ.",
+   "explicacion": "La ordenada en el origen, (p − c)x, decide quién ocupa el centro (mayor producto neto por unidad de superficie). Con r = 0 se obtiene δmax = (p − c)/τ, que no depende de x. La pendiente es −τx.",
+   "concepto": "Ordenada, pendiente y δmax",
+   "nivel": "interpretacion",
+   "referencia": "Camagni (2005), cap. 2, ecuación [2.1] y Fig. 2.1, pp. 54-55",
+   "clase": null,
+   "figura": "vonthunen",
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-m022",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "El esquema de sectores de Hoyt (1939) se presenta al final del capítulo junto con el de Burgess. ¿En qué se diferencia de la estructura de círculos concéntricos?",
+   "opciones": [
+    "Los usos se organizan en anillos concéntricos que son cada vez más ricos al alejarse del centro, por la renta del suelo.",
+    "Los usos se reparten en varios núcleos independientes, sin un distrito central de negocios dominante en la ciudad.",
+    "La ciudad crece en sectores o cuñas que salen del centro y cada uso residencial o industrial se extiende en una dirección.",
+    "Todas las clases residenciales se mezclan sin patrón alguno, porque la accesibilidad deja de influir en la localización.",
+    "La ciudad crece solo hacia la periferia de rentas bajas, que se organiza como círculos alrededor de la zona industrial."
+   ],
+   "correcta": 2,
+   "errores": [
+    "Esa es la lógica de los círculos concéntricos, no la de los sectores de Hoyt.",
+    "Hoyt mantiene un centro del que salen los sectores; el modelo de múltiples núcleos es otro.",
+    null,
+    "El esquema es un patrón de localización por sectores; la accesibilidad sigue siendo coherente con él.",
+    "No hay círculos alrededor de la industria; los usos forman sectores desde el centro."
+   ],
+   "respuesta": "La ciudad crece en sectores o cuñas que salen del centro y cada uso residencial o industrial se extiende en una dirección.",
+   "explicacion": "Hoyt (1939) propone una estructura por sectores que salen del distrito central de negocios, y no coronas concéntricas. Camagni la ubica en la sección 2.6 (contexto), junto con Burgess (1925), como modelos de ecología social coherentes con la lógica de la accesibilidad.",
+   "concepto": "Hoyt: sectores frente a círculos",
+   "nivel": "contraste",
+   "referencia": "Camagni (2005), cap. 2, secc. 2.6, Fig. 2.9 (contexto)",
+   "clase": null,
+   "figura": "hoyt",
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-c001",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete la descripción del modelo de Von Thünen con los términos del banco.",
+   "texto": "La renta ofrecida por cada cultivo es una {1} de pendiente negativa, r(δ) = (p − c − τδ)x. La {2}, que es la envolvente superior de las rentas ofrecidas, define qué cultivo ocupa cada franja, y los cultivos quedan en círculos {3} alrededor del {4}.",
+   "banco": [
+    "recta",
+    "renta efectiva",
+    "concéntricos",
+    "mercado central",
+    "curva convexa",
+    "renta ofertada",
+    "radiales",
+    "puerto de exportación"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "En [2.1] la renta ofrecida es una recta de pendiente negativa."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "La renta efectiva es la envolvente superior de las ofrecidas."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "Los cultivos quedan en círculos concéntricos."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "El único mercado está en el centro: todos los productos deben transportarse hasta allí."
+    }
+   ],
+   "respuesta": "1 = recta · 2 = renta efectiva · 3 = concéntricos · 4 = mercado central",
+   "concepto": "Modelo de Von Thünen",
+   "nivel": "contraste",
+   "referencia": "Camagni (2005), cap. 2, ecuación [2.1] y Fig. 2.1, pp. 54-55",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-c002",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete la frase de Hurd (1903) sobre el valor del suelo urbano con los términos del banco.",
+   "texto": "Según Hurd, el valor depende de la {1}, la renta de la {2}, la localización de la {3} y la conveniencia de la {4}.",
+   "banco": [
+    "renta",
+    "localización",
+    "conveniencia",
+    "cercanía",
+    "producción",
+    "accesibilidad"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "El valor depende de la renta."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "La renta depende de la localización."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "La localización depende de la conveniencia."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "La conveniencia depende de la cercanía (nearness)."
+    }
+   ],
+   "respuesta": "1 = renta · 2 = localización · 3 = conveniencia · 4 = cercanía",
+   "concepto": "Cadena de Hurd (1903)",
+   "nivel": "contraste",
+   "referencia": "Camagni (2005), cap. 2, secc. 2.1, pp. 51-52",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-c003",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete la definición de accesibilidad y su relación con la renta con los términos del banco.",
+   "texto": "La accesibilidad es superar la {1} que el espacio impone al movimiento de personas, bienes e informaciones. Nace de la {2} entre actividades por las localizaciones más ventajosas y se concreta en la {3} del suelo, que asigna el espacio a las actividades en mejores condiciones de {4}.",
+   "banco": [
+    "barrera",
+    "competencia",
+    "renta",
+    "pagar",
+    "cooperación",
+    "fertilidad",
+    "vender"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "Accesibilidad es superar la barrera que el espacio impone al movimiento."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "El principio nace de la competencia por las localizaciones más ventajosas."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "Esa competencia se concreta en la renta del suelo."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "La renta asigna el suelo a las actividades que están en mejores condiciones de pagar."
+    }
+   ],
+   "respuesta": "1 = barrera · 2 = competencia · 3 = renta · 4 = pagar",
+   "concepto": "Accesibilidad y renta del suelo",
+   "nivel": "contraste",
+   "referencia": "Camagni (2005), cap. 2, secc. 2.1, pp. 51-52",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-c004",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Complete la comparación entre Burgess y Hoyt con los términos del banco.",
+   "texto": "Burgess (1925) describe la ciudad como una serie de {1}; Hoyt (1939) propone, en cambio, {2} que salen del centro. Ambos son modelos de {3}, coherentes con la lógica de la {4}.",
+   "banco": [
+    "círculos concéntricos",
+    "sectores radiales",
+    "ecología social",
+    "accesibilidad",
+    "núcleos múltiples",
+    "aglomeración"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "La estructura de Burgess (1925) es de círculos concéntricos."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "Hoyt (1939) propone sectores que salen del centro."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "El texto los llama modelos de tipo sociológico o de ecología social."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "No se relacionan culturalmente con Von Thünen, pero son coherentes con la lógica de la accesibilidad."
+    }
+   ],
+   "respuesta": "1 = círculos concéntricos · 2 = sectores radiales · 3 = ecología social · 4 = accesibilidad",
+   "concepto": "Burgess y Hoyt",
+   "nivel": "contraste",
+   "referencia": "Camagni (2005), cap. 2, secc. 2.6, Fig. 2.9 (contexto)",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-c005",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Elija, para cada número de la figura, el elemento del modelo de Von Thünen que le corresponde.",
+   "banco": [
+    "Renta (por unidad de superficie)",
+    "Distancia al mercado",
+    "Mercado central (δ = 0)",
+    "Renta efectiva (envolvente superior)",
+    "Distancia máxima δmax: la renta es cero",
+    "Pendiente −τx"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "El eje vertical mide la renta."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "El eje horizontal mide la distancia δ al mercado."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "El origen es el centro, donde está el mercado."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "El trazo grueso es la envolvente superior de las rentas ofrecidas."
+    },
+    {
+     "id": "5",
+     "correcta": 4,
+     "explicacion": "En δmax la renta se anula y cesa la producción."
+    }
+   ],
+   "respuesta": "1 = Renta (por unidad de superficie) · 2 = Distancia al mercado · 3 = Mercado central (δ = 0) · 4 = Renta efectiva (envolvente superior) · 5 = Distancia máxima δmax: la renta es cero",
+   "concepto": "Ejes y elementos de la figura de Von Thünen",
+   "nivel": "grafica",
+   "referencia": "Camagni (2005), cap. 2, ecuación [2.1] y Fig. 2.1, pp. 54-55",
+   "clase": null,
+   "figura": "vonthunen",
+   "ocultos": [
+    "curvas",
+    "areas",
+    "ejes"
+   ],
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-c006",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Elija, para cada número del plano de abajo, el cultivo que ocupa esa franja.",
+   "banco": [
+    "Cultivo a (anillo central)",
+    "Cultivo b (anillo intermedio)",
+    "Cultivo c (anillo exterior)",
+    "Zona sin producción"
+   ],
+   "huecos": [
+    {
+     "id": "6",
+     "correcta": 0,
+     "explicacion": "El cultivo de mayor ordenada en el origen ocupa lo más central."
+    },
+    {
+     "id": "7",
+     "correcta": 1,
+     "explicacion": "El cultivo b ocupa el anillo intermedio, donde su renta es la más alta."
+    },
+    {
+     "id": "8",
+     "correcta": 2,
+     "explicacion": "El cultivo c, de recta más plana, llega más lejos y ocupa el anillo exterior."
+    }
+   ],
+   "respuesta": "6 = Cultivo a (anillo central) · 7 = Cultivo b (anillo intermedio) · 8 = Cultivo c (anillo exterior)",
+   "concepto": "Anillos de Von Thünen",
+   "nivel": "grafica",
+   "referencia": "Camagni (2005), cap. 2, ecuación [2.1] y Fig. 2.1, pp. 54-55",
+   "clase": null,
+   "figura": "vonthunen",
+   "ocultos": [
+    "areas"
+   ],
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-c007",
+   "n_ficha": null,
+   "tipo": "completar",
+   "enunciado": "Elija, para cada número de la figura, la zona del esquema de sectores que le corresponde.",
+   "banco": [
+    "Distrito central de negocios",
+    "Industria ligera y almacenes",
+    "Residencias de clases pobres",
+    "Residencias de clases medias",
+    "Residencias de clases ricas",
+    "Industria pesada",
+    "Comercio minorista"
+   ],
+   "huecos": [
+    {
+     "id": "1",
+     "correcta": 0,
+     "explicacion": "El círculo del centro es el distrito central de negocios."
+    },
+    {
+     "id": "2",
+     "correcta": 1,
+     "explicacion": "El sector que sale del centro hacia arriba es de industria ligera y almacenes."
+    },
+    {
+     "id": "3",
+     "correcta": 2,
+     "explicacion": "Los sectores residenciales de clases pobres flanquean a la industria."
+    },
+    {
+     "id": "4",
+     "correcta": 3,
+     "explicacion": "Las clases medias ocupan sectores intermedios."
+    },
+    {
+     "id": "5",
+     "correcta": 4,
+     "explicacion": "El sector de clases ricas queda opuesto a la industria."
+    }
+   ],
+   "respuesta": "1 = Distrito central de negocios · 2 = Industria ligera y almacenes · 3 = Residencias de clases pobres · 4 = Residencias de clases medias · 5 = Residencias de clases ricas",
+   "concepto": "Zonas del esquema de Hoyt",
+   "nivel": "grafica",
+   "referencia": "Camagni (2005), cap. 2, secc. 2.6, Fig. 2.9 (contexto)",
+   "clase": null,
+   "figura": "hoyt",
+   "ocultos": [
+    "numeros",
+    "leyenda"
+   ],
+   "estado": "completa"
+  },
+  {
+   "id": "s04-camagni-2005-cap2-b001",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en el modelo de Von Thünen de la figura, defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "La renta efectiva de la figura es la envolvente superior de las rentas ofrecidas por los tres cultivos.",
+     "verdadera": true,
+     "explicacion": "A cada distancia se paga la renta más alta que se ofrece."
+    },
+    {
+     "texto": "La pendiente de la recta de renta ofrecida es −τx.",
+     "verdadera": true,
+     "explicacion": "En [2.1], derivando respecto de δ se obtiene −τx."
+    },
+    {
+     "texto": "La distancia máxima δmax depende de la cantidad x producida por unidad de superficie.",
+     "verdadera": false,
+     "explicacion": "δmax = (p − c)/τ, y x se cancela."
+    },
+    {
+     "texto": "Los cultivos de mayor ordenada en el origen se ubican más lejos del mercado.",
+     "verdadera": false,
+     "explicacion": "Los de mayor ordenada, (p − c)x, ocupan lo más central."
+    },
+    {
+     "texto": "Hurd (1903) fue el primero en referirse de forma teóricamente consciente a la economía urbana.",
+     "verdadera": true,
+     "explicacion": "Von Thünen analizó producciones agrícolas a inicios del siglo XIX; Hurd fue el primero con referencia urbana."
+    }
+   ],
+   "respuesta": "V · V · F · F · V",
+   "concepto": "Von Thünen: figura y fórmulas",
+   "nivel": "contraste",
+   "referencia": "Camagni (2005), cap. 2, ecuación [2.1] y Fig. 2.1, pp. 54-55",
+   "clase": null,
+   "figura": "vonthunen",
+   "estado": "completa"
   }
  ],
  "trampas": [

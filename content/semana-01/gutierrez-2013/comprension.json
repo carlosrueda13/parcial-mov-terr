@@ -504,5 +504,76 @@
     "concepto": "Enfoques y medición de la movilidad",
     "nivel": "contraste",
     "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Complete la definición de movilidad y su diferencia con el transporte con los términos del banco.",
+    "texto": "La movilidad es una {1} social de desplazamiento en el {2}; el {3} es el medio o vector que realiza ese desplazamiento; y la unidad de estudio del desplazamiento de las personas y sus bienes es el {4}.",
+    "banco": [
+      "práctica",
+      "territorio",
+      "transporte",
+      "viaje",
+      "accesibilidad",
+      "espacio absoluto",
+      "flujo"
+    ],
+    "huecos": [
+      {
+        "id": "1",
+        "correcta": 0,
+        "explicacion": "Definición propuesta: la movilidad es una práctica social de desplazamiento en el territorio."
+      },
+      {
+        "id": "2",
+        "correcta": 1,
+        "explicacion": "El desplazamiento ocurre en el territorio."
+      },
+      {
+        "id": "3",
+        "correcta": 2,
+        "explicacion": "El transporte es el medio o vector que realiza el desplazamiento."
+      },
+      {
+        "id": "4",
+        "correcta": 3,
+        "explicacion": "La unidad de estudio del desplazamiento de personas y bienes es el viaje."
+      }
+    ],
+    "concepto": "Movilidad, transporte y viaje",
+    "nivel": "contraste",
+    "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, pp. 65-66"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Complete las tres formas de la movilidad que distingue Lévy (2001) con los términos del banco.",
+    "texto": "Lévy (2001) distingue la movilidad como {1}, que refiere a la accesibilidad; como {2}, el arbitraje entre la movilidad ofrecida y la efectiva; y como {3}, el capital social de la persona.",
+    "banco": [
+      "posibilidad",
+      "competencia",
+      "capital",
+      "performance",
+      "viaje"
+    ],
+    "huecos": [
+      {
+        "id": "1",
+        "correcta": 0,
+        "explicacion": "Como posibilidad: refiere a la accesibilidad, la movilidad ofrecida a través del transporte."
+      },
+      {
+        "id": "2",
+        "correcta": 1,
+        "explicacion": "Como competencia: el arbitraje entre la movilidad como posibilidad y la efectiva."
+      },
+      {
+        "id": "3",
+        "correcta": 2,
+        "explicacion": "Como capital: el capital social del individuo, que le permite desplegar mejor sus estrategias."
+      }
+    ],
+    "concepto": "Tres movilidades de Lévy",
+    "nivel": "contraste",
+    "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 65"
   }
 ]

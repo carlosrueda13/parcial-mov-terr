@@ -6,7 +6,7 @@ export type Nivel = 'contraste' | 'aplicacion' | 'interpretacion' | 'calculo' | 
 export type Pregunta = {
   id: string;
   n_ficha: number | null;
-  tipo: 'vf' | 'abierta' | 'mcq' | 'vfbloque';
+  tipo: 'vf' | 'abierta' | 'mcq' | 'vfbloque' | 'completar';
   enunciado: string;
   respuesta: string | null;
   referencia: string | null;
@@ -15,6 +15,12 @@ export type Pregunta = {
   explicacion?: string;
   // Solo mcq (comprensión): se barajan al mostrarlas.
   afirmaciones?: Afirmacion[]; // solo vfbloque
+  // Solo completar: huecos con su respuesta (índice en banco), texto con {id} y figura con marcadores.
+  huecos?: Hueco[];
+  banco?: string[];
+  texto?: string;
+  figura?: string;
+  ocultos?: string[];
   opciones?: string[];
   correcta?: number;
   errores?: (string | null)[];
@@ -22,6 +28,7 @@ export type Pregunta = {
   nivel?: Nivel;
   clase?: string | null;
 };
+export type Hueco = { id: string; correcta: number; explicacion: string };
 export type Afirmacion = { texto: string; verdadera: boolean; explicacion: string };
 export type Trampa = { id: string; n_ficha: number; grupo: string | null; texto: string; referencia: string | null };
 export type Par = { id: string; par: string; diferencia: string };
@@ -47,6 +54,7 @@ export type FilaIndice = {
   pares: number;
   respondibles: number;
   mcq?: number;
+  completar?: number;
   vf: number;
   vf_directas: number;
 };
@@ -73,11 +81,14 @@ export type Item = {
   concepto?: string;
   nivel?: Nivel;
   clase?: string | null;
+  // Figura (esquema) que acompaña a la pregunta; ver components/Figura.tsx.
+  figura?: string;
 } & (
   | { tipo: 'vf'; verdadera: boolean }
   | { tipo: 'abierta' }
   | { tipo: 'opcion'; opciones: string[]; correcta: number; errores?: (string | null)[] }
   | { tipo: 'vfbloque'; afirmaciones: Afirmacion[] }
+  | { tipo: 'completar'; huecos: Hueco[]; banco: string[]; texto?: string; ocultos?: string[] }
 );
 
 export const TIPO_PREGUNTA: Record<Item['tipo'], string> = {
@@ -85,6 +96,7 @@ export const TIPO_PREGUNTA: Record<Item['tipo'], string> = {
   abierta: 'Abierta',
   opcion: 'Selección única',
   vfbloque: 'Bloque de afirmaciones V/F',
+  completar: 'Completar o ubicar',
 };
 
 export const NOMBRE_NIVEL: Record<Nivel, string> = {
@@ -139,9 +151,13 @@ export function itemsDe(b: Banco): Item[] {
         id: p.id, semana: b.semana, lectura: b.lectura,
         enunciado: p.enunciado, respuesta: p.respuesta as string, referencia: p.referencia,
         explicacion: p.explicacion ?? null, concepto: p.concepto, nivel: p.nivel, clase: p.clase ?? null,
+        ...(p.figura ? { figura: p.figura } : {}),
       };
       if (p.tipo === 'mcq' && p.opciones && typeof p.correcta === 'number') {
         return { ...base, tipo: 'opcion', opciones: p.opciones, correcta: p.correcta, errores: p.errores };
+      }
+      if (p.tipo === 'completar' && p.huecos?.length && p.banco?.length) {
+        return { ...base, tipo: 'completar', huecos: p.huecos, banco: p.banco, texto: p.texto, ocultos: p.ocultos };
       }
       if (p.tipo === 'vfbloque' && p.afirmaciones?.length) {
         return { ...base, tipo: 'vfbloque', afirmaciones: p.afirmaciones };

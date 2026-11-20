@@ -484,5 +484,135 @@
     "concepto": "Acciones, Werlen y objetos",
     "nivel": "contraste",
     "referencia": "Santos (2000), La naturaleza del espacio, cap. 2"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Complete la definición del espacio geográfico de Santos con los términos del banco.",
+    "texto": "Para Santos, el espacio es un conjunto {1}, solidario y también contradictorio, de sistemas de {2} y de sistemas de {3}, que no se consideran por separado sino como el {4} único en el que se realiza la historia.",
+    "banco": [
+      "indisoluble",
+      "objetos",
+      "acciones",
+      "contexto",
+      "historia",
+      "naturaleza"
+    ],
+    "huecos": [
+      {
+        "id": "1",
+        "correcta": 0,
+        "explicacion": "El conjunto es indisoluble, solidario y también contradictorio."
+      },
+      {
+        "id": "2",
+        "correcta": 1,
+        "explicacion": "Primer sistema: los sistemas de objetos."
+      },
+      {
+        "id": "3",
+        "correcta": 2,
+        "explicacion": "Segundo sistema: los sistemas de acciones."
+      },
+      {
+        "id": "4",
+        "correcta": 3,
+        "explicacion": "Ambos se consideran no por separado, sino como el contexto único en el que se realiza la historia."
+      }
+    ],
+    "concepto": "Definición del espacio geográfico",
+    "nivel": "contraste",
+    "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, p. 54"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Complete las tres propuestas sucesivas de objeto de estudio de Santos con los términos del banco.",
+    "texto": "Santos propone aproximaciones sucesivas: primero los {1} y flujos (1978); luego la {2} territorial y las relaciones sociales (1988); y finalmente los sistemas de {3} y de {4}.",
+    "banco": [
+      "fijos",
+      "configuración",
+      "objetos",
+      "acciones",
+      "redes",
+      "verticalidades"
+    ],
+    "huecos": [
+      {
+        "id": "1",
+        "correcta": 0,
+        "explicacion": "La primera hipótesis (1978): el espacio como conjunto de fijos y flujos."
+      },
+      {
+        "id": "2",
+        "correcta": 1,
+        "explicacion": "La segunda (1988): configuración territorial y relaciones sociales."
+      },
+      {
+        "id": "3",
+        "correcta": 2,
+        "explicacion": "La propuesta actual: sistemas de objetos..."
+      },
+      {
+        "id": "4",
+        "correcta": 3,
+        "explicacion": "...y sistemas de acciones."
+      }
+    ],
+    "concepto": "Propuestas de objeto de la geografía",
+    "nivel": "contraste",
+    "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, pp. 53-54"
+  },
+  {
+    "tipo": "completar",
+    "enunciado": "Complete la distinción entre cosas y objetos con los términos del banco.",
+    "texto": "Se distingue entre {1}, producto de una elaboración natural, y {2}, producto de una elaboración social. Hoy los hombres usan las cosas con intenciones sociales y estas pasan a ser objetos: la {3} se vuelve sistema de objetos.",
+    "banco": [
+      "cosas",
+      "objetos",
+      "naturaleza",
+      "acciones",
+      "flujos"
+    ],
+    "huecos": [
+      {
+        "id": "1",
+        "correcta": 0,
+        "explicacion": "Las cosas son producto de una elaboración natural, don de la naturaleza."
+      },
+      {
+        "id": "2",
+        "correcta": 1,
+        "explicacion": "Los objetos son producto de una elaboración social, resultado del trabajo."
+      },
+      {
+        "id": "3",
+        "correcta": 2,
+        "explicacion": "El movimiento ecológico completa la desnaturalización de la naturaleza al darle un valor."
+      }
+    ],
+    "concepto": "Cosas y objetos",
+    "nivel": "contraste",
+    "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, pp. 55-56"
+  },
+  {
+    "enunciado": "Según el capítulo, ¿cuál NO describe la relación entre los sistemas de objetos y los sistemas de acciones?",
+    "opciones": [
+      "Los sistemas de objetos condicionan la forma en que se dan las acciones.",
+      "El sistema de acciones lleva a crear objetos nuevos o se realiza sobre objetos preexistentes.",
+      "Los sistemas de objetos son independientes de las acciones y pueden estudiarse aislados.",
+      "De esa interacción el espacio encuentra su dinámica y se transforma.",
+      "Los objetos, vistos separados de los sistemas de acciones, no tienen realidad filosófica."
+    ],
+    "correcta": 2,
+    "explicacion": "Los objetos no tienen realidad filosófica separados de los sistemas de acciones, y los sistemas de acciones no se dan sin los sistemas de objetos. Se condicionan mutuamente y así el espacio se transforma.",
+    "errores": [
+      "Sí la describe: los objetos condicionan las acciones.",
+      "Sí la describe.",
+      null,
+      "Sí la describe.",
+      "Sí la describe."
+    ],
+    "concepto": "Interacción objetos-acciones",
+    "nivel": "contraste",
+    "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, pp. 54-55"
   }
 ]
