@@ -1,0 +1,378 @@
+[
+  {
+    "enunciado": "¿Cómo interpretan los autores lo que parecía una menor concentración de las grandes ciudades colombianas desde 1973?",
+    "opciones": [
+      "Como un cambio de la unidad de concentración: la fuerza de aglomeración de la ciudad se amplía a su zona metropolitana.",
+      "Como una desconcentración real de la población hacia las ciudades intermedias, que rompe la jerarquía urbana del país.",
+      "Como la pérdida de primacía de Bogotá, que ya no es la primera ciudad del sistema urbano colombiano desde 1973.",
+      "Como un error de medición de los censos de 1993 y 2005, que subestimaron la población de las ciudades núcleo.",
+      "Como el resultado de la política de descentralización, que dispersó la actividad económica hacia los municipios rurales."
+    ],
+    "correcta": 0,
+    "explicacion": "Lo que parecía una disminución de la concentración urbana de las grandes ciudades puede interpretarse como un cambio de la unidad de concentración territorial, de la ciudad-municipio a la zona metropolitana, donde la fuerza de aglomeración se amplía. Con la zona metropolitana como unidad, la jerarquía de las cuatro mayores se conserva.",
+    "errores": [
+      null,
+      "Con la zona metropolitana como unidad, la jerarquía de las grandes ciudades se conserva.",
+      "Bogotá conserva y consolida su primacía; lo que se transforma es la cuadricefalia.",
+      "El texto lo explica por el cambio de unidad de análisis, no por errores censales.",
+      "El texto no lo atribuye a la política de descentralización."
+    ],
+    "concepto": "Cambio de la unidad de concentración",
+    "nivel": "interpretacion",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, pp. 30-32"
+  },
+  {
+    "enunciado": "El IIM de una zona metropolitana cuyo núcleo tiene 1.000 habitantes y cuyos municipios metropolizados suman 600 es:",
+    "opciones": [
+      "1,6, un valor entre 1 y 2, porque IIM = (N + M) / N = (1.000 + 600) / 1.000.",
+      "0,6, un valor menor que 1, porque el IIM es la razón entre los municipios y el núcleo.",
+      "2,67, un valor mayor que 2, porque los municipios superan en población al núcleo.",
+      "1,0, un valor igual a 1, porque todavía no hay dinámicas metropolitanas en el sistema.",
+      "2,0, un valor igual a 2, porque los municipios metropolizados igualan en población al núcleo."
+    ],
+    "correcta": 0,
+    "explicacion": "IIM = AM / N = (N + M) / N = 1 + M/N, con AM el área metropolitana, N el núcleo y M los municipios metropolizados. Aquí (1.000 + 600) / 1.000 = 1,6. IIM = 1 equivale a M = 0; IIM = 2, a M = N; IIM mayor que 2, a M mayor que N.",
+    "errores": [
+      null,
+      "El IIM es AM / N = 1 + M/N, que nunca es menor que 1.",
+      "Se dividió el núcleo entre los municipios y se sumó mal; el IIM es (1.000 + 600) / 1.000.",
+      "El IIM es 1 solo cuando no hay municipios metropolizados (M = 0).",
+      "Para que IIM sea 2, M debería ser igual a N."
+    ],
+    "concepto": "Cálculo del IIM",
+    "nivel": "calculo",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, p. 32 (Ecuación 1)"
+  },
+  {
+    "enunciado": "Un IIM igual a 2 con pendiente positiva en la Fase III de la Tabla 2 indica que:",
+    "opciones": [
+      "Los municipios tienen un tamaño similar al del núcleo, pero ahora son ellos los que crecen más rápido.",
+      "El núcleo ha igualado el tamaño de los municipios y sigue creciendo más rápido que ellos, que crecen más despacio.",
+      "Los municipios metropolizados superan en población al núcleo, que perdió su condición de cabeza urbana.",
+      "Aún no empieza el crecimiento acelerado de los municipios y no hay dinámicas metropolitanas importantes.",
+      "El núcleo mantiene una población significativamente mayor que la de los municipios, y algunos pueden conurbarse con él."
+    ],
+    "correcta": 0,
+    "explicacion": "En la Fase III (consolidación metropolitana), con IIM igual a 2 y pendiente positiva, el tamaño de los municipios es similar al del núcleo, pero son los municipios los que crecen más rápido; el núcleo suele seguir siendo cabeza urbana, aunque la expansión de los municipios puede restarle atractivos.",
+    "errores": [
+      null,
+      "Eso describe el IIM igual a 2 con pendiente negativa de la Fase I.",
+      "Eso es IIM mayor que 2, y el núcleo no necesariamente deja de ser la cabeza urbana.",
+      "Eso describe el IIM igual a 1.",
+      "Eso corresponde a un IIM entre 1 y 2 con pendiente negativa (Fase II)."
+    ],
+    "concepto": "Lectura de la Tabla 2",
+    "nivel": "interpretacion",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, pp. 33-34 (Tabla 2)"
+  },
+  {
+    "enunciado": "Un IIM mayor que 2 puede aparecer tanto en la Fase I como en la Fase III de la Tabla 2. ¿Qué distingue una de otra?",
+    "opciones": [
+      "La pendiente: negativa en la Fase I (el núcleo crece más rápido) y positiva en la Fase III (crecen más rápido los municipios).",
+      "La pendiente: positiva en la Fase I (los municipios crecen más rápido) y negativa en la Fase III (el núcleo crece más rápido).",
+      "El valor del IIM: en la Fase I es mayor que 3 y en la Fase III es apenas superior a 2.",
+      "El tamaño del núcleo: en la Fase I el núcleo es mayor que los municipios y en la Fase III es igual a ellos.",
+      "La existencia de ordenanza: la Fase I corresponde a zonas legalmente constituidas y la Fase III a las no constituidas."
+    ],
+    "correcta": 0,
+    "explicacion": "En la Fase I (consolidación de la concentración urbana), un IIM mayor que 2 tiene pendiente negativa: el núcleo crece más rápido que los municipios. En la Fase III (consolidación metropolitana), con IIM mayor que 2 y pendiente positiva, los municipios superan en población al núcleo y crecen más rápido. Lo que distingue la fase es la pendiente.",
+    "errores": [
+      null,
+      "Está invertida.",
+      "El valor es el mismo; lo que distingue la fase es la pendiente.",
+      "Con IIM mayor que 2, los municipios superan al núcleo en ambas fases.",
+      "Las fases no dependen de la constitución legal de la zona."
+    ],
+    "concepto": "Fases y pendiente del IIM",
+    "nivel": "contraste",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, pp. 32-34 (Tabla 2)"
+  },
+  {
+    "enunciado": "¿Cuál emparejamiento entre período y rasgo corresponde al modelo teórico del IIM para las siete zonas metropolitanas?",
+    "opciones": [
+      "1938-1973: consolidación de la urbanización que culmina en la transición a la metropolización, con pendientes positivas.",
+      "1918-1938: consolidación de la metropolización, con municipios metropolizados más grandes que el núcleo en cada censo.",
+      "1938-1973: crecimiento lento de las ciudades, con definición de la jerarquía urbana y sin metropolización.",
+      "1973-2005: crecimiento lento de las ciudades, con pendientes negativas del IIM en todas las zonas del país.",
+      "1973-2005: estancamiento de la metropolización por la desaparición de la cuadricefalia urbana en las grandes ciudades."
+    ],
+    "correcta": 0,
+    "explicacion": "Tres períodos: 1918-1938, crecimiento lento, jerarquía en definición, IIM con tasas negativas (el núcleo mayor que los municipios); 1938-1973, consolidación del proceso de urbanización y quiebre en las curvas del IIM hacia pendientes positivas; 1973-2005, cambio demográfico y económico del país y consolidación de la metropolización en las grandes ciudades.",
+    "errores": [
+      null,
+      "En 1918-1938 el núcleo era significativamente mayor y las pendientes eran negativas.",
+      "Eso es de 1918-1938.",
+      "Después de 1973 la metropolización se consolida y las pendientes son positivas.",
+      "Es el período de consolidación de la metropolización en las grandes ciudades."
+    ],
+    "concepto": "Tres períodos del IIM",
+    "nivel": "contraste",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, p. 35"
+  },
+  {
+    "enunciado": "En la Fig. 6, que representa la evolución teórica del IIM con curvas en forma de U, ¿qué indican las curvas a, c, d y e?",
+    "opciones": [
+      "a: pasaron rápido por el proceso; c: procesos más extendidos; d: ya inmersas en dinámicas metropolitanas; e: tienden a no alcanzar la metropolización.",
+      "a: procesos más extendidos; c: pasaron rápido por el proceso; d: tienden a no alcanzar la metropolización; e: ya inmersas en dinámicas metropolitanas.",
+      "a, c, d y e: ciudades que pasaron de la consolidación urbana a la consolidación metropolitana, a distinta velocidad.",
+      "a y c: ciudades con IIM menor que 1; d y e: ciudades con IIM mayor que 3, sin cambio de pendiente a lo largo del tiempo.",
+      "a: curva más abierta, de procesos largos; c: curva más cerrada, de procesos rápidos; d y e: núcleos que pierden población."
+    ],
+    "correcta": 0,
+    "explicacion": "El grado de convexidad muestra la velocidad: las curvas más cerradas (a) son de zonas que pasaron más rápido por el proceso; las más abiertas (c), de procesos más extendidos en el tiempo. a, b y c pasaron de consolidación urbana a metropolitana. Las que no muestran un punto de inflexión claro son dos casos de maduración metropolitana: la línea e, ciudades que tienden a no alcanzar la metropolización, y la línea d, ciudades ya inmersas en dinámicas metropolitanas.",
+    "errores": [
+      null,
+      "Las curvas a y c, y d y e, están invertidas.",
+      "Solo a, b y c pasaron de la consolidación urbana a la metropolitana.",
+      "El IIM no es menor que 1 y las curvas se leen por su convexidad.",
+      "La curva cerrada (a) es la rápida y la abierta (c) la extendida."
+    ],
+    "concepto": "Convexidad de las curvas del IIM",
+    "nivel": "interpretacion",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, pp. 33-34 (Fig. 6)"
+  },
+  {
+    "enunciado": "¿Cuál afirmación sobre los casos de la Fig. 7 (IIM 1918-2005) es correcta?",
+    "opciones": [
+      "Bucaramanga alcanzó la consolidación metropolitana más rápido del país, mientras Cali aún no evidencia un claro paso a esa fase.",
+      "Cali alcanzó la consolidación metropolitana más rápido del país, mientras Bucaramanga aún no evidencia un claro paso a esa fase.",
+      "Pereira y Cúcuta pasaron por las tres fases en el mismo tiempo que Medellín y Barranquilla, con la misma intensidad.",
+      "Bogotá no ha tenido ningún momento de metropolización, porque su núcleo supera siempre al de las demás zonas.",
+      "Medellín y Barranquilla cumplieron las tres fases en tiempos distintos entre sí, y ambas con igual intensidad que Bucaramanga."
+    ],
+    "correcta": 0,
+    "explicacion": "Bucaramanga pasó por las tres fases y alcanzó la consolidación metropolitana más rápido (curva cerrada). Medellín y Barranquilla cumplieron las tres fases en el mismo tiempo, pero a menor intensidad. Bogotá llegó a un primer momento en 1954 y amplió sus límites jurisdiccionales. Cali aún no evidencia un claro paso. Pereira y Cúcuta parecen haber surgido inmersas en procesos metropolitanos.",
+    "errores": [
+      null,
+      "Está invertido.",
+      "Pereira y Cúcuta parecen haber surgido inmersas en fuertes procesos metropolitanos.",
+      "Bogotá llegó a un primer momento de metropolización en 1954 y amplió sus límites.",
+      "Las cumplieron en el mismo tiempo, pero a menor intensidad; Bucaramanga fue la más rápida."
+    ],
+    "concepto": "Casos de la Fig. 7",
+    "nivel": "contraste",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, p. 35"
+  },
+  {
+    "enunciado": "¿Qué ocurre con la cuadricefalia urbana (Bogotá, Medellín, Cali y Barranquilla) según la unidad de análisis que se use?",
+    "opciones": [
+      "Con la ciudad-municipio se transforma y desaparece desde 1973; con la zona metropolitana, las cuatro conservan su posición.",
+      "Con la ciudad-municipio se mantiene sin cambios desde 1951; con la zona metropolitana, desaparece desde 1973.",
+      "Con ambas unidades desaparece desde 1973, porque Bogotá concentra cada vez más población en su núcleo.",
+      "Con ambas unidades se conserva igual, porque las tendencias de largo plazo no dependen de la unidad elegida.",
+      "Con la ciudad-municipio se conserva, y con la zona metropolitana Cali y Medellín invierten su orden en la jerarquía."
+    ],
+    "correcta": 0,
+    "explicacion": "Desde la ciudad-municipio, la cuadricefalia 'ha ido transformándose y desapareciendo' desde 1973 (ruptura visible en 1985). Desde la zona metropolitana, las cuatro aglomeraciones no cambian su posicionamiento y reafirman su importancia: la jerarquía metropolitana es más estable que la de ciudades-municipio.",
+    "errores": [
+      null,
+      "Es al revés: desaparece con la ciudad-municipio y se conserva con la zona metropolitana.",
+      "Con la zona metropolitana, las cuatro aglomeraciones reafirman su importancia.",
+      "El texto muestra que el resultado depende de la unidad: desde lo urbano cambia.",
+      "Desde lo metropolitano el orden sigue siendo Bogotá, Medellín, Cali y Barranquilla."
+    ],
+    "concepto": "Cuadricefalia según la unidad",
+    "nivel": "contraste",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, pp. 26-31"
+  },
+  {
+    "enunciado": "La razón entre Bogotá y Medellín es de cerca de 3 a nivel urbano (ciudad-municipio) y de poco más de 2 a nivel metropolitano. ¿Qué indica este cambio?",
+    "opciones": [
+      "Que desaparece la desproporción aparente del núcleo de Bogotá: es el primer ejemplo claro de consolidación metropolitana.",
+      "Que Bogotá pierde primacía frente a Medellín, porque la zona metropolitana de Medellín crece más que la de Bogotá.",
+      "Que Medellín pasa a ser la primera ciudad del país, porque su zona metropolitana supera en población a la de Bogotá.",
+      "Que los datos de 1993 y 2005 son inconsistentes, porque una misma ciudad no puede tener dos razones de tamaño.",
+      "Que Bogotá no se ha metropolizado, y que la diferencia depende solo de que Medellín es un núcleo más grande."
+    ],
+    "correcta": 0,
+    "explicacion": "Como área metropolitana, la primacía de Bogotá crece, y la diferencia con Medellín se reduce: a nivel urbano la relación era del triple y en el agregado metropolitano es un poco más del doble. Se debe a que desaparece la desproporción aparente del núcleo de Bogotá; es el primer claro ejemplo de consolidación de procesos metropolitanos.",
+    "errores": [
+      null,
+      "La primacía de Bogotá como área metropolitana crece; solo se reduce la diferencia con Medellín.",
+      "Bogotá representa un poco más del doble de la zona metropolitana de Medellín.",
+      "Las dos razones usan unidades distintas: ciudad-municipio y zona metropolitana.",
+      "El texto lo cita como el primer ejemplo claro de consolidación de procesos metropolitanos."
+    ],
+    "concepto": "Bogotá y Medellín",
+    "nivel": "interpretacion",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, p. 30"
+  },
+  {
+    "enunciado": "En las regresiones de rango-tamaño, beta pasa de −0,88 (1993) a −0,947 (2005) con municipios, y de −0,892 a −0,973 con zonas metropolitanas. ¿Qué concluyen los autores?",
+    "opciones": [
+      "Que el sistema tiende a un ajuste de equilibrio espacial (beta teórico −1), y la zona metropolitana lo explica mejor.",
+      "Que el sistema urbano se aleja del equilibrio espacial, porque beta se hace menos negativo con el paso del tiempo.",
+      "Que los municipios ajustan mejor que las zonas metropolitanas, porque su beta de 2005 queda más cerca de −1.",
+      "Que el equilibrio ya se alcanzó en 2005 en las zonas metropolitanas, porque beta es exactamente −1.",
+      "Que la jerarquía desaparece, porque beta se acerca a cero cuando se usa la zona metropolitana como unidad."
+    ],
+    "correcta": 0,
+    "explicacion": "Con 1.014 municipios, beta pasa de −0,88 a −0,947; con zonas metropolitanas, de −0,892 a −0,973. El coeficiente se acerca a −1: 'el sistema urbano colombiano tiende a un ajuste de equilibrio espacial', y la zona metropolitana lo explica mejor por beta (aunque el r² ajustado metropolitano es ligeramente menor).",
+    "errores": [
+      null,
+      "Beta se acerca a −1: el sistema tiende al ajuste.",
+      "Es al revés: el beta metropolitano de 2005 (−0,973) queda más cerca de −1 que el de municipios (−0,947).",
+      "El beta metropolitano de 2005 es −0,973, cercano pero distinto de −1.",
+      "Beta se acerca a −1, no a cero."
+    ],
+    "concepto": "Regresiones rango-tamaño",
+    "nivel": "interpretacion",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, pp. 29 y 31"
+  },
+  {
+    "enunciado": "¿Cuál emparejamiento entre período del IPT de Bogotá y rasgo, según el artículo, es correcto?",
+    "opciones": [
+      "Consolidación republicana (1820-1870): disminuye la primacía de Bogotá, por la inestabilidad posterior a la independencia.",
+      "Consolidación republicana (1820-1870): aumenta la primacía de Bogotá, por el café y el éxito económico de la hacienda.",
+      "Expansión comercial (1870-1918): disminuye la primacía de Bogotá, por la inestabilidad política y económica del país.",
+      "Industrialización (1920-1993): la primacía de Bogotá se mantiene sin cambios por la persistencia de la cuadricefalia urbana.",
+      "Acomodamiento (1973-1993): Bogotá pierde la primacía y deja de ser la primera ciudad del sistema urbano nacional."
+    ],
+    "correcta": 0,
+    "explicacion": "Consolidación republicana (1820-1870): disminuye la primacía; expansión comercial (1870-1918): aumenta (inserción internacional, café, hacienda); industrialización (1920-1993): incremento considerable; y un cuarto período de acomodamiento (1973-1993, extendido por los autores a 1973-2005) con menor crecimiento del IPT, sin perder la creciente primacía.",
+    "errores": [
+      null,
+      "Eso corresponde a la expansión comercial (1870-1918).",
+      "En ese período aumenta la primacía de Bogotá.",
+      "Hay un incremento considerable de la participación de Bogotá.",
+      "Disminuye la tasa de crecimiento del IPT, 'sin que por ello se haya perdido la creciente primacía de Bogotá'."
+    ],
+    "concepto": "Períodos del IPT de Bogotá",
+    "nivel": "contraste",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, p. 26"
+  },
+  {
+    "enunciado": "En las cuatro categorías de ciudades del artículo, ¿cuál es la composición correcta?",
+    "opciones": [
+      "Primera metrópoli: Bogotá; grandes metrópolis: Cali, Medellín y Barranquilla; emergentes: Cartagena, Cúcuta, Bucaramanga y Pereira.",
+      "Primera metrópoli: Bogotá y Medellín; grandes metrópolis: Cali y Barranquilla; emergentes: Cartagena, Cúcuta, Bucaramanga y Pereira.",
+      "Primera metrópoli: Bogotá; grandes metrópolis: Cali, Medellín y Bucaramanga; emergentes: Barranquilla, Cartagena, Cúcuta y Pereira.",
+      "Primera metrópoli: Bogotá; grandes metrópolis: Cali y Medellín; emergentes: Barranquilla, Cartagena, Cúcuta, Bucaramanga y Pereira.",
+      "Primera metrópoli: Bogotá; grandes metrópolis: Cali, Medellín y Barranquilla; emergentes: Soledad, Ibagué, Cúcuta y Pereira."
+    ],
+    "correcta": 0,
+    "explicacion": "Cuatro categorías: primera metrópoli nacional (Bogotá); grandes metrópolis (Cali, Medellín y Barranquilla); ciudades metropolitanas emergentes (Cartagena, Cúcuta, Bucaramanga y Pereira, esta última por ser núcleo de un área mayor); e intermedias-pequeñas (el resto, no consideradas en el estudio).",
+    "errores": [
+      null,
+      "Bogotá es la única primera metrópoli nacional.",
+      "Barranquilla es gran metrópoli, y Bucaramanga es emergente.",
+      "Barranquilla está en grandes metrópolis, aunque se rezague como ciudad-municipio.",
+      "Soledad e Ibagué superan en tamaño a Pereira, pero no son de las emergentes."
+    ],
+    "concepto": "Categorías de ciudades",
+    "nivel": "contraste",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, pp. 27-28"
+  },
+  {
+    "enunciado": "Respecto a las zonas metropolitanas de la Tabla 1, ¿cuál afirmación es correcta?",
+    "opciones": [
+      "Se analizan siete zonas, cinco constituidas legalmente por ordenanza; Bogotá y Cali no lo están.",
+      "Se analizan siete zonas, todas constituidas legalmente por ordenanza, incluidas Bogotá y Cali.",
+      "Se analizan cinco zonas, y las dos no constituidas se excluyen, porque no tienen datos de población.",
+      "Se analizan siete zonas, y el Valle de Aburrá tiene a Envigado como núcleo, por ser su municipio de mayor población.",
+      "Se analizan siete zonas, y la de Bogotá está constituida por ordenanza desde 1981, con 21 municipios metropolitanos."
+    ],
+    "correcta": 0,
+    "explicacion": "Siete zonas: Valle de Aburrá, Bucaramanga, Barranquilla, Cúcuta, Centro Occidente, Bogotá y Cali. Cinco están constituidas legalmente; Bogotá (17 municipios metropolitanos) y Cali (4) no, pero evidencian procesos importantes de metropolización. En el Valle de Aburrá, el núcleo es Medellín y Envigado no está incluido.",
+    "errores": [
+      null,
+      "Bogotá y Cali no están constituidas legalmente.",
+      "Las siete zonas se analizan; dos no están constituidas, pero evidencian procesos metropolitanos.",
+      "El núcleo del Valle de Aburrá es Medellín, y Envigado no está incluido.",
+      "Bogotá no está constituida legalmente; sus 17 municipios metropolitanos figuran en la Tabla 1 sin ordenanza."
+    ],
+    "concepto": "Zonas metropolitanas",
+    "nivel": "contraste",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, pp. 29-30 (Tabla 1)"
+  },
+  {
+    "enunciado": "¿Qué diferencia hay entre el IIM y el Índice de Metropolización de Alfonso?",
+    "opciones": [
+      "El IIM es un cociente de poblaciones con evolución en el tiempo; el de Alfonso usa matrices origen-destino de trabajadores en un año.",
+      "El IIM usa matrices origen-destino de trabajadores; el de Alfonso es un cociente de poblaciones con evolución en el tiempo.",
+      "Ambos miden la evolución de la integración entre núcleo y municipios en todo el siglo XX, con los mismos datos.",
+      "El IIM mide migraciones pendulares y el de Alfonso mide solamente el peso del núcleo en la población nacional.",
+      "El IIM se calcula con variables económicas, y el de Alfonso, con los datos del censo de 1993 y 2005."
+    ],
+    "correcta": 0,
+    "explicacion": "IIM = IPT metropolitano / IPT urbano = AM / N, sirve para ver la evolución en el tiempo. El Índice de Metropolización de la Población y del Trabajo (Alfonso 2011) parte de matrices origen-destino de trabajadores, evalúa la integración en un año específico y el papel de migraciones permanentes y pendulares, pero no permite ver su evolución.",
+    "errores": [
+      null,
+      "Están invertidos.",
+      "El de Alfonso no permite ver la evolución durante un período.",
+      "El IIM es AM / N, un cociente de poblaciones.",
+      "Los autores no pudieron reproducir el IIM con variables económicas."
+    ],
+    "concepto": "IIM e índice de Alfonso",
+    "nivel": "contraste",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana, pp. 29 y 32"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "Con base en los conceptos del artículo, defina si cada afirmación es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "El IIM es el cociente entre el IPT metropolitano y el IPT urbano.",
+        "verdadera": true,
+        "explicacion": "Equivale a AM / N = 1 + M/N."
+      },
+      {
+        "texto": "Un IIM igual a 1 indica que los municipios metropolizados igualan en población al núcleo.",
+        "verdadera": false,
+        "explicacion": "IIM = 1 equivale a M = 0; la igualdad entre núcleo y municipios corresponde a IIM = 2."
+      },
+      {
+        "texto": "Las zonas metropolitanas se asumen como subsistemas dinámicos dentro del sistema urbano colombiano.",
+        "verdadera": true,
+        "explicacion": "Es el supuesto central, siguiendo a Mori (1997)."
+      },
+      {
+        "texto": "El Índice de Metropolización de Alfonso permite evaluar la evolución de la integración durante un período.",
+        "verdadera": false,
+        "explicacion": "Solo evalúa la integración en un año específico."
+      },
+      {
+        "texto": "Se analizan siete zonas metropolitanas, de las cuales cinco están constituidas legalmente.",
+        "verdadera": true,
+        "explicacion": "Bogotá y Cali no están constituidas."
+      }
+    ],
+    "concepto": "Conceptos: IIM y zonas metropolitanas",
+    "nivel": "contraste",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "Con base en los resultados y las conclusiones, defina si cada afirmación es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "Con la zona metropolitana como unidad, la jerarquía de las grandes ciudades tiende a preservarse y es más estable en el largo plazo.",
+        "verdadera": true,
+        "explicacion": "Las tendencias de cincuenta a ochenta años son más estables que con la ciudad-municipio."
+      },
+      {
+        "texto": "Entre 1993 y 2005 el beta de los municipios se aleja de −1, lo que indica un sistema que se aparta del equilibrio.",
+        "verdadera": false,
+        "explicacion": "Pasa de −0,88 a −0,947: se acerca a −1."
+      },
+      {
+        "texto": "Bucaramanga alcanzó la consolidación metropolitana más rápido del país.",
+        "verdadera": true,
+        "explicacion": "Su curva es cerrada: pasó más rápido por el proceso."
+      },
+      {
+        "texto": "Cali muestra un claro paso a la fase de consolidación metropolitana.",
+        "verdadera": false,
+        "explicacion": "Aún no evidencia un claro paso a esa fase."
+      },
+      {
+        "texto": "Los autores concluyen que la metropolización es un fenómeno reciente en las grandes ciudades colombianas.",
+        "verdadera": false,
+        "explicacion": "Las fases ocurrieron en períodos de varias décadas, y no sería posible medirla como un fenómeno reciente."
+      }
+    ],
+    "concepto": "Resultados de jerarquía y metropolización",
+    "nivel": "contraste",
+    "referencia": "León y Ruiz (2016), El sistema urbano en Colombia y la formación metropolitana"
+  }
+]

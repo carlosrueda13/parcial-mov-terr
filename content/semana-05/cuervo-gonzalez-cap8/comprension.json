@@ -1,0 +1,400 @@
+[
+  {
+    "enunciado": "¿Cómo define el capítulo la primacía urbana, a diferencia del término macrocefalia?",
+    "opciones": [
+      "Como un concepto estadístico, sin connotación de patología: la ciudad mayor sobrepasa los patrones en sentido histórico y sistémico.",
+      "Como una disfuncionalidad propia del capitalismo periférico latinoamericano, de origen médico y con carga normativa negativa.",
+      "Como la ley según la cual la segunda ciudad del país tiene siempre la mitad de la población de la ciudad mayor.",
+      "Como la concentración de la población total en las ciudades de más de un millón de habitantes de cada país.",
+      "Como el exceso de peso económico de la capital política, que siempre debe corregirse con políticas regionales de equilibrio."
+    ],
+    "correcta": 0,
+    "explicacion": "La primacía se define de forma meramente estadística, con un doble sentido histórico y sistémico, sin connotación de patología. La macrocefalia, de origen médico (Castells 1970), implica disfuncionalidad. El capítulo no renuncia a integrar una dimensión normativa, pero solo con evidencia empírica y claridad teórica.",
+    "errores": [
+      null,
+      "Esa es la macrocefalia (Castells 1970), que el capítulo distingue de la primacía.",
+      "Eso se parece a la regla rango-tamaño con q = 1, no a la definición de primacía.",
+      "Es una definición de concentración urbana, no de primacía.",
+      "La primacía no es disfuncionalidad: el capítulo evita ese enfoque normativo."
+    ],
+    "concepto": "Primacía vs macrocefalia",
+    "nivel": "contraste",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, pp. 253 y 289"
+  },
+  {
+    "enunciado": "¿Qué ventaja tiene el IPU frente al IPT y qué inconveniente presenta?",
+    "opciones": [
+      "Aísla el efecto de la urbanización sobre el IPT, pero depende de definiciones de lo urbano muy variables entre países.",
+      "Permite comparar muchos países con series históricas muy largas, pero ignora el peso de la segunda y la tercera ciudades.",
+      "Mide la talla teórica de la ciudad mayor según la función rango-tamaño, pero su cálculo es muy dispendioso.",
+      "Evita el sesgo de las definiciones oficiales de lo urbano, pero no puede calcularse con datos de la población total.",
+      "Mide la velocidad de crecimiento de la primacía, pero solo sirve para comparar décadas con IPT decreciente."
+    ],
+    "correcta": 0,
+    "explicacion": "El IPU divide la población de la primera ciudad entre la población urbana total. Aísla el efecto del proceso de urbanización sobre el IPT, pero la gran variabilidad de las definiciones de lo urbano dificulta las comparaciones internacionales e intertemporales, y hay pocas cifras históricas. El IPT, en cambio, se escogió como el indicador de primacía por excelencia.",
+    "errores": [
+      null,
+      "Esa ventaja es del IPT, no del IPU.",
+      "Eso describe al IPRT, no al IPU.",
+      "El IPU usa justamente la definición oficial de urbano de cada país.",
+      "Eso corresponde al CIC, no al IPU."
+    ],
+    "concepto": "IPT e IPU",
+    "nivel": "contraste",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, pp. 292-293"
+  },
+  {
+    "enunciado": "Si la primera ciudad de un país tiene 6 millones de habitantes y las tres siguientes suman 5 millones, ¿cuánto vale el ICC y qué significa?",
+    "opciones": [
+      "1,2: la primera ciudad es mayor que la suma de las tres siguientes.",
+      "0,83: la primera ciudad es menor que la suma de las tres siguientes.",
+      "1,0: la primera ciudad es igual a la suma de las tres siguientes.",
+      "0,55: la primera ciudad pesa poco más de la mitad de las cuatro ciudades.",
+      "11: la primera ciudad se mide contra la población total de las cuatro ciudades."
+    ],
+    "correcta": 0,
+    "explicacion": "ICC = población de la primera ciudad / población de las tres siguientes (índice de cuatro ciudades). Aquí 6 / 5 = 1,2. Un valor superior a 1 indica que la primera ciudad es mayor que las tres siguientes juntas. Su defecto es que el subconjunto es arbitrario; su virtud, que abunda en las fuentes estadísticas.",
+    "errores": [
+      null,
+      "Se invirtió la razón: es primera ciudad entre las tres siguientes.",
+      "6 / 5 no es igual a 1.",
+      "Se dividió entre la suma de las cuatro ciudades, no entre las tres siguientes.",
+      "El denominador es la suma de las tres ciudades siguientes."
+    ],
+    "concepto": "ICC",
+    "nivel": "calculo",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, p. 293"
+  },
+  {
+    "enunciado": "Una ciudad mayor tiene 8 millones de habitantes y su talla teórica Exp(A) según la función rango-tamaño es 6,4 millones. ¿Cuánto vale el IPRT y qué indica?",
+    "opciones": [
+      "1,25: la ciudad es más grande de lo esperado para el sistema urbano que la sustenta.",
+      "0,80: la ciudad es más pequeña de lo esperado para el sistema urbano que la sustenta.",
+      "1,25: la ciudad tiene el 25 % de la población total del país, que es el nivel normal de primacía.",
+      "1,00: la ciudad tiene exactamente la talla que corresponde a su propio sistema urbano.",
+      "1,60: la ciudad pesa 1,6 veces más que la segunda ciudad del sistema urbano."
+    ],
+    "correcta": 0,
+    "explicacion": "IPRT = población de la primera ciudad / Exp(A). Aquí 8 / 6,4 = 1,25. Si es 1, la talla real coincide con la esperada; si es mayor que 1, la ciudad mayor es excesivamente grande respecto del sistema urbano que la sustenta. Su cálculo es dispendioso y la unidad A cambia, lo que restringe las comparaciones intertemporales.",
+    "errores": [
+      null,
+      "Se invirtió la razón: es la talla real entre la teórica.",
+      "El IPRT no compara con la población del país: compara con Exp(A).",
+      "El IPRT solo vale 1 cuando la talla real coincide con la esperada.",
+      "El IPRT no compara con la segunda ciudad."
+    ],
+    "concepto": "IPRT",
+    "nivel": "calculo",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, p. 294"
+  },
+  {
+    "enunciado": "El IPT de Colombia pasa de 5,76 % en 1950 a 15,74 % en 1990. ¿Cuál es el CIC del período y cómo se interpreta?",
+    "opciones": [
+      "Cerca de 0,25 puntos porcentuales por año: la primacía creció durante el período.",
+      "Cerca de 9,98 puntos porcentuales por año: la primacía creció muy rápido durante el período.",
+      "Cerca de 0,25 puntos porcentuales por año: la primacía decreció durante el período.",
+      "Cerca de 2,7 puntos porcentuales por año: la primacía creció solo desde 1970.",
+      "Cerca de 0,10 puntos porcentuales por año: la primacía se desaceleró en todo el período."
+    ],
+    "correcta": 0,
+    "explicacion": "CIC = (IPT_i − IPT_j) / (i − j) = (15,74 − 5,76) / 40 ≈ 0,25 puntos porcentuales por año (0,0025 de IPT). Por década es 2,78; 3,36; 2,25 y 1,60 milésimas por año: crece hasta 1960-70 y se desacelera desde 1970-80, mientras el IPT sigue subiendo.",
+    "errores": [
+      null,
+      "9,98 es el aumento total; falta dividir entre los 40 años.",
+      "Un CIC positivo indica que la primacía crece.",
+      "No corresponde al cálculo de 40 años de la fórmula del CIC.",
+      "El período completo tiene un CIC de 0,25 y la desaceleración es de 1970-80 en adelante."
+    ],
+    "concepto": "CIC de Colombia",
+    "nivel": "calculo",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, pp. 279-281 y 294"
+  },
+  {
+    "enunciado": "En Colombia el CIC pasa de 3,36 (1960-70) a 2,25 (1970-80) y a 1,60 (1980-90) milésimas por año. ¿Qué indica?",
+    "opciones": [
+      "Una desaceleración: el IPT sigue creciendo, pero cada década más despacio.",
+      "Una disminución de la primacía: el IPT de Bogotá baja en cada una de esas décadas.",
+      "Una estabilización del IPT: Bogotá mantiene su peso demográfico sin cambios entre 1960 y 1990.",
+      "Una aceleración: el CIC más bajo indica que la primera ciudad crece más rápido que el país.",
+      "Una inversión del patrón: el IPT cae hasta 1970 y se recupera después, como en Argentina."
+    ],
+    "correcta": 0,
+    "explicacion": "CIC > 0 significa que la primacía crece; CIC < 0, que decrece. Que el CIC baje sin hacerse negativo es desaceleración: el IPT sigue aumentando, más despacio. En Colombia el IPT va de 11,9 % (1970) a 14,1 % (1980) y 15,7 % (1990). Por eso el texto la ubica entre los seis países en desaceleración.",
+    "errores": [
+      null,
+      "El CIC sigue positivo: el IPT crece, aunque más despacio.",
+      "Un CIC positivo indica que el IPT aumenta.",
+      "Un CIC menor indica menor velocidad de crecimiento de la primacía.",
+      "El IPT de Colombia crece en las tres décadas."
+    ],
+    "concepto": "Lectura del CIC",
+    "nivel": "interpretacion",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, pp. 279-281"
+  },
+  {
+    "enunciado": "Según el texto, ¿qué muestra el IPT de los 22 países de la Tabla 8.2 sobre la saturación de la primacía?",
+    "opciones": [
+      "En ocho países el IPT disminuye y en otros seis se desacelera su crecimiento: 14 de los 22.",
+      "En los 22 países el IPT disminuye desde los años setenta, y solo cambia el momento en que se inicia.",
+      "En 14 países el IPT disminuye y en los ocho restantes se desacelera su crecimiento desde 1950.",
+      "En ocho países el IPT disminuye y en los otros 14 sigue creciendo al mismo ritmo de antes.",
+      "En seis países el IPT disminuye y en ocho se desacelera, con México y Colombia entre los primeros."
+    ],
+    "correcta": 0,
+    "explicacion": "IPT en descenso: Cuba (desde 1960-70), Argentina y Venezuela (desde 1970-80), y Uruguay, Guatemala, Nicaragua, El Salvador y México (1980-90). Desaceleración: Costa Rica (desde 1960-70) y Brasil, Chile, Colombia, Perú y Paraguay (desde 1970-80). Los otros ocho países de la tabla no se mencionan. Portes (1989): el ICC bajó en doce de catorce países en los ochenta.",
+    "errores": [
+      null,
+      "El texto menciona 14 de 22 países; los otros ocho no se mencionan.",
+      "Son ocho los que disminuyen y seis los que se desaceleran.",
+      "Seis se desaceleran y ocho no se mencionan.",
+      "Los números están invertidos y Colombia está entre los que se desaceleran."
+    ],
+    "concepto": "Síntomas de saturación",
+    "nivel": "interpretacion",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, pp. 278-279"
+  },
+  {
+    "enunciado": "Según el capítulo, ¿cuál NO es evidencia de pérdida de peso económico de la ciudad mayor?",
+    "opciones": [
+      "Ciudad de México bajó su participación en el PIB nacional de 37,5 % a 33,5 % entre 1960 y 1985.",
+      "Santiago de Chile bajó su participación en el PIB nacional de 49,2 % a 41,5 % entre 1970 y 1988.",
+      "São Paulo bajó su peso en la producción industrial brasileña de 44 % a 30 % entre 1960 y 1990.",
+      "Bogotá subió su participación en el PIB nacional de 20 % en 1984 a 22 % en 1989, por el auge exportador.",
+      "La región central de Venezuela bajó su participación en el valor agregado industrial de 62 % a 40 % entre 1980 y 1992."
+    ],
+    "correcta": 3,
+    "explicacion": "El texto muestra el debilitamiento con cifras: Ciudad de México (PIB 37,5 → 33,5 %), Santiago (49,2 → 41,5 %), Bogotá (22 % en 1984 → 20 % en 1989; en Colombia la tendencia es más reciente), São Paulo (industria 44 → 30 %), empleo manufacturero de Ciudad de México (46 → 37 %) y región central de Venezuela (62 → 40 %).",
+    "errores": [
+      "Sí es evidencia que cita el texto.",
+      "Sí es evidencia que cita el texto.",
+      "Sí es evidencia que cita el texto.",
+      null,
+      "Sí es evidencia que cita el texto."
+    ],
+    "concepto": "Peso económico de la ciudad mayor",
+    "nivel": "contraste",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, p. 279"
+  },
+  {
+    "enunciado": "¿Cuál emparejamiento entre década y rasgo del ciclo macroeconómico latinoamericano es correcto?",
+    "opciones": [
+      "Años ochenta: crisis de la deuda externa, devaluación abrupta, déficit público creciente e hiperinflación.",
+      "Años setenta: crisis de la deuda externa, severa contracción de importaciones y regreso del desempleo y la pobreza.",
+      "Años ochenta: abundancia de capital externo y alza de precios de materias primas, con crecimiento rápido y sostenido.",
+      "Años setenta: privatización y reformas que dieron una nueva oleada de financiamiento externo y revaluación.",
+      "Comienzos de los noventa: cierre definitivo de la sustitución de importaciones, sin proyectos industriales nuevos."
+    ],
+    "correcta": 0,
+    "explicacion": "Tres ciclos: en los setenta, abundancia de capital externo, crecimiento y un segundo aliento a la sustitución de importaciones; en los ochenta, crisis de la deuda, ajuste y retorno de desempleo y pobreza; a fines de los ochenta y comienzos de los noventa, estabilización, reformas, privatización, nueva oleada de capitales y saldos comerciales otra vez negativos.",
+    "errores": [
+      null,
+      "Eso es de los años ochenta; en los setenta hubo abundancia de capital externo.",
+      "Eso es de los años setenta.",
+      "Eso es de finales de los ochenta y comienzos de los noventa.",
+      "En los noventa se renovaron la integración regional y proyectos industriales."
+    ],
+    "concepto": "Tres ciclos macroeconómicos",
+    "nivel": "contraste",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, p. 282"
+  },
+  {
+    "enunciado": "¿Qué efecto espacial tuvo, según el texto, la industrialización sustitutiva que se mantuvo en Brasil, Venezuela y Colombia?",
+    "opciones": [
+      "Desconcentró: la industria pesada (siderurgia, petroquímica) se desarrolló en regiones periféricas.",
+      "Concentró: la industria pesada se localizó en la ciudad mayor, que reforzó su primacía en cada uno de los tres países.",
+      "Desindustrializó las grandes ciudades, como ocurrió en el Cono Sur y en algunos países de América Central.",
+      "No tuvo efecto espacial, porque la sustitución de importaciones desapareció en la década de 1970.",
+      "Concentró el empleo manufacturero en Bogotá, Caracas y São Paulo, como centros de la integración regional."
+    ],
+    "correcta": 0,
+    "explicacion": "Efecto 'paradójicamente' semejante en ambos casos: desconcentración espacial de la industria. Donde se abandonó temprano (Cono Sur y algunos de América Central) hubo desindustrialización que perjudicó sobre todo a las grandes ciudades; donde se mantuvo (Brasil, Venezuela, Colombia), la industria pesada se desarrolló en regiones periféricas.",
+    "errores": [
+      null,
+      "El texto dice lo contrario: la industria pesada fue a regiones periféricas.",
+      "Eso ocurrió donde la sustitución se abandonó tempranamente.",
+      "El texto dice que la sustitución no desapareció: se desarrolló de forma intermitente.",
+      "Se asocia con desconcentración espacial de la industria."
+    ],
+    "concepto": "Estrategia sustitutiva y espacio",
+    "nivel": "causa",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, p. 283"
+  },
+  {
+    "enunciado": "¿Por qué el texto considera a Chile el caso más representativo de la cuarta estrategia (substitución de exportaciones)?",
+    "opciones": [
+      "Porque la liberalización eliminó parte de la industria tradicional de Santiago y expandió exportaciones de recursos naturales.",
+      "Porque mantuvo la sustitución de importaciones con proyectos de siderurgia y petroquímica en regiones periféricas.",
+      "Porque concentró en Santiago las nuevas exportaciones de servicios turísticos y laborales, como en el Caribe.",
+      "Porque aplicó subsidios y manejo de la tasa de cambio, típicos de la promoción de exportaciones de los años sesenta.",
+      "Porque su economía se basó en la renta del petróleo y del níquel consumida e invertida en las grandes ciudades."
+    ],
+    "correcta": 0,
+    "explicacion": "La cuarta estrategia (finales de los ochenta) busca aumentar el comercio exterior mediante su liberalización, reconvertir el aparato productivo por competencia abierta y adaptar las exportaciones a las ventajas naturales. En Chile desaparece parte de la industria tradicional localizada en Santiago y crecen exportaciones de bosques, frutas y minerales: tendencia a localizarse en zonas periféricas.",
+    "errores": [
+      null,
+      "Eso corresponde a Brasil, Venezuela y Colombia, no a Chile.",
+      "El texto asocia los servicios turísticos y laborales con el Caribe y América Central.",
+      "Eso es la segunda estrategia, no la cuarta.",
+      "Eso corresponde a la tercera estrategia (exportaciones primarias)."
+    ],
+    "concepto": "Substitución de exportaciones",
+    "nivel": "contraste",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, pp. 284-285"
+  },
+  {
+    "enunciado": "Según la hipótesis del capítulo sobre el ciclo mundial, ¿cómo se articulan el segmento financiero y el comercial?",
+    "opciones": [
+      "El financiero tiende a ser contracíclico y concentrativo; el comercial, procíclico y desconcentrativo.",
+      "El financiero tiende a ser procíclico y desconcentrativo; el comercial, contracíclico y concentrativo.",
+      "Ambos son procíclicos y concentrativos, porque el crecimiento del Norte favorece a las grandes ciudades.",
+      "Ambos son contracíclicos y desconcentrativos, porque la crisis del Norte beneficia a las regiones periféricas.",
+      "El financiero es sincrónico con el Norte y el comercial simétrico, y los dos son concentrativos."
+    ],
+    "correcta": 0,
+    "explicacion": "El crecimiento del Norte sube la demanda y los precios de las exportaciones (comercial, sincrónico), pero sube las tasas y encarece el crédito (financiero, simétrico o anacrónico). El segmento financiero, ligado a banca, importaciones, inmobiliario y servicios, favorece a las grandes ciudades; el comercial de exportaciones tiende a favorecer a regiones de menor desarrollo relativo.",
+    "errores": [
+      null,
+      "Está invertido.",
+      "El comercial favorece a regiones de menor desarrollo relativo.",
+      "El financiero es concentrativo y el comercial es procíclico.",
+      "El comercial es sincrónico y el financiero simétrico (anacrónico)."
+    ],
+    "concepto": "Ciclo comercial y financiero",
+    "nivel": "interpretacion",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, pp. 285-286"
+  },
+  {
+    "enunciado": "¿Cómo influye la talla del espacio nacional en el impacto espacial de los cambios económicos?",
+    "opciones": [
+      "Los países pequeños son más vulnerables y reciben un impacto más directo, aunque la ciudad mayor puede neutralizarlo.",
+      "Los países pequeños amortiguan los cambios internacionales y los grandes sufren un impacto espacial más directo e inmediato.",
+      "El tamaño no influye: el impacto depende solo del grado de apertura económica, sin importar cuán grande sea el país.",
+      "En los países pequeños el impacto transforma siempre la estructura de la centralidad nacional y debilita la primacía.",
+      "Solo importa la distinción entre América del Sur y México, que son homogéneos, frente a América Central."
+    ],
+    "correcta": 0,
+    "explicacion": "La apertura y el tamaño se relacionan inversamente: los países pequeños son más vulnerables y el impacto es más directo, inmediato y fuerte. Pero la pequeña dimensión también puede neutralizar el impacto geográfico, porque la influencia de la ciudad mayor alcanza todo el espacio nacional y limita a las otras zonas. En la lista de países con primacía decreciente predominan los de menor tamaño.",
+    "errores": [
+      null,
+      "Es lo contrario: apertura y tamaño se relacionan inversamente.",
+      "El texto le da al tamaño un papel importante pero ambivalente.",
+      "El cambio puede afectar las regiones periféricas sin transformar la centralidad.",
+      "La distinción es entre América del Sur y México, y América Central y el Caribe, por su tamaño."
+    ],
+    "concepto": "Talla del espacio nacional",
+    "nivel": "interpretacion",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, p. 287"
+  },
+  {
+    "enunciado": "Según el capítulo, ¿cuál es la diferencia entre actividades de alta productividad (enclave, gran industria, minería) y la agricultura campesina?",
+    "opciones": [
+      "Las primeras cambian la geografía económica sin cambiar la distribución de la población, con impacto de corto plazo reversible.",
+      "Las primeras cambian sobre todo la distribución de la población, con transformaciones estables y duraderas a largo plazo.",
+      "Las dos tienen la misma temporalidad, porque cualquier actividad productiva se integra al territorio de la misma manera.",
+      "Las actividades de enclave desencadenan procesos estables de crecimiento económico y demográfico en la región.",
+      "La agricultura campesina tiene un impacto de corto plazo más visible y más fácilmente reversible que la gran industria."
+    ],
+    "correcta": 0,
+    "explicacion": "Las actividades de alta productividad modifican la geografía económica sin transformar la distribución de la población; su impacto de corto plazo es más visible, más vulnerable al entorno externo y más reversible. La agricultura campesina influye más en la distribución de la población, con efectos más estables y duraderos. Es una hipótesis de trabajo, no una afirmación sólida.",
+    "errores": [
+      null,
+      "Eso describe a la agricultura campesina.",
+      "El texto dice que las temporalidades son muy diferentes y no necesariamente convergentes.",
+      "El enclave produce un impacto inicial fuerte pero no desencadena procesos estables.",
+      "Su impacto de largo plazo es más visible y más estable."
+    ],
+    "concepto": "Temporalidades de los cambios",
+    "nivel": "contraste",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, p. 288"
+  },
+  {
+    "enunciado": "En sus conclusiones, ¿qué distingue el capítulo entre primacía y concentración?",
+    "opciones": [
+      "La primacía es sensible al ritmo del crecimiento económico (Colombia, Japón); la concentración, más permeable a los cambios.",
+      "La primacía es más permeable a las transformaciones económicas que la concentración, que sería mucho más inercial que ella.",
+      "La primacía es insensible a la economía, y la concentración responde únicamente al ritmo de urbanización de cada país.",
+      "La primacía mide el tamaño de la ciudad mayor y la concentración mide únicamente la distribución del ingreso nacional.",
+      "Ambas reaccionan de la misma forma a las transformaciones económicas, por lo que no hace falta distinguir entre ellas."
+    ],
+    "correcta": 0,
+    "explicacion": "Las dos se miden con indicadores distintos: la primacía con IPT, IPU, ICC, IPRT y CIC; la concentración con q (rango-tamaño). Según las conclusiones, aunque la primacía es sensible al ritmo del crecimiento económico (casos de Colombia y Japón), la concentración se mostró más permeable a las transformaciones económicas; hay que ahondar en la distinción.",
+    "errores": [
+      null,
+      "Está invertido.",
+      "El texto dice que la primacía es sensible al ritmo del crecimiento económico.",
+      "La concentración se refiere a la distribución de la población por tamaño de ciudad.",
+      "El capítulo pide ahondar justamente en esa distinción."
+    ],
+    "concepto": "Primacía y concentración",
+    "nivel": "contraste",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, p. 290"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "Con base en los indicadores del anexo metodológico, defina si cada afirmación es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "El IPT es la población de la primera ciudad dividida entre la población total del país.",
+        "verdadera": true,
+        "explicacion": "El IPU divide entre la población urbana total."
+      },
+      {
+        "texto": "El ICC es la población de la primera ciudad dividida entre la suma de las tres ciudades siguientes.",
+        "verdadera": true,
+        "explicacion": "Por eso se le llama índice de cuatro ciudades."
+      },
+      {
+        "texto": "En LogP = A − q LogR, A es la pendiente de la recta y q es la intersección con el eje vertical.",
+        "verdadera": false,
+        "explicacion": "A es la intersección (tamaño teórico de la ciudad mayor) y q es la pendiente."
+      },
+      {
+        "texto": "El valor de q se interpreta en valor absoluto, y su aumento significa mayor concentración urbana.",
+        "verdadera": true,
+        "explicacion": "El libro dice que q toma siempre un valor negativo."
+      },
+      {
+        "texto": "El estudio usa la ciudad político-administrativa de cada época, porque garantiza precisión histórica.",
+        "verdadera": false,
+        "explicacion": "Usa la ciudad funcional actual (conurbación o región metropolitana), sacrificando precisión histórica."
+      }
+    ],
+    "concepto": "Indicadores de primacía y concentración",
+    "nivel": "contraste",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, pp. 291-294"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "Con base en las hipótesis y conclusiones del capítulo, defina si cada afirmación es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "En los años setenta, la abundancia de capital externo dio un segundo aliento a la sustitución de importaciones.",
+        "verdadera": true,
+        "explicacion": "Se emprendieron grandes proyectos industriales y de infraestructura."
+      },
+      {
+        "texto": "El capítulo presenta sus explicaciones como conclusiones probadas, ya contrastadas con evidencia comparativa.",
+        "verdadera": false,
+        "explicacion": "Las presenta como hipótesis y claves de lectura, aún insuficientemente contrastadas."
+      },
+      {
+        "texto": "El IPT de Colombia disminuye desde 1970-80, igual que el de Argentina y Venezuela.",
+        "verdadera": false,
+        "explicacion": "Colombia se desacelera: su IPT sigue subiendo, más despacio."
+      },
+      {
+        "texto": "La colonización de la frontera agrícola en Colombia y Brasil debilita las fuerzas de concentración espacial de la industria.",
+        "verdadera": true,
+        "explicacion": "Consolida la expansión del mercado interno."
+      },
+      {
+        "texto": "Las cuatro estrategias económicas coexisten en la estructura productiva, aunque ideológicamente no son compatibles.",
+        "verdadera": true,
+        "explicacion": "Cada época deja su marca, que permanece junto a las demás."
+      }
+    ],
+    "concepto": "Ciclos, estrategias e hipótesis",
+    "nivel": "contraste",
+    "referencia": "Cuervo y González, cap. 8, Industria y ciudades, pp. 278-289"
+  }
+]

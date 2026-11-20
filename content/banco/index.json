@@ -1,10 +1,10 @@
 {
  "totales": {
-  "preguntas": 1107,
+  "preguntas": 1157,
   "trampas": 751,
   "pares": 325,
-  "mcq": 202,
-  "vfbloque": 21
+  "mcq": 246,
+  "vfbloque": 27
  },
  "lecturas": [
   {
@@ -163,12 +163,12 @@
    "autor": "Luis Mauricio Cuervo y Josefina González",
    "titulo": "Industria y ciudades en la era de la mundialización, capítulo 8: Desarrollo económico y primacía urbana en América Latina. Una visión histórico-comparativa",
    "archivo": "semana-05/cuervo-gonzalez-cap8.json",
-   "preguntas": 48,
+   "preguntas": 65,
    "trampas": 55,
    "pares": 21,
-   "respondibles": 48,
-   "mcq": 0,
-   "vfbloque": 0,
+   "respondibles": 65,
+   "mcq": 15,
+   "vfbloque": 2,
    "vf": 0,
    "vf_directas": 0
   },
@@ -178,12 +178,12 @@
    "autor": "Luis Mauricio Cuervo y Josefina González",
    "titulo": "Industria y ciudades en la era de la mundialización, capítulo 9: Desarrollo económico, urbanización y primacía urbana en Colombia",
    "archivo": "semana-05/cuervo-gonzalez-cap9.json",
-   "preguntas": 72,
+   "preguntas": 89,
    "trampas": 80,
    "pares": 25,
-   "respondibles": 72,
-   "mcq": 0,
-   "vfbloque": 0,
+   "respondibles": 89,
+   "mcq": 15,
+   "vfbloque": 2,
    "vf": 13,
    "vf_directas": 13
   },
@@ -193,12 +193,12 @@
    "autor": "Nohra León y César A. Ruiz",
    "titulo": "El sistema urbano en Colombia y la formación metropolitana: una aproximación desde la Nueva Geografía Económica",
    "archivo": "semana-05/leon-ruiz-2016.json",
-   "preguntas": 48,
+   "preguntas": 64,
    "trampas": 50,
    "pares": 20,
-   "respondibles": 48,
-   "mcq": 0,
-   "vfbloque": 0,
+   "respondibles": 64,
+   "mcq": 14,
+   "vfbloque": 2,
    "vf": 5,
    "vf_directas": 5
   },

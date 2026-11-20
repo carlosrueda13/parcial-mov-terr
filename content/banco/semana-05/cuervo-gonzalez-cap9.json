@@ -679,6 +679,504 @@
    "respuesta": "Antes es difícil mostrarla como determinante de la urbanización; después de esa década su papel es estratégico; es un factor central pero uno entre varios; p. 350.",
    "referencia": "p. 350",
    "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m001",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En las conclusiones, el capítulo caracteriza el sistema socioespacial colombiano con tres rasgos estructurales. ¿Cuál emparejamiento rasgo-descripción es correcto?",
+   "opciones": [
+    "Dualidad: la flexibilidad y la multipolaridad han estado restringidas por una fuerte dualidad entre la costa norte y el interior.",
+    "Multipolaridad: el sistema pasó de la hegemonía incontestable de un centro a la hegemonía incontestable de otro.",
+    "Flexibilidad: capacidad del sistema de mantenerse sin cambios, aislado de la violencia, la migración y los frentes de acumulación.",
+    "Dualidad: la existencia de dos únicas regiones dinámicas, el occidente y el oriente andinos, que se disputan el liderazgo.",
+    "Multipolaridad: el predominio permanente de Bogotá sobre las demás ciudades desde la Independencia, sin relevos regionales."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La multipolaridad es lo contrario: equilibrio relativo entre polos y áreas.",
+    "La flexibilidad es adaptación a cambios, movida por violencia, migraciones y frentes de acumulación.",
+    "La disputa andina existe, pero la dualidad mayor opone la costa norte al interior.",
+    "Hubo relevos de polos y regiones dinámicas, y no hegemonía permanente de Bogotá."
+   ],
+   "respuesta": "Dualidad: la flexibilidad y la multipolaridad han estado restringidas por una fuerte dualidad entre la costa norte y el interior.",
+   "explicacion": "Flexibilidad (adaptación al entorno), multipolaridad (equilibrio relativo entre polos y áreas) y dualidad (costa norte frente al interior, que los polos dinámicos han excluido generalmente). Este dualismo menor se superpone a otro de mayor magnitud y estabilidad: zonas pobladas y despobladas (Costa Pacífica, Orinoquia y Amazonia).",
+   "concepto": "Rasgos estructurales",
+   "nivel": "contraste",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, pp. 347-348",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m002",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál emparejamiento entre período y comportamiento del IPT de Bogotá es correcto?",
+   "opciones": [
+    "Consolidación republicana (1820-1870): el IPT baja del 3 % al 1,5 % por la inestabilidad política y económica.",
+    "Consolidación republicana (1820-1870): el IPT sube del 1,5 % al 3 % por la inserción internacional estable.",
+    "Expansión comercial (1870-1920): el IPT baja del 2,5 % al 1,5 % por el éxito de la hacienda y del café.",
+    "Industrialización (1920-1973): el IPT permanece estancado en 2,5 % por la multipolaridad de las cuatro ciudades.",
+    "Expansión comercial (1870-1920): el IPT crece sin interrupción por la consolidación del Estado y las guerras civiles."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "En ese período el IPT baja del 3 % al 1,5 %.",
+    "En la expansión comercial el IPT sube del 1,5 % al 2,5 % hacia 1905.",
+    "Después de 1918 la participación de Bogotá crece incesantemente.",
+    "Se estancó entre 1905 y 1920, contenido por las guerras civiles del oriente andino."
+   ],
+   "respuesta": "Consolidación republicana (1820-1870): el IPT baja del 3 % al 1,5 % por la inestabilidad política y económica.",
+   "explicacion": "Tres períodos del IPT: consolidación republicana 1820-1870 (3 % a 1,5 %); expansión comercial 1870-1920 (1,5 % a 2,5 % en 1905, con estancamiento 1905-1920 por las guerras civiles en el oriente andino); industrialización 1920-1973, en que Bogotá crece incesantemente. Esta periodización difiere de los ocho períodos de la historia económica.",
+   "concepto": "Períodos del IPT",
+   "nivel": "contraste",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, p. 327",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m003",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según el CIC (Tabla 9.5), ¿cuáles son las tres etapas del crecimiento de la primacía de Bogotá entre 1918 y 1993?",
+   "opciones": [
+    "Lento crecimiento 1918-1938, crecimiento creciente 1938-1973 y crecimiento decreciente 1973-1993.",
+    "Crecimiento creciente 1918-1938, lento crecimiento 1938-1973 y crecimiento decreciente 1973-1993.",
+    "Lento crecimiento 1918-1938, crecimiento decreciente 1938-1973 y crecimiento creciente 1973-1993.",
+    "Crecimiento decreciente 1918-1938, crecimiento creciente 1938-1973 y lento crecimiento 1973-1993.",
+    "Crecimiento creciente de 1918 a 1993 sin cambios de ritmo, porque la industrialización nunca llegó al punto de saturación."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La etapa de crecimiento lento es la primera (1918-1938).",
+    "El crecimiento es creciente hasta 1973 y decreciente después.",
+    "Después de 1918 la participación de Bogotá crece incesantemente.",
+    "Después de 1973 el CIC es cada vez más bajo: se manifiesta la saturación."
+   ],
+   "respuesta": "Lento crecimiento 1918-1938, crecimiento creciente 1938-1973 y crecimiento decreciente 1973-1993.",
+   "explicacion": "El CIC muestra tres etapas: lento crecimiento 1918-1938, crecimiento creciente 1938-1973 y crecimiento decreciente 1973-1993. Después de unos 55 años de crecimiento primacial creciente, el CIC se hace cada vez más bajo: es lo que en Colombia se manifiesta como desaceleración.",
+   "concepto": "Etapas del CIC",
+   "nivel": "interpretacion",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, pp. 327-328",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m004",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Entre 1918 y 1993 la participación de Bogotá en la población nacional pasó del 2,5 % al 15 %. ¿Cuántas veces se multiplicó?",
+   "opciones": [
+    "Por seis.",
+    "Por 12,5.",
+    "Por 1,5.",
+    "Por tres.",
+    "Por 37,5."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Se restaron los puntos porcentuales; hay que dividir 15 entre 2,5.",
+    "Se confundió la razón con la diferencia entre el 15 y el 10 por ciento.",
+    "15 / 2,5 es 6, no 3.",
+    "Se multiplicaron las dos cifras; se debe dividir una entre otra."
+   ],
+   "respuesta": "Por seis.",
+   "explicacion": "15 / 2,5 = 6: entre 1918 y 1993 Bogotá multiplicó por seis su participación en la población nacional (Gráfico 9.2), con causas como la consolidación del Estado nacional, la integración territorial, la urbanización creciente y la industrialización.",
+   "concepto": "IPT de Bogotá 1918-1993",
+   "nivel": "calculo",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, p. 328",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m005",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En perspectiva comparada, ¿qué dos peculiaridades tiene la función de primacía de Colombia frente a otros países latinoamericanos?",
+   "opciones": [
+    "Un nivel de primacía bajo en el arranque de la industrialización y una intensidad cronológica (CIC) baja, próxima a la de Brasil.",
+    "Un nivel de primacía alto en el arranque de la industrialización y una intensidad cronológica (CIC) muy alta, igual a la de Argentina.",
+    "Un nivel de primacía bajo en el arranque y un CIC alto, que explica el rápido crecimiento posterior de Bogotá.",
+    "Un nivel de primacía alto en el arranque, que se redujo desde los años veinte, y un CIC creciente hasta 1993.",
+    "Un nivel de primacía igual al argentino en 1870, y un CIC igual al de los demás países andinos."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El nivel de arranque es bajo y el CIC es de los más bajos, cercano al de Brasil.",
+    "El CIC es bajo: la primacía de Bogotá creció lentamente.",
+    "El nivel de arranque es bajo y el CIC decrece desde 1973.",
+    "El IPT colombiano de 1920 es apenas la mitad del argentino de 1870."
+   ],
+   "respuesta": "Un nivel de primacía bajo en el arranque de la industrialización y una intensidad cronológica (CIC) baja, próxima a la de Brasil.",
+   "explicacion": "El IPT colombiano en 1920 es apenas la mitad del argentino en 1870 y ligeramente inferior al brasileño en 1920 y 1940, y el CIC es inferior al de otros países latinoamericanos y muy próximo al de Brasil, el más bajo de los estudiados. La multipolaridad de la cabeza urbana repercute en la baja intensidad.",
+   "concepto": "Peculiaridades del caso colombiano",
+   "nivel": "interpretacion",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, pp. 327-329",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m006",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según el capítulo, cuatro factores neutralizaron parcialmente las tendencias concentrativas. ¿Cuál NO es uno de ellos?",
+   "opciones": [
+    "El origen del sistema urbano moderno en fases de inestabilidad de los polos regionales, que dejó un sistema diverso y multipolar.",
+    "La multipolaridad mantenida por la industrialización, el desarrollo agrícola y las peculiaridades del Estado colombiano, como el corporatismo.",
+    "La geografía: las dificultades de integración física permitieron mercados regionales protegidos, sobre todo de bienes de consumo ligero.",
+    "La expansión del sistema urbano, que genera permanentemente nuevos ejes urbanos y diversifica las fuerzas concentrativas.",
+    "La integración física temprana del territorio nacional, que unificó los mercados regionales desde finales del siglo XIX."
+   ],
+   "correcta": 4,
+   "errores": [
+    "Sí es uno de los cuatro factores.",
+    "Sí es uno de los cuatro factores.",
+    "Sí es uno de los cuatro factores.",
+    "Sí es uno de los cuatro factores.",
+    null
+   ],
+   "respuesta": "La integración física temprana del territorio nacional, que unificó los mercados regionales desde finales del siglo XIX.",
+   "explicacion": "Los cuatro factores son: el origen multipolar del sistema urbano, la multipolaridad mantenida en el último período (industrialización, agro, Estado), la geografía (mercados regionales protegidos y especialización regional) y la expansión del sistema urbano, con nuevos ejes. La integración física difícil, no temprana, es la que favoreció mercados protegidos.",
+   "concepto": "Factores de la baja intensidad",
+   "nivel": "causa",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, pp. 329-330",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m007",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál es la secuencia correcta del ICC (índice de cuatro ciudades) de Colombia en el largo plazo?",
+   "opciones": [
+    "Creció de 1840 a 1883, decreció permanentemente hasta 1928 y creció de forma constante hasta 1993.",
+    "Decreció de 1840 a 1883, creció permanentemente hasta 1928 y decreció de forma constante hasta 1993.",
+    "Creció de forma constante entre 1840 y 1993, con su valor máximo en 1993 por la primacía de Bogotá.",
+    "Creció de 1840 a 1928, decreció desde 1928 hasta 1993 y alcanzó su máximo hacia 1950.",
+    "Se mantuvo estable hasta 1928 y creció solo después de 1973, cuando comienza la desaceleración del CIC."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Está invertida: creció, decreció y volvió a crecer.",
+    "Su valor máximo fue en 1880 y nunca se ha vuelto a alcanzar.",
+    "El ICC decreció entre 1883 y 1928 y creció después.",
+    "Hubo tres fases desde 1840; la tercera comienza en 1928."
+   ],
+   "respuesta": "Creció de 1840 a 1883, decreció permanentemente hasta 1928 y creció de forma constante hasta 1993.",
+   "explicacion": "Tres fases del ICC: 1840-1883 crecimiento considerable; 1883-1928 decrecimiento permanente (prosperidad cafetera y crecimiento más rápido de Medellín); 1928-1993 incremento constante (se amplía la brecha Bogotá-Medellín: de 0,70 en 1928 a 1,18 en 1993). El valor máximo, en 1880, nunca se ha vuelto a alcanzar.",
+   "concepto": "Evolución del ICC",
+   "nivel": "interpretacion",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, p. 330",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m008",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En 1843-1883 el capítulo describe una transición regional muy intensa en la cabeza urbana. ¿Qué relevos ocurrieron?",
+   "opciones": [
+    "Barranquilla relevó a Cartagena en la Costa Atlántica, y Medellín relevó a Pasto con el naciente eje occidental andino.",
+    "Cartagena relevó a Barranquilla en la Costa Atlántica, y Pasto relevó a Medellín en el eje occidental andino.",
+    "Cali relevó a Barranquilla como tercera ciudad, y Medellín relevó a Bogotá como primera ciudad del país.",
+    "Bogotá relevó a Medellín como centro del eje cafetero, y Cali relevó a Pasto en el piedemonte llanero.",
+    "Cartagena y Pasto subieron al segundo y cuarto lugar en 1843, y mantuvieron ese lugar al final del período."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Los relevos son los contrarios.",
+    "El relevo de Cali sobre Barranquilla ocurre después de 1928, y Medellín nunca relevó a Bogotá.",
+    "Ninguno de esos relevos corresponde al período 1843-1883.",
+    "Esas dos ciudades decayeron: pasaron al octavo y noveno lugar."
+   ],
+   "respuesta": "Barranquilla relevó a Cartagena en la Costa Atlántica, y Medellín relevó a Pasto con el naciente eje occidental andino.",
+   "explicacion": "Decadencia de Pasto y Cartagena (segundo y cuarto lugar en 1843; octavo y noveno al final) y ascenso de Medellín (del quinto al segundo lugar) y Barranquilla (del décimo al tercero). Son dos transformaciones socioespaciales: Barranquilla relevó a Cartagena y Medellín a Pasto. Después de 1928, Cali sobrepasó a Barranquilla.",
+   "concepto": "Relevos regionales 1843-1883",
+   "nivel": "contraste",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, pp. 330-331",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m009",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué muestra la asociación entre el IPT y el ICC sobre el papel de las ciudades mayores de rango secundario, como Medellín?",
+   "opciones": [
+    "Que su fortalecimiento controla la preponderancia de la ciudad primada, y su debilitamiento la deja crecer sin freno.",
+    "Que su fortalecimiento acelera el IPT de Bogotá, porque ambos índices crecen siempre en la misma dirección.",
+    "Que su papel es irrelevante, porque el IPT de Bogotá depende solo del tamaño de la población nacional.",
+    "Que su debilitamiento reduce la primacía de Bogotá, igual que ocurrió con Tokio y Osaka en el caso de Japón.",
+    "Que su crecimiento aumenta el ICC, y por eso el IPT de Bogotá se acelera durante los años de 1883 a 1928."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La asociación es inversa: cuando el ICC baja, el IPT crece de forma moderada.",
+    "El texto atribuye a las ciudades secundarias un papel equilibrador.",
+    "En Japón, roto el equilibrio Tokio-Osaka, la preponderancia de la capital fue incontenible.",
+    "Entre 1883 y 1928 el ICC decreció y el IPT creció muy moderadamente."
+   ],
+   "respuesta": "Que su fortalecimiento controla la preponderancia de la ciudad primada, y su debilitamiento la deja crecer sin freno.",
+   "explicacion": "Mientras el ICC tendió a reducirse (1883-1928), el IPT creció muy moderadamente; cuando el ICC tendió a aumentar (después de 1928), el crecimiento del IPT se aceleró. La relación inversa muestra el papel equilibrador de las ciudades secundarias, y reproduce lo observado en Japón (Tokio-Osaka). Entre 1973 y 1993 ambos crecen más lentamente.",
+   "concepto": "Asociación IPT-ICC",
+   "nivel": "interpretacion",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, p. 331",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m010",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Con la función rango-tamaño (Tabla 9.6), q de los municipios baja de 1,146 (1973) a 1,053 (1993), y q de las áreas metropolitanas sube de 1,253 a 1,282. ¿Qué concluye el texto?",
+   "opciones": [
+    "Hubo desconcentración focalizada en municipios próximos a las ciudades mayores: es la metropolización.",
+    "Hubo una desconcentración generalizada de la población hacia las ciudades intermedias y pequeñas de todas las regiones del país.",
+    "Hubo una concentración creciente en las ciudades mayores, porque q de los municipios aumenta con la metropolización.",
+    "No hubo ningún cambio en la concentración urbana, porque los dos valores de q se compensan entre sí por completo.",
+    "Hubo una desconcentración urbana que se explica solo por la crisis industrial de 1974-1982 en las áreas metropolitanas."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Con áreas metropolitanas, q no baja; la desconcentración es focalizada.",
+    "q de los municipios disminuye, no aumenta.",
+    "El texto interpreta la divergencia entre ambos universos como desconcentración concentrada.",
+    "El texto la explica por la extensión de la urbanización a áreas próximas a las grandes ciudades."
+   ],
+   "respuesta": "Hubo desconcentración focalizada en municipios próximos a las ciudades mayores: es la metropolización.",
+   "explicacion": "Con cada cabecera por separado, después de 1973 hay desconcentración (las ciudades menores crecen más rápido que las mayores); con áreas metropolitanas el crecimiento de q es constante hasta 1985 y solo después da signos de debilitamiento. Es 'desconcentración concentrada': extensión de la urbanización a las áreas más próximas a las grandes ciudades, metropolización.",
+   "concepto": "Rango-tamaño y metropolización",
+   "nivel": "interpretacion",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, pp. 337-339",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m011",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según el análisis de los gráficos rango-tamaño de 1964 a 1993, ¿cómo cambió la cabeza urbana colombiana?",
+   "opciones": [
+    "Dejó de ser cuadricefálica y oscila entre mono y tricefálica: crecen Bogotá y Cali, y menguan Medellín y Barranquilla.",
+    "Pasó de ser monocefálica a cuadricefálica, con Barranquilla recuperando el segundo lugar por el auge portuario.",
+    "Se mantuvo cuadricefálica, con Medellín y Barranquilla creciendo más rápido que Bogotá y Cali después de 1973.",
+    "Se hizo tricefálica de forma definitiva, con Barranquilla consolidada como tercera ciudad frente a Cali.",
+    "Se mantuvo estable, porque la desaparición de los escalones intermedios no cambió la estructura de la cabeza urbana."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Es al revés: dejó de ser cuadricefálica.",
+    "Medellín y Barranquilla mengua demográficamente; el cambio se concentra después de 1973.",
+    "Cali sobrepasó a Barranquilla, que parece haber abandonado el grupo de la cabeza urbana.",
+    "La desaparición de escalones intermedios es síntoma de la integración de la red urbana."
+   ],
+   "respuesta": "Dejó de ser cuadricefálica y oscila entre mono y tricefálica: crecen Bogotá y Cali, y menguan Medellín y Barranquilla.",
+   "explicacion": "La cabeza urbana dejó de ser claramente cuadricefálica y oscila entre mono y tricefálica, con cambios concentrados después de 1973. A fines del siglo XX, Bogotá, Medellín y Cali son la cabeza, seguidas de 22 ciudades que forman la columna vertebral. Resulta de dos tendencias: mayor desequilibrio entre las ciudades de la cabeza y mayor integración entre las medias.",
+   "concepto": "Cabeza urbana",
+   "nivel": "interpretacion",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, pp. 335-337",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m012",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cómo explica el capítulo el aumento de la participación de la Costa Atlántica en la población nacional (de 16,25 % a 20,75 % entre 1951 y 1993)?",
+   "opciones": [
+    "Sobre todo por el incremento de su población rural, pues su participación en la población urbana se mantiene cerca del 21 %.",
+    "Sobre todo por su acelerada tasa de urbanización, superior a la del oriente andino durante todo el período.",
+    "Por la migración desde el occidente andino a sus ciudades, que elevó la participación urbana por encima del 30 %.",
+    "Por la colonización del piedemonte llanero, que se contabiliza dentro de la región atlántica en la Tabla 9.7.",
+    "Por la caída de su participación rural, de 21,6 % a 13,2 %, compensada con un fuerte aumento urbano."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Apenas mantuvo la velocidad promedio de urbanización.",
+    "La participación urbana de la Costa Atlántica se mantuvo cerca de 21 %.",
+    "El piedemonte llanero es una región distinta en la tabla.",
+    "Su participación rural sube de 13,2 % a 21,6 %."
+   ],
+   "respuesta": "Sobre todo por el incremento de su población rural, pues su participación en la población urbana se mantiene cerca del 21 %.",
+   "explicacion": "La Región Andina concentra la mayor parte (82 % en 1951; 74,5 % en 1993). La Costa Atlántica sube por la expansión de su población rural (de 13,2 % a 21,6 %), mientras en población urbana mantiene cerca de 21 %. El oriente andino mantiene su participación por su muy acelerada tasa de urbanización.",
+   "concepto": "Distribución regional",
+   "nivel": "causa",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, pp. 339-344",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m013",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Al comparar primacía urbana (población) y primacía industrial (empleo) en 1945-1993, ¿qué concluye el capítulo?",
+   "opciones": [
+    "La industrial está siempre por encima de la urbana, pero la industria no es el único factor: cada una tiene su temporalidad.",
+    "La primacía industrial siempre está por debajo de la urbana, y las dos crecen al mismo ritmo desde el año 1945.",
+    "Las dos primacías son iguales, por lo que la industrialización explica por sí sola la primacía de Bogotá en el sistema.",
+    "La primacía industrial se desacelera desde 1980, mientras la urbana se acelera, y por eso Bogotá pierde peso industrial.",
+    "En el ICC la primacía industrial supera a la urbana, lo que muestra el papel decisivo de la industria dentro de la cabeza."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El IPT industrial está por encima del urbano, y los ritmos no se corresponden.",
+    "La industrialización no es el único factor explicativo.",
+    "La industrial se aceleró después de 1980 y la urbana tiende a desacelerarse.",
+    "En el ICC la primacía urbana está por encima de la industrial."
+   ],
+   "respuesta": "La industrial está siempre por encima de la urbana, pero la industria no es el único factor: cada una tiene su temporalidad.",
+   "explicacion": "En el IPT, la primacía industrial siempre es mayor que la urbana, lo que muestra el papel discriminante de la industria en Bogotá; pero sus ritmos no se corresponden (industrial: 1945-1958 acelerado, 1958-1980 lento, 1980-1991 nueva aceleración; urbana: acelerada hasta 1974 y más lenta después). En el ICC ocurre al revés: la urbana está por encima.",
+   "concepto": "Primacía urbana e industrial",
+   "nivel": "interpretacion",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, pp. 344-346",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m014",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál es la hipótesis del capítulo sobre la ruptura del equilibrio entre las cuatro ciudades mayores?",
+   "opciones": [
+    "Sería en parte resultado del quiebre del balance previo en el reparto de la manufactura entre esas cuatro ciudades.",
+    "Sería resultado del retroceso de la industrialización, que dejó de concentrarse en las cuatro ciudades desde 1966.",
+    "Sería resultado de la metropolización, que redujo el peso industrial de las cuatro ciudades en el empleo nacional.",
+    "Sería resultado de la desaparición de las ciudades intermedias, que dejó sin contrapeso a la cabeza urbana.",
+    "Sería resultado de las políticas de integración del Estado, que dejaron fuera del sistema a Medellín y Barranquilla."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La primacía industrial en la cabeza se acelera desde 1966.",
+    "Las cuatro mayores concentran entre el 70 y el 80 % del empleo y del valor agregado manufacturero.",
+    "Las ciudades intermedias se consideran un factor de equilibrio y se fortalecieron.",
+    "La hipótesis se refiere a la repartición de la actividad manufacturera."
+   ],
+   "respuesta": "Sería en parte resultado del quiebre del balance previo en el reparto de la manufactura entre esas cuatro ciudades.",
+   "explicacion": "La cabeza de cuatro ciudades parece cumplir un rol de equilibramiento por una repartición menos desigual de las funciones industriales: concentra entre el 70 y el 80 % del empleo y valor agregado manufacturero. La recuperación de la primacía industrial dentro de la cabeza (1966-1980) antecede a la nacional (1980-1991).",
+   "concepto": "Ruptura de la cuadricefalia",
+   "nivel": "causa",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, pp. 345-347",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-m015",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según las conclusiones, ¿qué papel tiene la industrialización en la urbanización colombiana?",
+   "opciones": [
+    "Es un factor central, pero solo uno de varios; antes de 1920 no es claramente determinante y después su papel es indudable.",
+    "Es el único factor determinante de la urbanización desde la Independencia, y se evidencia en cada uno de los períodos.",
+    "Es un factor marginal en todo el período, porque la urbanización se explica solo por la violencia y la colonización.",
+    "Es el factor decisivo hasta 1920, y después pierde importancia frente a la política y a los factores sociales.",
+    "Es un factor microespacial que explica por sí mismo las formas de urbanización y de concentración urbana del país."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El capítulo advierte que lo económico es solo una de las instancias explicativas.",
+    "Después de 1920 su papel estratégico es indudable.",
+    "Antes de 1920 es difícil mostrarla como determinante; después sí lo es.",
+    "Elevar un fenómeno microespacial al rango de explicación socioespacial es la falacia que el capítulo critica."
+   ],
+   "respuesta": "Es un factor central, pero solo uno de varios; antes de 1920 no es claramente determinante y después su papel es indudable.",
+   "explicacion": "La industrialización ha sido y sigue siendo un factor central para explicar la urbanización, pero solo uno de varios factores económicos, y lo económico es solo una de las instancias explicativas (junto a la política y la social). Antes de 1920 es difícil mostrarla como factor determinante; después, no se puede entender la urbanización sin entender la industrialización.",
+   "concepto": "Industrialización y urbanización",
+   "nivel": "interpretacion",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia, pp. 348-351",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-b001",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en la función de primacía de Colombia en el largo plazo, defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "El IPT de Bogotá bajó del 3 % en 1820 al 1,5 % en 1870, durante la consolidación republicana.",
+     "verdadera": true,
+     "explicacion": "La inestabilidad política y económica redujo la preponderancia demográfica de la capital."
+    },
+    {
+     "texto": "El IPT de Bogotá se estancó entre 1905 y 1920, contenido por las guerras civiles en el oriente andino.",
+     "verdadera": true,
+     "explicacion": "Antes había subido del 1,5 % al 2,5 % entre 1870 y 1905."
+    },
+    {
+     "texto": "Entre 1918 y 1993 Bogotá multiplicó por seis su participación en la población nacional.",
+     "verdadera": true,
+     "explicacion": "Pasó del 2,5 % al 15 %."
+    },
+    {
+     "texto": "El IPT de Colombia en 1920 es mayor que el de Argentina en 1870, lo que muestra una primacía alta en el arranque.",
+     "verdadera": false,
+     "explicacion": "Es apenas la mitad del argentino en 1870: el nivel de arranque es bajo."
+    },
+    {
+     "texto": "El ICC alcanzó su valor máximo en 1880 y ese valor nunca se ha vuelto a alcanzar.",
+     "verdadera": true,
+     "explicacion": "Después decreció hasta 1928 y creció de forma constante hasta 1993."
+    }
+   ],
+   "respuesta": "V · V · V · F · V",
+   "concepto": "Primacía en el largo plazo",
+   "nivel": "contraste",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s05-cuervo-gonzalez-cap9-b002",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en la estructura urbana y regional del capítulo, defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "Con cada cabecera por separado, después de 1973 hay desconcentración; con áreas metropolitanas el crecimiento es constante hasta 1985.",
+     "verdadera": true,
+     "explicacion": "Es lo que el texto llama desconcentración concentrada."
+    },
+    {
+     "texto": "La Región Andina concentraba el 82 % de la población en 1951 y el 74,5 % en 1993.",
+     "verdadera": true,
+     "explicacion": "Perdió participación frente a la Costa Atlántica y a las regiones de colonización."
+    },
+    {
+     "texto": "La participación de la Costa Atlántica aumentó sobre todo por su población urbana.",
+     "verdadera": false,
+     "explicacion": "Aumentó sobre todo por su población rural; la urbana se mantuvo cerca de 21 %."
+    },
+    {
+     "texto": "Barranquilla aparece cada vez más como la menor de las grandes ciudades, y no como la mayor de las intermedias.",
+     "verdadera": false,
+     "explicacion": "Es al revés: aparece como la mayor de las ciudades intermedias."
+    },
+    {
+     "texto": "La Constitución de 1886 fue una de las bases del proceso de unificación del territorio, consolidado después de los años veinte.",
+     "verdadera": true,
+     "explicacion": "Desde los años veinte el Estado central privilegió la integración nacional y regional."
+    }
+   ],
+   "respuesta": "V · V · F · F · V",
+   "concepto": "Estructura urbana y regional",
+   "nivel": "contraste",
+   "referencia": "Cuervo y González, cap. 9, Desarrollo económico, urbanización y primacía urbana en Colombia",
+   "clase": null,
+   "estado": "completa"
   }
  ],
  "trampas": [
