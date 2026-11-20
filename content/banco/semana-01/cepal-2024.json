@@ -68,6 +68,560 @@
    "respuesta": "Lo que costaría sustituir por completo los buses diésel en una ciudad con una flota como la de Quito (3.400 buses), a 327.000 dólares por vehículo con la flota actual constante; no incluye infraestructura de carga ni otras inversiones, ni la vida útil de los vehículos nuevos ni su reemplazo antes de 2050; pp. 64-65.",
    "referencia": "pp. 64-65",
    "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m001",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "El informe señala que los modos activos y el transporte público suman el 68% de los viajes en las ciudades de ALC. ¿Cómo interpreta ese dato?",
+   "opciones": [
+    "Como un resultado más influenciado por las limitaciones de ingreso de las familias que por una conciencia ambiental.",
+    "Como evidencia de una conciencia ambiental ya extendida entre los hogares de la región, que prefieren modos sostenibles.",
+    "Como señal de que el transporte público es más rápido que el automóvil en la mayoría de las ciudades de la región.",
+    "Como efecto directo de las políticas de ciudad de 15 minutos, aplicadas ya en las principales ciudades de la región.",
+    "Como resultado de que la motorización haya disminuido en la última década, por las nuevas restricciones al automóvil."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El texto matiza justo eso: lo atribuye sobre todo al ingreso.",
+    "Los viajes en modos públicos son siempre varios minutos más largos que en modos privados.",
+    "La ciudad de 15 minutos se presenta como un anhelo todavía distante para la mayoría.",
+    "La tasa de motorización creció entre 2005 y 2015."
+   ],
+   "respuesta": "Como un resultado más influenciado por las limitaciones de ingreso de las familias que por una conciencia ambiental.",
+   "explicacion": "El 68% (Estupiñan et al., 2018, con datos de 29 ciudades del Observatorio de Movilidad Urbana de la CAF) se reproduce en las seis ciudades analizadas por la CEPAL. El texto aclara que la prevalencia de modos sostenibles está 'más bien influenciada' por las limitaciones de ingreso, y que más ingreso se asocia con mayor motorización.",
+   "concepto": "Reparto modal e ingreso",
+   "nivel": "interpretacion",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, pp. 55-56",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m002",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "La tasa de motorización de ALC pasó de 124 a 196 vehículos por mil habitantes entre 2005 y 2015. ¿Qué aumento porcentual representa?",
+   "opciones": [
+    "58%, porque el aumento de 72 vehículos se divide entre el valor inicial de 124.",
+    "72%, porque la diferencia absoluta entre las dos tasas equivale al aumento porcentual.",
+    "37%, porque el aumento de 72 vehículos se divide entre el valor final de 196.",
+    "158%, porque la tasa final equivale a 1,58 veces la tasa inicial y eso es el aumento.",
+    "29%, porque en diez años el aumento se reparte en la mitad de la variación observada."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "72 es el aumento absoluto en vehículos por mil habitantes, no un porcentaje.",
+    "La variación porcentual se calcula sobre el valor inicial, no sobre el final.",
+    "1,58 veces la inicial es un aumento de 58%; 158% sería el valor final como porcentaje del inicial.",
+    "No hay base para dividir la variación; (196 − 124) / 124 = 58%."
+   ],
+   "respuesta": "58%, porque el aumento de 72 vehículos se divide entre el valor inicial de 124.",
+   "explicacion": "(196 − 124) / 124 = 0,58, es decir, un aumento de 58%. El informe lo vincula con que el crecimiento económico de ALC se ha asociado históricamente a más vehículos privados y con que el transporte genera casi un tercio de las emisiones regionales (31%).",
+   "concepto": "Cálculo de variación porcentual",
+   "nivel": "calculo",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, p. 56",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m003",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál afirmación sobre el uso del automóvil en viajes laborales según el estrato socioeconómico es correcta?",
+   "opciones": [
+    "En Santiago, 5% de los viajes del estrato más bajo es en automóvil frente a 76% en el más alto; solo Buenos Aires es más equitativa.",
+    "En Santiago, 76% de los viajes del estrato más bajo es en automóvil frente a 5% en el más alto; Buenos Aires es la más desigual.",
+    "En todas las ciudades analizadas las brechas entre estratos son similares, de unos 20 puntos porcentuales entre el más bajo y el más alto.",
+    "En Montevideo, 12% de los viajes del estrato más alto es en automóvil frente a 70% en el estrato más bajo del mismo estudio.",
+    "En Ciudad de México y São Paulo no hay diferencias entre estratos, y el uso del automóvil se distribuye de forma pareja entre grupos."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Están invertidos: el uso del automóvil crece con el estrato, y Buenos Aires es el patrón más equitativo.",
+    "Las brechas son acentuadas en cinco de las seis ciudades.",
+    "Es al revés: 12% corresponde al estrato más bajo y 70% al más alto.",
+    "Ciudad de México (8% frente a 54%) y São Paulo (7% frente a 56%) muestran brechas fuertes."
+   ],
+   "respuesta": "En Santiago, 5% de los viajes del estrato más bajo es en automóvil frente a 76% en el más alto; solo Buenos Aires es más equitativa.",
+   "explicacion": "Pares estrato bajo frente a estrato alto: Santiago 5% frente a 76%; Montevideo 12% frente a 70%; São Paulo 7% frente a 56%; Ciudad de México 8% frente a 54%. Solo Buenos Aires presenta un patrón más equitativo.",
+   "concepto": "Uso del automóvil por estrato",
+   "nivel": "contraste",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, pp. 56-57",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m004",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué compara el informe en los tiempos de viaje residencia-trabajo entre transporte público y modos privados?",
+   "opciones": [
+    "Son siempre varios minutos más largos en modos públicos; en tres ciudades toman el doble y en cinco de seis superan una hora.",
+    "Los viajes en modos públicos son más cortos en las ciudades con metro, y toman el doble solo en Bogotá y Ciudad de México.",
+    "Los viajes en modos públicos toman más de una hora en las seis ciudades, y el doble de tiempo en todas ellas.",
+    "Los viajes en modos públicos son similares a los privados salvo en Buenos Aires, donde son varios minutos más largos.",
+    "Los viajes en modos públicos son más largos solo para los estratos altos, que viven más lejos de los centros de empleo."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El doble se menciona para São Paulo, Buenos Aires y Montevideo, y los modos públicos son siempre más largos.",
+    "Montevideo (56 minutos) es la única ciudad por debajo de una hora, y el doble no aplica a todas.",
+    "Son varios minutos más largos en todas las ciudades, no solo en Buenos Aires.",
+    "Los estratos más bajos son los que tienen viajes más largos en tiempo y distancia."
+   ],
+   "respuesta": "Son siempre varios minutos más largos en modos públicos; en tres ciudades toman el doble y en cinco de seis superan una hora.",
+   "explicacion": "En São Paulo, Buenos Aires y Montevideo el viaje residencia-trabajo puede tomar el doble de tiempo en transporte público. En cinco de las seis ciudades supera en promedio una hora; Montevideo (56 minutos) es la excepción. En todas hay relación fuerte entre estrato, tiempo y distancia.",
+   "concepto": "Tiempos de viaje",
+   "nivel": "contraste",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, pp. 57-59",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m005",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Por qué el informe considera regresivo el viaje de las personas de menor ingreso?",
+   "opciones": [
+    "Porque sufren la menor velocidad del transporte público y las mayores distancias, mientras los de mayor ingreso eligen vivienda cercana a servicios.",
+    "Porque pagan tarifas más altas por kilómetro que los usuarios de ingresos altos, que reciben subsidios directos a la compra de vehículo.",
+    "Porque usan más el automóvil privado que los estratos altos, lo que los expone a la congestión y a los costos del combustible.",
+    "Porque viven en barrios más cercanos al empleo, pero el transporte público no opera en horarios nocturnos en esas zonas.",
+    "Porque la ciudad de 15 minutos solo se aplica a los barrios de ingresos bajos y deja sin acceso a los demás."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El texto no atribuye la regresividad a tarifas por kilómetro ni a subsidios a la compra de vehículos.",
+    "El uso del automóvil crece con el ingreso.",
+    "Los estratos bajos viven más lejos; el informe no trata los horarios nocturnos en este punto.",
+    "La ciudad de 15 minutos es un anhelo distante para la mayoría y no se presenta como política focalizada."
+   ],
+   "respuesta": "Porque sufren la menor velocidad del transporte público y las mayores distancias, mientras los de mayor ingreso eligen vivienda cercana a servicios.",
+   "explicacion": "Los de menor ingreso viajan en un transporte público más lento y recorren mayores distancias. La población de mayor ingreso puede, además de usar modos privados, elegir vivienda en barrios mejor servidos y cercanos a empleos, lo que reduce sus necesidades de desplazamiento.",
+   "concepto": "Carácter regresivo del viaje",
+   "nivel": "causa",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, p. 58",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m006",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En Ciudad de México las mujeres viajan en promedio 37 minutos frente a 49 de los hombres. ¿Cómo lo asocia el informe?",
+   "opciones": [
+    "A un patrón ligado al cuidado y a menor acceso a vehículo privado, con viajes de menor distancia y más numerosos.",
+    "A que las mujeres usan más el automóvil privado, que es más rápido que el transporte público disponible.",
+    "A que las mujeres evitan los viajes en horas de congestión, y por eso hacen menos viajes que los hombres.",
+    "A que las mujeres viven más cerca del empleo por la ciudad de 15 minutos ya implementada en la capital.",
+    "A que las mujeres se desplazan sobre todo de noche, cuando el transporte es más rápido y hay menos congestión."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Se asocia a un menor acceso a vehículo privado.",
+    "Los viajes de las mujeres son más numerosos, aunque más uniformes en el día.",
+    "El informe no atribuye la diferencia a una política de ciudad de 15 minutos.",
+    "Las mujeres quedan excluidas de los viajes nocturnos por percepciones de falta de seguridad."
+   ],
+   "respuesta": "A un patrón ligado al cuidado y a menor acceso a vehículo privado, con viajes de menor distancia y más numerosos.",
+   "explicacion": "El texto asocia los 37 frente a 49 minutos a un patrón de movilidad de cuidados con menor acceso a vehículo privado: viajes más cortos y más numerosos. Las mujeres responden por alrededor de dos tercios de los viajes de cuidado (77% en Ciudad de México; 56% en Montevideo y São Paulo).",
+   "concepto": "Género y movilidad del cuidado",
+   "nivel": "causa",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, p. 59",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m007",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Sobre el gasto en transporte de los hogares, según la encuesta de 13 países citada, ¿cuál afirmación es correcta?",
+   "opciones": [
+    "Los cuatro primeros quintiles destinan en promedio 4,7% de su gasto al transporte público; solo el último quintil gasta más en transporte privado.",
+    "Los cuatro primeros quintiles destinan en promedio 4,7% de su gasto al transporte privado; el último quintil gasta más en transporte público.",
+    "El gasto cercano a 5% en transporte es el más bajo entre las regiones en desarrollo, y es parejo entre los estratos de ingreso.",
+    "Los cuatro primeros quintiles dedican más gasto al transporte privado que al público, igual que el quintil de mayores ingresos.",
+    "El transporte representa cerca de 31% del gasto de los hogares de menor ingreso, el doble que en los estratos de mayores ingresos."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Está invertido: los cuatro primeros quintiles gastan en transporte público.",
+    "Es el más alto entre las regiones en desarrollo y especialmente alto para los estratos de menor ingreso.",
+    "Solo el último quintil dedica una proporción mayor al transporte privado.",
+    "El 31% es la participación del transporte en las emisiones regionales, no en el gasto."
+   ],
+   "respuesta": "Los cuatro primeros quintiles destinan en promedio 4,7% de su gasto al transporte público; solo el último quintil gasta más en transporte privado.",
+   "explicacion": "ALC se destaca negativamente por el costo del transporte respecto de los ingresos. Los cuatro primeros quintiles destinan 4,7% del gasto al transporte público; solo el quintil de mayores ingresos dedica una proporción mayor al transporte privado. La proporción cercana a 5% es la más alta entre las regiones en desarrollo (Rivas et al., 2019).",
+   "concepto": "Gasto de los hogares en transporte",
+   "nivel": "contraste",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, p. 59",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m008",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según el Recuadro 3 sobre la ciudad de 15 minutos, ¿cuál NO es una medida que la fortalece?",
+   "opciones": [
+    "Concentrar equipamientos y empleo en pocos núcleos bien conectados por transporte colectivo de alta capacidad.",
+    "Dar prioridad a la movilidad activa, a pie y en bicicleta, en los desplazamientos cotidianos de los barrios.",
+    "Dispersar los equipamientos urbanos y las actividades de empleo en el territorio, cerca de donde vive la gente.",
+    "Promover la mezcla de usos del suelo para que servicios y vivienda convivan en la misma zona.",
+    "Redistribuir el espacio público, reduciendo el que se dedica a la circulación y al estacionamiento de automóviles."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Sí la fortalece: acceder a pie o en bicicleta es parte de la idea.",
+    "Sí la fortalece: busca proximidad entre personas y actividades.",
+    "Sí la fortalece: la mezcla de usos está entre sus componentes.",
+    "Sí la fortalece: es una de las medidas del recuadro."
+   ],
+   "respuesta": "Concentrar equipamientos y empleo en pocos núcleos bien conectados por transporte colectivo de alta capacidad.",
+   "explicacion": "El Recuadro 3 plantea proximidad: servicios y necesidades a 15 minutos a pie o en bicicleta, movilidad activa, dispersión de equipamientos y empleo, mezcla de usos y redistribución del espacio público. Cuestiona el modelo de grandes inversiones en infraestructura que generó ciudades expandidas. Concentrar servicios en pocos núcleos es lo contrario.",
+   "concepto": "Ciudad de 15 minutos",
+   "nivel": "contraste",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, p. 60",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m009",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué indica el informe sobre la recuperación de la demanda de transporte público tras la pandemia?",
+   "opciones": [
+    "Cayó entre 40% y 80% en 2020, y en 2023 los metros seguían 15% a 30% bajo el nivel prepandemia, lo que sugiere cambios estructurales.",
+    "Cayó entre 15% y 30% en 2020, y en 2023 los metros seguían 40% a 80% bajo el nivel prepandemia, por la lentitud de la recuperación.",
+    "Cayó entre 40% y 80% en 2020, y en 2023 todos los sistemas habían superado el nivel prepandemia, por lo que fue un cambio transitorio.",
+    "Cayó entre 40% y 80% en 2020, y se recuperó por completo en 2021 con la reactivación económica, sin efectos duraderos.",
+    "Cayó solo en los sistemas históricamente más dependientes de subsidios, como Buenos Aires y Ciudad de México."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Las cifras están invertidas entre 2020 y 2023.",
+    "La recuperación fue incompleta, especialmente en los sistemas masivos como el metro.",
+    "La reactivación desde 2021 no fue seguida de una recuperación completa.",
+    "La caída fue general y elevó la necesidad de subsidios también en sistemas relativamente equilibrados."
+   ],
+   "respuesta": "Cayó entre 40% y 80% en 2020, y en 2023 los metros seguían 15% a 30% bajo el nivel prepandemia, lo que sugiere cambios estructurales.",
+   "explicacion": "La emergencia sanitaria produjo en 2020 una caída de 40% a 80% de la demanda colectiva. La recuperación fue más lenta en los sistemas masivos como el metro, que cerraron 2023 entre 15% y 30% por debajo del prepandemia. La desaceleración de 2023 indica cambios estructurales en la demanda.",
+   "concepto": "Impacto de la pandemia",
+   "nivel": "contraste",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, pp. 61-62",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m010",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Frente al peso de los subsidios al transporte público, ¿qué tensión señala el informe?",
+   "opciones": [
+    "La del peso creciente de los subsidios en el presupuesto frente al desafío político y social de equilibrarlo con alzas de tarifas.",
+    "La de la electrificación de flotas frente a la movilidad activa, porque compiten por los mismos recursos de inversión pública.",
+    "La de los subsidios al operador frente a los subsidios a la compra de vehículos particulares, que el informe propone ampliar.",
+    "La de un transporte público sin déficit gracias a la recuperación de la demanda y la reducción de los subsidios necesarios.",
+    "La de las tarifas más bajas del mundo en desarrollo frente a los costos de operación, resuelta con subsidio universal al pasajero."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El informe propone acciones simultáneas, no una competencia entre ellas.",
+    "El informe no propone subsidiar vehículos particulares.",
+    "La menor demanda aumentó la necesidad de subsidios y puso en riesgo la renovación de flotas.",
+    "El informe no describe un subsidio universal al pasajero como solución."
+   ],
+   "respuesta": "La del peso creciente de los subsidios en el presupuesto frente al desafío político y social de equilibrarlo con alzas de tarifas.",
+   "explicacion": "Los sistemas formales ya tenían dificultades para ampliarse y mantener la calidad; la caída de 2020 disparó la necesidad de subsidios incluso en sistemas relativamente equilibrados (metro de São Paulo, TransMilenio). El informe señala la tensión entre el peso de los subsidios en el presupuesto y el costo político y social de subir tarifas.",
+   "concepto": "Subsidios y tarifas",
+   "nivel": "causa",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, pp. 61-62",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m011",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según el Cuadro 11, en Colombia (2001-2019) la población creció 1,3% anual y la flota de buses y microbuses 3,9% anual. ¿Cuántas veces mayor es el crecimiento de la flota?",
+   "opciones": [
+    "3,0 veces, porque el cociente de 3,9 entre 1,3 da 3 al comparar la flota total con la población.",
+    "2,4 veces, porque se compara solo el crecimiento de los buses (3,1%) con el de la población del país.",
+    "3,5 veces, porque se compara solo el crecimiento de los microbuses (4,6%) con el de la población del país.",
+    "2,6 veces, porque la diferencia entre 3,9 y 1,3 expresa cuántas veces es mayor.",
+    "5,2 veces, porque se suman las dos tasas de crecimiento para comparar la flota con la población."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Con 3,1 / 1,3 se obtiene el cociente solo de buses, no de buses y microbuses juntos.",
+    "Con 4,6 / 1,3 se obtiene el cociente solo de microbuses.",
+    "La diferencia (2,6 puntos) no es un cociente.",
+    "Sumar las tasas no mide cuántas veces es mayor una que la otra."
+   ],
+   "respuesta": "3,0 veces, porque el cociente de 3,9 entre 1,3 da 3 al comparar la flota total con la población.",
+   "explicacion": "3,9 / 1,3 = 3,0. El informe indica que la flota de buses y microbuses creció cerca de 4% anual en las últimas dos décadas, muy por encima de la población en la mayoría de los países, y que el crecimiento tendencial llegaría a 6% anual hasta 2030 (Biderman et al., 2023).",
+   "concepto": "Cálculo con el Cuadro 11",
+   "nivel": "calculo",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, pp. 62-63 (Cuadro 11)",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m012",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál afirmación sobre la concentración de la flota de buses eléctricos en ALC es correcta?",
+   "opciones": [
+    "Santiago tiene la mitad de la flota a batería de la región; con Bogotá, las dos capitales superan el 80%.",
+    "Bogotá tiene la mitad de la flota a batería de la región; con Santiago, las dos capitales superan el 80%.",
+    "Santiago y Bogotá concentran poco más de 50% de la flota regional, y el resto está repartido por toda la región.",
+    "La flota a batería está repartida de forma pareja entre las principales ciudades, sin una ciudad dominante.",
+    "La concentración demuestra que la tecnología a batería no es viable a gran escala y solo funciona en ciudades pequeñas."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Es Santiago la que concentra la mitad.",
+    "Superan el 80% de la flota regional.",
+    "La expansión se concentró en pocos países y en una ciudad principal dentro de ellos.",
+    "Comprueba la viabilidad técnica de adoptar la tecnología a gran escala en corto plazo."
+   ],
+   "respuesta": "Santiago tiene la mitad de la flota a batería de la región; con Bogotá, las dos capitales superan el 80%.",
+   "explicacion": "La flota a batería pasó de ninguna unidad a más de tres mil en seis años. En una sola ciudad, Santiago, circula la mitad; junto con Bogotá superan el 80% de la flota regional y son las ciudades con mayores flotas eléctricas fuera de China. La concentración indica que no está diseminada, pero comprueba la viabilidad técnica.",
+   "concepto": "Concentración de la electromovilidad",
+   "nivel": "contraste",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, pp. 63-64",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m013",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál emparejamiento entre ciudad y meta de los Planes de Acción Climática (Cuadro 12) es correcto?",
+   "opciones": [
+    "Lima: 35% de buses eléctricos en 2030 y 90% de los buses en 2050, con 100% de los buses BRT.",
+    "Bogotá: 50% de la flota total de buses eléctricos en 2030 y 100% de toda la flota del sistema en 2050.",
+    "Río de Janeiro: 50% de colectivos cero emisiones en 2030 y 100% en 2050, igual que Buenos Aires y São Paulo.",
+    "Buenos Aires: 50% de colectivos cero emisiones en 2030 y 90% en 2050, con 100% de los BRT en ese año.",
+    "Quito: 35% de la flota de autobuses eléctricos en 2030 y 100% de buses eléctricos desde 2040."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La meta de Bogotá se refiere a los buses BRT eléctricos.",
+    "Río de Janeiro tiene una meta de 20% en 2030.",
+    "La meta de Buenos Aires para 2050 es 100% de colectivos cero emisiones.",
+    "La meta de Quito para 2030 es 52%; el 35% es la de Lima."
+   ],
+   "respuesta": "Lima: 35% de buses eléctricos en 2030 y 90% de los buses en 2050, con 100% de los buses BRT.",
+   "explicacion": "Cuadro 12: Bogotá, 50% de los buses BRT eléctricos en 2030 y 100% en 2050; Lima, 35% y 90% (100% de los BRT); Buenos Aires, 50% y 100% de colectivos cero emisiones; Río de Janeiro, 20% y 100%; São Paulo, 50% y 100%; Quito, 52% en 2030 y 100% desde 2040. La mayoría se comprometió a hacer la mitad de la transición en 6 años.",
+   "concepto": "Metas de electrificación",
+   "nivel": "contraste",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, p. 64 (Cuadro 12)",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m014",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Con un costo unitario de 327.000 dólares por bus, ¿cuánto costaría aproximadamente sustituir una flota diésel de 15.000 vehículos, como las de Lima o São Paulo?",
+   "opciones": [
+    "Cerca de 5 mil millones de dólares, porque 15.000 por 327.000 da unos 4.900 millones.",
+    "Cerca de 1.100 millones de dólares, la cifra que la CEPAL estima para una flota de 3.400 buses como la de Quito.",
+    "Cerca de 49 mil millones de dólares, porque el producto de 15.000 por 327.000 se multiplica por diez.",
+    "Cerca de 490 millones de dólares, porque el costo unitario se aplica solo a un décimo de la flota.",
+    "Cerca de 10 mil millones de dólares, porque hay que sumar la infraestructura de carga a la flota."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Esa cifra corresponde a una flota de 3.400 buses.",
+    "El producto es del orden de 4.900 millones; 49 mil millones sería diez veces más.",
+    "La estimación de la CEPAL aplica el costo unitario a toda la flota actual.",
+    "La estimación no incluye infraestructura de carga."
+   ],
+   "respuesta": "Cerca de 5 mil millones de dólares, porque 15.000 por 327.000 da unos 4.900 millones.",
+   "explicacion": "3.400 × 327.000 ≈ 1.112 millones (más de 1.100 millones) y 15.000 × 327.000 ≈ 4.905 millones (cerca de 5 mil millones). La estimación supone la flota actual constante y no incluye infraestructura de carga ni otras inversiones.",
+   "concepto": "Cálculo de inversión en flotas",
+   "nivel": "calculo",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, pp. 64-65 (nota 16)",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m015",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué excluye la estimación de la CEPAL sobre el costo de sustituir los buses diésel por eléctricos?",
+   "opciones": [
+    "La infraestructura de carga y otras inversiones, y la vida útil de los vehículos nuevos con su reemplazo antes de 2050.",
+    "El precio de compra de los buses eléctricos, que se estima aparte con el costo de operación de cada sistema.",
+    "El tamaño actual de la flota, que se reemplaza por una proyección con 6% de crecimiento anual hasta 2030.",
+    "El efecto de la pandemia en los ingresos de los sistemas, que se descuenta del costo total de la sustitución.",
+    "Los subsidios de operación que ya reciben los sistemas, que se restan de la inversión necesaria en flota."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El costo unitario de 327.000 dólares por vehículo es la base de la estimación.",
+    "Usa el tamaño actual de la flota, constante.",
+    "La estimación no descuenta efectos de la pandemia.",
+    "La estimación no resta subsidios; es un costo bruto de sustitución."
+   ],
+   "respuesta": "La infraestructura de carga y otras inversiones, y la vida útil de los vehículos nuevos con su reemplazo antes de 2050.",
+   "explicacion": "Nota 16: estimación con la flota actual (constante) y costo unitario de 327.000 dólares por vehículo; no incluye infraestructura de carga ni otras inversiones, ni considera la vida útil de los vehículos nuevos ni la necesidad de reemplazarlos antes de 2050.",
+   "concepto": "Alcance de la estimación",
+   "nivel": "interpretacion",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, p. 65 (nota 16)",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m016",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Frente al costo financiero de la transición, ¿cuál NO figura entre las acciones simultáneas que propone el informe?",
+   "opciones": [
+    "Subir las tarifas del transporte colectivo para cubrir el costo de renovar las flotas con recursos de los usuarios.",
+    "Retrofit o conversión de las flotas actuales a un costo menor que el de reemplazarlas por unidades nuevas.",
+    "Nuevos modelos de negocio para financiar y operar la transición de las flotas de transporte colectivo.",
+    "Planificación urbana y de uso del suelo que reduzca las necesidades de viaje, junto con más movilidad activa.",
+    "Recuperar la valorización generada por las inversiones públicas en movilidad para cofinanciar la movilidad sostenible."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Sí figura entre las acciones propuestas.",
+    "Sí figura entre las acciones propuestas.",
+    "Sí figura entre las acciones propuestas.",
+    "Sí figura entre las acciones propuestas."
+   ],
+   "respuesta": "Subir las tarifas del transporte colectivo para cubrir el costo de renovar las flotas con recursos de los usuarios.",
+   "explicacion": "El informe cierra con cinco caminos alternativos: retrofit, nuevos modelos de negocio, planificación urbana y del uso del suelo, fortalecimiento de la movilidad activa y recuperación de la valorización. No propone subir tarifas como vía de financiación.",
+   "concepto": "Alternativas de financiación",
+   "nivel": "contraste",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, p. 65",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-m017",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En las conclusiones del informe, ¿qué se plantea frente a los desequilibrios financieros del transporte público?",
+   "opciones": [
+    "Integrarlo con la planificación urbana y dirigir el crecimiento a zonas con mejor infraestructura, con financiación por captura de valor del suelo.",
+    "Trasladar su operación al sector privado, que asumiría el riesgo de demanda mientras el Estado deja de aportar subsidios al sistema de transporte.",
+    "Suspender la renovación de flotas hasta que la demanda recupere por completo el nivel prepandemia en todos los sistemas de la región.",
+    "Reducir la inversión en movilidad urbana y priorizar vivienda, porque el transporte no favorece a los segmentos más vulnerables de la población.",
+    "Mantener el crecimiento disperso de las ciudades, porque la baja densidad reduce la demanda y los costos de los modos colectivos de transporte."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El informe no plantea esa salida.",
+    "El informe insiste en acciones inmediatas porque la mitad de la transición debe hacerse hasta 2030.",
+    "La inversión en movilidad favorece a los segmentos más vulnerables, según las conclusiones.",
+    "Propone dirigir el crecimiento a lugares con mejor infraestructura, lo que aumenta la demanda de modos colectivos."
+   ],
+   "respuesta": "Integrarlo con la planificación urbana y dirigir el crecimiento a zonas con mejor infraestructura, con financiación por captura de valor del suelo.",
+   "explicacion": "Las conclusiones refuerzan la integración del transporte público con las políticas de planificación y desarrollo urbano, dirigiendo el crecimiento hacia los lugares con mejor infraestructura. Eso aumenta la demanda por modos colectivos y abre oportunidades de financiación no tarifaria mediante la captura de valor del suelo.",
+   "concepto": "Integración con planificación urbana",
+   "nivel": "interpretacion",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II, p. 68",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-b001",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en el apartado A (desigualdades de la movilidad), defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "Las mujeres responden por alrededor de dos tercios de los viajes de cuidado en días hábiles.",
+     "verdadera": true,
+     "explicacion": "Compras, trámites, asuntos personales y dejar, recoger o acompañar a alguien."
+    },
+    {
+     "texto": "En Montevideo, 39% de los viajes dura menos de 15 minutos, el doble que en Bogotá y Ciudad de México.",
+     "verdadera": true,
+     "explicacion": "Las dos últimas están en cerca de 20%."
+    },
+    {
+     "texto": "Los cuatro primeros quintiles de gasto destinan en promedio 4,7% de su gasto al transporte privado.",
+     "verdadera": false,
+     "explicacion": "Es transporte público; solo el último quintil gasta más en transporte privado."
+    },
+    {
+     "texto": "Desde el anochecer, en las seis ciudades los hombres son la mayoría de los viajes en transporte público.",
+     "verdadera": true,
+     "explicacion": "En la madrugada, en algunas ciudades hay de 3 a 5 veces más pasajeros hombres que mujeres."
+    },
+    {
+     "texto": "El informe sostiene que la prevalencia de modos sostenibles refleja sobre todo la conciencia ambiental de los hogares.",
+     "verdadera": false,
+     "explicacion": "La atribuye más bien a las limitaciones de ingreso de las familias."
+    }
+   ],
+   "respuesta": "V · V · F · V · F",
+   "concepto": "Desigualdades de la movilidad urbana",
+   "nivel": "contraste",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-cepal-2024-b002",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en los apartados B y C (pandemia, flotas y financiación), defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "En 2020 la demanda de movilidad urbana colectiva cayó entre 40% y 80%.",
+     "verdadera": true,
+     "explicacion": "Con ritmos de recuperación distintos en los tres años siguientes."
+    },
+    {
+     "texto": "Santiago de Chile concentra la mitad de la flota de buses eléctricos a batería de ALC.",
+     "verdadera": true,
+     "explicacion": "Junto con Bogotá superan el 80% de la flota regional."
+    },
+    {
+     "texto": "La estimación de más de 1.100 millones de dólares para 3.400 buses incluye la infraestructura de carga.",
+     "verdadera": false,
+     "explicacion": "No incluye infraestructura de carga ni otras inversiones."
+    },
+    {
+     "texto": "Los Planes de Acción Climática de Bogotá fijan 100% de buses BRT eléctricos en 2050.",
+     "verdadera": true,
+     "explicacion": "Con una meta intermedia de 50% de los buses BRT eléctricos en 2030."
+    },
+    {
+     "texto": "Según el informe, la concentración de la electromovilidad en pocas ciudades demuestra que la tecnología no es viable a gran escala.",
+     "verdadera": false,
+     "explicacion": "Comprueba la viabilidad técnica de adoptarla a gran escala en corto plazo."
+    }
+   ],
+   "respuesta": "V · V · F · V · F",
+   "concepto": "Pandemia, electromovilidad y financiación",
+   "nivel": "contraste",
+   "referencia": "CEPAL (2024), Informe urbano de América Latina y el Caribe, cap. II",
+   "clase": null,
+   "estado": "completa"
   }
  ],
  "trampas": [

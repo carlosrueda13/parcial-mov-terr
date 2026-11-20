@@ -77,6 +77,642 @@
    "respuesta": "Ontológico: visión cartográfica, morfología lineal (une dos lugares) y duración variable pero en tiempo continuo; teleológico: visión biográfica, morfología reticular o de red (une dos o más lugares) y discontinua en el tiempo, distribuida en uno o más días; p. 69.",
    "referencia": "p. 69",
    "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m001",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según la autora, ¿qué comparten y qué no comparten la movilidad y el transporte?",
+   "opciones": [
+    "Comparten el objeto de estudio y la unidad de estudio (el viaje), pero no el universo de viajes que cada uno estudia.",
+    "Comparten el universo de viajes realizados, pero no el objeto de estudio, porque la movilidad estudia a las personas y el transporte a los bienes.",
+    "Comparten el universo completo de viajes y solo difieren en la escala espacial, que es urbana en la movilidad y regional en el transporte.",
+    "No comparten nada: la movilidad estudia prácticas subjetivas y el transporte estudia la infraestructura, sin un objeto común entre ambos.",
+    "Comparten el universo de viajes concebidos, pero el transporte agrega los viajes realizados y la movilidad se limita a los efectivos."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Comparten el objeto de estudio: el desplazamiento territorial de personas y bienes.",
+    "No comparten el universo de viajes: la movilidad lo amplía.",
+    "Comparten objeto y unidad de estudio.",
+    "El universo del transporte son los viajes realizados; el de la movilidad abarca realizados, realizables y concebidos."
+   ],
+   "respuesta": "Comparten el objeto de estudio y la unidad de estudio (el viaje), pero no el universo de viajes que cada uno estudia.",
+   "explicacion": "El objeto común es el desplazamiento territorial de personas y bienes en un contexto social espacio-temporalmente determinado, y la unidad de estudio es el viaje. El universo del transporte son los viajes realizados; el de la movilidad abarca los realizados, los realizables y los concebidos, por lo que 'amplía la frontera' del estudio convencional del transporte.",
+   "concepto": "Objeto, unidad y universo de estudio",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, pp. 65-67 y 71",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m002",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En el artículo, ¿qué significa definir la movilidad como una 'práctica social' de desplazamiento?",
+   "opciones": [
+    "Que son comportamientos grupales reiterados que definen un patrón en un contexto dado, lo que recoge lo subjetivo sin quedar en lo individual.",
+    "Que son decisiones individuales de cada viajero, sin patrón común, por lo que no permiten generalizar explicaciones a un grupo social.",
+    "Que son el conjunto de infraestructuras y servicios de transporte que una sociedad ofrece a la población para desplazarse.",
+    "Que es el cambio de posición de una persona en la estructura social, medido por sus desplazamientos entre lugares de la ciudad.",
+    "Que son los desplazamientos medidos por distancia y duración, observables en las encuestas de origen y destino de una ciudad."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Es una visión subjetiva pero no individual; permite explicaciones generalizables.",
+    "Eso es la oferta de transporte, el vector material del desplazamiento.",
+    "La movilidad social no es objeto del artículo.",
+    "Eso describe mediciones del viaje, no la definición de práctica social."
+   ],
+   "respuesta": "Que son comportamientos grupales reiterados que definen un patrón en un contexto dado, lo que recoge lo subjetivo sin quedar en lo individual.",
+   "explicacion": "Práctica es la reiteración frecuente de comportamientos; práctica social son los comportamientos grupales que definen un patrón o modelo conforme a las condiciones medias de un contexto social, espacial y temporal. Recoge una visión subjetiva del desplazamiento, pero no individual, y permite construir evidencia teórica.",
+   "concepto": "Movilidad como práctica social",
+   "nivel": "interpretacion",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 65",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m003",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En el artículo, el término 'movilidad' se usa con el sentido de:",
+   "opciones": [
+    "Movilidad urbana, es decir, territorial: desplazamiento de personas y bienes en el territorio, no un cambio de posición social.",
+    "Movilidad social, es decir, el cambio de posición de una persona o grupo dentro de la estructura de clases de una sociedad.",
+    "Movilidad residencial únicamente, es decir, los cambios de vivienda de los hogares en el mercado inmobiliario de la ciudad.",
+    "Movilidad laboral únicamente, es decir, el paso de las personas entre ocupaciones dentro del mercado de trabajo.",
+    "Movilidad vehicular únicamente, es decir, el número de vehículos motorizados que circulan por las vías de la ciudad."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La nota 1 aclara que no se trata de movilidad social.",
+    "La residencial es una de las escalas de la movilidad urbana, junto con la cotidiana y la profesional.",
+    "La profesional es solo una de las escalas de la movilidad urbana.",
+    "El artículo la define como práctica social, no como flujo vehicular."
+   ],
+   "respuesta": "Movilidad urbana, es decir, territorial: desplazamiento de personas y bienes en el territorio, no un cambio de posición social.",
+   "explicacion": "La nota 1 aclara que en todo el texto 'movilidad' significa movilidad urbana, es decir, territorial, y no movilidad social (cambio de posición social). Incluye la movilidad cotidiana, la residencial y la profesional, de personas y de bienes, de personas físicas o jurídicas.",
+   "concepto": "Movilidad territorial y movilidad social",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 65 (nota 1)",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m004",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según las conclusiones, ¿cuál es la relación entre movilidad, movimiento y transporte?",
+   "opciones": [
+    "La movilidad es la práctica social de desplazamiento; el movimiento es el acto de desplazarse; el transporte es el medio utilizado.",
+    "La movilidad es el acto de desplazarse; el movimiento es la práctica social; el transporte es el sistema de infraestructura y servicios.",
+    "La movilidad y el movimiento son sinónimos del acto de desplazarse; el transporte es la práctica social que lo organiza.",
+    "La movilidad es el medio utilizado para el desplazamiento; el transporte es la práctica social; el movimiento es un fin en sí mismo.",
+    "La movilidad es el valor que se asigna a cada viaje; el transporte es el costo del viaje; el movimiento es la distancia recorrida."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Está mezclado: el movimiento es el acto de desplazamiento en sí.",
+    "La autora afirma que movilidad y movimiento no son lo mismo.",
+    "El transporte es el medio utilizado, y el movimiento no es un fin.",
+    "No hay base en el texto para estas definiciones."
+   ],
+   "respuesta": "La movilidad es la práctica social de desplazamiento; el movimiento es el acto de desplazarse; el transporte es el medio utilizado.",
+   "explicacion": "'Movilidad y movimiento no son lo mismo': la movilidad es una acción o práctica social de desplazamiento en el territorio y contiene un modo de interpretar el acto; el movimiento es el acto de desplazamiento en sí; el transporte es el medio utilizado para concretarlo.",
+   "concepto": "Movilidad, movimiento y transporte",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 71",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m005",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál afirmación describe correctamente la relación entre movilidad y transporte en el artículo?",
+   "opciones": [
+    "No son sinónimos, pero se interpenetran: son enfoques alternativos y complementarios que no se oponen ni se excluyen.",
+    "Son sinónimos, y por eso los términos pueden usarse de forma intercambiable en los estudios de la ciudad contemporánea.",
+    "El transporte reemplaza a la movilidad como paradigma, porque estudia el desplazamiento con mayor precisión y medición.",
+    "La movilidad es tributaria del transporte: solo se conoce a partir de los viajes realizados con los medios existentes.",
+    "El transporte es el enfoque subjetivo y la movilidad el enfoque material, y por eso se excluyen mutuamente."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El texto señala que no son sinónimos.",
+    "El cambio de paradigma es del transporte a la movilidad, y ambos son complementarios.",
+    "No se encadenan jerárquicamente como tributarias una de otra.",
+    "No se excluyen mutuamente: son enfoques alternativos y complementarios."
+   ],
+   "respuesta": "No son sinónimos, pero se interpenetran: son enfoques alternativos y complementarios que no se oponen ni se excluyen.",
+   "explicacion": "Hay una íntima interpenetración: sin transporte no hay movilidad (excepto a pie), ni transporte sin movilidad, pero no son sinónimos. Las conclusiones los presentan como pensamientos alternativos y complementarios sobre un objeto común: no se oponen, no se excluyen mutuamente ni se encadenan jerárquicamente como tributarias una de otra.",
+   "concepto": "Relación movilidad-transporte",
+   "nivel": "interpretacion",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, pp. 65 y 71",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m006",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según Estevan y Sanz (1996), ¿cómo se distinguen la movilidad y la accesibilidad?",
+   "opciones": [
+    "La movilidad es una variable cuantitativa que mide la cantidad de desplazamientos; la accesibilidad es cualitativa e indica la facilidad de salvar la distancia.",
+    "La movilidad es una variable cualitativa que indica la facilidad de salvar la distancia; la accesibilidad es cuantitativa y mide la cantidad de desplazamientos.",
+    "Ambas son variables cuantitativas: la movilidad mide el tiempo de viaje y la accesibilidad mide la distancia entre origen y destino.",
+    "Ambas son variables cualitativas: la movilidad expresa la capacidad de moverse y la accesibilidad, la calidad del transporte público.",
+    "La movilidad mide solo los viajes de bienes en un sistema; la accesibilidad mide solo los viajes de personas hacia los servicios."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Están invertidas.",
+    "La accesibilidad se define como variable cualitativa.",
+    "La movilidad se define como variable cuantitativa.",
+    "La movilidad cuantifica desplazamientos de personas o bienes."
+   ],
+   "respuesta": "La movilidad es una variable cuantitativa que mide la cantidad de desplazamientos; la accesibilidad es cualitativa e indica la facilidad de salvar la distancia.",
+   "explicacion": "Estevan y Sanz (1996): la movilidad es un parámetro o variable cuantitativa que mide la cantidad de desplazamientos de personas o bienes en un sistema socioeconómico; la accesibilidad es cualitativa e indica la facilidad con que las personas salvan la distancia que las separa de los lugares donde satisfacen necesidades o deseos.",
+   "concepto": "Movilidad y accesibilidad",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 64",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m007",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál es la tesis básica de la Geografía del Transporte y qué crítica le hace la autora?",
+   "opciones": [
+    "Hay una asociación de determinación entre modelo de urbanización y de desplazamiento; la lógica locacional es cierta, pero parcial.",
+    "Hay una relación únicamente causal entre la ciudad y el transporte; la autora la acepta por completo como explicación de los viajes.",
+    "El desplazamiento depende del capital social de las personas; la autora critica que ignore la distribución de actividades en el territorio.",
+    "El transporte determina por completo la localización de las actividades; la autora critica que no considere la infraestructura vial.",
+    "El modelo de desplazamiento es independiente del modelo de urbanización; la autora critica que no mida el número de viajes."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La asociación es causal o recíproca, y la autora la considera cierta pero parcial.",
+    "La Geografía del Transporte explica el desplazamiento por la localización, no por el capital social.",
+    "Es al revés: la distribución de actividades y personas explica el desplazamiento.",
+    "Hay una asociación entre ambos modelos."
+   ],
+   "respuesta": "Hay una asociación de determinación entre modelo de urbanización y de desplazamiento; la lógica locacional es cierta, pero parcial.",
+   "explicacion": "La Geografía del Transporte plantea una asociación de determinación (causal o recíproca) entre el modelo de urbanización y el de desplazamiento, con nexo en la distribución de actividades y personas (lógica locacional). La autora la considera 'cierta, pero parcial': la localización no alcanza a explicar la lógica de los desplazamientos.",
+   "concepto": "Lógica locacional",
+   "nivel": "interpretacion",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, pp. 64 y 72",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m008",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Sobre el primer vacío del esquema conceptual de la movilidad urbana, ¿cuál afirmación es correcta?",
+   "opciones": [
+    "La Sociología recoge la visión subjetiva del desplazamiento cotidiano, pero mantiene una visión material del territorio.",
+    "La Geografía Humana se enfoca en la movilidad urbana cotidiana, mientras la Sociología lo hace en la movilidad interurbana y mundial.",
+    "Ambas disciplinas mantienen una visión puramente material del territorio, sin recuperar la dimensión cultural ni la subjetiva.",
+    "La Geografía Humana mantiene una visión material del territorio, mientras la Sociología solo estudia la movilidad residencial.",
+    "El vacío consiste en que faltan bases de datos e indicadores actualizados, aunque el esquema conceptual está completo."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Está invertido: la Geografía Humana trata la movilidad de la globalización a escala interurbana, regional y mundial.",
+    "Ambas convergen en recuperar la dimensión cultural y la visión subjetiva.",
+    "La Sociología se enfoca en la movilidad urbana y cotidiana.",
+    "Eso se parece al segundo vacío, la brecha metodológica, y hoy sí hay bases e indicadores actualizados."
+   ],
+   "respuesta": "La Sociología recoge la visión subjetiva del desplazamiento cotidiano, pero mantiene una visión material del territorio.",
+   "explicacion": "Primer vacío: predomina la visión material del territorio sobre la subjetiva. La Geografía Humana recoge la visión subjetiva, pero trata la movilidad de la globalización de manera genérica (escala interurbana, regional y mundial) o la movilidad larga; la Sociología se enfoca en la movilidad urbana y cotidiana y recoge lo subjetivo del desplazamiento, pero mantiene una visión material del territorio.",
+   "concepto": "Vacíos del esquema conceptual",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 63",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m009",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En los tres universos analíticos de viajes de la autora, ¿qué es la movilidad efectiva?",
+   "opciones": [
+    "Las opciones de viaje que la persona, en su contexto social, considera posibles para sí.",
+    "Las opciones de viaje que la persona concibe en su contexto social, es decir, el mundo conocido de sus representaciones.",
+    "Las opciones de viaje que la persona selecciona y realiza, la parte visible del universo de viajes, como un iceberg.",
+    "Las alternativas de transporte que existen, sean o no una opción de viaje para un grupo, vistas desde la red.",
+    "La concreción de la movilidad potencial, mediada por aptitudes físicas, competencias y recursos de la persona."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Eso es la movilidad concebida.",
+    "Eso es la movilidad realizada.",
+    "Eso corresponde al tipo de movilidad potencial.",
+    "Es el uso de Orfeuil (2004), distinto del universo de la autora."
+   ],
+   "respuesta": "Las opciones de viaje que la persona, en su contexto social, considera posibles para sí.",
+   "explicacion": "Concebida: opciones que la persona concibe (el mundo conocido). Efectiva: opciones que considera posibles para sí. Realizada: opciones que selecciona y realiza. Cuidado con otros usos de 'efectiva' y 'potencial': Orfeuil habla de movilidad potencial y efectiva (la efectiva concreta la potencial), y la autora usa 'potencial' para un tipo de movilidad visto desde la red.",
+   "concepto": "Universos de viajes",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, pp. 66 y 70",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m010",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Para Lévy (2001), citado por la autora, ¿qué tres dimensiones distingue en la movilidad?",
+   "opciones": [
+    "Movilidad como posibilidad, como competencia y como capital, que van de lo realizado a lo potencial o virtual.",
+    "Movilidad concebida, efectiva y realizada, que ordenan los universos de viajes según lo que la persona considera posible.",
+    "Movilidad potencial y movilidad efectiva, la segunda como concreción de la primera, mediada por competencias y recursos.",
+    "Movilidad potencial, latente y vulnerable, vistas desde la red y desde el viajero en sentido ascendente o descendente.",
+    "Movilidad cuantitativa, cualitativa y espacial, según se mida la cantidad de viajes, su calidad o su distancia."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Esos son los universos de la propia autora.",
+    "Esa es la distinción de Orfeuil (2004).",
+    "Esos son tipos de movilidad de la autora, con la oculta como cuarto tipo.",
+    "No son dimensiones de Lévy en el texto."
+   ],
+   "respuesta": "Movilidad como posibilidad, como competencia y como capital, que van de lo realizado a lo potencial o virtual.",
+   "explicacion": "Lévy (2001) distingue la movilidad como posibilidad (accesibilidad, la movilidad ofrecida por el transporte), como competencia (el arbitraje entre la movilidad como posibilidad y la efectiva) y como capital (capital social del individuo). Lévy, Kaufmann y Orfeuil van de la movilidad realizada hacia la potencial o virtual, mediada por competencias subjetivas.",
+   "concepto": "Dimensiones de Lévy",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, pp. 65-66",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m011",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál se ajusta al concepto de movilidad latente, según la clasificación de tipos de movilidad de la autora?",
+   "opciones": [
+    "Las necesidades de desplazamiento que no se realizan en viajes: el 'no viaje' que sugiere una vacancia de transporte.",
+    "Las necesidades realizadas en viajes, pero en riesgo de reducción o deterioro por obstáculos que condicionan su continuidad.",
+    "Los viajes realizados que no registran las estadísticas, y que dimensionan la subvisualización de la demanda.",
+    "Las alternativas de transporte existentes, sean o no una opción de viaje para un grupo, vistas desde la red.",
+    "Los viajes realizados sin conseguir satisfacer la necesidad que los motiva, es decir, los viajes inútiles."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Eso es la movilidad vulnerable.",
+    "Eso es la movilidad oculta.",
+    "Eso es la movilidad potencial.",
+    "Eso es la medida teleológica insatisfecha, no un tipo de movilidad."
+   ],
+   "respuesta": "Las necesidades de desplazamiento que no se realizan en viajes: el 'no viaje' que sugiere una vacancia de transporte.",
+   "explicacion": "Tipos: potencial (desde la red, oferta de infraestructura y servicios; ascendente); latente (necesidades no realizadas en viajes, desde el viajero; ascendente); vulnerable (necesidades realizadas pero en riesgo, desde el viajero; descendente); oculta (viajes realizados y no registrados por las estadísticas).",
+   "concepto": "Tipos de movilidad",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 70",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m012",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué diferencia hay entre accesibilidad y acceso en el artículo?",
+   "opciones": [
+    "La accesibilidad (enfoque ontológico) pondera la facilidad de llegar a lugares; el acceso (teleológico), la de realizar servicios o actividades.",
+    "La accesibilidad (enfoque teleológico) pondera la facilidad de realizar actividades; el acceso (ontológico), la de llegar a lugares.",
+    "La accesibilidad mide la cantidad de viajes realizados; el acceso mide el tiempo promedio de viaje entre origen y destino.",
+    "La accesibilidad es subjetiva y depende del capital social; el acceso es objetivo y depende de la infraestructura vial.",
+    "Ambos son sinónimos, y el artículo solo prefiere 'acceso' por ser un término más utilizado en las políticas sectoriales."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Están invertidos los enfoques.",
+    "Ninguno de los dos se define como medida de cantidad o tiempo.",
+    "La distinción es de enfoque ontológico o teleológico, no entre subjetivo y objetivo.",
+    "La autora los distingue; el acceso facilita integrar la movilidad a las políticas sectoriales."
+   ],
+   "respuesta": "La accesibilidad (enfoque ontológico) pondera la facilidad de llegar a lugares; el acceso (teleológico), la de realizar servicios o actividades.",
+   "explicacion": "Accesibilidad (ontológico): facilidad de llegar a lugares. Acceso (teleológico): facilidad de realizar servicios o actividades; acceder es concretar las necesidades o deseos que son el fin del viaje. El enfoque teleológico facilita integrar la movilidad a la gestión y evaluación de políticas sectoriales.",
+   "concepto": "Accesibilidad y acceso",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 68",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m013",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué diferencia al viaje teleológico del viaje ontológico en morfología y tiempo?",
+   "opciones": [
+    "El teleológico es reticular (une dos o más lugares) y discontinuo en el tiempo; el ontológico es lineal y de tiempo continuo.",
+    "El teleológico es lineal (une dos lugares) y de tiempo continuo; el ontológico es reticular y discontinuo en el tiempo.",
+    "Ambos son lineales, pero el teleológico incluye la espera y el ontológico incluye solo el trayecto entre origen y destino.",
+    "El teleológico tiene visión cartográfica y el ontológico tiene visión biográfica, aunque ambos son discontinuos en el tiempo.",
+    "El teleológico se aplica solo a viajes de bienes y el ontológico solo a viajes de personas hacia servicios de salud."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Están invertidos.",
+    "El teleológico es reticular, no lineal.",
+    "La visión cartográfica es la del enfoque ontológico.",
+    "Ambos se aplican a personas y bienes."
+   ],
+   "respuesta": "El teleológico es reticular (une dos o más lugares) y discontinuo en el tiempo; el ontológico es lineal y de tiempo continuo.",
+   "explicacion": "Ontológico: visión cartográfica, morfología lineal (une dos lugares), duración variable pero en tiempo continuo. Teleológico: visión biográfica, morfología reticular o de red (une dos o más lugares), discontinua en el tiempo (distribuida en uno o más días). Se pueden estudiar de forma complementaria.",
+   "concepto": "Viaje ontológico y teleológico",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 69",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m014",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según la autora, ¿qué suprime la telecomunicación cuando reemplaza un viaje por la copresencia a distancia?",
+   "opciones": [
+    "El desplazamiento territorial, no la movilidad: es un viaje no materializado, un 'no viaje', y no una 'no movilidad'.",
+    "La movilidad completa, porque sin desplazamiento físico no hay práctica social de movilidad ni potencialidad de viajar.",
+    "El transporte, pero no el desplazamiento, porque la copresencia es una forma de viaje que se registra en las encuestas.",
+    "La accesibilidad, pero conserva el viaje, porque el viaje se define como nexo entre lugares con métrica euclidiana.",
+    "El deseo de viajar, que desaparece al satisfacerse la necesidad de comunicación sin el desplazamiento de las personas."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Lo que suprime es el desplazamiento, no la movilidad.",
+    "Suprime el desplazamiento territorial, y esa copresencia no es un viaje.",
+    "El texto no plantea eso.",
+    "El viaje no materializado sigue siendo parte del universo de la movilidad."
+   ],
+   "respuesta": "El desplazamiento territorial, no la movilidad: es un viaje no materializado, un 'no viaje', y no una 'no movilidad'.",
+   "explicacion": "La movilidad potencial o virtual lleva a hablar de 'no movilidades' y a considerar como tal la copresencia vía telecomunicación. La autora precisa que lo que suprime la telecomunicación es el desplazamiento territorial, no la movilidad: sería un viaje no materializado o 'no viaje'.",
+   "concepto": "Telecomunicación y no viaje",
+   "nivel": "interpretacion",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 66",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m015",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En el enfoque teleológico, ¿cómo se valora la hipermovilidad frente a la inmovilidad?",
+   "opciones": [
+    "Ninguna es buena ni mala en sí; depende del fin del viajero y es relativa a cada grupo social y a cada motivo de viaje.",
+    "La hipermovilidad es siempre positiva, porque indica menos barreras espacio-temporales, y la inmovilidad siempre negativa, por la segregación.",
+    "La inmovilidad es siempre positiva, porque reduce la congestión, y la hipermovilidad siempre negativa, por sus costos ambientales.",
+    "Ambas se valoran por el número de viajes, y por eso un grupo con más viajes siempre tiene una mejor movilidad que otro.",
+    "Ambas se valoran solo por la distancia recorrida, que es el único aspecto capaz de dimensionar el valor de la movilidad de un grupo."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El texto dice que no se les puede atribuir un valor en sí.",
+    "No se les atribuye un valor en sí.",
+    "Más viajes no implica mejor movilidad: la movilidad puede mejorar ampliando o reduciendo viajes.",
+    "El único aspecto capaz de dimensionar ese valor es la satisfacción de deseos o necesidades."
+   ],
+   "respuesta": "Ninguna es buena ni mala en sí; depende del fin del viajero y es relativa a cada grupo social y a cada motivo de viaje.",
+   "explicacion": "Entre inmovilidad e hipermovilidad se puede trazar un gradiente medido en viajes, pero no atribuirle un valor. Ninguna es buena ni mala en sí, sino según el fin perseguido; ambas son relativas a cada grupo social y a cada motivo de viaje. La satisfacción de deseos o necesidades es el único aspecto capaz de dimensionar el valor de la movilidad de un grupo.",
+   "concepto": "Hipermovilidad e inmovilidad",
+   "nivel": "interpretacion",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 71",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m016",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Una persona viaja a un centro de salud, pero no la atienden y debe regresar sin cumplir el fin de su viaje. ¿A qué medida teleológica corresponde?",
+   "opciones": [
+    "Movilidad insatisfecha: viajes realizados sin conseguir satisfacer la necesidad que los motiva, es decir, viajes inútiles.",
+    "Movilidad insatisfactoria: viajes realizados en condiciones desfavorables, aunque la necesidad que los motiva sí se satisfaga.",
+    "Movilidad insuficiente: viajes no realizados, suspendidos, postergados o hechos en menor cantidad a la necesaria.",
+    "Movilidad asociada: viajes hechos para cumplir fines subordinados al principal, como trámites para acceder a una prestación.",
+    "Movilidad oculta: viajes realizados que no figuran en las estadísticas oficiales de demanda de transporte de la ciudad."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "La insatisfactoria describe las condiciones del viaje, y aquí no se cumple el fin.",
+    "El viaje sí se realizó.",
+    "La asociada corresponde a trámites o turnos subordinados al fin principal.",
+    "La oculta es un tipo de movilidad, no una medida teleológica."
+   ],
+   "respuesta": "Movilidad insatisfecha: viajes realizados sin conseguir satisfacer la necesidad que los motiva, es decir, viajes inútiles.",
+   "explicacion": "Medidas teleológicas (Gutiérrez 2010): insatisfecha (viajes realizados sin satisfacer la necesidad que los motiva, 'inútiles'); insatisfactoria (viajes en condiciones desfavorables); insuficiente (viajes no realizados, postergados o en menor cantidad a la necesaria); asociada (viajes para fines subordinados al principal).",
+   "concepto": "Medidas teleológicas de movilidad",
+   "nivel": "aplicacion",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 71",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m017",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Un hogar posterga los controles médicos de sus hijos porque el trayecto al hospital es muy largo y costoso. ¿Qué medida teleológica ilustra?",
+   "opciones": [
+    "Movilidad insuficiente: viajes no realizados, suspendidos, postergados o hechos en menor cantidad a la necesaria.",
+    "Movilidad insatisfecha: viajes realizados que no logran satisfacer la necesidad de atención que los motivó.",
+    "Movilidad insatisfactoria: viajes realizados en condiciones desfavorables, como largos tiempos de espera y de traslado.",
+    "Movilidad asociada: viajes hechos para cumplir fines subordinados al principal, como pedir turnos o retirar resultados.",
+    "Movilidad potencial: alternativas de transporte existentes, sean o no una opción de viaje para el grupo."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Aquí los viajes se postergan; no se realizan e incumplen su fin.",
+    "La insatisfactoria exige viajes realizados.",
+    "La asociada requiere viajes realizados para fines subordinados.",
+    "La potencial es un tipo de movilidad visto desde la red."
+   ],
+   "respuesta": "Movilidad insuficiente: viajes no realizados, suspendidos, postergados o hechos en menor cantidad a la necesaria.",
+   "explicacion": "La movilidad insuficiente son los viajes no realizados, suspendidos, postergados o realizados en menor cantidad a la necesaria. Estas medidas delimitan situaciones de vulnerabilidad y dan insumo para políticas de transporte y de otros sectores (salud, educación, empleo).",
+   "concepto": "Aplicación de medidas teleológicas",
+   "nivel": "aplicacion",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 71",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m018",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En el modelo de tres momentos del viaje (Thaddeus y Maine, 1994), ¿cuál emparejamiento entre momento y esfera es correcto?",
+   "opciones": [
+    "Pre viaje: esfera subjetiva o privada, con aspectos personales, familiares y vecinales; viaje y pos viaje: esfera objetiva o pública.",
+    "Pre viaje: esfera objetiva o pública, con infraestructura de transporte; viaje y pos viaje: esfera subjetiva o privada.",
+    "Pos viaje: esfera subjetiva o privada, porque la actividad fin depende solo de la decisión personal del viajero.",
+    "Viaje: esfera subjetiva o privada, porque el trayecto depende solo de las representaciones del viajero sobre el territorio.",
+    "Los tres momentos pertenecen a la esfera objetiva o pública, y la subjetiva solo aparece al analizar el viaje realizado."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Está invertido: el pre viaje es la esfera subjetiva o privada.",
+    "El pos viaje es objetivo o público: infraestructura y servicios de la actividad fin.",
+    "El viaje es objetivo o público: infraestructura, medios y servicios de transporte.",
+    "El pre viaje corresponde a la esfera subjetiva o privada."
+   ],
+   "respuesta": "Pre viaje: esfera subjetiva o privada, con aspectos personales, familiares y vecinales; viaje y pos viaje: esfera objetiva o pública.",
+   "explicacion": "Pre viaje (decisión, planificación y organización): esfera subjetiva o privada. Viaje (trayecto entre origen y destino): infraestructura, medios y servicios de transporte, esfera objetiva o pública. Pos viaje (realización de la actividad fin): infraestructura y servicios de la actividad (salud, educación, empleo), esfera objetiva o pública.",
+   "concepto": "Momentos del viaje",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, pp. 69-70",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m019",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Gutiérrez y Minuto (2007) proponen un método de estudio de casos que cruza tres variables. ¿Cuál NO es una de ellas?",
+   "opciones": [
+    "El medio de transporte utilizado, como el bus, la bicicleta o el automóvil particular.",
+    "El tipo de viaje, según el fin del desplazamiento, como salud, educación o empleo.",
+    "El tipo de grupo social, como jóvenes, ancianos o desempleados.",
+    "El tipo de territorio, como rural, urbano, rururbano o de frontera."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Sí es una de las tres variables.",
+    "Sí es una de las tres variables.",
+    "Sí es una de las tres variables."
+   ],
+   "respuesta": "El medio de transporte utilizado, como el bus, la bicicleta o el automóvil particular.",
+   "explicacion": "El método cruza el tipo de viaje (según un fin de desplazamiento), el tipo de grupo social y el tipo de territorio. Responde a un modelo teórico (un fin, un grupo y un territorio 'tipo') y produce experiencias 'modelo' de movilidad. El medio de transporte no es una de las variables.",
+   "concepto": "Método de casos",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, p. 69",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-m020",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué es la 'historia de viaje' como herramienta de campo?",
+   "opciones": [
+    "Entrevistas semiestructuradas con datos cuali-cuantitativos, orientadas a la satisfacción de necesidades y no a llegar a lugares.",
+    "Una encuesta de origen y destino que cuenta los viajes realizados en un día típico y su medio de transporte.",
+    "Un registro estadístico de vehículos, pasajeros, kilómetros y tarifa media, construido con fuentes secundarias del operador.",
+    "Un modelo matemático que predice la demanda de viajes con base en la localización de actividades y de la población.",
+    "Un relato histórico de la evolución de la ciudad, que describe la transformación de su red de transporte en cada década."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Es distinta de las encuestas de origen y destino: se orienta a necesidades y usa entrevistas.",
+    "Esas son fuentes secundarias convencionales del transporte.",
+    "No es un modelo de predicción; es una herramienta de campo cualitativa y cuantitativa.",
+    "Es una herramienta sobre las prácticas de viaje de un grupo, no un relato histórico de la ciudad."
+   ],
+   "respuesta": "Entrevistas semiestructuradas con datos cuali-cuantitativos, orientadas a la satisfacción de necesidades y no a llegar a lugares.",
+   "explicacion": "La historia de viaje se apoya en la perspectiva cronológica (pre viaje, viaje y pos viaje). Captura datos cuali-cuantitativos con entrevistas semiestructuradas, orientada a la satisfacción de deseos o necesidades, y permite estudiar de forma simultánea y vincular aspectos personales, del transporte y de la actividad fin.",
+   "concepto": "Historia de viaje",
+   "nivel": "interpretacion",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?, pp. 69-70",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-b001",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en las definiciones y relaciones conceptuales del artículo, defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "La movilidad y el transporte comparten la unidad de estudio, el viaje.",
+     "verdadera": true,
+     "explicacion": "No comparten el universo de viajes."
+    },
+    {
+     "texto": "Según Estevan y Sanz, la movilidad es una variable cualitativa y la accesibilidad una variable cuantitativa.",
+     "verdadera": false,
+     "explicacion": "Es al revés: movilidad cuantitativa, accesibilidad cualitativa."
+    },
+    {
+     "texto": "En el artículo, 'movilidad' se refiere a la movilidad social, es decir, al cambio de posición en la estructura social.",
+     "verdadera": false,
+     "explicacion": "Se refiere a la movilidad urbana, territorial (nota 1)."
+    },
+    {
+     "texto": "Según la autora, sin transporte no hay movilidad, salvo en los desplazamientos a pie.",
+     "verdadera": true,
+     "explicacion": "Es la 'íntima interpenetración' entre movilidad y transporte."
+    },
+    {
+     "texto": "La autora considera que la telecomunicación suprime la movilidad cuando reemplaza un viaje por la copresencia a distancia.",
+     "verdadera": false,
+     "explicacion": "Suprime el desplazamiento territorial, no la movilidad: es un 'no viaje'."
+    }
+   ],
+   "respuesta": "V · F · F · V · F",
+   "concepto": "Conceptos básicos de movilidad y transporte",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s01-gutierrez-2013-b002",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en los enfoques ontológico y teleológico, y en la medición, defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "El enfoque teleológico concibe el viaje con morfología reticular y discontinua en el tiempo.",
+     "verdadera": true,
+     "explicacion": "El ontológico es lineal y de tiempo continuo."
+    },
+    {
+     "texto": "La movilidad vulnerable se ve desde la red y es una perspectiva ascendente.",
+     "verdadera": false,
+     "explicacion": "Se ve desde el viajero y es descendente."
+    },
+    {
+     "texto": "La movilidad oculta corresponde a viajes realizados que no registran las estadísticas.",
+     "verdadera": true,
+     "explicacion": "Dimensiona la subvisualización de la demanda."
+    },
+    {
+     "texto": "El pre viaje pertenece a la esfera subjetiva o privada, y el viaje y el pos viaje, a la objetiva o pública.",
+     "verdadera": true,
+     "explicacion": "Es el modelo de tres momentos de Thaddeus y Maine."
+    },
+    {
+     "texto": "Para la autora, la hipermovilidad es positiva en sí misma y la inmovilidad es negativa en sí misma.",
+     "verdadera": false,
+     "explicacion": "Ninguna es buena ni mala en sí: depende del fin perseguido."
+    }
+   ],
+   "respuesta": "V · F · V · V · F",
+   "concepto": "Enfoques y medición de la movilidad",
+   "nivel": "contraste",
+   "referencia": "Gutiérrez (2012/2013), ¿Qué es la movilidad?",
+   "clase": null,
+   "estado": "completa"
   }
  ],
  "trampas": [

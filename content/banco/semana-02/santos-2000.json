@@ -86,6 +86,616 @@
    "respuesta": "Porque hay diferencia entre decir que el espacio no es una causa y negar que sea un factor, un dato: admitir su existencia no es ser geodeterminista. Las acciones no se geografizan indiferentemente, pues hay relación entre el valor de la acción y el valor del lugar donde se realiza (si no, todos los lugares tendrían el mismo valor de uso y de cambio), y el valor del espacio no es independiente de las acciones que puede acoger; p. 74.",
    "referencia": "p. 74",
    "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m001",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál es la definición de espacio que propone Santos y cuáles son los tres adjetivos que le aplica al conjunto?",
+   "opciones": [
+    "Un conjunto indisoluble, solidario y también contradictorio, de sistemas de objetos y de acciones, no considerados aisladamente.",
+    "Un conjunto separable, jerárquico y estable, de sistemas de objetos y sistemas de acciones, que se estudian por partes.",
+    "Un conjunto indisoluble, solidario y armónico, de fijos y flujos, que se transforman unos a otros sin contradicción.",
+    "Un conjunto de objetos, características de esos objetos e interrelaciones, tal como lo propone la teoría de sistemas.",
+    "Un conjunto de sistemas naturales de un área más los agregados que los hombres sobrepusieron, sin las relaciones sociales."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Los sistemas no se consideran aisladamente, y los adjetivos son otros.",
+    "El espacio es un conjunto también contradictorio, de objetos y acciones.",
+    "Santos rechaza revivir la propuesta de Berry y Marble basada en la teoría de sistemas.",
+    "Eso describe la configuración territorial, que no es el espacio."
+   ],
+   "respuesta": "Un conjunto indisoluble, solidario y también contradictorio, de sistemas de objetos y de acciones, no considerados aisladamente.",
+   "explicacion": "'El espacio está formado por un conjunto indisoluble, solidario y también contradictorio, de sistemas de objetos y sistemas de acciones, no considerados aisladamente, sino como el contexto único en el que se realiza la historia.' Los objetos no tienen realidad filosófica separados de las acciones, ni las acciones se dan sin objetos.",
+   "concepto": "Definición de espacio geográfico",
+   "nivel": "contraste",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, p. 54",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m002",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Entre las tres propuestas sucesivas de objeto que revisa Santos, ¿cuál es la correcta respecto de los fijos y flujos?",
+   "opciones": [
+    "Primera hipótesis: los fijos permiten acciones que modifican el lugar, y los flujos resultan de las acciones y atraviesan los fijos.",
+    "Primera hipótesis: los flujos permiten acciones que modifican el lugar, y los fijos resultan de las acciones y se instalan en los flujos.",
+    "Última propuesta: el espacio es un conjunto de fijos y flujos, que sustituye a los sistemas de objetos y de acciones.",
+    "Segunda propuesta: el espacio es la suma de fijos y flujos, que reúne materialidad y relaciones sociales como un dato técnico.",
+    "Primera hipótesis: los fijos son hoy menos artificiales y los flujos más lentos y escasos que en el pasado."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Están invertidos.",
+    "Los fijos y flujos son la primera hipótesis, no la propuesta actual.",
+    "La segunda propuesta es configuración territorial y relaciones sociales.",
+    "Hoy los fijos son más artificiales y los flujos más diversos, amplios, numerosos y rápidos."
+   ],
+   "respuesta": "Primera hipótesis: los fijos permiten acciones que modifican el lugar, y los flujos resultan de las acciones y atraviesan los fijos.",
+   "explicacion": "Tres propuestas sucesivas: 1) fijos y flujos (Santos, 1978); 2) configuración territorial y relaciones sociales (Santos, 1988); 3) sistemas de objetos y sistemas de acciones, la propuesta actual. Los fijos permiten acciones que modifican el lugar; los flujos resultan de las acciones y atraviesan o se instalan en los fijos, modificando su significación y su valor.",
+   "concepto": "Propuestas sucesivas de objeto",
+   "nivel": "contraste",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, pp. 53-54",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m003",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Por qué la configuración territorial no es lo mismo que el espacio?",
+   "opciones": [
+    "Porque su realidad es la materialidad, mientras el espacio reúne la materialidad y la vida que la anima, que le dan las relaciones sociales.",
+    "Porque la configuración territorial incluye las relaciones sociales y el espacio solo los sistemas naturales de un área determinada.",
+    "Porque la configuración territorial es un dato social y el espacio geográfico es un dato técnico, que depende solo de los objetos.",
+    "Porque la configuración territorial es siempre natural y el espacio es siempre artificial, formado solo por obras humanas.",
+    "Porque son sinónimos, y Santos solo prefiere el término espacio por ser más usual en la terminología corriente de la geografía."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Es al revés: la configuración es materialidad, y el espacio la une a la vida que la anima.",
+    "Santos plantea lo contrario: la configuración espacial es un dato técnico y el espacio geográfico es un dato social.",
+    "La configuración pasa, con la historia, de complejos naturales a obras humanas (prótesis).",
+    "Santos distingue ambos; 'configuración geográfica' y 'paisaje' sustituyen equivocadamente a 'espacio'."
+   ],
+   "respuesta": "Porque su realidad es la materialidad, mientras el espacio reúne la materialidad y la vida que la anima, que le dan las relaciones sociales.",
+   "explicacion": "La configuración territorial es el conjunto de los sistemas naturales más los agregados que los hombres sobrepusieron; su realidad es la materialidad, y su existencia social solo se la dan las relaciones sociales. El espacio reúne la materialidad y la vida que la anima. El paisaje es un aspecto o fracción de la configuración; la configuración espacial es un dato técnico y el espacio geográfico, un dato social.",
+   "concepto": "Configuración territorial y espacio",
+   "nivel": "contraste",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, pp. 53-54 y 64",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m004",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuál es la crítica de Santos a la analogía con Marx (fuerzas productivas y relaciones sociales de producción)?",
+   "opciones": [
+    "Que es una lectura simplista: hoy fuerzas productivas y relaciones de producción se confunden y dejan de ser válidas para analizar el espacio.",
+    "Que es una analogía correcta, pues los sistemas de objetos son las relaciones de producción y los de acciones, las fuerzas productivas.",
+    "Que Marx nunca escribió sobre fuerzas productivas, y por eso la analogía carece de todo fundamento histórico.",
+    "Que la analogía solo vale para los objetos naturales, pero no para los objetos artificiales de la sociedad moderna.",
+    "Que obliga a estudiar solo los sistemas de acciones, porque los objetos pertenecen a la economía y no a la geografía."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Santos la rechaza como lectura simplista, y además invierte los términos.",
+    "Santos critica la lectura simplista, no la existencia del planteamiento en Marx.",
+    "El problema es que las dos categorías se confunden hoy.",
+    "Santos propone el espacio como conjunto indisoluble de objetos y acciones."
+   ],
+   "respuesta": "Que es una lectura simplista: hoy fuerzas productivas y relaciones de producción se confunden y dejan de ser válidas para analizar el espacio.",
+   "explicacion": "Equiparar el sistema de objetos con las fuerzas productivas y el de acciones con las relaciones sociales de producción sería 'copiar de forma simplista' a Marx: hoy las fuerzas productivas son también relaciones de producción y viceversa, y las categorías aparecen confundidas y dejan de ser analíticamente válidas para el estudio del espacio.",
+   "concepto": "Crítica a la lectura simple de Marx",
+   "nivel": "interpretacion",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, p. 55",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m005",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué diferencia hay entre cosas y objetos, y qué ocurre con ellas hoy según Santos?",
+   "opciones": [
+    "Las cosas son de elaboración natural y los objetos de elaboración social; hoy los objetos han tomado el lugar de las cosas.",
+    "Las cosas son de elaboración social y los objetos de elaboración natural; hoy las cosas han tomado el lugar de los objetos.",
+    "Las cosas y los objetos son equivalentes en todo momento, y la diferencia solo depende de si son móviles o inmóviles.",
+    "Las cosas siguen siendo mayoría en el espacio, porque la naturaleza no ha sido transformada por la acción humana.",
+    "Los objetos son obras de Dios y las cosas son obras de los hombres, según Focillon, y Santos acepta esa distinción sin reservas."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Están invertidos.",
+    "La diferencia es el origen natural o social de su elaboración.",
+    "Hoy todo tiende a ser objeto: las cosas se vuelven objetos al usarlas con intenciones sociales.",
+    "Focillon dice lo contrario, y Santos matiza que hoy las cosas pasan a ser objetos."
+   ],
+   "respuesta": "Las cosas son de elaboración natural y los objetos de elaboración social; hoy los objetos han tomado el lugar de las cosas.",
+   "explicacion": "Cosas: producto de una elaboración natural; objetos: producto de una elaboración social, resultado del trabajo (Focillon: las cosas, obras de Dios; los objetos, obras de los hombres). Hoy todo tiende a ser objeto, porque las cosas usadas con intenciones sociales pasan a ser objetos, y la naturaleza se vuelve sistema de objetos.",
+   "concepto": "Cosas y objetos",
+   "nivel": "contraste",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, pp. 55-56",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m006",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según la definición de Moles que cita Santos, ¿cuál de los siguientes sí es un objeto?",
+   "opciones": [
+    "Un raspador de sílex, que es un elemento fabricado por el hombre, independiente y móvil.",
+    "El sílex en bruto, porque es un elemento del mundo exterior que el hombre puede manipular libremente.",
+    "Una montaña, porque es un elemento del mundo exterior y es independiente de quien la observa.",
+    "Una casa, porque es fabricada por el hombre y se asume o manipula en la vida cotidiana de las personas.",
+    "Un puerto, porque es una obra humana cuyo uso supone aprendizaje y una conciencia dirigida hacia ella."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Para Moles, el sílex no es objeto; el raspador sí.",
+    "Moles no considera objeto a una montaña.",
+    "Para Moles no es un objeto, pues no es independiente ni móvil.",
+    "Un puerto es un objeto geográfico fijo, no un objeto en el sentido de Moles."
+   ],
+   "respuesta": "Un raspador de sílex, que es un elemento fabricado por el hombre, independiente y móvil.",
+   "explicacion": "Para Moles, objeto es un elemento del mundo exterior, fabricado por el hombre, que este debe asumir o manipular, 'independiente y móvil': ni una montaña ni una casa serían objetos, el raspador de sílex sí y el sílex no. Para la geografía, en cambio, los objetos incluyen los fijos: puente, casa, puerto, ciudad, plantación.",
+   "concepto": "Definición de objeto según Moles",
+   "nivel": "aplicacion",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, p. 57",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m007",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué señala Santos sobre la difusión de los objetos?",
+   "opciones": [
+    "Que tienden a reproducirse y difundirse por imitación (Tarde), y hoy lo hacen de forma más rápida y generalizada.",
+    "Que no se reproducen, porque cada objeto es único y responde solo a condiciones locales del momento histórico.",
+    "Que se difunden más lentamente hoy que en el pasado, porque las técnicas modernas limitan su reproducción.",
+    "Que se difunden de modo uniforme en todos los grupos humanos, que adoptan la novedad al mismo tiempo.",
+    "Que su difusión depende solo de los objetos naturales, que cada lugar reproduce con el mismo modelo."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Los objetos tienden a reproducirse y difundirse.",
+    "La difusión es hoy más rápida y generalizada para los objetos de los nuevos modos de producir.",
+    "Algunos grupos adoptan la novedad pronto, otros no pueden o la rechazan.",
+    "La creación y reproducción de objetos responde a condiciones sociales y técnicas."
+   ],
+   "respuesta": "Que tienden a reproducirse y difundirse por imitación (Tarde), y hoy lo hacen de forma más rápida y generalizada.",
+   "explicacion": "Los objetos tienden a reproducirse y difundirse (Hewitt y Hare), conforme a la ley de la imitación de Gabriel Tarde; los ejemplos son los castillos, los bungalows, la casa geminada de São Paulo y los edificios cada vez más altos. Hoy la difusión es más rápida y generalizada para los objetos de los nuevos modos de producir.",
+   "concepto": "Difusión de objetos",
+   "nivel": "interpretacion",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, pp. 58-59",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m008",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Moles distingue complejidad funcional y complejidad estructural de los objetos. ¿Cuál emparejamiento es correcto?",
+   "opciones": [
+    "Funcional: repertorio de funciones combinables en el uso; estructural: conjunto de piezas elementales, equivalente a información.",
+    "Funcional: conjunto de piezas elementales del objeto; estructural: repertorio de funciones combinables en el uso.",
+    "Funcional: número de objetos de un mismo tipo en una población; estructural: tiempo de vida útil del objeto.",
+    "Funcional: grado de determinación funcional de un objeto técnico; estructural: grado de belleza de los objetos de arte.",
+    "Funcional: complejidad de los objetos naturales sin trabajar; estructural: complejidad de los objetos de producción global."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Están invertidas.",
+    "Ninguna de esas es una definición del texto.",
+    "Eso se parece a la clasificación de Bense, no a la de Moles.",
+    "Eso se parece a los niveles de Rossi-Landi, no a la distinción de Moles."
+   ],
+   "respuesta": "Funcional: repertorio de funciones combinables en el uso; estructural: conjunto de piezas elementales, equivalente a información.",
+   "explicacion": "Complejidad funcional: repertorio de funciones combinables en el uso (la dimensión estadística de los usos). Complejidad estructural: conjunto de piezas elementales; es equivalente a la información. Cuanto más estructuralmente complejo es un objeto, más eficaz y rápidamente da una respuesta adecuada, 'y en el medio geográfico es así también'.",
+   "concepto": "Complejidad de los objetos",
+   "nivel": "contraste",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, p. 59",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m009",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "La cadena de frío (nevera doméstica, camión refrigerado, cámaras de comercios, frigoríficos y fábricas) ilustra en el texto que:",
+   "opciones": [
+    "La noción de población de objetos se completa con la de sistema: los elementos varían solo en conjunto.",
+    "Los objetos geográficos se reducen a colecciones de elementos independientes que pueden estudiarse por separado.",
+    "Los objetos de uso doméstico son más complejos que los industriales, por su mayor número de funciones combinables.",
+    "Los objetos naturales determinan la forma de los objetos técnicos, que dependen del clima de cada región.",
+    "Los objetos se difunden por imitación, de modo que cada eslabón copia el modelo del eslabón anterior."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El enfoque geográfico supone los objetos como sistemas, no solo como colecciones.",
+    "El ejemplo no compara la complejidad doméstica e industrial.",
+    "El ejemplo trata de la conexión entre objetos, no del clima.",
+    "Eso es difusión; la cadena de frío ejemplifica la noción de sistema."
+   ],
+   "respuesta": "La noción de población de objetos se completa con la de sistema: los elementos varían solo en conjunto.",
+   "explicacion": "La noción de población se completa con la de sistema (Baudrillard: pocos objetos se ofrecen solos). La cadena de frío es un todo cuyos elementos varían solo en conjunto; la televisión, igual, exige producción del programa, estación emisora, antenas y sistemas eléctricos y electrónicos. Pensar un objeto es pensar una conexión de objetos (Moreno).",
+   "concepto": "De población a sistema de objetos",
+   "nivel": "aplicacion",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, p. 61",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m010",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la clasificación de Bense que cita Santos, ¿cuáles son las cuatro categorías de objetos y cuáles son los menos determinados funcionalmente?",
+   "opciones": [
+    "Naturales, técnicos, de arte y de design; los menos determinados funcionalmente son los objetos de arte.",
+    "Naturales, técnicos, de arte y de design; los menos determinados funcionalmente son los objetos naturales.",
+    "Fijos, móviles, simples y complejos; los menos determinados funcionalmente son los objetos móviles.",
+    "Presignificativos, máquinas simples, autómatas y prototipos; los menos determinados son los prototipos.",
+    "Cosas, objetos, signos y símbolos; los menos determinados funcionalmente son los signos."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Los de arte son los menos determinados funcionalmente.",
+    "Esa no es la clasificación de Bense.",
+    "Esos son niveles de la escala de Rossi-Landi.",
+    "Esa no es la clasificación de Bense."
+   ],
+   "respuesta": "Naturales, técnicos, de arte y de design; los menos determinados funcionalmente son los objetos de arte.",
+   "explicacion": "Bense (citado por Krampen) clasifica por grado de determinación funcional: objetos naturales, técnicos, de arte y de design. Los de design, como los demás artificiales, son planeados pero no completamente determinados; los de arte son los menos determinados funcionalmente.",
+   "concepto": "Clasificación de Bense",
+   "nivel": "contraste",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, p. 60",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m011",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué diferencia hay entre el objeto del arqueólogo y el objeto del geógrafo?",
+   "opciones": [
+    "Para el arqueólogo es el único vestigio de la acción; para el geógrafo, un testimonio actual, que incluye objetos del presente.",
+    "Para el arqueólogo es un testimonio actual de la acción; para el geógrafo es el único vestigio de la acción pasada.",
+    "Ambos estudian solo objetos pasados, pero el geógrafo se limita a los objetos naturales y el arqueólogo a los fabricados.",
+    "Para el arqueólogo el objeto es todo lo móvil; para el geógrafo, todo lo inmóvil, como la ciudad y el puerto.",
+    "No hay diferencia: el objeto geográfico es el mismo que el arqueológico, con un nombre distinto en cada disciplina."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Está invertido.",
+    "El geógrafo trabaja también con objetos del presente, naturales y artificiales.",
+    "Los objetos de la geografía son móviles e inmóviles.",
+    "El objeto geográfico agrega la utilización actual."
+   ],
+   "respuesta": "Para el arqueólogo es el único vestigio de la acción; para el geógrafo, un testimonio actual, que incluye objetos del presente.",
+   "explicacion": "Para el arqueólogo (Buchsenschutz) un objeto es todo elemento sólido que el hombre usó para abrigarse, trabajar o transportar, único vestigio de la acción. El objeto geográfico es todo eso y más: agrega su utilización actual y es un testimonio actual de la acción.",
+   "concepto": "Objeto del arqueólogo y del geógrafo",
+   "nivel": "contraste",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, p. 63",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m012",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cómo caracteriza Santos la población de objetos del espacio geográfico frente al 'espacio serial'?",
+   "opciones": [
+    "Es continua y no depende de una selección del investigador: incluye 'todos sin excepción', como sistemas y no solo colecciones.",
+    "Resulta de la selección que hace el investigador de un subsistema, que luego se toma como representativo del espacio total.",
+    "Se limita a los objetos móviles, porque los objetos inmóviles pertenecen a la geografía física y no al espacio geográfico.",
+    "Se compone solo de los objetos fabricados por el hombre, porque la naturaleza no tiene acción ni objetivo.",
+    "Se define con un solo concepto, tomado de la sociología o la antropología, aplicable a cualquier espacio."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Eso describe el 'espacio serial', que privilegia un subsistema como si fuera el todo.",
+    "Los objetos de la geografía son móviles e inmóviles; la física y la humana se encuentran en su historia.",
+    "Incluye la herencia de la historia natural y los resultados de la acción humana objetivada.",
+    "Santos busca un sistema de conceptos, nunca un solo concepto."
+   ],
+   "respuesta": "Es continua y no depende de una selección del investigador: incluye 'todos sin excepción', como sistemas y no solo colecciones.",
+   "explicacion": "Los objetos que constituyen el espacio geográfico son necesariamente continuos y su población no resulta de una selección del investigador: 'todos sin excepción'. El 'espacio serial' (R. Ortiz) privilegia un subsistema como si fuera el todo. El enfoque geográfico supone los objetos como sistemas y no solo como colecciones.",
+   "concepto": "Población de objetos del espacio geográfico",
+   "nivel": "contraste",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, p. 62",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m013",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En el giro metodológico que adopta Santos, ¿qué busca para el estudio del espacio?",
+   "opciones": [
+    "No una estructura ontológica de los objetos, sino la construcción epistemológica de un objeto de pensamiento: un sistema de conceptos.",
+    "Una estructura ontológica única de los objetos geográficos, con un solo concepto que defina su ser independiente.",
+    "Un objeto geográfico con existencia separada de las acciones, que se pueda clasificar con criterios de las ciencias naturales.",
+    "Un punto de vista dado a priori, que determine el objeto de estudio antes de que se formulen los conceptos del campo.",
+    "Adoptar las metáforas de otras disciplinas como definición del espacio, siempre que se mantengan sin modificación."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Santos no busca una estructura ontológica de los objetos ni un solo concepto.",
+    "No es indispensable buscar un objeto geográfico con existencia separada.",
+    "El punto de vista no es un dato a priori sino una construcción.",
+    "Las metáforas son flashes aislados que no permiten teorizar."
+   ],
+   "respuesta": "No una estructura ontológica de los objetos, sino la construcción epistemológica de un objeto de pensamiento: un sistema de conceptos.",
+   "explicacion": "Santos concluye que no es indispensable buscar un objeto geográfico con existencia separada; busca una construcción epistemológica, no una estructura ontológica. 'Aquí es el punto de vista lo que crea el objeto' (parafraseando a Stiegler); hay que formular un sistema de conceptos (nunca uno solo) que aborde el todo y las partes en su interacción.",
+   "concepto": "Giro metodológico",
+   "nivel": "interpretacion",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, pp. 65-66",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m014",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "Según Rogers (a partir de Parsons y Shils), un acto tiene cuatro rasgos. ¿Cuál NO es uno de ellos?",
+   "opciones": [
+    "Es independiente de las normas, por lo que no está regulado por reglas escritas o no escritas.",
+    "Está formado por un comportamiento orientado hacia fines u objetivos, y no por cualquier comportamiento.",
+    "Se da en determinadas situaciones concretas, y no en un vacío independiente del contexto del actor.",
+    "Está normativamente regulado, es decir, sujeto a normas que orientan la conducta de quien lo realiza.",
+    "Implica un esfuerzo o una motivación por parte de la persona o el agente que lo ejecuta."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Sí es uno de los rasgos.",
+    "Sí es uno de los rasgos.",
+    "Sí es uno de los rasgos.",
+    "Sí es uno de los rasgos."
+   ],
+   "respuesta": "Es independiente de las normas, por lo que no está regulado por reglas escritas o no escritas.",
+   "explicacion": "Un acto: 1) se forma de un comportamiento orientado; 2) se da en determinadas situaciones; 3) está normativamente regulado; 4) implica un esfuerzo o una motivación. No es un comportamiento cualquiera sino uno orientado a fines u objetivos. Para Schutz, la acción es la ejecución de un acto proyectado.",
+   "concepto": "Rasgos del acto",
+   "nivel": "contraste",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, p. 67",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m015",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué significa distinguir la escala de realización de la escala de mando de las acciones?",
+   "opciones": [
+    "Muchas acciones se ejecutan en un lugar pero responden a decisiones generadas lejos: la alienación regional o local.",
+    "Que las acciones se deciden siempre en el lugar donde se ejecutan, y la escala de mando coincide con la de realización.",
+    "Que las acciones del hombre común son las que determinan los objetos difundidos, porque él decide qué se produce y qué se consume.",
+    "Que la alienación local es lo que Giddens llamó 'lugar fantasmagórico', término que Santos prefiere a su propia expresión.",
+    "Que las acciones técnicas se realizan a escala local y las simbólicas, a escala mundial, según el tipo de racionalidad."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Las acciones son cada vez más ajenas a los fines del lugar.",
+    "Los decisores son gobiernos, multinacionales y otros; la elección del hombre común es limitada.",
+    "Santos prefiere 'alienación regional o local' al 'lugar fantasmagórico' de Giddens.",
+    "La distinción no es entre acciones técnicas y simbólicas."
+   ],
+   "respuesta": "Muchas acciones se ejecutan en un lugar pero responden a decisiones generadas lejos: la alienación regional o local.",
+   "explicacion": "Hay que distinguir la escala de realización de las acciones de la escala de su mando. Muchas acciones en un lugar responden a necesidades ajenas, a funciones generadas lejos; solo la respuesta está localizada. Es la 'alienación regional o local', término que Santos prefiere al 'lugar fantasmagórico' de Giddens. Los decisores son gobiernos, multinacionales, organismos internacionales y otros.",
+   "concepto": "Escala de realización y escala de mando",
+   "nivel": "interpretacion",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, pp. 68-69",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m016",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Qué tres formas de actuar distinguen Braun y Joerges, y cuál de ellas es fuente de cambio y de rechazo del pasado?",
+   "opciones": [
+    "Técnica, formal (jurídica, económica, científica) y simbólica; el cambio y el rechazo del pasado vienen del actuar simbólico.",
+    "Técnica, formal y simbólica; el cambio y el rechazo del pasado vienen del actuar técnico, que se impone como dato.",
+    "Racional por instrumento, racional por valor, tradicional y afectiva; el cambio viene del actuar afectivo.",
+    "Instrumental y comunicacional; el cambio y el rechazo del pasado vienen de la actividad comunicacional.",
+    "Técnicas y simbólicas, que transforman la naturaleza o actúan sobre el ser humano, sin una tercera forma."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "El técnico y el normativo se imponen como datos.",
+    "Esas son las cuatro formas de Weber.",
+    "Esas son las dos formas de Habermas.",
+    "Esas son las dos acciones de Simondon."
+   ],
+   "respuesta": "Técnica, formal (jurídica, económica, científica) y simbólica; el cambio y el rechazo del pasado vienen del actuar simbólico.",
+   "explicacion": "Braun y Joerges: actuar técnico, formal (formalismos jurídicos, económicos y científicos) y simbólico (afectivo, emotivo, ritual, no regulado por el cálculo). Los tres órdenes se dan juntos en lo cotidiano; el técnico y el normativo se imponen como datos, y la fuerza de transformación, la sorpresa y el rechazo del pasado vienen del actuar simbólico.",
+   "concepto": "Formas de actuar",
+   "nivel": "contraste",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, p. 70",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m017",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Cuáles son las tres tesis de Werlen que resume Santos, y cuál es la objeción principal de Santos?",
+   "opciones": [
+    "La geografía como ciencia de la acción, acción subjetiva y espacio no causal; Santos objeta que Werlen vacila entre ambos.",
+    "La geografía es una ciencia del espacio, destaca la estructura objetiva, y el espacio es causa; Santos objeta que ignora el espacio.",
+    "La acción es el contexto del espacio, la acción objetiva es la central, y la acción ocurre en el espacio; Santos las acepta sin objeción.",
+    "El espacio y la acción son indisolubles, los objetos actúan por sí mismos, y la geografía es una ciencia social; Santos las comparte.",
+    "La geografía es una ciencia de la sociedad, destaca la acción colectiva, y el espacio es la causa; Santos objeta su dualismo."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Las tesis de Werlen son las contrarias.",
+    "Santos las critica; Werlen rechaza el enfoque de la acción 'en el espacio'.",
+    "Santos sostiene que los objetos no actúan.",
+    "Para Werlen el espacio no es causa de las acciones."
+   ],
+   "respuesta": "La geografía como ciencia de la acción, acción subjetiva y espacio no causal; Santos objeta que Werlen vacila entre ambos.",
+   "explicacion": "Resumen de Santos: 1) la geografía no debe considerarse una ciencia del espacio sino de la acción; 2) debe destacarse la acción subjetiva; 3) la dimensión espacial se considera pero no es causa de los acontecimientos ni de la acción. Objeción: Werlen afirma la preeminencia de la acción pero alude al papel activo del espacio, vacila (herencia del dualismo) y no da el peso necesario a los medios de acción de Durkheim.",
+   "concepto": "Teoría de Werlen y crítica de Santos",
+   "nivel": "interpretacion",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, pp. 71-73",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m018",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "¿Por qué Santos sostiene que admitir que el espacio es un factor no equivale a ser geodeterminista?",
+   "opciones": [
+    "Los objetos no actúan, pero pueden nacer predestinados a ciertas acciones y las valorizan; las acciones definen los objetos.",
+    "Porque el espacio es la causa de las acciones, y el geodeterminismo consiste solo en negar que el espacio tenga algún valor.",
+    "Porque el espacio no existe como dato, y el geodeterminismo es una teoría que solo describe objetos naturales.",
+    "Porque todas las acciones se geografizan de forma indiferente, y el valor de cada lugar es el mismo para todas.",
+    "Porque los objetos actúan por sí mismos sobre la sociedad, y el espacio es la suma de esos objetos activos."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Santos no sostiene que el espacio sea la causa de las acciones.",
+    "Santos admite su existencia como factor, como dato.",
+    "Las acciones no se geografizan indiferentemente: el valor del lugar importa.",
+    "Santos afirma que los objetos no actúan."
+   ],
+   "respuesta": "Los objetos no actúan, pero pueden nacer predestinados a ciertas acciones y las valorizan; las acciones definen los objetos.",
+   "explicacion": "Hay diferencia entre decir que el espacio no es una causa y negar que sea un factor, un dato; admitir su existencia no es ser geodeterminista. Las acciones no se geografizan indiferentemente: hay relación entre el valor de la acción y el valor del lugar donde se realiza; si no, todos los lugares tendrían el mismo valor de uso y de cambio. El valor del espacio no es independiente de las acciones que puede acoger.",
+   "concepto": "Espacio como factor y no como causa",
+   "nivel": "interpretacion",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, p. 74",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-m019",
+   "n_ficha": null,
+   "tipo": "mcq",
+   "enunciado": "En la posición final de Santos sobre objetos y acciones, ¿cuál afirmación es correcta?",
+   "opciones": [
+    "Los objetos no actúan, pero hoy pueden nacer predestinados a ciertas acciones y las valorizan; las acciones, a su vez, definen los objetos.",
+    "Los objetos actúan por sí mismos sobre la sociedad, y las acciones solo sirven para describir sus funciones técnicas.",
+    "Las acciones pueden estudiarse por separado de los objetos, porque son las que determinan por completo el valor de los lugares.",
+    "Los objetos tienen significaciones independientes, y una misma significación puede instalarse en diversos objetos, según Simmel.",
+    "El espacio geográfico es un dato puramente físico, y lo social solo aparece como contexto de las acciones."
+   ],
+   "correcta": 0,
+   "errores": [
+    null,
+    "Santos afirma que los objetos no actúan.",
+    "Considerar acciones u objetos por separado no refleja su realidad histórica.",
+    "Santos rechaza esa frase de Simmel para el enfoque geográfico.",
+    "El espacio geográfico es un mixto, un híbrido: participa de lo social y de lo físico."
+   ],
+   "respuesta": "Los objetos no actúan, pero hoy pueden nacer predestinados a ciertas acciones y las valorizan; las acciones, a su vez, definen los objetos.",
+   "explicacion": "'Los objetos no actúan', pero hoy pueden nacer predestinados a cierto tipo de acciones, para cuya plena eficacia se hacen indispensables; valorizan de manera diferente las acciones por su contenido técnico. Las acciones definen los objetos y les dan sentido. Objeto y acción, materialidad y acontecimiento, deben tratarse de forma unitaria; el espacio geográfico es un mixto, un híbrido.",
+   "concepto": "Objetos, acciones y espacio híbrido",
+   "nivel": "interpretacion",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2, pp. 73-74",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-b001",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en las definiciones y distinciones del capítulo, defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "La definición de espacio de Santos lo describe como un conjunto indisoluble, solidario y también contradictorio.",
+     "verdadera": true,
+     "explicacion": "De sistemas de objetos y sistemas de acciones."
+    },
+    {
+     "texto": "La configuración territorial es un dato social, y el espacio geográfico es un dato técnico.",
+     "verdadera": false,
+     "explicacion": "Es al revés: la configuración espacial es un dato técnico y el espacio geográfico un dato social."
+    },
+    {
+     "texto": "Hoy las cosas han tomado el lugar de los objetos en el espacio geográfico.",
+     "verdadera": false,
+     "explicacion": "Los objetos han tomado el lugar de las cosas."
+    },
+    {
+     "texto": "Para Schutz, la acción es la ejecución de un acto proyectado.",
+     "verdadera": true,
+     "explicacion": "Comportamiento y acción son distintos."
+    },
+    {
+     "texto": "Según Santos, los conceptos que otras disciplinas usan como metáforas bastan para definir el espacio geográfico.",
+     "verdadera": false,
+     "explicacion": "Las metáforas son flashes aislados que no permiten teorizar; la geografía debe elaborar sus propios conceptos."
+    }
+   ],
+   "respuesta": "V · F · F · V · F",
+   "concepto": "Definiciones y distinciones básicas",
+   "nivel": "contraste",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2",
+   "clase": null,
+   "estado": "completa"
+  },
+  {
+   "id": "s02-santos-2000-b002",
+   "n_ficha": null,
+   "tipo": "vfbloque",
+   "enunciado": "Con base en los sistemas de acciones y en la discusión con Werlen, defina si cada afirmación es verdadera o falsa:",
+   "afirmaciones": [
+    {
+     "texto": "Santos prefiere el término 'alienación regional o local' al 'lugar fantasmagórico' de Giddens.",
+     "verdadera": true,
+     "explicacion": "Muchas acciones responden a funciones generadas lejos."
+    },
+    {
+     "texto": "Para Werlen, la unidad principal de análisis es el espacio y no la acción ni el acto.",
+     "verdadera": false,
+     "explicacion": "La unidad principal de análisis es la acción y el acto."
+    },
+    {
+     "texto": "Los tres órdenes de la acción (técnico, jurídico y simbólico) son inseparables en lo cotidiano.",
+     "verdadera": true,
+     "explicacion": "La importancia del lugar en la formación de la conciencia viene de esa inseparabilidad."
+    },
+    {
+     "texto": "Santos sostiene que la acción es lo propio del hombre y que la naturaleza, al ser ciega, no tiene acción.",
+     "verdadera": true,
+     "explicacion": "Solo el hombre tiene objetivo y finalidad."
+    },
+    {
+     "texto": "Santos afirma que los objetos actúan, y que las acciones son el contexto de los objetos.",
+     "verdadera": false,
+     "explicacion": "Dice que los objetos no actúan, pero valorizan de manera diferente las acciones."
+    }
+   ],
+   "respuesta": "V · F · V · V · F",
+   "concepto": "Acciones, Werlen y objetos",
+   "nivel": "contraste",
+   "referencia": "Santos (2000), La naturaleza del espacio, cap. 2",
+   "clase": null,
+   "estado": "completa"
   }
  ],
  "trampas": [

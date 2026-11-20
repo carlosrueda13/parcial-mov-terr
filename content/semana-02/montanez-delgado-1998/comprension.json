@@ -1,0 +1,510 @@
+[
+  {
+    "enunciado": "¿Qué critican los autores de la forma en que se tratan el espacio, el territorio y la región en la práctica política y académica?",
+    "opciones": [
+      "Que se los toma como receptáculos o escenarios inmóviles con existencia propia, lo que da licencia para usarlos como sinónimos.",
+      "Que se los trata como categorías demasiado dinámicas, lo que impide delimitarlos y compararlos entre distintos países.",
+      "Que se los considera producto del poder y del saber, cuando en realidad son datos naturales independientes de la sociedad.",
+      "Que se los distingue con demasiado rigor, cuando todos refieren por igual a la extensión terrestre bajo dominio de un Estado.",
+      "Que se los limita al análisis económico, cuando su principal función es describir las divisiones político-administrativas."
+    ],
+    "correcta": 0,
+    "explicacion": "En la práctica política y el análisis académico se los ignora o se los toma como receptáculos con existencia propia, contenedores o escenarios inmóviles de las relaciones sociales, y eso da licencia para tomarlos como sinónimos. Los autores afirman lo contrario: son formas creadas socialmente, expresiones de la espacialización del poder.",
+    "errores": [
+      null,
+      "La crítica es la contraria: se los trata como contenedores inmóviles.",
+      "Los autores sostienen que son formas creadas socialmente, no datos naturales.",
+      "Los autores sostienen que no son sinónimos.",
+      "No son conceptos puramente económicos ni administrativos; expresan la espacialización del poder."
+    ],
+    "concepto": "Crítica a la noción de contenedor",
+    "nivel": "interpretacion",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 120-121"
+  },
+  {
+    "enunciado": "Siguiendo a Milton Santos (1997), ¿cómo se define el espacio geográfico en el artículo?",
+    "opciones": [
+      "Como un conjunto indisociable de objetos y de sistemas de acciones, construido históricamente.",
+      "Como un conjunto de objetos naturales que existen antes de las acciones humanas y que solo después son apropiados.",
+      "Como una extensión terrestre delimitada que incluye una relación de poder o posesión por parte de un grupo social.",
+      "Como el grado de control que una persona o un grupo ejerce sobre una porción determinada de superficie terrestre.",
+      "Como una subdivisión del espacio planetario, nacional o local, que es un subespacio de conveniencia del espacio mayor."
+    ],
+    "correcta": 0,
+    "explicacion": "Espacio geográfico (Santos): conjunto indisociable de objetos y de sistemas de acciones; los sistemas de objetos no ocurren sin los de acciones y viceversa. Hoy es un sistema de objetos cada vez más artificiales, provocados por acciones cada vez más tendientes a fines extraños al lugar y a sus habitantes.",
+    "errores": [
+      null,
+      "Los sistemas de objetos no ocurren sin los sistemas de acciones, y viceversa.",
+      "Eso es la definición de territorio (Geiger; Correia de Andrade).",
+      "Eso es la territorialidad.",
+      "Eso es la región (Santos, 1997)."
+    ],
+    "concepto": "Espacio geográfico",
+    "nivel": "contraste",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 121"
+  },
+  {
+    "enunciado": "El artículo plantea siete consideraciones sobre el territorio. ¿Cuál NO coincide con ellas?",
+    "opciones": [
+      "El territorio es fijo y estable, y su delimitación estatal elimina la sobreposición de otras territorialidades.",
+      "El territorio es escenario de las relaciones sociales, y no solo el marco espacial del dominio soberano de un Estado.",
+      "El territorio es una construcción social, y conocerlo implica conocer el proceso de su producción.",
+      "En un mismo espacio concurren y se sobreponen territorialidades locales, regionales, nacionales y mundiales.",
+      "El territorio es móvil, mutable y desequilibrado, y exige nuevas formas de organización territorial."
+    ],
+    "correcta": 0,
+    "explicacion": "Las siete consideraciones: toda relación social ocurre en el territorio; es espacio de poder, gestión y dominio; es construcción social; la actividad espacial de los actores es diferencial; concurren y se sobreponen territorialidades; no es fijo sino móvil, mutable y desequilibrado; y la identidad y la ciudadanía solo adquieren existencia real a partir de su expresión de territorialidad.",
+    "errores": [
+      null,
+      "Coincide con la primera consideración.",
+      "Coincide con la tercera consideración.",
+      "Coincide con la quinta consideración.",
+      "Coincide con la sexta consideración."
+    ],
+    "concepto": "Siete consideraciones sobre el territorio",
+    "nivel": "contraste",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 122-123"
+  },
+  {
+    "enunciado": "¿Qué explica, según el artículo, que los distintos actores tengan una capacidad desigual de crear, recrear y apropiar territorio?",
+    "opciones": [
+      "Que la actividad espacial de los actores es diferencial: operan con redes y conexiones espaciales distintas.",
+      "Que el territorio es una extensión fija e igual para todos, y solo las leyes del Estado generan diferencias entre actores.",
+      "Que la territorialidad es el mismo grado de control para toda persona, grupo, empresa o Estado en cada porción de espacio.",
+      "Que la desterritorialización solo ocurre entre Estados, y las empresas y los individuos no pierden ni ganan territorio.",
+      "Que el espacio geográfico se compone solo de objetos y las acciones de los agentes no inciden en su producción."
+    ],
+    "correcta": 0,
+    "explicacion": "La cuarta consideración: la actividad espacial de los actores es diferencial, por lo que su capacidad real y potencial de crear, recrear y apropiar territorio es desigual. La actividad espacial (Massey, 1995) es la red espacial de relaciones, conexiones y localizaciones con las que opera un agente.",
+    "errores": [
+      null,
+      "El territorio no es fijo sino móvil y desequilibrado.",
+      "La territorialidad es un grado de control, y varía según el agente.",
+      "Una empresa puede expandir su territorio a costa de otra.",
+      "Los objetos y las acciones son indisociables."
+    ],
+    "concepto": "Actividad espacial diferencial",
+    "nivel": "causa",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 123 y 125"
+  },
+  {
+    "enunciado": "¿Cuál se ajusta al concepto de territorio, tal como lo define el artículo con Geiger y Correia de Andrade?",
+    "opciones": [
+      "Extensión terrestre delimitada con una relación de poder o posesión de un individuo o grupo; implica límites, jurisdicción y cerramiento.",
+      "El grado de control de una porción de espacio geográfico por una persona, grupo, empresa multinacional, Estado o bloque de estados.",
+      "Procesos de pérdida del territorio derivados de la dinámica territorial y de conflictos de poder entre agentes.",
+      "Red espacial de relaciones, actividades, conexiones y localizaciones con las que opera un agente en el espacio.",
+      "Conjunto indisociable de objetos y de sistemas de acciones, construido históricamente por las sociedades."
+    ],
+    "correcta": 0,
+    "explicacion": "Territorio: extensión terrestre delimitada que incluye relación de poder o posesión; contiene límites de soberanía, propiedad, apropiación, disciplina, vigilancia y jurisdicción, y transmite la idea de cerramiento. Territorialidad: grado de control de una porción de espacio. Desterritorialización: pérdida de territorio. Actividad espacial: red de relaciones de un agente.",
+    "errores": [
+      null,
+      "Eso es la territorialidad.",
+      "Eso es la desterritorialización.",
+      "Eso es la actividad espacial (Massey, 1995).",
+      "Eso es el espacio geográfico (Santos)."
+    ],
+    "concepto": "Territorio, territorialidad y conceptos afines",
+    "nivel": "contraste",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 123-125"
+  },
+  {
+    "enunciado": "¿Qué es la territorialidad y a quién cita el artículo para esa definición?",
+    "opciones": [
+      "El grado de control de una porción de espacio y el conjunto de prácticas que garantizan su apropiación y permanencia; Montañez (1997) y Lobato Correa (1996).",
+      "La extensión terrestre delimitada con relación de poder o posesión, con ideas de cerramiento y jurisdicción; Geiger (1996) y Correia de Andrade (1996).",
+      "La red de relaciones y conexiones espaciales con las que opera un agente en distintas escalas; Massey (1995) y Giddens (1984).",
+      "El proceso de pérdida de territorio por conflictos de poder entre agentes; Soja (1989) y Furtado (1992).",
+      "El conjunto de objetos y acciones que constituye el espacio de la vida social; Santos (1996) y Lyshon (1995)."
+    ],
+    "correcta": 0,
+    "explicacion": "Territorialidad: 'el grado de control de una determinada porción de espacio geográfico' por una persona, grupo social, grupo étnico, compañía multinacional, Estado o bloque de estados; también el conjunto de prácticas y expresiones materiales y simbólicas capaces de garantizar la apropiación y permanencia de un territorio (Montañez 1997; Lobato Correa 1996).",
+    "errores": [
+      null,
+      "Esa es la definición de territorio, con otras fuentes.",
+      "Eso es la actividad espacial, citada a Massey.",
+      "Eso es la desterritorialización, y Soja y Furtado se citan por otros temas.",
+      "Eso es el espacio geográfico (Santos, 1997)."
+    ],
+    "concepto": "Territorialidad y su atribución",
+    "nivel": "contraste",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 124"
+  },
+  {
+    "enunciado": "Según el artículo, ¿cuál NO es un ejemplo de territorio?",
+    "opciones": [
+      "La red de ciclorrutas que conecta los barrios de una ciudad, con rutas definidas por el municipio.",
+      "El de un Estado, que delimita su dominio soberano sobre una extensión terrestre determinada.",
+      "El de los propietarios de la tierra rural, que ejercen control sobre predios delimitados.",
+      "El de los conjuntos residenciales cerrados de las ciudades, delimitados y vigilados.",
+      "Los dominios del mercado de una empresa multinacional, donde ejerce control y apropiación."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto da como ejemplos de territorio el de un Estado, el de los propietarios de la tierra rural, el de los conjuntos residenciales cerrados de las ciudades y los dominios del mercado de una empresa multinacional. Territorio se liga a poder público, estatal o privado, en todas las escalas.",
+    "errores": [
+      null,
+      "Sí es un ejemplo de territorio del texto.",
+      "Sí es un ejemplo de territorio del texto.",
+      "Sí es un ejemplo de territorio del texto.",
+      "Sí es un ejemplo de territorio del texto."
+    ],
+    "concepto": "Ejemplos de territorio",
+    "nivel": "contraste",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 124"
+  },
+  {
+    "enunciado": "Una empresa multinacional amplía su mercado local y una competidora local más débil pierde parte de su territorio de mercado. ¿Qué concepto del artículo ilustra la pérdida de la competidora?",
+    "opciones": [
+      "Desterritorialización: pérdida del territorio por la dinámica territorial y los conflictos de poder entre agentes.",
+      "Territorialidad: grado de control sobre una porción de espacio, que la competidora conserva aunque pierda mercado.",
+      "Actividad espacial: red de relaciones y localizaciones de un agente, que no implica ganancia ni pérdida de territorio.",
+      "Convergencia espacio-tiempo: acercamiento de los lugares por la tecnología, sin efecto sobre el control de los mercados.",
+      "Equidad territorial: acercamiento a una igualdad de oportunidades de desarrollo regional entre agentes y regiones."
+    ],
+    "correcta": 0,
+    "explicacion": "Desterritorialización: procesos de pérdida del territorio derivados de la dinámica territorial y de conflictos de poder entre agentes. El texto da el ejemplo de una empresa que expande su territorio a costa de la desterritorialización total o parcial de otra, y de multinacionales que superponen su territorio al de los Estados.",
+    "errores": [
+      null,
+      "La pérdida de territorio es desterritorialización.",
+      "La actividad espacial no es la pérdida de territorio.",
+      "La convergencia no explica la pérdida de territorio de un agente.",
+      "La equidad territorial es un objetivo que el Estado debe promover."
+    ],
+    "concepto": "Desterritorialización",
+    "nivel": "aplicacion",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 125-126"
+  },
+  {
+    "enunciado": "¿Qué asocia el artículo entre territorialidad, regionalismo y regionalización?",
+    "opciones": [
+      "La territorialidad regionaliza el territorio en divisiones espacio-temporales (regiones); el regionalismo expresa la dinámica del poder entre ellas.",
+      "El regionalismo regionaliza el territorio en divisiones espacio-temporales; la territorialidad expresa la dinámica del poder entre regiones.",
+      "La territorialidad y el regionalismo eliminan la segregación, porque integran la interacción humana en un solo espacio nacional.",
+      "La regionalización es independiente del poder: depende solo del relieve y de la distribución natural de los recursos.",
+      "El regionalismo es la ausencia de territorialidad en las regiones, que se definen únicamente por criterios estadísticos."
+    ],
+    "correcta": 0,
+    "explicacion": "Territorialidad y regionalismo se asocian (Soja, 1989): segregan y compartimentan la interacción humana porque controlan presencia y ausencia, inclusión y exclusión. La territorialidad regionaliza el territorio, lo delimita en divisiones espacio-temporales llamadas regiones (Giddens, 1984), y esa diferenciación es el escenario del regionalismo.",
+    "errores": [
+      null,
+      "Están invertidos.",
+      "Segregan y compartimentan la interacción humana, controlando inclusión y exclusión.",
+      "Expresa relaciones de poder y es base de su espacialización.",
+      "El regionalismo se asocia con la territorialidad."
+    ],
+    "concepto": "Territorialidad y regionalismo",
+    "nivel": "interpretacion",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 124-125"
+  },
+  {
+    "enunciado": "¿Cuál emparejamiento entre concepto y descripción es correcto para los tres conceptos de Lyshon (1995)?",
+    "opciones": [
+      "Compresión tiempo-espacio: combina los otros dos y atribuye la convergencia y divergencia de los lugares al capitalismo global.",
+      "Convergencia espacio-tiempo: combina los otros dos y atribuye la cercanía de los lugares a los imperativos del capitalismo global.",
+      "Distanciamiento tiempo-espacio: la tecnología mueve lugares y gente unos respecto a otros y relativiza la distancia como limitante.",
+      "Convergencia espacio-tiempo: las interacciones se dan entre ausentes, no copresentes, como en el ciberespacio.",
+      "Compresión tiempo-espacio: las interacciones son locales y cara a cara, sin alcance más allá del lugar donde ocurren."
+    ],
+    "correcta": 0,
+    "explicacion": "Convergencia espacio-tiempo: la tecnología de transporte e información acerca o aleja los lugares. Distanciamiento tiempo-espacio: interacciones locales o remotas entre ausentes. Compresión tiempo-espacio: combina ambas y atribuye la convergencia-divergencia de los lugares a los imperativos del capitalismo global (nuevos mercados, mayor velocidad de la tasa de retorno del capital).",
+    "errores": [
+      null,
+      "La que combina las otras dos y se explica por el capitalismo es la compresión.",
+      "Eso describe la convergencia.",
+      "Eso describe el distanciamiento.",
+      "Eso contradice el sentido de la compresión; el alcance cara a cara es la interacción local."
+    ],
+    "concepto": "Convergencia, distanciamiento y compresión",
+    "nivel": "contraste",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 126-127"
+  },
+  {
+    "enunciado": "Dos empresas de ciudades distintas cierran un contrato mediante una videollamada, sin coincidir físicamente. ¿Qué concepto del artículo ilustra mejor esa interacción?",
+    "opciones": [
+      "Distanciamiento tiempo-espacio: interacción remota entre ausentes, no copresentes, que aumenta el alcance de la actividad espacial.",
+      "Convergencia espacio-tiempo: interacción local cara a cara que acerca los lugares sin cambiar el alcance de la actividad espacial.",
+      "Horizontalidad: continuidad territorial entre lugares vecinos reunidos por una frontera administrativa común.",
+      "Desterritorialización: pérdida total del territorio de una de las empresas por los conflictos de poder con la otra.",
+      "Regionalismo: expresión de la dinámica del poder entre regiones que segregan y compartimentan la interacción humana."
+    ],
+    "correcta": 0,
+    "explicacion": "Distanciamiento tiempo-espacio: las interacciones pueden ser locales (cara a cara) o remotas, no copresentes (entre ausentes, como en el ciberespacio). Permite pensar sociedades continuas e interdependientes y aumenta el alcance de la actividad espacial; lo global y lo local son constitutivos de la dialéctica del territorio.",
+    "errores": [
+      null,
+      "La convergencia se refiere a que la tecnología mueve lugares y relativiza la distancia.",
+      "Las empresas están en ciudades distintas, conectadas en red.",
+      "El ejemplo no plantea pérdida de territorio.",
+      "El ejemplo trata de la interacción a distancia entre agentes."
+    ],
+    "concepto": "Aplicación del distanciamiento",
+    "nivel": "aplicacion",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 127"
+  },
+  {
+    "enunciado": "Un grupo de municipios vecinos forma un área continua de producción, y a la vez un puerto del país queda ligado por redes con empresas de otros continentes. ¿Qué conceptos de Santos (1996) ilustran respectivamente cada caso?",
+    "opciones": [
+      "Horizontalidad (continuidad entre lugares vecinos) en el primer caso y verticalidad (relación en red entre lugares distantes) en el segundo.",
+      "Verticalidad en el primer caso, porque los municipios son vecinos, y horizontalidad en el segundo, porque el puerto está en red.",
+      "Horizontalidad en ambos casos, porque los dos corresponden a lugares unidos por relaciones sociales de producción.",
+      "Verticalidad en ambos casos, porque todo lugar del territorio hoy está ligado a las redes de flujos transnacionales.",
+      "Convergencia en el primer caso y compresión en el segundo, porque ambos involucran relaciones entre empresas."
+    ],
+    "correcta": 0,
+    "explicacion": "Horizontalidades: dominios de continuidad de lugares vecinos reunidos por una continuidad territorial. Verticalidades: relaciones entre lugares distantes ligados por formas y procesos sociales a través de redes. El territorio hoy puede formarse de lugares contiguos y de lugares en red, con acontecer homólogo, complementario y jerárquico (Santos, 1996).",
+    "errores": [
+      null,
+      "Están invertidos.",
+      "El segundo caso es de lugares distantes ligados por redes.",
+      "El primer caso es una continuidad territorial entre vecinos.",
+      "Esos conceptos son de Lyshon, no de Santos."
+    ],
+    "concepto": "Horizontalidades y verticalidades",
+    "nivel": "aplicacion",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 128"
+  },
+  {
+    "enunciado": "¿Qué efecto desigual atribuye el artículo a la globalización y a la acción territorializadora y desterritorializadora de agentes externos?",
+    "opciones": [
+      "Oportunidad de ampliar el poder territorial para el centro rico y frustración para los países de la periferia.",
+      "Oportunidad de ampliar el poder territorial para los países de la periferia y frustración para el centro rico.",
+      "Igualdad de oportunidades territoriales entre centro y periferia, por la convergencia que produce la tecnología.",
+      "Desaparición de los conflictos de poder por el territorio, porque las empresas multinacionales los regulan.",
+      "Mayor control local del territorio en la periferia, porque el turismo y la cultura global fortalecen la identidad regional."
+    ],
+    "correcta": 0,
+    "explicacion": "El efecto es desigual: oportunidad de ampliar el poder territorial para el centro rico y frustración para los países de la periferia, por la acción territorializadora y desterritorializadora de agentes extraños (turistas, factorías, mercancías mundializadas y productos de la cultura global).",
+    "errores": [
+      null,
+      "Está invertido.",
+      "El texto habla de un efecto desigual.",
+      "Se intensifican los conflictos por el poder en el territorio.",
+      "El texto los presenta como agentes extraños que frustran a la periferia."
+    ],
+    "concepto": "Efecto desigual de la globalización",
+    "nivel": "interpretacion",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 128"
+  },
+  {
+    "enunciado": "Según Santos (1997), ¿cómo son las regiones hoy?",
+    "opciones": [
+      "Sistemas territoriales abiertos que, en interacción permanente con otras regiones, construyen su identidad económica, cultural, social y política.",
+      "Territorialidades absolutas de un individuo, familia o grupo, con identidad, exclusividad y límites que no se modifican con el tiempo.",
+      "Divisiones político-administrativas fijas del Estado, que no se ven afectadas por la división del trabajo ni por las redes.",
+      "Espacios que han desaparecido, porque el número de mediaciones y las redes hicieron inútil toda división del espacio.",
+      "Subespacios cerrados cuyo desarrollo es independiente del proyecto nacional y de las demás regiones del país."
+    ],
+    "correcta": 0,
+    "explicacion": "Para Santos, las regiones son subdivisiones del espacio geográfico planetario, nacional o local, subespacios de conveniencia y en algunos casos espacios funcionales. Antes eran sinónimo de territorialidad absoluta; hoy hay más mediaciones, lo que induce la confusión de que ya no existen. Hoy son sistemas territoriales abiertos.",
+    "errores": [
+      null,
+      "Eso era la región en el pasado.",
+      "Son subdivisiones del espacio y sistemas abiertos.",
+      "El texto indica que esa es una confusión: la región no ha desaparecido.",
+      "Las regiones son expresión de la nación y posibilidades para su desarrollo."
+    ],
+    "concepto": "Concepto de región",
+    "nivel": "contraste",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 131"
+  },
+  {
+    "enunciado": "¿Qué plantea Santos (1997), citado en el artículo, sobre la circulación y el subsistema de regulación?",
+    "opciones": [
+      "Que la circulación ya no se define por los transportes y las comunicaciones, y que el subsistema de regulación gana un papel rector.",
+      "Que la circulación se define solo por los transportes y las comunicaciones, y la regulación es un subsistema secundario.",
+      "Que el subsistema de regulación sustituye a la región como unidad de análisis del espacio geográfico nacional.",
+      "Que el subsistema de regulación opera solo dentro del territorio del Estado y no se ve afectado por las redes transnacionales.",
+      "Que la circulación depende exclusivamente de la territorialidad estatal, con independencia de los agentes privados."
+    ],
+    "correcta": 0,
+    "explicacion": "Según Santos (1997), la circulación ya no se define por los transportes y las comunicaciones: un nuevo subsistema, el de regulación, gana un papel rector. Es un punto cercano a un curso de movilidad.",
+    "errores": [
+      null,
+      "El texto plantea que la circulación ya no se define solo así.",
+      "No hay sustitución de la región por la regulación.",
+      "No se afirma eso en el texto.",
+      "El texto no la reduce a la territorialidad estatal."
+    ],
+    "concepto": "Subsistema de regulación",
+    "nivel": "interpretacion",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 131"
+  },
+  {
+    "enunciado": "Según Furtado (1992), citado en el artículo, ¿en qué consiste el doble desafío del proyecto nacional?",
+    "opciones": [
+      "Reformar las estructuras anacrónicas y resistir las fuerzas que desarticulan el sistema económico y amenazan la unidad nacional.",
+      "Abrir la economía a las decisiones transnacionales y fortalecer los mecanismos de comando de las empresas multinacionales.",
+      "Dividir el territorio en regiones antropológicas y promover la competencia entre ellas para atraer inversión extranjera.",
+      "Mantener las estructuras sociales existentes y evitar cualquier reforma que altere la distribución del poder territorial.",
+      "Eliminar la territorialidad estatal en favor de las territorialidades locales y de los mercados globales en cada región."
+    ],
+    "correcta": 0,
+    "explicacion": "Furtado (1992): doble desafío de reformar las estructuras anacrónicas que pesan sobre la sociedad y resistir a las fuerzas que operan en el sentido de la desarticulación del sistema económico, que amenaza la unidad nacional; resulta de la atrofia de los mecanismos de comando de los sistemas económicos nacionales frente a estructuras de decisión transnacionales.",
+    "errores": [
+      null,
+      "El desafío es resistir la desarticulación derivada de las estructuras transnacionales.",
+      "Eso describe lo que el proyecto globalizante induce, con tensiones interregionales.",
+      "El primer desafío es reformar las estructuras anacrónicas.",
+      "El proyecto democrático reconoce las territorialidades reguladas por la estatal."
+    ],
+    "concepto": "Proyecto nacional",
+    "nivel": "interpretacion",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, pp. 129-130"
+  },
+  {
+    "enunciado": "Según el artículo, ¿qué caracteriza al proyecto de territorio del proyecto nacional?",
+    "opciones": [
+      "Sentido democrático: múltiples territorialidades coexisten en el Estado-nación, reguladas por la territorialidad estatal.",
+      "Un territorio único y homogéneo, con una sola territorialidad estatal que sustituye a las territorialidades locales y étnicas.",
+      "Un territorio fragmentado en regiones antropológicas definidas por las actividades económicas de las empresas transnacionales.",
+      "Un territorio regulado solo por los agentes privados, con el Estado limitado a garantizar el cumplimiento de los contratos.",
+      "Un territorio sin regiones, porque las redes globales eliminan la necesidad de una articulación regional dentro del país."
+    ],
+    "correcta": 0,
+    "explicacion": "El proyecto de territorio debe tener sentido democrático, con coexistencia de múltiples territorialidades en el espacio del Estado-nación, reconocidas y reguladas por la territorialidad estatal como expresión suprema en este ámbito, en correspondencia con el carácter multiétnico y pluricultural. El proyecto globalizante, en cambio, induce regiones antropológicas por exclusión.",
+    "errores": [
+      null,
+      "Reconoce el carácter multiétnico y pluricultural.",
+      "Eso es lo que induce el proyecto globalizante, con tensiones y bolsas de miseria.",
+      "La territorialidad estatal es la expresión suprema de regulación en el ámbito del Estado-nación.",
+      "El Estado debe promover la equidad territorial y la articulación regional."
+    ],
+    "concepto": "Proyecto nacional territorial",
+    "nivel": "interpretacion",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 130"
+  },
+  {
+    "enunciado": "¿Cuál es la periodización de la ocupación del territorio en Colombia que sugiere el artículo, según Rodríguez Mariño (1982)?",
+    "opciones": [
+      "Conquista; hacia el librecambismo (siglo XVIII a mediados del XIX); hacia el capitalismo (hasta los años 20 y 30); Pax Americana.",
+      "Colonia; hacia el capitalismo (siglo XVIII a mediados del XIX); hacia el librecambismo (hasta los años 20 y 30); Pax Americana.",
+      "Conquista; hacia el capitalismo (siglo XVI a mediados del XVIII); apertura económica (hasta 1950); Pax Americana.",
+      "Conquista; hacia el librecambismo (siglo XVIII a mediados del XIX); hacia el capitalismo (hasta 1990); globalización.",
+      "Conquista; Independencia; República liberal (hasta los años 20 y 30); Frente Nacional, con cuatro etapas políticas."
+    ],
+    "correcta": 0,
+    "explicacion": "Cuatro grandes períodos: la Conquista o 'Encuentro de dos culturas'; hacia el librecambismo (desde principios del siglo XVIII hasta mediados del XIX); hacia el capitalismo (desde mediados del siglo XIX hasta los años 20 y 30 del siglo XX); y la 'Pax' Americana o de la dependencia de la economía colombiana de la de Estados Unidos.",
+    "errores": [
+      null,
+      "El orden de librecambismo y capitalismo está invertido.",
+      "No corresponden a las etapas y fechas que cita el texto.",
+      "El tercer período llega a los años 20 y 30, y el cuarto es la Pax Americana.",
+      "No son las etapas de Rodríguez Mariño en el texto."
+    ],
+    "concepto": "Periodización de Rodríguez Mariño",
+    "nivel": "contraste",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 129"
+  },
+  {
+    "enunciado": "¿Cuál es la definición de equidad territorial en el artículo, y qué otro objetivo debe promover el Estado junto a ella?",
+    "opciones": [
+      "El acercamiento a una igualdad de oportunidades de desarrollo regional, junto con la articulación regional.",
+      "La igualdad absoluta de ingresos entre todas las regiones, junto con la centralización de las decisiones regionales.",
+      "La eliminación de las diferencias culturales entre regiones, junto con la unificación de las territorialidades.",
+      "La competencia entre regiones por la inversión transnacional, junto con la privatización de lo público territorial.",
+      "El acercamiento a la igualdad entre los territorios de los Estados del mundo, junto con la apertura de las fronteras."
+    ],
+    "correcta": 0,
+    "explicacion": "Las regiones no ocurren por fuera del proyecto nacional: son expresión de la nación y posibilidades para su desarrollo. El Estado debe promover la equidad territorial (acercamiento a una igualdad de oportunidades de desarrollo regional) y la articulación regional.",
+    "errores": [
+      null,
+      "No se define como igualdad absoluta, y se promueve la articulación regional.",
+      "El texto reconoce el contenido cultural e histórico específico de las regiones.",
+      "Eso no es equidad territorial.",
+      "La equidad se refiere al desarrollo regional dentro de la nación."
+    ],
+    "concepto": "Equidad territorial",
+    "nivel": "interpretacion",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 132"
+  },
+  {
+    "enunciado": "¿Qué implica el 'ponderado gradualismo' entre los caminos para construir el proyecto nacional?",
+    "opciones": [
+      "Estrategias preventivas contra el desorden social que causa el desarrollo, con evaluación a priori de sus efectos territoriales.",
+      "Cambios rápidos y generalizados en la organización territorial, para que las regiones se ajusten pronto a la globalización.",
+      "Evaluación de los proyectos de desarrollo solo después de ejecutados, para ajustar sus efectos sobre el territorio.",
+      "Descentralización inmediata de todas las competencias del Estado hacia las regiones y municipios del país.",
+      "Protección de las regiones como patrimonio nacional, con prioridad del Estado a la conservación de su contenido cultural."
+    ],
+    "correcta": 0,
+    "explicacion": "Cinco caminos: conocimiento del territorio por los nacionales; ponderado gradualismo (estrategias preventivas y evaluación a priori de efectos territoriales); reconocer a las regiones como patrimonio nacional; lo público territorial al servicio de la ciudadanía y de territorialidades democráticas; lo privado territorial sin ser obstáculo a la democracia.",
+    "errores": [
+      null,
+      "El término apunta a un gradualismo ponderado, no a cambios rápidos.",
+      "Los proyectos deben evaluarse a priori.",
+      "No es una medida de descentralización inmediata.",
+      "Eso corresponde a otro de los cinco caminos."
+    ],
+    "concepto": "Ponderado gradualismo",
+    "nivel": "interpretacion",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región, p. 132"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "Con base en los conceptos del artículo, defina si cada afirmación es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "El territorio es solo el marco espacial que delimita el dominio soberano de un Estado.",
+        "verdadera": false,
+        "explicacion": "Es el escenario de las relaciones sociales y espacio de poder de Estado, individuos, grupos y empresas."
+      },
+      {
+        "texto": "La territorialidad es el grado de control de una determinada porción de espacio geográfico.",
+        "verdadera": true,
+        "explicacion": "También es el conjunto de prácticas que garantizan la apropiación y permanencia de un territorio."
+      },
+      {
+        "texto": "Las lealtades al territorio nacen del grado de territorialidad.",
+        "verdadera": true,
+        "explicacion": "Se asocia con apropiación, identidad y afectividad espacial."
+      },
+      {
+        "texto": "Según Santos (1997), en los últimos cuarenta años nacieron más objetos que en los cuarenta mil años anteriores.",
+        "verdadera": true,
+        "explicacion": "Cuidado con la pareja de cifras: cuarenta y cuarenta mil."
+      },
+      {
+        "texto": "La compresión espacio-tiempo se atribuye a la tecnología del transporte y la información, no al capitalismo.",
+        "verdadera": false,
+        "explicacion": "La compresión atribuye la convergencia-divergencia de los lugares a los imperativos del capitalismo global; la convergencia se asocia a la tecnología."
+      }
+    ],
+    "concepto": "Conceptos de territorio, territorialidad y espacio-tiempo",
+    "nivel": "contraste",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región"
+  },
+  {
+    "tipo": "vfbloque",
+    "enunciado": "Con base en las regiones, el proyecto nacional y los caminos de construcción, defina si cada afirmación es verdadera o falsa:",
+    "afirmaciones": [
+      {
+        "texto": "Las regiones de hoy son sistemas territoriales abiertos que construyen su identidad en interacción permanente con otras regiones.",
+        "verdadera": true,
+        "explicacion": "En el pasado la región era sinónimo de territorialidad absoluta."
+      },
+      {
+        "texto": "Para Santos, la circulación hoy se define por los transportes y las comunicaciones, y la regulación es secundaria.",
+        "verdadera": false,
+        "explicacion": "El subsistema de regulación gana un papel rector."
+      },
+      {
+        "texto": "La territorialidad estatal es la expresión suprema en el espacio del Estado-nación y regula las múltiples territorialidades.",
+        "verdadera": true,
+        "explicacion": "Es parte del sentido democrático del proyecto de territorio."
+      },
+      {
+        "texto": "Entre los caminos, lo privado territorial debe contribuir al proyecto nacional, sin ser obstáculo a la democracia nacional.",
+        "verdadera": true,
+        "explicacion": "Lo público territorial debe servir al ejercicio de la ciudadanía."
+      },
+      {
+        "texto": "La periodización de Rodríguez Mariño termina con el período 'hacia el capitalismo', que llega a los años 20 y 30.",
+        "verdadera": false,
+        "explicacion": "Hay un cuarto período: la 'Pax' Americana o de dependencia respecto de Estados Unidos."
+      }
+    ],
+    "concepto": "Regiones, proyecto nacional y caminos",
+    "nivel": "contraste",
+    "referencia": "Montañez y Delgado (1998), Espacio, territorio y región"
+  }
+]
