@@ -1,7 +1,7 @@
 # Parcial Movilidad y Territorio
 
 Plataforma de estudio para el control de lecturas del curso Movilidad y Territorio (Maestría en Transporte, UNAL).
-El parcial cubre las lecturas obligatorias hasta la semana 8, vale 27% de la nota y es el 21 de noviembre de 2026.
+El parcial cubre las lecturas obligatorias hasta la semana 8, vale 27% de la nota y es el 25 de noviembre de 2026 (aplazado desde el 21; el taller de repaso del 21 permite usar las lecturas y las ayudas).
 El formato es selección múltiple más preguntas abiertas, con diferencias sutiles entre opciones.
 
 [Repaso de clases y simulacro](docs/REPASO-PARCIAL-CLASES.md), con los tramos de las transcripciones y las respuestas explicadas de las capturas del control sobre Milán.

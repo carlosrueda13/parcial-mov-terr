@@ -1,5 +1,5 @@
 // Fecha del parcial (hora de Bogotá). Se usa para el conteo y para acotar los intervalos de repaso.
-export const FECHA_PARCIAL = new Date('2026-11-21T00:00:00-05:00');
+export const FECHA_PARCIAL = new Date('2026-11-25T00:00:00-05:00');
 export const META_SIMULACRO = 60;
 
 export function diasRestantes(ahora: number = Date.now()): number {
