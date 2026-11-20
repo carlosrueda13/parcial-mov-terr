@@ -19,3 +19,7 @@ node e2e/partC5.mjs   # práctica: configuración y persistencia
 Los scripts anteriores terminan con la línea `COMPROBACIONES: N correctas de N`. Las capturas salen en `/tmp/shots`.
 
 `node e2e/repaso.mjs` comprueba las 100 preguntas en Chromium, la corrección, los reintentos, la persistencia, el simulacro y los filtros móviles. Usa el resultado de `npm run build` directamente y puede ejecutarse sin el servidor de vista previa.
+
+`node e2e/comprension.mjs` comprueba las preguntas de comprensión: opción múltiple con 4 a 6 opciones, bloques V/F, corrección, explicaciones y simulacro. Resultado vigente: 82 de 82.
+
+Nota: `partA`, `partB`, `partC1` a `partC5` y `repaso` tienen cifras fijas del banco anterior (878 preguntas, 745 trampas, 319 pares, 1.197 boletos) y fallan por esas cifras tras añadir las preguntas de comprensión y los cambios de ChatGPT; no se han actualizado.
